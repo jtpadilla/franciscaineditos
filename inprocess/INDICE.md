@@ -1,12 +1,11 @@
 # Índice de inprocess/
 
-119 documentos en 14 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 119.
+118 documentos en 14 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 118.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| 001 | [ Abuela maria](< Abuela maria/index.md>) |  Abuela maria | docx | 3183 | 0 |  |  |
 | 002 | [Archivo Cinctorres familiar_](<Archivo Cinctorres familiar_/index.md>) | Archivo Cinctorres familiar_ | docx | 494 | 0 |  |  |
 | 004 | [Belleza, objetiva o subjestiva.](<Belleza, objetiva o subjestiva./index.md>) | Belleza, objetiva o subjestiva. | docx | 1839 | 0 |  |  |
 | 005 | [Blau_](<Blau_/index.md>) | Blau_ | txt | 145 | 0 |  |  |

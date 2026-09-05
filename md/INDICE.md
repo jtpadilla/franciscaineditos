@@ -1,11 +1,13 @@
 # Índice de md/
 
-22 documentos seleccionados en 2 carpetas.
+23 documentos seleccionados en 3 carpetas.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, `notas`) de cada `index.md` y `_carpeta.md`, no esta tabla.
 
 | Id | Documento | Título | Notas |
 |---|---|---|---|
+| **C19** | **[Familia Padilla Agut/](<Familia Padilla Agut/_carpeta.md>)** (1 docs) | **Família Padilla Agut** |  |
+| 001 | [Familia Padilla Agut/Abuela María](<Familia Padilla Agut/Abuela María/index.md>) | Abuela María | Relato sobre María Gracia Agut Monfort (1918), la abuela María, madre de su marido Juan Padilla Agut. Habla su abuelo Manuel Agut, alcalde, y luego ella misma al reencontrar sus raíces. |
 | **C12** | **[Memoria familiar/](<Memoria familiar/_carpeta.md>)** (9 docs) | **Memòria familiar** | El llibre de memòries (2026), la versió de 2014 amb fotos, la tapa i dos capítols de 2024. |
 | 003 | [Memoria familiar/Archivo parroquial](<Memoria familiar/Archivo parroquial/index.md>) | Archivo parroquial | Apuntes de su consulta del archivo parroquial de Cinctorres (julio 2022): bodas y bautismos de padres, abuelos y bisabuelos. |
 | 135 | [Memoria familiar/Cinctorres i Morella](<Memoria familiar/Cinctorres i Morella/index.md>) | Cinctorres i Morella | Dos capítols de la còpia de 2024 del llibre de memòries que no estan a la versió de 2026 (o hi estan retallats). La resta de la còpia era la mateixa i es va eliminar. |
