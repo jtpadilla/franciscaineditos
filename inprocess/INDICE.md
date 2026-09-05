@@ -1,34 +1,29 @@
 # Índice de inprocess/
 
-96 documentos en 13 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 96.
+78 documentos en 13 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 78.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| 002 | [Archivo Cinctorres familiar_](<Archivo Cinctorres familiar_/index.md>) | Archivo Cinctorres familiar_ | docx | 494 | 0 |  |  |
 | 004 | [Belleza, objetiva o subjestiva.](<Belleza, objetiva o subjestiva./index.md>) | Belleza, objetiva o subjestiva. | docx | 1839 | 0 |  |  |
 | 006 | [CALLES ANTIGUAS](<CALLES ANTIGUAS/index.md>) | CALLES ANTIGUAS | docx | 952 | 0 |  |  |
-| **C01** | **[CEVA/](<CEVA/_carpeta.md>)** | **CEVA** | carpeta | 5 docs | | |  |
+| **C01** | **[CEVA/](<CEVA/_carpeta.md>)** | **CEVA** | carpeta | 4 docs | | |  |
 | 012 | [CEVA/la felicidad](<CEVA/la felicidad/index.md>) | la felicidad | docx | 965 | 0 |  |  |
 | 013 | [CEVA/oca (2)](<CEVA/oca (2)/index.md>) | oca (2) | docx | 2463 | 0 |  |  |
 | 015 | [CEVA/origen masias](<CEVA/origen masias/index.md>) | origen masias | docx | 7166 | 0 |  |  |
 | 014 | [CEVA/origen masias (1)](<CEVA/origen masias (1)/index.md>) | origen masias (1) | docx | 7287 | 0 |  |  |
-| 016 | [CEVA/Peiró](<CEVA/Peiró/index.md>) | Peiró | docx | 1576 | 0 |  |  |
 | 018 | [chorizos](<chorizos/index.md>) | chorizos | docx | 785 | 0 |  |  |
-| 019 | [Cinctorres , poble de teixidors..docxReina](<Cinctorres , poble de teixidors..docxReina/index.md>) | Cinctorres , poble de teixidors..docxReina | docx | 2783 | 0 |  |  |
 | 020 | [clasecuento](<clasecuento/index.md>) | clasecuento | docx | 653 | 0 |  |  |
 | 021 | [COCA PALMIRA Y TREME.](<COCA PALMIRA Y TREME./index.md>) | COCA PALMIRA Y TREME. | docx | 709 | 0 |  |  |
-| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 45 docs | | |  |
-| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 45 docs | | |  |
+| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 37 docs | | |  |
+| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 37 docs | | |  |
 | 022 | [Copias Pendrivers/Numero 02/Agricultura mio con fotos](<Copias Pendrivers/Numero 02/Agricultura mio con fotos/index.md>) | Agricultura mio con fotos | docx | 84229 | 17 |  |  |
 | 023 | [Copias Pendrivers/Numero 02/Amelia.](<Copias Pendrivers/Numero 02/Amelia./index.md>) | Amelia. | docx | 4034 | 0 |  |  |
 | 024 | [Copias Pendrivers/Numero 02/arbol polo apuntes](<Copias Pendrivers/Numero 02/arbol polo apuntes/index.md>) | arbol polo apuntes | docx | 33663 | 16 |  |  |
 | 025 | [Copias Pendrivers/Numero 02/Bueno SALSADELLA](<Copias Pendrivers/Numero 02/Bueno SALSADELLA/index.md>) | Bueno SALSADELLA | docx | 14412 | 8 |  |  |
 | 026 | [Copias Pendrivers/Numero 02/CANCIÓN PANDEROLA](<Copias Pendrivers/Numero 02/CANCIÓN PANDEROLA/index.md>) | CANCIÓN PANDEROLA | doc | 1177 | 0 |  |  |
 | 027 | [Copias Pendrivers/Numero 02/cañadas y vias pecuarias.](<Copias Pendrivers/Numero 02/cañadas y vias pecuarias./index.md>) | cañadas y vias pecuarias. | docx | 488 | 0 |  |  |
-| 028 | [Copias Pendrivers/Numero 02/Cinctorres , poble de teixidors. Reina](<Copias Pendrivers/Numero 02/Cinctorres , poble de teixidors. Reina/index.md>) | Cinctorres , poble de teixidors. Reina | docx | 540 | 0 |  |  |
-| 029 | [Copias Pendrivers/Numero 02/Cinctorres carta pobla](<Copias Pendrivers/Numero 02/Cinctorres carta pobla/index.md>) | Cinctorres carta pobla | doc | 511 | 0 |  |  |
 | 030 | [Copias Pendrivers/Numero 02/clases de belleza](<Copias Pendrivers/Numero 02/clases de belleza/index.md>) | clases de belleza | docx | 7123 | 0 |  |  |
 | 031 | [Copias Pendrivers/Numero 02/cobrellit](<Copias Pendrivers/Numero 02/cobrellit/index.md>) | cobrellit | docx | 844 | 0 |  |  |
 | 032 | [Copias Pendrivers/Numero 02/COCA PALMIRA Y TREME.](<Copias Pendrivers/Numero 02/COCA PALMIRA Y TREME./index.md>) | COCA PALMIRA Y TREME. | docx | 709 | 0 |  |  |
@@ -36,7 +31,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 034 | [Copias Pendrivers/Numero 02/diversidad Paquita](<Copias Pendrivers/Numero 02/diversidad Paquita/index.md>) | diversidad Paquita | docx | 2850 | 0 |  |  |
 | 035 | [Copias Pendrivers/Numero 02/EL CORDERET 2011.  LISTO.](<Copias Pendrivers/Numero 02/EL CORDERET 2011.  LISTO./index.md>) | EL CORDERET 2011.  LISTO. | docx | 3251 | 3 |  |  |
 | 036 | [Copias Pendrivers/Numero 02/EL MERCAT DEL DILLUNS 2010](<Copias Pendrivers/Numero 02/EL MERCAT DEL DILLUNS 2010/index.md>) | EL MERCAT DEL DILLUNS 2010 | docx | 2704 | 1 |  |  |
-| 037 | [Copias Pendrivers/Numero 02/Els músics del Cel](<Copias Pendrivers/Numero 02/Els músics del Cel/index.md>) | Els músics del Cel | doc | 4161 | 0 |  |  |
 | 038 | [Copias Pendrivers/Numero 02/els Ports planol](<Copias Pendrivers/Numero 02/els Ports planol/index.md>) | els Ports planol | docx | 25311 | 7 |  |  |
 | **C04** | **[Copias Pendrivers/Numero 02/Embotit/](<Copias Pendrivers/Numero 02/Embotit/_carpeta.md>)** | **Embotit** | carpeta | 3 docs | | |  |
 | 040 | [Copias Pendrivers/Numero 02/Embotit/Embotits artesans recetes](<Copias Pendrivers/Numero 02/Embotit/Embotits artesans recetes/index.md>) | Embotits artesans recetes | docx | 1826 | 0 |  |  |
@@ -45,10 +39,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 042 | [Copias Pendrivers/Numero 02/Embotit/Nueva carpeta/embotis artesan xirisos](<Copias Pendrivers/Numero 02/Embotit/Nueva carpeta/embotis artesan xirisos/index.md>) | embotis artesan xirisos | docx | 1826 | 0 |  |  |
 | 043 | [Copias Pendrivers/Numero 02/Ermitas en las partidas de Castellón](<Copias Pendrivers/Numero 02/Ermitas en las partidas de Castellón/index.md>) | Ermitas en las partidas de Castellón | docx | 3782 | 0 |  |  |
 | 045 | [Copias Pendrivers/Numero 02/GRÀCIES  LISTO  2014 NOVEMBRE. Nº 60 ULTIM](<Copias Pendrivers/Numero 02/GRÀCIES  LISTO  2014 NOVEMBRE. Nº 60 ULTIM/index.md>) | GRÀCIES  LISTO  2014 NOVEMBRE. Nº 60 ULTIM | docx | 2387 | 0 |  |  |
-| 046 | [Copias Pendrivers/Numero 02/l_ar de teixir](<Copias Pendrivers/Numero 02/l_ar de teixir/index.md>) | l_ar de teixir | docx | 4416 | 5 |  |  |
 | 047 | [Copias Pendrivers/Numero 02/La belleza. Objetiva o subjetiva](<Copias Pendrivers/Numero 02/La belleza. Objetiva o subjetiva/index.md>) | La belleza. Objetiva o subjetiva | docx | 2193 | 0 |  |  |
 | 048 | [Copias Pendrivers/Numero 02/La dula](<Copias Pendrivers/Numero 02/La dula/index.md>) | La dula | docx | 1618 | 0 |  |  |
-| 050 | [Copias Pendrivers/Numero 02/Leonila,](<Copias Pendrivers/Numero 02/Leonila,/index.md>) | Leonila, | docx | 2790 | 3 |  |  |
 | 051 | [Copias Pendrivers/Numero 02/LES CLASES DE VALEN CIÀ](<Copias Pendrivers/Numero 02/LES CLASES DE VALEN CIÀ/index.md>) | LES CLASES DE VALEN CIÀ | docx | 4009 | 0 |  |  |
 | 053 | [Copias Pendrivers/Numero 02/pilota - copia](<Copias Pendrivers/Numero 02/pilota - copia/index.md>) | pilota - copia | docx | 2256 | 0 |  |  |
 | **C07** | **[Copias Pendrivers/Numero 02/POLO BERNABE - copia/](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/_carpeta.md>)** | **POLO BERNABE - copia** | carpeta | 7 docs | | |  |
@@ -63,11 +55,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 091 | [Copias Pendrivers/Numero 02/revista nit de Maitines](<Copias Pendrivers/Numero 02/revista nit de Maitines/index.md>) | revista nit de Maitines | docx | 4189 | 0 |  |  |
 | 092 | [Copias Pendrivers/Numero 02/Rocinante](<Copias Pendrivers/Numero 02/Rocinante/index.md>) | Rocinante | docx | 625 | 0 |  |  |
 | 094 | [Copias Pendrivers/Numero 02/Sexeni](<Copias Pendrivers/Numero 02/Sexeni/index.md>) | Sexeni | docx | 9223 | 1 |  |  |
-| **C09** | **[Copias Pendrivers/Numero 02/todo karlos/](<Copias Pendrivers/Numero 02/todo karlos/_carpeta.md>)** | **todo karlos** | carpeta | 4 docs | | |  |
-| 095 | [Copias Pendrivers/Numero 02/todo karlos/El pont vell (1)](<Copias Pendrivers/Numero 02/todo karlos/El pont vell (1)/index.md>) | El pont vell (1) | docx | 909 | 0 |  |  |
-| 096 | [Copias Pendrivers/Numero 02/todo karlos/fontanssa](<Copias Pendrivers/Numero 02/todo karlos/fontanssa/index.md>) | fontanssa | docx | 995 | 0 |  |  |
-| **C10** | **[Copias Pendrivers/Numero 02/todo karlos/karlitos)/](<Copias Pendrivers/Numero 02/todo karlos/karlitos)/_carpeta.md>)** | **karlitos)** | carpeta | 1 docs | | |  |
-| 097 | [Copias Pendrivers/Numero 02/todo karlos/karlitos)/apuns](<Copias Pendrivers/Numero 02/todo karlos/karlitos)/apuns/index.md>) | apuns | docx | 2528 | 0 |  |  |
+| **C09** | **[Copias Pendrivers/Numero 02/todo karlos/](<Copias Pendrivers/Numero 02/todo karlos/_carpeta.md>)** | **todo karlos** | carpeta | 1 docs | | |  |
+| **C10** | **[Copias Pendrivers/Numero 02/todo karlos/karlitos)/](<Copias Pendrivers/Numero 02/todo karlos/karlitos)/_carpeta.md>)** | **karlitos)** | carpeta | 0 docs | | |  |
 | 099 | [Copias Pendrivers/Numero 02/todo karlos/listo presentacio i liquens](<Copias Pendrivers/Numero 02/todo karlos/listo presentacio i liquens/index.md>) | listo presentacio i liquens | docx | 36213 | 43 |  |  |
 | 101 | [Copias Pendrivers/Numero 02/treball de la trufa](<Copias Pendrivers/Numero 02/treball de la trufa/index.md>) | treball de la trufa | docx | 25957 | 13 |  |  |
 | 102 | [Copias Pendrivers/Numero 02/Verbs](<Copias Pendrivers/Numero 02/Verbs/index.md>) | Verbs | doc | 396 | 0 |  |  |
@@ -77,23 +66,17 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 107 | [Documento sin títulot exto de las partidas](<Documento sin títulot exto de las partidas/index.md>) | Documento sin títulot exto de las partidas | docx | 3190 | 0 |  |  |
 | 108 | [El camí (docx)](<El camí (docx)/index.md>) | El camí | docx | 1939 | 0 |  |  |
 | 109 | [El camí (txt)](<El camí (txt)/index.md>) | El camí | txt | 1920 | 0 |  |  |
-| 110 | [El meu origen (docx)](<El meu origen (docx)/index.md>) | El meu origen | docx | 1571 | 0 |  |  |
-| 111 | [El meu origen (txt)](<El meu origen (txt)/index.md>) | El meu origen | txt | 1560 | 0 |  |  |
 | 113 | [El viaje](<El viaje/index.md>) | El viaje | docx | 1055 | 0 |  |  |
 | 115 | [Embotits artesans recetes](<Embotits artesans recetes/index.md>) | Embotits artesans recetes | docx | 1838 | 0 |  |  |
-| **C11** | **[Entradas blog/](<Entradas blog/_carpeta.md>)** | **Entradas blog** | carpeta | 2 docs | | |  |
-| 116 | [Entradas blog/Copia de l_ar de teixir](<Entradas blog/Copia de l_ar de teixir/index.md>) | Copia de l_ar de teixir | docx | 4546 | 4 |  |  |
+| **C11** | **[Entradas blog/](<Entradas blog/_carpeta.md>)** | **Entradas blog** | carpeta | 1 docs | | |  |
 | 117 | [Entradas blog/Copia de Revista Cinctorres](<Entradas blog/Copia de Revista Cinctorres/index.md>) | Copia de Revista Cinctorres | docx | 2729 | 0 |  |  |
 | 118 | [escritura Polo  inventario](<escritura Polo  inventario/index.md>) | escritura Polo  inventario | docx | 314216 | 0 |  |  |
-| 120 | [faixero ceva](<faixero ceva/index.md>) | faixero ceva | docx | 1843 | 0 |  |  |
 | 123 | [foto amb David de quinto](<foto amb David de quinto/index.md>) | foto amb David de quinto | docx | 796 | 1 |  |  |
 | 125 | [ja vorem.](<ja vorem./index.md>) | ja vorem. | docx | 2180 | 0 |  |  |
-| 127 | [La festa del foc](<La festa del foc/index.md>) | La festa del foc | docx | 3187 | 0 |  |  |
 | 128 | [Les noves tecnologies](<Les noves tecnologies/index.md>) | Les noves tecnologies | docx | 3947 | 0 |  |  |
 | 131 | [Listo](<Listo/index.md>) | Listo | docx | 2130 | 1 |  |  |
 | 130 | [Listo. Presentació](<Listo. Presentació/index.md>) | Listo. Presentació | docx | 2320 | 0 |  |  |
 | 132 | [Lourdes](<Lourdes/index.md>) | Lourdes | docx | 246 | 0 |  |  |
-| 133 | [Mare de Deu de Gracia.](<Mare de Deu de Gracia./index.md>) | Mare de Deu de Gracia. | docx | 3980 | 0 |  |  |
 | 142 | [Mi destino_](<Mi destino_/index.md>) | Mi destino_ | txt | 857 | 0 |  |  |
 | 144 | [origen masias](<origen masias/index.md>) | origen masias | docx | 7287 | 0 |  |  |
 | **C15** | **[palmira/](<palmira/_carpeta.md>)** | **palmira** | carpeta | 1 docs | | |  |
@@ -108,9 +91,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 155 | [sin titulo vacia/Las masias, origen y desarrollo](<sin titulo vacia/Las masias, origen y desarrollo/index.md>) | Las masias, origen y desarrollo | docx | 149 | 2 |  |  |
 | 156 | [Tapa - copia](<Tapa - copia/index.md>) | Tapa - copia | docx | 265 | 2 |  |  |
 | 157 | [tele.](<tele./index.md>) | tele. | docx | 231 | 0 |  |  |
-| **C18** | **[Trabajos/](<Trabajos/_carpeta.md>)** | **Trabajos** | carpeta | 6 docs | | |  |
+| **C18** | **[Trabajos/](<Trabajos/_carpeta.md>)** | **Trabajos** | carpeta | 5 docs | | |  |
 | 158 | [Trabajos/cuento de novios](<Trabajos/cuento de novios/index.md>) | cuento de novios | docx | 14145 | 0 |  |  |
-| 160 | [Trabajos/faixes](<Trabajos/faixes/index.md>) | faixes | docx | 4591 | 0 |  |  |
 | 161 | [Trabajos/Listo](<Trabajos/Listo/index.md>) | Listo | docx | 2141 | 1 |  |  |
 | 162 | [Trabajos/memoria en castellano](<Trabajos/memoria en castellano/index.md>) | memoria en castellano | docx | 8115 | 0 |  |  |
 | 163 | [Trabajos/Revista Cinctorres](<Trabajos/Revista Cinctorres/index.md>) | Revista Cinctorres | docx | 2729 | 0 |  |  |

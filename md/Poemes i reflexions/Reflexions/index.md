@@ -1,7 +1,7 @@
 ---
 id: "098"
 titulo: "Reflexions"
-notas: "Vuit reflexions breus per a les fotos de Karlos, novembre 2018, amb la referència de cada foto i una nota final per a ell. Hi havia dues versions més curtes i sense numerar ('Poemes fotos de karlos', dues còpies), eliminades."
+notas: "Vuit reflexions breus per a les fotos de Karlos, novembre 2018, amb la referència de cada foto i una nota final per a ell. Les sis fotos referenciades (sèrie R de Karlos) es van recuperar de l'arxiu fotogràfic i van retallades a la imatge, sense l'espai en blanc de la maqueta. Hi havia dues versions més curtes i sense numerar ('Poemes fotos de karlos', dues còpies), eliminades."
 ---
 
 # Reflexions
@@ -29,15 +29,23 @@ Camí de transhumància.
 Barri dels hebreus.  
 Carrer de la meua infància. Foto R -47
 
+![](img/R-47.jpg)
+
 ## 3ª
 
 Ay!!!carrer de Gemec o costereta de la Font de la Vila. On les dones pujaven amb els cànters plens d’aigua recolzats en la capçana al costat del seu cos.
 
 Si el empedrat del esglaons parlaren... Foto R 120
 
+![](img/R-120.jpg)
+
 ## 4ª
 
 El roig de les roselles, pareixen, entre les espigues del cereals i les herbes dels ribassos, gotes de sang i vida. Foto R 119 -121
+
+![](img/R-119.jpg)
+
+![](img/R-121.jpg)
 
 ## 5ª
 
@@ -53,6 +61,8 @@ Pedra...sempre pedra. Quantes pedres hi haurà pel poble? Des de les senzilles c
 
 Foto R- 19
 
+![](img/R-19.jpg)
+
 ## 7ª
 
 Pot ser el meu desig. Però jo veig que el color del cel del meu poble es blau, del mateix color blau que el mantó de la Verge de Murillo. Fot.............................................................................................................................................................................................................................................................o R-102
@@ -62,6 +72,8 @@ Pot ser el meu desig. Però jo veig que el color del cel del meu poble es blau, 
 La Natura és tan sàbia, que no es pot mesurar la bellesa d’una papallona Melanargia Galatea amb l’harmonia d’una senzilla rama de espígol, que li oferís el seu perfum i aliment.
 
 Foto R -137
+
+![](img/R-137.jpg)
 
 *Paquita Julian Querol novembre 2018*
 
