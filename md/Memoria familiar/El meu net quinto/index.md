@@ -1,17 +1,10 @@
 ---
 id: "123"
-titulo: "foto amb David de quinto"
-origen: "foto amb David de quinto.docx"
-formato: "docx"
-caracteres: 796
-imagenes: 1
-interesa: ""
-notas: ""
+titulo: "El meu net quinto"
+notas: "El seu net major de quinto a la festa de la Patrona, amb foto. Era una prova d'escriptura a l'ordinador ('Prueba 2 / Sigo aprendiendo'); s'ha tret l'encapçalament."
 ---
 
-## Prueba 2
-
-Sigo aprendiendo
+# El meu net quinto
 
 Es domingo.Día en que se celebra la fiesta religiosa en honor de la Patrona del pueblo. Mi nieto mayor es uno de los quintos de este año, y, como manda la tradición, ellas y ellos asisten a la ceremonia religiosa .
 

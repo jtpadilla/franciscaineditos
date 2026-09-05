@@ -1,21 +1,20 @@
 ---
 id: "101"
-titulo: "treball de la trufa"
-origen: "Copias Pendrivers/Numero 02/treball de la trufa.docx"
-formato: "docx"
-caracteres: 25957
-imagenes: 13
-interesa: ""
-notas: ""
+titulo: "La trufa negra"
+notas: "Trabajo de curso sobre la trufa negra dels Ports y el Maestrat (historia, biología, selvicultura, jornadas gastronómicas, recetas, bibliografía), con 13 fotos. TRABAJO EN GRUPO: la versión con portada del mismo trabajo lo firman Ángela Nebot y Enrique Porcar; lo suyo son las fotografías, como indica el propio documento al final. Había una segunda copia casi igual ('els Ports planol'), ya eliminada."
 ---
 
-1\. SITUACIÓN GEOGRAFICA
+# La trufa negra
+
+## 1. SITUACIÓN GEOGRAFICA
 
 Comarca dels Ports -Maestrat
 
-![](img/image1.jpeg)![](img/image2.jpeg)
+![](img/image1.jpeg)
 
-2\. INTRODUCCIÓN
+![](img/image2.jpeg)
+
+## 2. INTRODUCCIÓN
 
 En la provincia de Castellón, las comarcas dels Ports y Maestrat son una de las principales productoras de España de trufa negra, (Tuber melanosporum)
 
@@ -23,7 +22,7 @@ Las condiciones medioambientales del interior de esta provincia son las ideales 
 
 Hasta la década de los años 60 no se conocía la trufa en esta comarca. La atención la despertaron varios cazadores catalanes que todos los años venia por la comarca dels Ports principalmente en Morella con sus perros, estaban todo el día en el monte (nunca traían caza) y sí un fuerte olor que se notaba incluso fuera de las habitaciones de la fonda, actuaban con mucho secretismo, por lo que encendió la luz de alarma. Un vecino les siguió cuando se fueron hasta una conservera del norte de Cataluña y así fue como se dieron cuenta de la existencia de la trufa, de su valor económico y lo mismo que los franceses fueron a Cataluña a llevarse los preciados hongos subterráneos, ellos hicieron lo mismo bajando por el norte e interior de la provincia de Castellón.
 
-3\. HISTORIA
+## 3. HISTORIA
 
 El origen de la palabra trufa deriva del latín tuber y pasa su raíz a las lenguas modernas europeas, trufa en España, trufe en Francia, tartufo en Italia, tüffel en Alemania, púbera en portugués y tófona en valenciano.
 
@@ -79,7 +78,7 @@ Entre las propiedades de la trufa está la abundancia de vitaminas y minerales. 
 
 Tiene minerales como fosforo, selenio y potasio, también posee azufre, calcio, magnesio, hierro y manganeso en menor proporción.
 
-4\. ORGANISMOS VEGETALES INFERIORES
+## 4. ORGANISMOS VEGETALES INFERIORES
 
 Las plantas carentes de flores o cuyos órganos sexuales no se descubren a simple vista, eran llamadas tradicionalmente criptógamas y en tiempo del naturalista Corolus Linneus S. XVIII ese término incluía a las algas, los hongos, los musgos y los helechos.
 
@@ -93,7 +92,7 @@ Uno de los muchos órdenes de la clase ASCOMICETES es el orden TUBERALES que est
 
 Dos trufas se disputan la supremacía: la trufa blanca de Alba (Tuber magnatum) y la trufa negra de invierno (Tuber melanosporum). Las demás trufas tienen menos aroma, como: Tuber bruumale, Tuber aestivum, tuber uncinatum, Tuber mesentericum, Tuber macroporum, Tuber borchii, y Tuber indicum.
 
-5\. BIOLOGIA DE LA TRUFA NEGRA
+## 5. BIOLOGIA DE LA TRUFA NEGRA
 
 (Tuber melanosporum)
 
@@ -119,9 +118,11 @@ Aunque todas las especies son más o menos comestibles no son igualmente aprecia
 
 La superficie de la trufera suele estar desprovista de vegetación.
 
-![](img/image4.jpeg)En el entorno inmediato del árbol productor de trufas, la mayoría de las veces observamos quemados o calveros no muy extensos.
+![](img/image4.jpeg)
 
-**Quemados**
+En el entorno inmediato del árbol productor de trufas, la mayoría de las veces observamos quemados o calveros no muy extensos.
+
+### Quemados
 
 Los quemados se producen por un fenómeno antibiótico de la trufa. Este efecto lo produce la constante absorción de la humedad del terreno por el micelio de la trufa, que lo convierte en inhabitable para la mayoría de los vegetales.
 
@@ -135,7 +136,7 @@ Durante el otoño, mientras la trufa negra madura lentamente, su micorriza muere
 
 Su recolección está regulada por normativas estatales y autonómicas. Su calendario de recolección, según la normativa estatal, es del 1 de diciembre al 15 de marzo.
 
-6\. SELVICULTURA TRUFERA
+## 6. SELVICULTURA TRUFERA
 
 El cultivo de la trufa se denomina Selvicultura trufera, cada vez hay más campos con truferas de cultivo.
 
@@ -145,13 +146,19 @@ La trufa es capaz de formar micorrizas, de forma natural o con la ayuda del homb
 
 La trufa negra crecerá mejor en terrenos calcáreos formados en la Era Secundaria, en particular del Periodo Jurasico y Cretácico, que tengan buena permeabilidad. De este modo el terreno ideal para plantación de trufa debe ser:
 
-![](img/image5.jpeg)Terreno proveniente de rocas calcáreas, poroso, permeable, de alto contenido de arcilla pero con presencia de silíceo peróxido de hierro carbonatos y materia orgánica.
+![](img/image5.jpeg)
+
+Terreno proveniente de rocas calcáreas, poroso, permeable, de alto contenido de arcilla pero con presencia de silíceo peróxido de hierro carbonatos y materia orgánica.
 
 El terreno debe tener 50% de arcilla como máximo para el buen drenaje del agua. Soleado i aireado, pero no debe tener exceso de viento pues así retiene más la humedad necesaria para la trufa. Las especies micorrizadas más frecuentes para mantener una producción trufera en la zona de els Ports y alt Maestrat son: la encina (Quercus ilex), el quejigo (Quercus faginea), el roble pubescente (Quercus humilis), el roble cerrioide (Quercus cerrioides), la coscoja (Quercus coccifera) y el avellano (Corylus avellana)
 
-![](img/image6.jpeg)Las plantaciones se realizan en las zonas propicias para su desarrollo, en donde hay trufas silvestres en sus montes y donde se presentan condiciones de suelos y clima favorables.
+![](img/image6.jpeg)
 
-![](img/image7.jpeg)La trufa se adapta a cierta carencia de agua en verano, pero se aprecia que hay más truferas donde hay más abundancia de tormentas en verano, lo mismo ocurre con todos los hongos.
+Las plantaciones se realizan en las zonas propicias para su desarrollo, en donde hay trufas silvestres en sus montes y donde se presentan condiciones de suelos y clima favorables.
+
+![](img/image7.jpeg)
+
+La trufa se adapta a cierta carencia de agua en verano, pero se aprecia que hay más truferas donde hay más abundancia de tormentas en verano, lo mismo ocurre con todos los hongos.
 
 La altitud óptima de los cultivos es de 350m y 1.200m y prefieren las solanas.
 
@@ -159,15 +166,17 @@ El perfil del suelo adecuado es como ya hemos dicho, suelos calizos y mejor si s
 
 La truficultura necesita tres pilares:
 
-1.  Suelo y clima adecuado.
+1. Suelo y clima adecuado.
 
-2.  Planta adaptada al medio y que este bien micorrizada por la trufa.
+2. Planta adaptada al medio y que este bien micorrizada por la trufa.
 
-3.  Apoyos adecuados al cultivo.
+3. Apoyos adecuados al cultivo.
 
 Para poder realizar la plantación, lo primero es preparar el terreno como en todo tipo de cultivos, comprar la planta y también es importante la fecha adecuada, del mes de noviembre hasta finales de marzo o abril si hay peligro de heladas. Calcular la densidad de la plantación. Si la tierra escogida no va a regarse y la zona es seca, se necesita más espacio para cada planta y el marco tiene que ser mayor que si se trata de una zona húmeda.
 
-![](img/image8.jpeg)La truficultura tiene efectos beneficiosos ambientales. Con la reforestación de las especies autóctonas disminuye el peligro de incendios forestales. Por ser suelos pobres en otras micorrizas y
+![](img/image8.jpeg)
+
+La truficultura tiene efectos beneficiosos ambientales. Con la reforestación de las especies autóctonas disminuye el peligro de incendios forestales. Por ser suelos pobres en otras micorrizas y
 
 **Plantación trufera 1º fase** de buena calidad para la trufa. El clima, aunque algo seco, es bueno por su mediterraneidad. Las plantas producidas por los viveristas en general son de buena calidad y genera economía y trabajo.
 
@@ -179,7 +188,7 @@ La carrasca o encina es el árbol que mejor se adapta a las plantaciones trufera
 
 ![](img/image9.jpeg)
 
-**Plantación trufera en fase de desarrollo**
+*Plantación trufera en fase de desarrollo*
 
 En el año 1968 se hizo la primera plantación de España en la provincia de Castellón, hoy en plena producción. Se labra cada
 
@@ -187,29 +196,33 @@ En el año 1968 se hizo la primera plantación de España en la provincia de Cas
 
 Hay diversa opiniones sobre el aroma de las trufas cultivadas o silvestres. Las trufas silvestres crecen en condiciones adversas adaptándose a climas con escasa lluvia y se desarrollan a mas profundidad para protegerse de la sequia. Cuando más profundas se encuentran tiene que tener más aroma para ser detectadas. Las cultivadas tienen más cuidados, se labran y se riegan, crecen a menos profundidad y la tierra está más suelta perdiendo algo de su aroma. El resultado es una trufa redonda y bonita que se hace más atractiva para el comercio.
 
-7\. LEGISLACIÓN
+## 7. LEGISLACIÓN
 
 De acuerdo con el Código Civil español, la trufa es propiedad del dueño del suelo. Así el Art. 350 del Código Civil dice: El propietario de un terreno es dueño de su superficie y de lo que está debajo de ella y puede hacer en las obras plantaciones y excavaciones.
 
 Por lo tanto la trufa no es un bien público sino privado y su exportación y aprovechamiento corresponde al dueño del suelo donde se encuentra.
 
-8\. JORNADAS GASTRÓNOMICAS DE LA TRUFA
+## 8. JORNADAS GASTRÓNOMICAS DE LA TRUFA
 
 En la gastronomía dels Ports, un descubrimiento importante durante los últimos años ha sido la incorporación de la trufa negra o tófona como condimento. Es importante poner en valor este producto en las jornadas gastronómicas y mostrarlo.
 
-![](img/image10.jpeg)![](img/image11.jpeg)
+![](img/image10.jpeg)
 
-![](img/image12.jpeg)![](img/image13.jpeg)
+![](img/image11.jpeg)
 
-**Carteles anunciadores de las jornadas gastronómicas**
+![](img/image12.jpeg)
 
-9\. LA TRUFA NEGRA COMO CONDIMENTO.
+![](img/image13.jpeg)
+
+*Carteles anunciadores de las jornadas gastronómicas*
+
+## 9. LA TRUFA NEGRA COMO CONDIMENTO
 
 La trufa es tradición, modernidad y originalidad en la cocina. Poca cantidad de trufa es suficiente para dar sabor y no se deben mezclar ( o con moderación ) con otros productos que alteren su aroma o sabor natural, como sofritos de ajo, tomate frito o especias de aroma y sabor potentes que enmascaran sus propiedades y perfume, se utilizan tanto crudas como cocidas como aceite de trufa, brandi de trufa o bien virutas de trufa, en rodajas o dados, dependiendo si se prepara como rellenos, en salsa, condimento aditivo, o si se utiliza en repostería.
 
 La incorporación de láminas y jugos sometidos a cocción debe hacerse durante los 3 últimos minutos y así no se pierde ni volatiza la mayor parte de su esencia y aroma.
 
-PATATAS RELLENAS CON JAMON Y TURFAS
+### PATATAS RELLENAS CON JAMON Y TURFAS
 
 4 patatas grandes, 4 huevos, 1 trufa negra, 250 gr. hongos, 250 gr. jamón aceite, sal, cebollino.
 
@@ -221,7 +234,7 @@ Ahora rellenamos la patata con la mezcla.
 
 Encima ponemos queso y metemos en el horno a unos 180ºC hasta que las patatas estén doradas.
 
-CREMA DE PATATAS CON HUEVO Y TRUFAS
+### CREMA DE PATATAS CON HUEVO Y TRUFAS
 
 4 patatas, 1 cebolla, 250 ml. leche, 2 huevos, 2 trufas, aceite, agua y sal.
 
@@ -229,23 +242,23 @@ Pelamos las patatas, las troceamos y las ponemos a hervir en abundante agua con 
 
 Pochamos la cebolla picada con un poco de aceite. Añadimos las trufas picadas, las patatas y la leche. Mezclamos también los huevos batidos y removemos bien. Por último pasamos por la batidora para que quede una crema fina.
 
-CARRILLADAS CON TRUFAS
+### CARRILLADAS CON TRUFAS
 
 1 kg. de carrillada, 1 cebolla, vino blanco, trufas, 2 dientes de ajo, aceite de oliva, sal.
 
 Pelamos y picamos la cebolla y la colocamos en una olla con un poco de aceite de oliva. Sofreímos. Cuando pochen bien, vertemos un buen chorreón de vino blanco y mantenemos a fuego lento para que se consuma el alcohol. Incorporamos entonces las carrilleras y las trufas muy picadas. Mantenemos a fuego lento hasta que estén blandas, se añade el ajo machacado a la olla con las carrilleras. Dejamos unos minutos y rectificamos de sal.
 
-TERNERA CON SALSA DE TRUFAS
+### TERNERA CON SALSA DE TRUFAS
 
 ½ kg. de filetes de ternera, 1 trufa negra, 2 cebollas, 1 zanahoria, , ½ diente de ajo, tomillo, 200 ml. de vino blanco, aceite de oliva, sal y pimienta.
 
 Preparamos las verduras lavando, pelando y cortando las zanahorias, la cebolla y el ajo.
 
-Cortamos también la trufa en finas láminas. En otra olla aparte, sofreímos las cebollas y el ajo. Añadimos un poco de tomillo. Agregamos también la zanahoria. Cuando comiencen a pochar las verduras, el vino y salpimentamos al gusto. Dejamos que hierva y removemos unos minutos. Vertemos entonces la salsa sobre la carne. Cubrimos todo de agua y dejamos cocer a fuego lento un cuarto de hora o hasta que la carne esté hecha.  
-  
+Cortamos también la trufa en finas láminas. En otra olla aparte, sofreímos las cebollas y el ajo. Añadimos un poco de tomillo. Agregamos también la zanahoria. Cuando comiencen a pochar las verduras, el vino y salpimentamos al gusto. Dejamos que hierva y removemos unos minutos. Vertemos entonces la salsa sobre la carne. Cubrimos todo de agua y dejamos cocer a fuego lento un cuarto de hora o hasta que la carne esté hecha.
+
 Retiramos la salsa y pasamos por la batidora. Sofreímos la trufa con un poco de aceite de oliva y las mezclamos con la salsa. Servimos la carne bañada con la salsa.
 
-QUIXA O ESPATLETA DE CORDER AMB TÓFONA
+### QUIXA O ESPATLETA DE CORDER AMB TÓFONA
 
 La tófona dels Ports o del Toro (Alt Palancia) dóna un aire luxós i, alhora, boscà a una clàsica cuina de corder o cabrit.
 
@@ -253,7 +266,7 @@ Ingredientes (per a quatre persones): quatre cuixe, vuit grans d’all, julivert
 
 Encenem el forn a alta temperatura. En una cassola, untada de sagí, disposem les cuixes, amb uns talls, i les reguem amb un bon raig d’oli. Estabilitzem la temperatura del forn a 180º. Introduïm la cassola i comença una cocció lenta. Girem la carn perquè es faça de l’altre costat i vigilem que no es quede seca, regant-la amb el seu suc, que arreplegarem amb una cullera, o abocant-li un poc d’aigua o vi. Mentrestant, haurem preparat una picada amb els alls, el julivert i la tófona. Remenarem bé i l’abocarem sobre les cuixes perquè es coga tot junt mitja hora més abans de traure la carn del forn.
 
-*GALLINA O POLLASTRE TRUFAT*
+GALLINA O POLLASTRE TRUFAT
 
 Ingrediets (per a quatre persones) 1/2 Kg. de carn de corder, picada, 1/2 Kg. de carn de porc picada, 50 grs. de pernil, dos ous durs, i dos ous, alls, julivert, nou moscada, 1 fulla de llorer, 1 ceba mitjana.
 
@@ -271,7 +284,7 @@ Es pot menjar freda o calenta.
 
 Aquesta recepta, tambe es pot fer am conill o llebre de caça canviant la car de corder i porc per pit de pollastre, ficant els mateixos ingredients i coent amb aigua i brandi de trufa.
 
-10\. CONCLUSIÓN
+## 10. CONCLUSIÓN
 
 Actualmente sólo queda un mercado de la trufa semanal en Benasal los jueves, hasta hace un tiempo los había en Vistabella, Catí, Villafranca y Morella por esta zona. El agotamiento de la producción trufera silvestre es debido, según los expertos, la sobreexplotación (el aprovechamiento intensivo impide la dispersión de esporas) y también las malas prácticas de la recolección. Se incrementa la despoblación del medio rural, menos pastoreo, y al haber menos cultivos crece espontáneamente la vegetación forestal que dificulta la aireación e insolación del suelo, hay menos tormentas estivales por el cambio climático, época en que la trufa se está formando y el aumento de las poblaciones de tejos y jabalíes que se comen el hongo y con sus pezuñas destrozan las truferas, por ese motivo, tardan unos tres años en recuperarse
 
@@ -297,7 +310,7 @@ Gleba: Carne o tejido interior de la trufa
 
 Venas: Líneas blancas o de color claro que atraviesan la gleba de la trufa.
 
-12\. BIBLIOGRAFIA
+## 12. BIBLIOGRAFIA
 
 Agustí i Vicent, Joan: Cocina tradicional de Castelló. Editorial, Diputacio de Castelló 2003.
 
@@ -315,4 +328,4 @@ Santiago Reyna, S. García Barreda. Truficultura practica
 
 Editorial paraninfo. 2012.
 
-Fotografías : Francisca Julián Querol.
+*Fotografías : Francisca Julián Querol.*
