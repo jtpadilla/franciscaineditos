@@ -1,6 +1,6 @@
 # Índice de md/
 
-23 documentos seleccionados en 3 carpetas.
+39 documentos seleccionados en 4 carpetas.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, `notas`) de cada `index.md` y `_carpeta.md`, no esta tabla.
 
@@ -18,6 +18,23 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, 
 | 137 | [Memoria familiar/Llibre de memòries](<Memoria familiar/Llibre de memòries/index.md>) | Llibre de memòries | Versió de 2026 del llibre de memòries (epíleg firmat Paquita, 20 maig 2026). Hi havia una còpia de 2024 amb un capítol sobre Cinctorres més llarg i un sobre Morella: estan a 'Cinctorres i Morella'. Inclou, resumits, els tres cursos de la Universitat Senior, que també estan com a documents propis. |
 | 134 | [Memoria familiar/Qui ho farà](<Memoria familiar/Qui ho farà/index.md>) | Qui ho farà? | Memòries de 2014 (firmades 24 juny 2014), amb 34 fotos. És la versió anterior del 'Llibre de memòries', que les reescriu. Hi havia una còpia sense fotos, eliminada. |
 | 138 | [Memoria familiar/Tapa](<Memoria familiar/Tapa/index.md>) | Tapa del llibre | Portada del llibre de memòries: nom i dues imatges. |
+| **C20** | **[Poemes i reflexions/](<Poemes i reflexions/_carpeta.md>)** (16 docs) | **Poemes i reflexions** |  |
+| 166 | [Poemes i reflexions/Complir anys](<Poemes i reflexions/Complir anys/index.md>) | Complir anys | Felicitació d'aniversari, 2010. Anava en el mateix fitxer que 'I t'estimo tant', en castellà i en valencià; es conserva la versió en valencià. |
+| 005 | [Poemes i reflexions/El color](<Poemes i reflexions/El color/index.md>) | El color | Hi havia una altra còpia ('Blau', un txt); es va prendre la versió del recull 'poemes ceva' de CEVA. |
+| 010 | [Poemes i reflexions/El pinjell quet](<Poemes i reflexions/El pinjell quet/index.md>) | El pinjell quet | Reflexió sobre la pintura. Hi havia una còpia quasi idèntica a l'arrel, eliminada. |
+| 114 | [Poemes i reflexions/Els cinc sentits](<Poemes i reflexions/Els cinc sentits/index.md>) | Els cinc sentits | Hi havia dues còpies idèntiques (l'altra al pendrive), eliminada una. |
+| 119 | [Poemes i reflexions/Està ahi](<Poemes i reflexions/Està ahi/index.md>) | Està ahi |  |
+| 122 | [Poemes i reflexions/Flors](<Poemes i reflexions/Flors/index.md>) | Flors | Hi havia una altra versió en prosa ('Flors. _'), amb una nota de cuina al final; es va prendre la versió en vers. |
+| 058 | [Poemes i reflexions/I t'estimo tant](<Poemes i reflexions/I t'estimo tant/index.md>) | I t'estimo tant | Anava en el mateix fitxer que 'Complir anys' (2010). |
+| 057 | [Poemes i reflexions/Las estaciones](<Poemes i reflexions/Las estaciones/index.md>) | Las estaciones | Reflexió en prosa, 2010. |
+| 055 | [Poemes i reflexions/Mediterráneo](<Poemes i reflexions/Mediterráneo/index.md>) | Mediterráneo |  |
+| 165 | [Poemes i reflexions/No somos distintos](<Poemes i reflexions/No somos distintos/index.md>) | No somos distintos | Anava en el mateix fitxer que 'Pregunta'; la data 'Noviembre 2008' tancava els dos. |
+| 143 | [Poemes i reflexions/On està aquella gent](<Poemes i reflexions/On està aquella gent/index.md>) | On està aquella gent? |  |
+| 007 | [Poemes i reflexions/Paraules](<Poemes i reflexions/Paraules/index.md>) | Paraules | Poema a sa mare. Tres versions: 'A ma mare' (CEVA), 'Paraules' (txt) i la del recull 'poemes ceva'; es va prendre aquesta última, la més neta. |
+| 150 | [Poemes i reflexions/Pedra](<Poemes i reflexions/Pedra/index.md>) | Pedra | Poema. Hi havia una còpia anterior en txt a 'palmira', eliminada. El text en prosa sobre la pedra en sec ('apuns') no és aquest poema i continua a inprocess. |
+| 056 | [Poemes i reflexions/Pregunta](<Poemes i reflexions/Pregunta/index.md>) | Pregunta | Anava en el mateix fitxer que 'No somos distintos' (novembre 2008). |
+| 098 | [Poemes i reflexions/Reflexions](<Poemes i reflexions/Reflexions/index.md>) | Reflexions | Vuit reflexions breus per a les fotos de Karlos, novembre 2018, amb la referència de cada foto i una nota final per a ell. Hi havia dues versions més curtes i sense numerar ('Poemes fotos de karlos', dues còpies), eliminades. |
+| 104 | [Poemes i reflexions/Soc l'esperit dels camps](<Poemes i reflexions/Soc l'esperit dels camps/index.md>) | Soc l'esperit dels camps | Text breu sense títol ('Documento sin título(2)'), firmat P. Julian. |
 | **C08** | **[Religion/](<Religion/_carpeta.md>)** (13 docs) | **Religión** | Trabajos, apuntes y mensajes del curso de religión medieval de la Universitat per a Majors (UJI, 2016-2017). Los textos de otros alumnos que venían mezclados se eliminaron. |
 | 069 | [Religion/Beato de Facundo](<Religion/Beato de Facundo/index.md>) | Beato de Facundo | Comentario en valencià del documental sobre el Beato de Liébana. Había otro comentario en castellano ('Beato_Facundo'); se eliminó. |
 | 073 | [Religion/Causa de las cruzadas](<Religion/Causa de las cruzadas/index.md>) | Causa de las cruzadas | Respuestas a un cuestionario del curso; incluye su opinión sobre la guerra santa. |

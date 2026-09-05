@@ -84,6 +84,11 @@ por otras personas se anotan en `notas` y se dejan a la decisión del usuario.
 
 ## Fuentes (solo lectura, no borrar)
 
+**No buscar candidatos en `../franciscabacket/` ni en `../franciscapublicaciones/`** (decisión del usuario,
+2026-09-05). Los documentos entran en este proyecto únicamente por `raw/`, cuando él los deposita.
+Las carpetas hermanas sirven solo para recuperar algo concreto que se haya estropeado aquí (por ejemplo
+imágenes), nunca como fuente de nuevos candidatos.
+
 - `../franciscapublicaciones/corpus/<obra>/<slug>/index.md` con frontmatter YAML, `img/` y `variants/`.
 - `../franciscapublicaciones/obras/obras.tsv`: 538 documentos clasificados en 25 grupos con evidencia.
 - `../franciscabacket/`: todo lo demás del fondo, con README propio. Contiene los 36 PDF escaneados
