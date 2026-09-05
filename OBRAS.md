@@ -103,3 +103,40 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   resolución para cinco entradas de Listo (El corderet, No és el que era, El carreró de la Placeta, Nit de
   Maitines, Sant Antoni del porquet, El gran pi) y la versión más completa de la genealogía Julián Segura
   («antepasados 2», 2013), más un documento nuevo «Antepasados» en Memoria familiar. El resto, borrado.
+
+## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
+
+El usuario ha decidido crear la obra **Les meues coses** (C29) con las entradas del blog 2010-2014 aunque
+estén publicadas en el blog, por coherencia con Listo. Estado al interrumpir: hecho el agrupamiento de las
+copias, sin mover ni borrar nada todavía. Para retomar: repetir el agrupamiento (script de similitud ≥0.75
+sobre las carpetas `blog meu`, `Dropbox copia/compartida/blog LES MEUES COSES`, `.../Revista UJI`,
+`poner foto`, `BLOG CELUMBRES` (dos copias), `2 tapas`, `escrits . Les meues coses` (dos)) y aplicar esto:
+
+- 142 documentos en 73 grupos. Casi todas las entradas están por duplicado en `blog meu` (ids 562-630) y
+  en `Dropbox copia/compartida/blog LES MEUES COSES` (ids 261-332), con el mismo texto y las mismas fotos:
+  elegir una (la de más fotos y más texto) y borrar la otra.
+- **Van a Les meues coses** (unas 50): A .A. A (el cierre del blog, 2015), Anem a la Madalena, Aprender
+  nuevas tecnologías (dos versiones distintas: 564 y 263, comparar), Bolangera de dimonis, Bones festes
+  Nadal (= Piscina gener, mismo texto), Castelló 1200-1900, Cine Oeste, Cloenda del curs, Complements,
+  Convento y cuartel, De la festa la vespra, Dia de camp, Dinar 2011, El gran silencio, El gran viatge,
+  El secreto de Meissen, Els reis d'Orient (588 y 258 «els Reis» de Revista UJI), Esglesia de Cinctorres,
+  Ha complit cinquanta anys, Han vingut els reis, L'assut, L'estrella, La Balma 2011 (y «La Balma» 255 de
+  Revista UJI, más larga: comparar), La biblioteca del mar, La casa Sant Joans, La felicidad de vivir en
+  la naturaleza, La historia, La perla de la montaña Llucena, La quinta del 66, La tornada, Las cerezas,
+  Las palabras (tres copias) y Palabras (versión distinta), Mare matria = Terra matria (cuatro copias),
+  Misericordia, Nadal i any nou 2012, Nit diferent 2011, Pedres de riu, Primavera, Quan vàrem xalar,
+  Revista mercat dilluns, Sant Antoni als Ports, Santa Llúcia, Temps de rogatives, Tombatosals,
+  «blog meues coses» (656, nota de 446 car.).
+- **Son copias de entradas de Listo ya en md/ → borrar**: Déu dirà, El carreró de la Placeta, El corderet
+  (dos grupos), El gran pi, Estem de vacances, La medicació, No és el que era, Presentació Listo (dos),
+  Sant Antoni del porquet (tres), Tertulia entre amics.
+- **Son copias de otras obras → borrar**: Faixero faixes (tres), Les classes de valencià (dos), La festa
+  del foc (dos), Els cinc sentits, Els meus tresors, La belleza..., pilota (dos).
+- **No son del blog → a otra obra**: `BLOG CELUMBRES/` (guardar primavera, introduccion 1 con 7 fotos,
+  otoño) y `2 tapas/TAPA DE 15` y `TAPA DE 6` (tapas del libro de biodiversidad, 17 y 8 fotos) → Natura;
+  `2 tapas/mercat de Sant Antoni` (8.400 car., 4 fotos) → Cinctorres (comparar con «Llibret mercat San
+  Antoni» de la raíz).
+- Formato: quitar las líneas de enlace al blog (`[TÍTULO](http://paquitajulian.blogspot.com/...)`,
+  `[<u ...`), las tablas `| |` vacías de Blogger, y las URL largas de blogger en los `![...]`; fecha o
+  firma final en cursiva; fotos en su sitio. Criterio de la obra: "Les entrades del blog Les meues coses
+  (2010-2014) que no narra Listo: vida quotidiana, festes, llibres, excursions, el poble i Castelló."
