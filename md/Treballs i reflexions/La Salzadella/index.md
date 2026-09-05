@@ -1,23 +1,20 @@
 ---
 id: "025"
-titulo: "Bueno SALSADELLA"
-origen: "Copias Pendrivers/Numero 02/Bueno SALSADELLA.docx"
-formato: "docx"
-caracteres: 14412
-imagenes: 8
-interesa: ""
-notas: ""
+titulo: "La Salzadella"
+notas: "Trabajo de la asignatura de Antropología de la Universitat per a Majors sobre la Salzadella: características, etimología, orígenes e historia, con 8 imágenes. AUTORÍA A CONFIRMAR: el autor dice haber vivido esos escenarios y no va firmado; el fichero se llamaba 'Bueno SALSADELLA'."
 ---
+
+# La Salzadella
 
 ![](img/image1.jpeg)
 
-**0. INTRODUCCIÓN.**
+## 0. INTRODUCCIÓN
 
 Este trabajo se enmarca en la asignatura de Antropología, de la Universidad para mayores de la UJI. El objetivo es analizar desde un punto de vista antropológico y cultural un municipio de la provincia de Castellón, realizar una cuidadosa tarea de búsqueda de información y documentación, reflejar los principales hitos culturales y características de la población y, en definitiva, seguir aprendiendo. En concreto, se estudia y analiza la localidad castellonense de Salzadella.
 
 ![](img/image2.gif)
 
-**1. JUSTIFICACIÓN**
+## 1. JUSTIFICACIÓN
 
 Cuando en este mi segundo curso de la Universidad para mayores de la UJI, en la asignatura de Antropología, se me dio la opción de hacer un trabajo sobre algo que nos interesara y nos permitiera disfrutar investigando, no tuve ninguna duda, elegí Salzadella. Yo no soy nacida allí, pero tuve la gran suerte de tener que vivir en este pueblo por motivos profesionales, durante 12 años. Fui muy feliz y guardo un recuerdo muy entrañable de esa época y creo que, ahora, después de tanta investigación sumada a los recuerdos y a las enseñanzas que me han aportado sobre qué son y como son, me puedo considerar una "Salsadellenca" más.
 
@@ -25,21 +22,21 @@ Los dos primeros apartados han sido muy interesantes pero, el bloque tercero, en
 
 Por lo tanto, mucho de lo que aquí relato lo he vivido y disfrutado, estos escenarios los he recorrido. Espero conseguir que, al acabar de leer este trabajo, sientas unas ganas enormes de visitar esas tierras y yo, sin que nadie se entere, te diré cuando tienes que ir para acabar de enamorarte del todo. Pero eso será al final
 
-**2. CARACTERÍSTICAS DEL MUNICIPIO**
+## 2. CARACTERÍSTICAS DEL MUNICIPIO
 
 El municipio de la Salzadella se encuentra situado en la comarca del Alto Maestrazgo, al pie de las estribaciones occidentales de las Atalayas de Alcala,  en la provincia de Castellón. En el año 2011 contaba con 870 habitantes, ocupa una superficie de casi 50 km2 y su altura media es de 339 metros sobre el nivel del mar.
 
 La economía de la Salzadella es eminentemente agrícola y ganadera(porcina).Entre los cultivos tradicionales (almendro, olivo…) es destacable por su fama y calidad ¡la cereza!.
 
-**3. ETIMOLOGÍA**
+## 3. ETIMOLOGÍA
 
 El nombre de Salzadella significa bosque de sauces. Actualmente no queda ninguno, pero hay constancia de la presencia de estos bosques. Existen 2 cartas en el archivo municipal que lo atestiguan. En una de ellas, del año 1594, se relata que “*en un gran bosc de salzes que tenim en aquest terme*“. En la otra carta se menciona, que se necesitaba de 25 a 30 hombres para vigilarlo.
 
 Como ya he dicho, la Salzadella se encuentra situada en la comarca del Maestrazgo. La palabra “maestrazgo”  proviene de maestre o jefe o primera dignidad de una orden militar.
 
-**4. ORÍGENES**
+## 4. ORÍGENES
 
-**4.1 Prehistoria e historia antigua.**
+### 4.1 Prehistoria e historia antigua
 
 Esta zona fue poblada por íberos en el silo VI a. C, luego por fenicios y griegos. Se sabe por los restos de cerámica en las que aparecían escenas de la vida cotidiana, hallados en la zona.
 
@@ -53,7 +50,7 @@ En una descripción del itinerario de Antonino Augusto Caracalla, sale a relucir
 
 Posteriormente, labrando un campo, aparecieron restos de cerámica de diferentes épocas y piedras labradas donde se contempla  una estela visigótica. Por lo que  se deduce que, el poblado de *Intibilis* o *Cuadra Mitjana*,  se mantuvo hasta la edad media.
 
-**4.2 Historia medieval**
+### 4.2 Historia medieval
 
 Sea como fuere, sean estas localidades precursoras o no del actual Salzadella, lo cierto es que como tal, fue una fundación árabe. Se sabe con certeza porque no fue citado por escritores romanos. No aprovecharon para su edificación ni ríos ni nada que sirviera para la defensa natural del pueblo y desarrollaron un sistema de riegos con acequias en una zona llamada “*la Llacuna*”, que actualmente, cuando llueve, se inunda.
 
@@ -61,7 +58,9 @@ Entre 711 y 718, esta tierra es conquistada por las bandas de Tarik y Abd-el-Azi
 
 La estructura del pueblo, por tanto, se considera arábigo-medieval, con calles estrechas e irregulares, casas con azotea y pocas ventanas.
 
-Conserva varios arcos medievales, como el de la Bassa o el de les Coves. Son las antiguas e históricas puertas de acceso al recinto amurallado medieval de la Salzadella. Destaca en ellas el arco de medio punto de sillares. Están realizados íntegramente con mampostería, dando acceso a calles del antiguo núcleo medieval. En la localidad aún se conservan casas con arcos de medio punto. Se cree que el año de construcción de estos es alrededor del 1294. Según documentos la construcción de las murallas de la Salzadella coincide con el transcurso de la repoblación cristiana, durante los siglos XIII y XIV, periodo de ![](img/image3.jpeg)fortificación de la mayoría de los pueblos del Maestrazgo
+![](img/image3.jpeg)
+
+Conserva varios arcos medievales, como el de la Bassa o el de les Coves. Son las antiguas e históricas puertas de acceso al recinto amurallado medieval de la Salzadella. Destaca en ellas el arco de medio punto de sillares. Están realizados íntegramente con mampostería, dando acceso a calles del antiguo núcleo medieval. En la localidad aún se conservan casas con arcos de medio punto. Se cree que el año de construcción de estos es alrededor del 1294. Según documentos la construcción de las murallas de la Salzadella coincide con el transcurso de la repoblación cristiana, durante los siglos XIII y XIV, periodo de fortificación de la mayoría de los pueblos del Maestrazgo
 
 ![](img/image4.jpeg)
 
@@ -93,11 +92,13 @@ El cargo se ocupaba de todo lo referente a los asuntos del territorio. Ello que
 
 A partir de allí el pueblo disponía de más servicios y cargos como los Jurados, El Mayordom o *Mustaçaf*, el *Saig* (ministro de justicia), el *Guardia dels bens* (guardia del campo), los cuales se elegían de forma más o menos democrática, pero siempre pasando por el Consejo
 
-![](img/image6.jpeg)**4.2.1 Visitantes ilustres de la Salzadella**
+![](img/image6.jpeg)
+
+### 4.2.1 Visitantes ilustres de la Salzadella
 
 ![](img/image7.jpeg)
 
-**Alfonso V el Magnánimo**
+### Alfonso V el Magnánimo
 
 Hacia 1403 hubo tres papas al mismo tiempo, y uno de ellos, el **Papa Luna o Benedicto XIII de Aviñón** (Illueca, Zaragoza, 1328 - Peñíscola, Castellón, 1423), parece probable que  estuvo en Salzadella, ya que recorrió las tierras del Maestrazgo. Al decaer su popularidad, se fue a vivir a Peñiscola,  después de haber intentado establecerse en alguna parte de las tierras de Aragón.
 
@@ -115,4 +116,4 @@ Por dichas citas se sabe que el pueblo crió a una infanta del rey, concretament
 
 ![](img/image8.jpeg)
 
-Escudo de la Salzadella con un sauce en el centro
+*Escudo de la Salzadella con un sauce en el centro*

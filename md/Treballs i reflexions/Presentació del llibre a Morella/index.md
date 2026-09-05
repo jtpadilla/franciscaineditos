@@ -1,15 +1,10 @@
 ---
 id: "066"
-titulo: "Precentació llibre  a Morella"
-origen: "Copias Pendrivers/Numero 02/Precentació llibre  a Morella.docx"
-formato: "docx"
-caracteres: 1896
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "Presentació del llibre a Morella"
+notas: "Paraules de presentació del seu llibre sobre els masos a l'Ajuntament de Morella, agost 2006."
 ---
 
-Presentació llibre.
+# Presentació del llibre a Morella
 
 Bon dia. Em diuen Paquita Julian Querol. Com poden vore pels meus cognoms, soc nascuda en aquesta comarca.
 
@@ -25,4 +20,4 @@ L’últim any que vaig anar a Sant Pere dels LLivis el dia de la seua festa, si
 
 I dit tot açò es dono a tots les gracies per escultar-me, i desitjo passen un bon dia. Gràcies Paquita .
 
-Agost 2006.
+*Agost 2006.*

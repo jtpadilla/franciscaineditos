@@ -1,15 +1,10 @@
 ---
 id: "051"
-titulo: "LES CLASES DE VALEN CIÀ"
-origen: "Copias Pendrivers/Numero 02/LES CLASES DE VALEN CIÀ.docx"
-formato: "docx"
-caracteres: 4009
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "Les classes de valencià"
+notas: "Sobre les classes de valencià de la Universitat per a Majors, dedicat a l'amic Agustí. Firmat 2007."
 ---
 
-LES CLASSES DE VALENCIÀ
+# Les classes de valencià
 
 Diuen que la ignorància és inconscient . I quanta raó hi ha en aquesta dita.
 
@@ -61,4 +56,4 @@ Tots i cadascun dels dies de la travessia vàrem omplir el full de Bitàcola un 
 
 Vull dedicar aquest escrit amb el nom de la capitana i tots els mariners de la Nau la Valenciana, al nostre amic Agustí, que ha fet un altre viatge. Recordant el que va escriure entre altres coses, en el full de Bitàcola nº 3 del 24 d’octubre amb estes paraules. -Jo creia que sabia un poc de valencià, aleshores veig que no se res. Crec, que poc a poc en sortiré, tot és qüestió de temps -. I si, en va sortir, sabia escriure amb la seua llengua materna, en valencià, molt bé.
 
-Paquita. 2007
+*Paquita. 2007*

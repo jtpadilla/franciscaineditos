@@ -1,15 +1,10 @@
 ---
 id: "034"
-titulo: "diversidad Paquita"
-origen: "Copias Pendrivers/Numero 02/diversidad Paquita.docx"
-formato: "docx"
-caracteres: 2850
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "De los Ports al mar"
+notas: "Reflexión escrita el 22 de septiembre de 2015 en un viaje de Morella a Vinaròs: la diversidad de paisajes de Castellón. El fichero se llamaba 'diversidad Paquita' y el texto 'Reflexión'."
 ---
 
-REFLEXION
+# De los Ports al mar
 
 En la Comarca dels Ports es tiempo de descanso, han terminado las fiestas patronales de toda la comarca. Septiembre es el tiempo en que los cereales cultivo mayoritario de esta zona están en los graneros. Es tiempo de Ferias Ganaderas, Morella, y Cantavieja es lugar en el que acuden gentes de todos los pueblos de alrededor, no importa que sean aragoneses o valencianos, les une el clima, las costumbres, amistad y muchas veces también lazos familiares. Ahora son los preparativos para la vendimia, en unas días será el momento adecuado, este año la cosecha de uva ha sido buena y los racimos de uva mayoritariamente negra están llenos de jugo y en su punto de maduración.
 
@@ -25,6 +20,6 @@ Volvemos hacia las montañas hemos terminado nuestra tarea.
 
 No hay ninguna duda, Castellón es la segunda provincia más montañosa de España. Yo también añadiría que desde Cinctorres pueblo cercano con la provincia de Teruel de cerca de 1000 metros de altitud, hasta el mar Mediterráneo 75 Km., en un espacio de tiempo de 60 minutos se ve como es España en su aspecto físico, diversa, única.
 
-Paquita.
+*Paquita.*
 
-22/09/2015
+*22/09/2015*

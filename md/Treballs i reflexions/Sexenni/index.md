@@ -1,15 +1,10 @@
 ---
 id: "094"
-titulo: "Sexeni"
-origen: "Copias Pendrivers/Numero 02/Sexeni.docx"
-formato: "docx"
-caracteres: 9223
-imagenes: 1
-interesa: ""
-notas: ""
+titulo: "Sexenni"
+notas: "Las fiestas sexenales de Morella: origen, contenido folklórico y su relación con Castellón. Firmado Francisca Julián Querol, 2017 y enero 2026. Con una imagen."
 ---
 
-**SEXENNI.**
+# Sexenni
 
 El origen de las fiestas Sexenales en Morella es en la segunda mitad del siglo XVII, cuando la peste, con gran virulencia diezmaba a los habitantes de esta tierra. Varios cofrades del Rosario en 30 de diciembre de 1672 fueron en penitencia hasta el Santuario de Vallivana y trasladaron a la Virgen hasta la ciudad, a su paso los enfermos mejoraron.
 
@@ -27,7 +22,9 @@ El adorno de las calles, es objeto de un laborioso trabajo realizado por los vec
 
 A partir del primer día de fiestas, cada día de la semana lleva consigo misa solemne, y el Retaule del gremio correspondiente, todos los gremios recorre el mismo itinerario por las calles de la ciudad adornadas de distinta manera.
 
-fotografia del sxeni 192… autentificada enero 2026![](img/image1.jpg)
+![](img/image1.jpg)
+
+fotografia del sxeni 192… autentificada enero 2026
 
 El primer danzante de la izquierda en la pantalla o derecha en la foto es Tadeo Julian Querol del mas de Julián padre de Tadeo Julian, Jose Manuel Julián y mio Francisca Julián Querol
 
@@ -53,7 +50,7 @@ Día 9.º, lunes: Por la Juventud moreliana.
 
 Dia 10.º, martes: Dedicado a los Difuntos de la ciudad.
 
-CONTENIDO FOLKLÓRICO.
+## CONTENIDO FOLKLÓRICO
 
 Las danzas son ancestral expresión de popular y publica alegría. Cada danza debe tener en cuenta: su historia, motivo, objeto, y variaciones, Indumentaria, arreos, músicos, instrumentos musicales, partitura, ritmo y recital poético.
 
@@ -83,7 +80,7 @@ Grupo Cuarto: Zapateros y sastres.
 
 El Gremio de la Juventud con su danza de Les Gitanetes.
 
-**EL SEXENNI Y CASTELLÓN**
+## EL SEXENNI Y CASTELLÓN
 
 Con el traslado a Castellón en 195… de las fábricas de tejidos de Morella, fábrica de Querol, de Corcuera, de Amela, también vinieron muchos de sus empleados con sus familias algunos de sus hijos nacieron en Castellón formando una gran colonia.
 
@@ -93,4 +90,4 @@ La importancia que tienen el Sexenni de Morella en Castellón es innegable, pues
 
 También en el del Pregón de las Fiestas de la Magdalena de Castellón, el año siguiente al Sexenni, la danza del Torners como representantes del Ayuntamiento de la ciudad de Morella desfila con su ancestral danza por todo el recorrido del pregón, y también acude los danzantes de algún gremio, normalmente es el de Los Oficios.
 
-Francisca Julián Querol. 2017 y enero 2026
+*Francisca Julián Querol. 2017 y enero 2026*
