@@ -1,17 +1,12 @@
 ---
 id: "148"
-titulo: "Partides"
-origen: "Partides/Partides.docx"
-formato: "docx"
-caracteres: 2619
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "Les partides de Castelló"
+notas: "Les partides del terme de Castelló (secà, horta i marjal) amb l'origen de cada nom. Apunts per al treball d'agricultura. Hi havia un altre document sobre les partides que era una còpia de la Viquipèdia i s'ha deixat a inprocess."
 ---
 
-**Partides**
+# Les partides de Castelló
 
-**<u>Partides de secà</u>**
+## Partides de secà
 
 **Magdalena** (nom català): Castell Vell. La seua cisterna és la ermita de la Magdalena
 
@@ -23,7 +18,7 @@ notas: ""
 
 **Marrada** (nom català): Camí que no va dret a un lloc.
 
-**<u>Partides d’horta</u>**
+## Partides d’horta
 
 **Censal** (nom català): Camps sotmesos al pagament de censos.
 
@@ -37,8 +32,7 @@ notas: ""
 
 **Soterrani** (nom català) aigua subterrània per a moure molins de grà
 
-**Rafalafena** (nom aràbic) alqueria, porta a un jardí
-
+**Rafalafena** (nom aràbic) alqueria, porta a un jardí  
 **Taxida** (nom aràbic) de alquería, documentada en 1251
 
 **La Plana** (nom català) Prolongació plana. Nom també del nucli urba
@@ -57,20 +51,15 @@ notas: ""
 
 **Cap** ( nom català) lloc on acaba la Sèquia Major
 
-<u>Partides de Marjal</u>
+## Partides de Marjal
 
 **Entrilles** ( nom català, d’Entrilles antic propietari) alqueria
 
-**Catalana** ( nom catàla) antic propietari
-
-**Patos** ( nom catala) abundancia de patos
-
-**Borrassa** (nom català ) propietari alqueria de Borras
-
-**Vinatxell** (nom arabic ) nom i cognom d’una persona
-
-**Brunella** ( nom català) de Brunell
-
+**Catalana** ( nom catàla) antic propietari  
+**Patos** ( nom catala) abundancia de patos  
+**Borrassa** (nom català ) propietari alqueria de Borras  
+**Vinatxell** (nom arabic ) nom i cognom d’una persona  
+**Brunella** ( nom català) de Brunell  
 **La Molinera** ( nom català) lloc de molins
 
 **La Font de la Reina** ( nom català) La Font, la primera i coto arrocer

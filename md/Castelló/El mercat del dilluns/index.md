@@ -1,13 +1,10 @@
 ---
 id: "036"
-titulo: "EL MERCAT DEL DILLUNS 2010"
-origen: "Copias Pendrivers/Numero 02/EL MERCAT DEL DILLUNS 2010.docx"
-formato: "docx"
-caracteres: 2704
-imagenes: 1
-interesa: ""
-notas: ""
+titulo: "El mercat del dilluns"
+notas: "Història del mercat del dilluns de Castelló, 2010, amb una foto."
 ---
+
+# El mercat del dilluns
 
 ![](img/image1.jpeg)
 

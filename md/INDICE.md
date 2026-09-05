@@ -1,11 +1,18 @@
 # Índice de md/
 
-66 documentos seleccionados en 7 carpetas.
+72 documentos seleccionados en 8 carpetas.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, `notas`) de cada `index.md` y `_carpeta.md`, no esta tabla.
 
 | Id | Documento | Título | Notas |
 |---|---|---|---|
+| **C24** | **[Castelló/](<Castelló/_carpeta.md>)** (6 docs) | **Castelló** |  |
+| 006 | [Castelló/Calles antiguas](<Castelló/Calles antiguas/index.md>) | Calles antiguas | La cerámica de los sotabalcones y murales del centro histórico de Castellón. |
+| 036 | [Castelló/El mercat del dilluns](<Castelló/El mercat del dilluns/index.md>) | El mercat del dilluns | Història del mercat del dilluns de Castelló, 2010, amb una foto. |
+| 043 | [Castelló/Ermitas en las partidas de Castellón](<Castelló/Ermitas en las partidas de Castellón/index.md>) | Ermitas en las partidas de Castellón | Las ermitas de las partidas del término y sus fiestas. Firmado Paquita Julián Querol. El texto iba todo en cursiva, que se ha quitado. |
+| 053 | [Castelló/La pilota valenciana](<Castelló/La pilota valenciana/index.md>) | La pilota valenciana | El joc de pilota: els seus néts, el trinquet del poble i els campionats de Castelló. |
+| 148 | [Castelló/Les partides de Castelló](<Castelló/Les partides de Castelló/index.md>) | Les partides de Castelló | Les partides del terme de Castelló (secà, horta i marjal) amb l'origen de cada nom. Apunts per al treball d'agricultura. Hi havia un altre document sobre les partides que era una còpia de la Viquipèdia i s'ha deixat a inprocess. |
+| 149 | [Castelló/Paviment ceràmic](<Castelló/Paviment ceràmic/index.md>) | Paviment ceràmic | El paviment de rajoles zoomòrfiques del saló de la casa palau dels Sanjoan i Sousa, les auques de Laborda i els òxids i colors de la ceràmica valenciana. Pot coincidir amb material del site Sant Joans. |
 | **C21** | **[Cinctorres/](<Cinctorres/_carpeta.md>)** (13 docs) | **Cinctorres** |  |
 | 019 | [Cinctorres/Cinctorres, poble de teixidors](<Cinctorres/Cinctorres, poble de teixidors/index.md>) | Cinctorres, poble de teixidors | AUTORIA DUBTOSA: va firmat al final per Reinalda Artola Mestre ('Reina', agost 2018). Cançons i versos sobre els teixidors, els faixeros i la Mare de Déu de Gràcia, amb el poema 'El jardí'. Hi havia un fragment curt duplicat al pendrive, eliminat. |
 | 002 | [Cinctorres/El cementerio nuevo de 1817](<Cinctorres/El cementerio nuevo de 1817/index.md>) | El cementerio nuevo de 1817 | Nota copiada del archivo parroquial sobre la bendición del cementerio nuevo (7 de junio de 1817). El fichero se llamaba 'Archivo Cinctorres familiar'. |

@@ -1,15 +1,10 @@
 ---
 id: "053"
-titulo: "pilota - copia"
-origen: "Copias Pendrivers/Numero 02/pilota - copia.docx"
-formato: "docx"
-caracteres: 2256
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "La pilota valenciana"
+notas: "El joc de pilota: els seus néts, el trinquet del poble i els campionats de Castelló."
 ---
 
-La pilota valenciana.
+# La pilota valenciana
 
 Tinc dos nets jugadors de pilota valenciana. Jo rumiava que era un joc antic, però no mai que ho fora tant, doncs ja els grecs i desprès el romans el van escampar per les terres que conquistaven, el mateix gogen la gent humil que els nobles.
 

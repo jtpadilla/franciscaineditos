@@ -1,17 +1,16 @@
 # Índice de inprocess/
 
-49 documentos en 13 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 49.
+43 documentos en 12 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 43.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
 | 004 | [Belleza, objetiva o subjestiva.](<Belleza, objetiva o subjestiva./index.md>) | Belleza, objetiva o subjestiva. | docx | 1839 | 0 |  |  |
-| 006 | [CALLES ANTIGUAS](<CALLES ANTIGUAS/index.md>) | CALLES ANTIGUAS | docx | 952 | 0 |  |  |
 | **C01** | **[CEVA/](<CEVA/_carpeta.md>)** | **CEVA** | carpeta | 1 docs | | |  |
 | 012 | [CEVA/la felicidad](<CEVA/la felicidad/index.md>) | la felicidad | docx | 965 | 0 |  |  |
-| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 28 docs | | |  |
-| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 28 docs | | |  |
+| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 25 docs | | |  |
+| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 25 docs | | |  |
 | 023 | [Copias Pendrivers/Numero 02/Amelia.](<Copias Pendrivers/Numero 02/Amelia./index.md>) | Amelia. | docx | 4034 | 0 |  |  |
 | 024 | [Copias Pendrivers/Numero 02/arbol polo apuntes](<Copias Pendrivers/Numero 02/arbol polo apuntes/index.md>) | arbol polo apuntes | docx | 33663 | 16 |  |  |
 | 025 | [Copias Pendrivers/Numero 02/Bueno SALSADELLA](<Copias Pendrivers/Numero 02/Bueno SALSADELLA/index.md>) | Bueno SALSADELLA | docx | 14412 | 8 |  |  |
@@ -19,15 +18,12 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 030 | [Copias Pendrivers/Numero 02/clases de belleza](<Copias Pendrivers/Numero 02/clases de belleza/index.md>) | clases de belleza | docx | 7123 | 0 |  |  |
 | 034 | [Copias Pendrivers/Numero 02/diversidad Paquita](<Copias Pendrivers/Numero 02/diversidad Paquita/index.md>) | diversidad Paquita | docx | 2850 | 0 |  |  |
 | 035 | [Copias Pendrivers/Numero 02/EL CORDERET 2011.  LISTO.](<Copias Pendrivers/Numero 02/EL CORDERET 2011.  LISTO./index.md>) | EL CORDERET 2011.  LISTO. | docx | 3251 | 3 |  |  |
-| 036 | [Copias Pendrivers/Numero 02/EL MERCAT DEL DILLUNS 2010](<Copias Pendrivers/Numero 02/EL MERCAT DEL DILLUNS 2010/index.md>) | EL MERCAT DEL DILLUNS 2010 | docx | 2704 | 1 |  |  |
 | 038 | [Copias Pendrivers/Numero 02/els Ports planol](<Copias Pendrivers/Numero 02/els Ports planol/index.md>) | els Ports planol | docx | 25311 | 7 |  |  |
 | **C04** | **[Copias Pendrivers/Numero 02/Embotit/](<Copias Pendrivers/Numero 02/Embotit/_carpeta.md>)** | **Embotit** | carpeta | 0 docs | | |  |
 | **C05** | **[Copias Pendrivers/Numero 02/Embotit/Nueva carpeta/](<Copias Pendrivers/Numero 02/Embotit/Nueva carpeta/_carpeta.md>)** | **Nueva carpeta** | carpeta | 0 docs | | |  |
-| 043 | [Copias Pendrivers/Numero 02/Ermitas en las partidas de Castellón](<Copias Pendrivers/Numero 02/Ermitas en las partidas de Castellón/index.md>) | Ermitas en las partidas de Castellón | docx | 3782 | 0 |  |  |
 | 045 | [Copias Pendrivers/Numero 02/GRÀCIES  LISTO  2014 NOVEMBRE. Nº 60 ULTIM](<Copias Pendrivers/Numero 02/GRÀCIES  LISTO  2014 NOVEMBRE. Nº 60 ULTIM/index.md>) | GRÀCIES  LISTO  2014 NOVEMBRE. Nº 60 ULTIM | docx | 2387 | 0 |  |  |
 | 047 | [Copias Pendrivers/Numero 02/La belleza. Objetiva o subjetiva](<Copias Pendrivers/Numero 02/La belleza. Objetiva o subjetiva/index.md>) | La belleza. Objetiva o subjetiva | docx | 2193 | 0 |  |  |
 | 051 | [Copias Pendrivers/Numero 02/LES CLASES DE VALEN CIÀ](<Copias Pendrivers/Numero 02/LES CLASES DE VALEN CIÀ/index.md>) | LES CLASES DE VALEN CIÀ | docx | 4009 | 0 |  |  |
-| 053 | [Copias Pendrivers/Numero 02/pilota - copia](<Copias Pendrivers/Numero 02/pilota - copia/index.md>) | pilota - copia | docx | 2256 | 0 |  |  |
 | **C07** | **[Copias Pendrivers/Numero 02/POLO BERNABE - copia/](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/_carpeta.md>)** | **POLO BERNABE - copia** | carpeta | 7 docs | | |  |
 | 059 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/de todo polo](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/de todo polo/index.md>) | de todo polo | docx | 3923 | 0 |  |  |
 | 060 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/Escrituras de inventarios nova paginacio](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/Escrituras de inventarios nova paginacio/index.md>) | Escrituras de inventarios nova paginacio | docx | 314216 | 0 |  |  |
@@ -57,9 +53,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 130 | [Listo. Presentació](<Listo. Presentació/index.md>) | Listo. Presentació | docx | 2320 | 0 |  |  |
 | 132 | [Lourdes](<Lourdes/index.md>) | Lourdes | docx | 246 | 0 |  |  |
 | **C15** | **[palmira/](<palmira/_carpeta.md>)** | **palmira** | carpeta | 0 docs | | |  |
-| **C16** | **[Partides/](<Partides/_carpeta.md>)** | **Partides** | carpeta | 1 docs | | |  |
-| 148 | [Partides/Partides](<Partides/Partides/index.md>) | Partides | docx | 2619 | 0 |  |  |
-| 149 | [Paviment ceràmic](<Paviment ceràmic/index.md>) | Paviment ceràmic | docx | 6746 | 0 |  |  |
 | 151 | [Prueba 1](<Prueba 1/index.md>) | Prueba 1 | docx | 1058 | 1 |  |  |
 | 153 | [Revista Cinctorres](<Revista Cinctorres/index.md>) | Revista Cinctorres | docx | 2704 | 0 |  |  |
 | **C17** | **[sin titulo vacia/](<sin titulo vacia/_carpeta.md>)** | **sin titulo vacia** | carpeta | 0 docs | | |  |

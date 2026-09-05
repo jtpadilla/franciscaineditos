@@ -1,15 +1,10 @@
 ---
 id: "006"
-titulo: "CALLES ANTIGUAS"
-origen: "CALLES ANTIGUAS.docx"
-formato: "docx"
-caracteres: 952
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "Calles antiguas"
+notas: "La cerámica de los sotabalcones y murales del centro histórico de Castellón."
 ---
 
-CALLES ANTIGUAS.
+# Calles antiguas
 
 Castellón es tierra de ceramistas, auténticos artistas, que para los profanos en esta materia como yo me asombra.
 
