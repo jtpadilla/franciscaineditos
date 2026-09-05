@@ -9,12 +9,11 @@ Id **C08**. Trabajos, apuntes y mensajes del curso de religión medieval de la U
 | Id | Documento | Título | Notas |
 |---|---|---|---|
 | 069 | [Beato de Facundo](<Beato de Facundo/index.md>) | Beato de Facundo | Comentario en valencià del documental sobre el Beato de Liébana. Había otro comentario en castellano ('Beato_Facundo'); se eliminó. |
-| 073 | [Causa de las cruzadas](<Causa de las cruzadas/index.md>) | Causa de las cruzadas | Respuestas a un cuestionario del curso; incluye su opinión sobre la guerra santa. |
-| 072 | [Causas de las cruzadas](<Causas de las cruzadas/index.md>) | Causas de las cruzadas |  |
 | 071 | [Cátaros](<Cátaros/index.md>) | Cátaros | Firmado Francisca Julián, diciembre 2016, Carcassone. |
 | 077 | [Felicitació de Nadal 2016](<Felicitació de Nadal 2016/index.md>) | Felicitació de Nadal 2016 | Felicitación a los compañeros del curso, firmada Paquita. Iba al final del documento ajeno sobre Herrada de Landsberg, que se eliminó. |
 | 078 | [La importancia del año 1000 y la herejía](<La importancia del año 1000 y la herejía/index.md>) | La importancia del año 1000 y la herejía |  |
 | 079 | [La Inquisició](<La Inquisició/index.md>) | La Inquisició |  |
+| 072 | [Las cruzadas](<Las cruzadas/index.md>) | Las cruzadas | Fusión de dos textos suyos del curso sobre el mismo tema: 'Causas de las cruzadas' (causas políticas, religiosas y económicas) y 'Causa de las cruzadas' (visión de conjunto, órdenes militares y la guerra santa hoy), que tenía el id 073. Del primero se han quitado tres pies de foto sin imagen (Cruzados, Escena de cruzados en Tierra Santa, Asedio a una fortificación). |
 | 082 | [Las tres culturas](<Las tres culturas/index.md>) | Las tres culturas | Respuestas a un cuestionario del curso (ejercicios 1 a 4). |
 | 081 | [Las órdenes militares](<Las órdenes militares/index.md>) | Las órdenes militares |  |
 | 083 | [Maimónides](<Maimónides/index.md>) | La vida y obra de Maimónides | Firmado Francisca Julián. |
