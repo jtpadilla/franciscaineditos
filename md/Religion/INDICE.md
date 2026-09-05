@@ -1,0 +1,23 @@
+# Religión
+
+Id **C08**. Trabajos, apuntes y mensajes del curso de religión medieval de la Universitat per a Majors (UJI, 2016-2017). Los textos de otros alumnos que venían mezclados se eliminaron.
+
+**Qué va en esta obra:** Trabajos, apuntes, comentarios de documentales y mensajes al foro del curso de religión medieval de la Universitat per a Majors (UJI, 2016-2017): herejías, cruzadas, inquisición, órdenes militares, monacato, cátaros, filósofos y teólogos medievales. Solo lo escrito por ella; lo de otros alumnos no.
+
+[Índice superior](../INDICE.md)
+
+| Id | Documento | Título | Notas |
+|---|---|---|---|
+| 069 | [Beato de Facundo](<Beato de Facundo/index.md>) | Beato de Facundo | Comentario en valencià del documental sobre el Beato de Liébana. Había otro comentario en castellano ('Beato_Facundo'); se eliminó. |
+| 073 | [Causa de las cruzadas](<Causa de las cruzadas/index.md>) | Causa de las cruzadas | Respuestas a un cuestionario del curso; incluye su opinión sobre la guerra santa. |
+| 072 | [Causas de las cruzadas](<Causas de las cruzadas/index.md>) | Causas de las cruzadas |  |
+| 071 | [Cátaros](<Cátaros/index.md>) | Cátaros | Firmado Francisca Julián, diciembre 2016, Carcassone. |
+| 077 | [Felicitació de Nadal 2016](<Felicitació de Nadal 2016/index.md>) | Felicitació de Nadal 2016 | Felicitación a los compañeros del curso, firmada Paquita. Iba al final del documento ajeno sobre Herrada de Landsberg, que se eliminó. |
+| 078 | [La importancia del año 1000 y la herejía](<La importancia del año 1000 y la herejía/index.md>) | La importancia del año 1000 y la herejía |  |
+| 079 | [La Inquisició](<La Inquisició/index.md>) | La Inquisició |  |
+| 082 | [Las tres culturas](<Las tres culturas/index.md>) | Las tres culturas | Respuestas a un cuestionario del curso (ejercicios 1 a 4). |
+| 081 | [Las órdenes militares](<Las órdenes militares/index.md>) | Las órdenes militares |  |
+| 083 | [Maimónides](<Maimónides/index.md>) | La vida y obra de Maimónides | Firmado Francisca Julián. |
+| 084 | [Monacato](<Monacato/index.md>) | Monacato | Firmado Paquita 2016-2017. Respuestas a un cuestionario del curso. |
+| 086 | [Pedro Abelardo](<Pedro Abelardo/index.md>) | Pedro Abelardo | Trabajo del curso con una opinión personal al final. |
+| 087 | [Ramon Llull](<Ramon Llull/index.md>) | Ramon Llull | Comentario de un vídeo del curso seguido de una biografía. |

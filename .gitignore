@@ -1,0 +1,16 @@
+# IDE y sistema
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python (tools/)
+__pycache__/
+*.log
+
+# raw/ es la bandeja de entrada: el usuario deja aquí originales en bruto, se convierten a
+# inprocess/ con tools/convierte.py y se vacía. Lo que haya dentro nunca entra en el repo;
+# solo se conserva la carpeta (.gitkeep).
+raw/*
+!raw/.gitkeep
