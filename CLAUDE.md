@@ -19,15 +19,24 @@ con ficheros nuevos**: seguir el procedimiento de abajo tal cual.
 
 ### 1. Entrada: raw/ → inprocess/
 
-- El usuario deja en `raw/` ficheros y carpetas en bruto. Primero se limpia lo que no es texto: él ha
-  pedido borrar multimedia, PDF, hojas de cálculo, presentaciones, DWG, restos de sistema y carpetas vacías
-  (comprobar el tipo real con `file`, no solo la extensión). Preguntar antes de borrar otra cosa.
-- `python3 tools/convierte.py --todo` convierte docx, doc, odt y txt a `inprocess/<misma ruta>/<nombre>/index.md`
+- El usuario deja en `raw/` ficheros y carpetas en bruto. Primero se hace inventario (por extensión y por
+  tipo real con `file`; zip: mirar dentro) y se le presenta la lista antes de borrar. Lo que él ha mandado
+  borrar en las dos primeras tandas: imágenes (jpg, png, gif, tif, jfif, psd, svg), audio y vídeo (wma, mp4,
+  flv), zips de fotos, PDF, presentaciones (ppt, pptx, ppsx, pps, pptm), hojas de cálculo (xls, xlsx, ods),
+  DWG, OneNote (.one, .onetoc2: no se pueden convertir), páginas web guardadas (html + carpetas `_files` con
+  xml, js, php, css...), restos de sistema (.lnk, .rdp, .ini, .dropbox*, Picasa.ini, ZbThumbnail.info,
+  AUTORUN.INF, desktop.ini, System Volume Information, ficheros de bloqueo `~$*.docx`), ficheros vacíos
+  y carpetas vacías. Se quedan docx, doc, odt, rtf y txt.
+- `python3 tools/convierte.py --todo` convierte docx, doc, odt, rtf y txt a `inprocess/<misma ruta>/<nombre>/index.md`
   con `img/`. Reconoce por el campo `origen` lo que ya existe en `inprocess/` o `md/` y no lo repite; asigna
   a cada documento nuevo el siguiente id libre. Luego `python3 tools/indice.py` (crea los `_carpeta.md`
   de las carpetas nuevas con el siguiente id Cnn).
-- Comprobar que cada imagen extraída queda enlazada (pandoc escribe como HTML las que llevan tamaño; el
-  script lo corrige) y que no hay imágenes pegadas al texto.
+- Comprobar que cada imagen extraída queda enlazada y que no hay imágenes pegadas al texto (el script
+  ya corrige las dos cosas). Listar los documentos casi vacíos (`caracteres` < 100).
+- **Comparar cada documento nuevo con los de `md/`** (`difflib` sobre el texto normalizado, prefiltro por
+  longitud) y anotar en `notas` de inprocess/ "IGUAL (0.99) a md/<obra>/<doc>, ya publicado" (≥0.95),
+  "CASI IGUAL" (≥0.85) o "PARECIDO" (≥0.6). Así el usuario ve en el INDICE.md qué es repetido. En la
+  segunda tanda, 87 de 580 eran iguales a algo ya publicado y 41 parecidos.
 - Vaciar `raw/`: el markdown de `inprocess/` pasa a ser la única copia local. `raw/` está en `.gitignore`.
 - Commit: "Tanda N: conversión de raw/ a inprocess/".
 

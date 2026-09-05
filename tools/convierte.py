@@ -4,7 +4,7 @@
     raw/<ruta>/<nombre>.<ext>  ->  inprocess/<ruta>/<nombre>/index.md  (+ img/ si hay imágenes)
 
 - docx: pandoc directo.
-- doc, odt: primero LibreOffice -> docx (en un directorio temporal), luego pandoc.
+- doc, odt, rtf: primero LibreOffice -> docx (en un directorio temporal), luego pandoc.
 - txt: se copia tal cual.
 - Imágenes wmf/emf se convierten a png con LibreOffice.
 
@@ -24,7 +24,7 @@ RAW = RAIZ / "raw"
 MD = RAIZ / "inprocess"
 SELECCIONADOS = RAIZ / "md"
 PANDOC = shutil.which("pandoc") or str(Path.home() / ".local/bin/pandoc")
-FORMATOS = {".docx", ".doc", ".odt", ".txt"}
+FORMATOS = {".docx", ".doc", ".odt", ".rtf", ".txt"}
 
 
 def a_docx(origen: Path, tmp: Path) -> Path:
@@ -100,6 +100,19 @@ def convierte(origen: Path, destino: Path, forzar: bool, existentes: dict[str, P
             media.rename(destino / "img")
             texto = texto.replace("](./media/", "](img/").replace("](media/", "](img/")
             texto = re.sub(r'<img src="(?:\./)?media/([^"]+)"[^>]*/?>', r"![](img/\1)", texto)
+            # imágenes pegadas al texto -> línea propia
+            out = []
+            for l in texto.split("\n"):
+                imgs = re.findall(r"!\[[^\]]*\]\([^)]*\)", l)
+                if imgs and l.strip() not in imgs:
+                    resto = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", l).strip()
+                    for i in imgs: out += [i, ""]
+                    out.append(resto)
+                elif len(imgs) > 1:
+                    for i in imgs: out += [i, ""]
+                else:
+                    out.append(l)
+            texto = "\n".join(out)
             for f in list((destino / "img").iterdir()):
                 if f.suffix.lower() in (".wmf", ".emf"):
                     nuevo = wmf_a_png(f)
