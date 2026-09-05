@@ -1,7 +1,7 @@
 ---
 id: "098"
 titulo: "Reflexions"
-notas: "Vuit reflexions breus per a les fotos de Karlos, novembre 2018, amb la referència de cada foto i una nota final per a ell. Les sis fotos referenciades (sèrie R de Karlos) es van recuperar de l'arxiu fotogràfic i van retallades a la imatge, sense l'espai en blanc de la maqueta. Hi havia dues versions més curtes i sense numerar ('Poemes fotos de karlos', dues còpies), eliminades."
+notas: "Vuit reflexions breus escrites el novembre de 2018 per a acompanyar fotos de Karlos, amb la foto damunt de cada text com a les seues maquetes. Les set fotos citades (sèrie R de Karlos) es van recuperar de l'arxiu fotogràfic i van retallades a la imatge. Les referències 'Foto R-nn' del text i dues notes seues per a Karlos (que la flor de la 5ª potser era una orquídia, i que la referència de foto era només la inspiració) s'han tret del cos. Hi havia dues versions més curtes i sense numerar, eliminades."
 ---
 
 # Reflexions
@@ -23,29 +23,29 @@ El bufit del vent.
 
 ## 2ª
 
+![](img/R-47.jpg)
+
 Carrer Sol de Vila.  
 Bressol del poble naixent.  
 Camí de transhumància.  
 Barri dels hebreus.  
-Carrer de la meua infància. Foto R -47
-
-![](img/R-47.jpg)
+Carrer de la meua infància.
 
 ## 3ª
 
-Ay!!!carrer de Gemec o costereta de la Font de la Vila. On les dones pujaven amb els cànters plens d’aigua recolzats en la capçana al costat del seu cos.
-
-Si el empedrat del esglaons parlaren... Foto R 120
-
 ![](img/R-120.jpg)
 
-## 4ª
+Ay!!!carrer de Gemec o costereta de la Font de la Vila. On les dones pujaven amb els cànters plens d’aigua recolzats en la capçana al costat del seu cos.
 
-El roig de les roselles, pareixen, entre les espigues del cereals i les herbes dels ribassos, gotes de sang i vida. Foto R 119 -121
+Si el empedrat del esglaons parlaren...
+
+## 4ª
 
 ![](img/R-119.jpg)
 
 ![](img/R-121.jpg)
+
+El roig de les roselles, pareixen, entre les espigues del cereals i les herbes dels ribassos, gotes de sang i vida.
 
 ## 5ª
 
@@ -53,28 +53,22 @@ Has mirat be les flors?
 
 Amb la seua bellesa totes tenen diferent forma, textura, color, olor o perfum ,hi ha que son d’aparença humil, que casi se camuflen en el seu entorn,altres vistoses, altives ,inclòs amb espines com a defensa, però totes,son necessàries. Ens els arbres, arbust, hi ha flor, en tot el que creix i té fruit.
 
-( No estoy segura si es una orquidea, si lo parece.Seguro que tienes muchas mas flores que puedas escoger.)
-
 ## 6ª
-
-Pedra...sempre pedra. Quantes pedres hi haurà pel poble? Des de les senzilles cases, on el que prima és l’habitatge, pallisses, parets que encara en queden com a mostra i model d’arquitectura practica minimalista integrada amb el ambient, fins les façanes de pedra treballada, acord amb l’importància del propietari, edificis eclesiàstic i civils. Pedra... sempre pedra.
-
-Foto R- 19
 
 ![](img/R-19.jpg)
 
+Pedra...sempre pedra. Quantes pedres hi haurà pel poble? Des de les senzilles cases, on el que prima és l’habitatge, pallisses, parets que encara en queden com a mostra i model d’arquitectura practica minimalista integrada amb el ambient, fins les façanes de pedra treballada, acord amb l’importància del propietari, edificis eclesiàstic i civils. Pedra... sempre pedra.
+
 ## 7ª
 
-Pot ser el meu desig. Però jo veig que el color del cel del meu poble es blau, del mateix color blau que el mantó de la Verge de Murillo. Fot.............................................................................................................................................................................................................................................................o R-102
+![](img/R-102.jpg)
+
+Pot ser el meu desig. Però jo veig que el color del cel del meu poble es blau, del mateix color blau que el mantó de la Verge de Murillo.
 
 ## 8ª
 
-La Natura és tan sàbia, que no es pot mesurar la bellesa d’una papallona Melanargia Galatea amb l’harmonia d’una senzilla rama de espígol, que li oferís el seu perfum i aliment.
-
-Foto R -137
-
 ![](img/R-137.jpg)
 
-*Paquita Julian Querol novembre 2018*
+La Natura és tan sàbia, que no es pot mesurar la bellesa d’una papallona Melanargia Galatea amb l’harmonia d’una senzilla rama de espígol, que li oferís el seu perfum i aliment.
 
-La referència que te pongo de la fotografia al final del texto, solo quiere decir que de ella he tomado la inspiracion, haz lo que creas mas correcto.
+*Paquita Julian Querol novembre 2018*
