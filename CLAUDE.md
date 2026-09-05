@@ -2,146 +2,145 @@
 
 ## Qué es
 
-Selección manual de los textos inéditos de Francisca Julián Querol (Cinctorres, 1945). Segundo
-intento de `../franciscapublicaciones`. El primero fue un pipeline automático de seis fases sobre
-6.729 ficheros y el usuario perdió el control sobre los documentos resultantes. Este va lento y
-manual: de momento solo se seleccionan documentos, uno a uno, según instrucciones del usuario.
+Selección manual de los textos inéditos de Francisca Julián Querol (Cinctorres, 1945). Segundo intento
+de `../franciscapublicaciones`. El primero fue un pipeline automático de seis fases sobre 6.729 ficheros y
+el usuario perdió el control sobre los documentos resultantes. Este va lento y manual, por tandas.
 
-## Normas de md/ (dictadas por el usuario el 2026-09-05)
+Idioma de trabajo con el usuario: castellano. Los textos de la autora van en la lengua en que ella los
+escribió (valencià o castellano) y **no se corrigen ni se retocan**; solo se les da formato.
 
-El objetivo es migrar una cantidad enorme de documentos que en origen están ordenados de forma caótica.
+## Estado (2026-09-05, fin de la primera tanda)
 
-- `md/` es la lista de **obras**: una carpeta por obra, con su `_carpeta.md` (id, titulo, criterio, notas).
-  Dentro de cada obra, una carpeta por **documento** con `index.md` y, opcionalmente, `img/`. Nada más:
-  ni subcarpetas ni ficheros sueltos.
-- **Identificador canónico** de un documento: su ruta, `md/<obra>/<documento>`. Además lleva su `id` numérico.
-- **Todas las imágenes de `img/` están enlazadas** desde el `index.md`, y todo enlace existe. Si no, es un error.
-- **Los documentos de una obra comparten estilo** (ver "Formato de los documentos en md/") y tienen título y
-  nombre de carpeta coherentes entre sí y **coherentes con el contenido**, no con el nombre del fichero original.
-- El `INDICE.md` de cada obra empieza con el **criterio**: qué tipo de documentos van en esa obra. Sirve para
-  buscar candidatos en `inprocess/`. Se escribe en el campo `criterio` de `_carpeta.md`.
-- Cuando un documento pasa de `inprocess/` a `md/`, lo mueva el usuario o el LLM, hay que **regularizarlo**
-  (cabecera mínima, formato, nombre, título) y **retirarlo de `inprocess/`**. No puede estar en los dos sitios.
-- `raw/` es donde el usuario deposita ficheros y directorios en bruto; el LLM los convierte a markdown en
-  `inprocess/` con `tools/convierte.py --todo` y vacía `raw/`.
-- `python3 tools/comprueba.py` verifica todo esto sobre `md/` y sale con error si algo falla. Ejecutarlo
-  después de cualquier cambio en `md/`, junto con `python3 tools/indice.py`.
+`md/` tiene 100 documentos en 11 obras (C08, C12, C19 a C27). `inprocess/` y `raw/` están vacíos.
+Último id de documento usado: 174. Última obra: C27. **Se va a repetir el ciclo completo desde `raw/`
+con ficheros nuevos**: seguir el procedimiento de abajo tal cual.
 
-## Procedimiento: pasar una carpeta (Cnn) de inprocess/ a md/
+## El ciclo completo de una tanda
 
-Es lo que se hizo con C08 (Religión) y C12 (Memoria familiar). Repetirlo igual cuando el usuario diga
-"pásame la estructura Cnn a md e intenta mejorar los documentos".
+### 1. Entrada: raw/ → inprocess/
 
-1. **Mover la carpeta entera** con `mv` a `md/<Nombre>` (index.md e img/ juntos; ver aviso más abajo).
-   Conserva su `_carpeta.md` y por tanto su id. Regenerar índices: `python3 tools/indice.py`.
-2. **Leer todos los documentos**, principio y final: en los finales están las firmas y fechas. Identificar
-   (a) textos ajenos: firmados por otra persona, cabeceras "per Nombre - fecha" del aula virtual, "Fuente: ...";
-   (b) duplicados y versiones: comparar por párrafos comunes (set de párrafos normalizados) y por
-   `difflib.SequenceMatcher`; mirar qué párrafos tiene cada versión que la otra no; (c) pares del mismo texto
-   en dos lenguas; (d) restos de web: iconos, píxeles 1x1, tablas HTML.
-3. **Decidir con el usuario**: anotar los hallazgos en `notas` y NO borrar nada por cuenta propia. Cuando él lo
-   diga: de los duplicados queda la versión más completa o más reciente; de los pares, la de catalán/valencià;
-   los ajenos se borran. Si un documento ajeno lleva dentro un texto suyo (una felicitación, un capítulo),
-   ese texto se salva como documento propio con el id del original y una nota que diga de dónde sale.
-4. **Cabecera mínima** en md/: solo `id`, `titulo`, `notas`. Quitar origen, formato, caracteres, imagenes, interesa.
-5. **Formato** (ver "Formato de los documentos en md/"). Se hace con un script de un solo uso sobre la carpeta,
-   nunca a mano documento a documento, y después se revisa la estructura de cada uno con
-   `grep -n '^#\|^\*[^*].*\*$'` y se corrigen a mano los falsos títulos (listas, vocabularios) y los
-   títulos que faltan. Puntos que fallaron y hay que vigilar: los espacios dentro de `**`, que hay que tratar
-   por bloques `**texto**` y no con regex de un solo lado; los `<u>` que al pasar a negrita se convierten en
-   título por error; las líneas largas convertidas en `#` por pandoc, que son párrafos; el título repetido
-   justo debajo del H1.
-6. **Nombres de carpeta y `titulo`**: mayúscula solo al inicio y en nombres propios, con acentos, sin números
-   ni puntos de los nombres de fichero, en la lengua del texto. El H1 del cuerpo es igual al `titulo`.
-   Los títulos que ella escribió dentro del texto (en mayúsculas o como sea) no se tocan.
-7. **Comprobar** que ninguna referencia `![](img/...)` apunta a un fichero inexistente, regenerar índices y
-   dar al usuario un resumen con lo que se ha borrado, lo que se ha conservado y por qué, y lo que queda a
-   su decisión.
+- El usuario deja en `raw/` ficheros y carpetas en bruto. Primero se limpia lo que no es texto: él ha
+  pedido borrar multimedia, PDF, hojas de cálculo, presentaciones, DWG, restos de sistema y carpetas vacías
+  (comprobar el tipo real con `file`, no solo la extensión). Preguntar antes de borrar otra cosa.
+- `python3 tools/convierte.py --todo` convierte docx, doc, odt y txt a `inprocess/<misma ruta>/<nombre>/index.md`
+  con `img/`. Reconoce por el campo `origen` lo que ya existe en `inprocess/` o `md/` y no lo repite; asigna
+  a cada documento nuevo el siguiente id libre. Luego `python3 tools/indice.py` (crea los `_carpeta.md`
+  de las carpetas nuevas con el siguiente id Cnn).
+- Comprobar que cada imagen extraída queda enlazada (pandoc escribe como HTML las que llevan tamaño; el
+  script lo corrige) y que no hay imágenes pegadas al texto.
+- Vaciar `raw/`: el markdown de `inprocess/` pasa a ser la única copia local. `raw/` está en `.gitignore`.
+- Commit: "Tanda N: conversión de raw/ a inprocess/".
 
-## Formato de los documentos en md/
+### 2. Selección en inprocess/
 
-Título de nivel uno igual al `titulo` de la cabecera. Secciones en nivel dos. Subrayados convertidos a negrita.
-Imágenes en párrafo propio, con el pie en cursiva debajo. Firmas y fechas finales en cursiva. Sin líneas
-vacías de relleno ni negritas rotas. El texto de la autora no se toca; solo el formato. Los textos firmados
-por otras personas se anotan en `notas` y se dejan a la decisión del usuario.
+- El usuario borra a mano lo que no quiere y va pidiendo cosas. Cuando pide **"propón la siguiente
+  publicación"**: listar `inprocess/` (id, tamaño, ruta, primera línea), agrupar por tema, y proponer el
+  grupo más maduro con la lista de ids, las alternativas y lo que queda fuera. Primero las obras claramente
+  suyas y limpias; el material pesado o de autoría dudosa, al final.
+- Cuando pide **"hay candidatos para md/<obra>?"**: buscar en `inprocess/` con el `criterio` de la obra
+  (palabras clave, grep sobre el cuerpo), leer los que puntúen y decir cuáles encajan, cuáles son dudosos
+  y cuáles no, con motivo. No mover nada hasta que lo diga.
+- Cuando pide **"crea la publicación X y pásale los documentos"** o **"pásame la estructura Cnn a md"**,
+  seguir el procedimiento de la sección siguiente.
+- Al final de la tanda, **"revisa lo que queda"**: listar los restos, decir qué es cada uno (ajeno, copia de
+  lo ya publicado, borrador superado, nota o prueba) y proponer destino o borrado. El usuario decide; en la
+  primera tanda hizo la limpieza final a mano.
+
+### 3. Pasar documentos a una obra de md/ (procedimiento)
+
+1. **Leer todos los candidatos enteros**, principio y final: en los finales están las firmas y fechas.
+   Identificar (a) textos ajenos: firmados por otra persona, cabeceras "per Nombre - fecha" del aula virtual,
+   "Fuente: ...", letras de canciones, sonetos de Cervantes, copias de Wikipedia, MyHeritage, Geni, Geneanet;
+   (b) duplicados y versiones: comparar con `difflib.SequenceMatcher` sobre el texto normalizado y por
+   párrafos comunes; mirar qué tiene cada versión que la otra no; (c) pares del mismo texto en dos lenguas;
+   (d) compilaciones: un fichero que reúne varias piezas (el blog de Listo entero, dos poemas en un fichero)
+   se separa en un documento por pieza; (e) restos de web: iconos, píxeles 1x1, tablas HTML, `<span class="mark">`.
+2. **Criterios de decisión** (los ha dado el usuario): de los duplicados queda la versión más completa o más
+   reciente; de los pares en dos lenguas, la de valencià; los ajenos se borran, pero si un ajeno lleva dentro
+   un texto suyo (una felicitación, un capítulo) ese texto se salva como documento propio con el id del
+   original y una nota. Un documento que solo contiene un fragmento útil (una genealogía al final de unas
+   pruebas de escritura) se queda con el fragmento. Cuando dos textos suyos casi iguales tratan lo mismo,
+   se pueden fusionar en uno con secciones ("haz trampa y fusiónalo"), anotándolo. Lo de autoría dudosa se
+   deja con `AUTORÍA A CONFIRMAR` al principio de `notas`.
+3. **Crear o completar la obra**: `md/<Obra>/_carpeta.md` con `id` (siguiente Cnn), `titulo`, `criterio`
+   (qué va en la obra, para las búsquedas futuras) y `notas`. Nombre de obra en la lengua que toque, sin
+   chocar con el nombre de ningún documento de dentro.
+4. **Mover cada documento** con su `img/` (copiar la carpeta `img` entera, nunca solo el `index.md`: así se
+   perdieron imágenes una vez), con **cabecera mínima** `id`, `titulo`, `notas`. En `notas`: qué es, fecha
+   y firma, qué versiones había y cuál se eligió, qué se quitó (índices de páginas, notas a terceros,
+   pies de foto sin foto) y las dudas de autoría.
+5. **Formato**, con un script de un solo uso sobre el grupo y revisión manual después:
+   - `# Título` igual al `titulo`; la línea de título original del texto se quita si repite el título.
+   - Secciones `##` y `###` para los apartados (negritas sueltas, líneas en mayúsculas, apartados numerados);
+     no convertir en título las listas, vocabularios ni frases largas. Pies de foto y firmas en cursiva.
+   - Poemas en verso: cada verso con dos espacios finales, sin párrafo entre versos. Prosa en párrafos.
+     Diálogos y listas cortas, una línea por réplica.
+   - Imágenes en párrafo propio, cada una en su sitio; en las maquetas con foto y texto, la foto encima.
+   - Quitar: líneas vacías de relleno, espacios duros, espacios dobles, negritas o cursivas envolventes de
+     párrafo o de documento entero, `<span>`, `<u>` (a negrita), `<sup>`, citas `>` que no son citas,
+     índices de páginas, referencias del tipo "Foto R-47" y notas dirigidas a terceros (van a `notas`).
+   - Las comillas angulares de la autora (`<...>`, `<<...>>`) se dejan escapadas (`\<`), si no markdown las
+     oculta. Los `\_` de los ejercicios de rellenar se dejan.
+   - Errores que ya pasaron y hay que vigilar: espacios dentro de `**` (tratar por bloques `**texto**`, nunca
+     con una regex de un solo lado); negritas troceadas `**4**. **TÍTULO**` que hay que recomponer; el `<u>`
+     convertido a negrita que luego se toma por título; líneas largas que pandoc marcó como `#`; el título
+     repetido bajo el H1; referencias de foto partidas por una línea de puntos.
+6. **Nombres de carpeta y `titulo`**: mayúscula solo al inicio y en nombres propios, con acentos, sin números,
+   puntos ni "Paquita" de los nombres de fichero, en la lengua del texto y coherentes con el contenido.
+7. **Borrar de `inprocess/`** las versiones usadas y las descartadas de ese grupo, y las carpetas que queden
+   vacías. Regenerar índices, `python3 tools/comprueba.py` hasta que diga "md/ correcto", y resumir al
+   usuario: qué entra y de qué versión, qué se borró, qué se quedó fuera y por qué, y qué queda a su decisión.
+8. Commit y push solo cuando el usuario lo pide ("Haz el commit y push"), uno por obra.
+
+### 4. Fotos que faltan
+
+Si un texto cita fotos que no están (referencias "Foto R-nn", pies sin imagen), buscarlas solo si el usuario
+lo autoriza, en `../franciscabacket/multimedia/image/`. Recortar las maquetas a la foto (`convert -shave
+-trim` y, si el trim se come el negro, `-crop` fijo) y guardarlas en `img/` con un nombre que diga cuál es.
+
+## Normas de md/ (dictadas por el usuario)
+
+- `md/` es la lista de **obras**: una carpeta por obra con `_carpeta.md` (id, titulo, criterio, notas) y un
+  `INDICE.md` generado. Dentro, una carpeta por **documento** con `index.md` y opcionalmente `img/`. Nada más.
+- **Identificador canónico** de un documento: su ruta `md/<obra>/<documento>`. Además lleva `id` numérico fijo.
+- **Todas las imágenes de `img/` están enlazadas** y todo enlace existe; si no, es un error.
+- Los documentos de una obra **comparten estilo** y tienen título y nombre coherentes con el contenido.
+- Lo que pasa a `md/` se **regulariza** y se **retira de `inprocess/`**. No puede estar en los dos sitios.
+- `python3 tools/comprueba.py` verifica todo esto y sale con error si algo falla. Ejecutarlo tras cualquier
+  cambio en `md/`, junto con `python3 tools/indice.py`.
 
 ## Cómo trabajar aquí
 
-- **Esperar instrucciones.** El usuario irá diciendo qué ficheros incorporar y qué hacer con cada uno.
-  No montar pipelines, scripts de proceso masivo ni estructura de site por adelantado.
-- **No automatizar sin que lo pida.** Si una tarea repetitiva se puede resolver con un script pequeño,
-  proponerlo antes, no ejecutarlo.
-- **Leer antes de decidir.** Lección del primer intento: el formato no dice la autoría, el nombre del
-  fichero no dice el contenido y ningún score automático separa bien lo suyo de lo ajeno.
-- **Los textos de la autora no se corrigen ni se retocan.** Van en la lengua en que ella los escribió
-  (valencià o castellano).
-- **Anotar cada decisión** de inclusión o exclusión con su motivo, en el sitio que se acuerde con el
-  usuario cuando haya documentos.
-- **Al reorganizar md/, mover carpetas enteras** (index.md + img/), nunca escribir solo un index.md nuevo y borrar
-  la carpeta vieja: así se perdieron las imágenes de Memòria familiar el 2026-09-05 (recuperadas del corpus de
-  ../franciscapublicaciones). raw/ se vacía tras convertir, así que las imágenes de inprocess/ y md/ son la única copia local.
-- Idioma de trabajo con el usuario: castellano.
+- **Esperar instrucciones.** No montar pipelines ni estructura de site por adelantado. No automatizar sin
+  que lo pida; los scripts de un solo uso para formatear un grupo sí están aceptados.
+- **Leer antes de decidir.** El formato no dice la autoría, el nombre del fichero no dice el contenido y
+  ningún score automático separa lo suyo de lo ajeno.
+- **No borrar por cuenta propia** fuera de lo que el procedimiento establece (versiones descartadas de un
+  grupo que se pasa a `md/`). Los descartes generales los hace el usuario o los pide.
+- **No buscar candidatos en `../franciscabacket/` ni en `../franciscapublicaciones/`**. Los documentos
+  entran solo por `raw/`. Las carpetas hermanas sirven para recuperar algo concreto (imágenes perdidas,
+  fotos citadas) cuando el usuario lo autoriza.
+- Al reorganizar, **mover carpetas enteras** (`index.md` + `img/`).
 
-## Fuentes (solo lectura, no borrar)
-
-**No buscar candidatos en `../franciscabacket/` ni en `../franciscapublicaciones/`** (decisión del usuario,
-2026-09-05). Los documentos entran en este proyecto únicamente por `raw/`, cuando él los deposita.
-Las carpetas hermanas sirven solo para recuperar algo concreto que se haya estropeado aquí (por ejemplo
-imágenes), nunca como fuente de nuevos candidatos.
-
-- `../franciscapublicaciones/corpus/<obra>/<slug>/index.md` con frontmatter YAML, `img/` y `variants/`.
-- `../franciscapublicaciones/obras/obras.tsv`: 538 documentos clasificados en 25 grupos con evidencia.
-- `../franciscabacket/`: todo lo demás del fondo, con README propio. Contiene los 36 PDF escaneados
-  y 2 OneNote aún sin OCR.
-
-## Estructura
+## Estructura y herramientas
 
 ```
-raw/                 BANDEJA DE ENTRADA. El usuario deja aquí originales (docx, doc, odt, txt); se convierten a
-                     inprocess/ con tools/convierte.py y luego raw/ se vacía. Normalmente está vacío. Los originales
-                     de lo ya convertido no se conservan: el markdown de inprocess/ es la única copia.
-inprocess/<ruta>/<nombre>/  un documento por carpeta, misma jerarquía que raw/. index.md + img/. Si dos
-                     ficheros del mismo directorio compartían nombre, la carpeta lleva la extensión:
-                     "El camí (txt)". Aquí el usuario filtra y mejora.
-md/<obra>/<doc>/     LOS SELECCIONADOS, organizados por obra. Ver "Normas de md/". Nada se pone en md/ sin que
-                     el usuario lo decida.
-<carpeta>/_carpeta.md  en cada carpeta que agrupa documentos (no en las de documento ni en img/): cabecera con
-                     id "C01", "C02"..., titulo y notas. Lo crea tools/indice.py si falta. Sirve para que el usuario
-                     pueda referirse a una carpeta entera por su id.
-*/INDICE.md          tabla generada en inprocess/ y en md/, en orden de árbol, con las carpetas en negrita y sus
-                     documentos debajo. Además, en md/ cada carpeta tiene su propio INDICE.md con lo que cuelga
-                     de ella y un enlace al índice superior. No editarlos a mano: editar cabeceras y regenerar.
-tools/convierte.py   raw/ -> inprocess/. Sin rutas no hace nada; --todo lo recorre entero. Salta las carpetas que ya existen (para no pisar ediciones del
-                     usuario); --forzar las regenera. Acepta rutas dentro de raw/ para convertir una parte.
-                     Asigna a los documentos nuevos el siguiente id libre; con --forzar conserva el que tenían.
-                     Reconoce cada documento por el campo origen de la cabecera, no por el nombre de carpeta:
-                     lo que ya está en inprocess/ o en md/ se salta aunque se haya renombrado. Lo de md/ no se
-                     regenera ni con --forzar.
-tools/indice.py      regenera inprocess/INDICE.md, md/INDICE.md y el INDICE.md de cada obra; crea los _carpeta.md que falten.
-tools/comprueba.py   comprueba las normas de md/ (imágenes enlazadas, cabeceras, H1 = titulo, criterio, ids únicos).
+raw/                 bandeja de entrada, ignorada por git salvo .gitkeep. Se vacía tras convertir.
+inprocess/<ruta>/<nombre>/  un documento por carpeta, misma jerarquía que raw/. Cabecera completa
+                     (id, titulo, origen, formato, caracteres, imagenes, interesa, notas). Si dos ficheros
+                     del mismo directorio compartían nombre, la carpeta lleva la extensión: "El camí (txt)".
+md/<obra>/<doc>/     los seleccionados. Cabecera mínima (id, titulo, notas).
+_carpeta.md          en cada carpeta que agrupa documentos: id "Cnn", titulo, criterio (en md/), notas.
+INDICE.md            generados por tools/indice.py en inprocess/, md/ y cada obra. No editar a mano.
+tools/convierte.py   raw/ -> inprocess/. Sin rutas no hace nada; --todo lo recorre entero; --forzar regenera
+                     lo de inprocess/ (nunca lo de md/). Reconoce cada documento por `origen`.
+tools/indice.py      regenera los índices y crea los _carpeta.md que falten (id Cnn siguiente).
+tools/comprueba.py   comprueba las normas de md/.
 ```
 
-Pandoc está en `~/.local/bin/pandoc` (3.6.4, binario descargado; no viene de apt). LibreOffice 7.3 en
-`/usr/bin/soffice`. Los doc y odt pasan por LibreOffice a docx en un temporal y luego por pandoc.
+Pandoc está en `~/.local/bin/pandoc` (3.6.4, binario descargado). LibreOffice 7.3 en `/usr/bin/soffice`;
+los doc y odt pasan por LibreOffice a docx en un temporal y luego por pandoc. `tools/imagen_simple.lua`
+quita el tamaño a las imágenes para que pandoc las escriba en markdown y no en HTML.
 
-## Cabecera de cada index.md
-
-En md/ la cabecera es mínima: solo `id`, `titulo` y `notas`. Estar en md/ ya significa "seleccionado", así
-que no se guarda origen, formato, tamaño ni `interesa`. En inprocess/ se conserva la cabecera completa:
-
-```yaml
-id: "011"                    # fijo para siempre, tres cifras. Es como el usuario se refiere a un documento.
-titulo: "La cadira"          # editable por el usuario
-origen: "CEVA/La cadira.docx" # ruta en raw/, la única clave que une md con el original. No cambiar.
-formato: "docx"
-caracteres: 1259              # sin contar las referencias a imágenes
-imagenes: 0
-interesa: ""                  # el usuario pone: sí / no / duda
-notas: ""                     # el usuario escribe lo que quiera
-```
-
-El usuario revisa en el IDE con la previsualización de markdown. Puede renombrar carpetas: `origen`
-en la cabecera sigue diciendo de dónde venía. Como raw/ se vacía tras convertir, no hay forma de
-regenerar un documento desde el original: las ediciones del usuario sobre el markdown son definitivas.
-
-Tras cualquier cambio en cabeceras o movimiento entre inprocess/ y md/, ejecutar `python3 tools/indice.py`.
+Git: `main` en `git@github.com:jtpadilla/franciscaineditos.git`. Commits con el formato acordado,
+solo cuando el usuario lo pide.
