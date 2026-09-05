@@ -1,0 +1,105 @@
+# OBRAS.md — el mapa de obras y los cambios pendientes
+
+Este fichero es la referencia obligatoria para decidir **a qué obra va cada documento** y qué obras
+faltan por crear. Se consulta antes de proponer o crear cualquier publicación, y se actualiza cada vez
+que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de cada obra está en su
+`md/<obra>/_carpeta.md`; aquí está la vista de conjunto y las decisiones.
+
+## Obras existentes (fin de la primera tanda, 2026-09-05)
+
+| Id | Obra | Docs | Qué va | Qué NO va |
+|---|---|---|---|---|
+| C12 | Memoria familiar | 11 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
+| C19 | Familia Padilla Agut | 1 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
+| C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
+| C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
+| C21 | Cinctorres | 13 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
+| C22 | Món rural i cuina | 10 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
+| C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
+| C24 | Castelló | 6 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
+| C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
+| C26 | Treballs i reflexions | 9 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
+| C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
+
+Ids de documento usados hasta el 754; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
+
+## Obras nuevas pendientes de crear (propuestas el 2026-09-05 tras la segunda tanda)
+
+Crear cada una cuando el usuario diga "crea la publicación X y pásale los documentos", con el
+procedimiento de CLAUDE.md. Orden sugerido: 1, 3, 2.
+
+1. **Les meues coses (blog)**. Las entradas del blog «Les meues coses» de 2010 a 2014 que no están
+   narradas por Listo: unas 50, en tres o cuatro copias cada una (`blog meu/`, `Dropbox copia/compartida/
+   blog LES MEUES COSES/`, `Dropbox copia/compartida/Revista UJI/`, `poner foto/`). Ejemplos: Anem a la
+   Madalena, Bolangera de dimonis, Cine Oeste, Dia de camp, Els reis d'Orient, La Balma, La biblioteca del
+   mar, La casa Sant Joans, Las palabras, L'assut, Pedres de riu, Temps de rogatives, Tombatosals, Santa
+   Llúcia, La quinta del 66, Esglesia de Cinctorres. **Aviso**: se publicaron en el blog y probablemente
+   están en el site lesmeuescoses; el usuario decide si cuentan como inéditas. Criterio: texto del blog,
+   fechado 2010-2014, no narrado por Listo. Las entradas que hablan de Cinctorres o de Castelló se
+   quedan aquí, no en C21 ni C24, porque su unidad es el blog.
+2. **Natura**. El trabajo de biodiversidad de la Rambla Celumbres y los textos de naturaleza:
+   `Dropbox copia/compartida/BIODIVERSIDAD` (63.000 caracteres con índice), los capítulos de `treball uji
+   CELUMBRES/` y `Fax/Inbox/treball uji/` (animales, arañas, árboles y frutos, aves, flora, flores, orquídeas,
+   hongos, insectos, invertebrados, líquenes), los artículos del boletín de Cinctorres sobre trufa y líquenes
+   (`Todo bulleti Cinctorres/`), «entrevistas de trabajo» (el quejigo), «Líquens». **Aviso**: es la base del
+   site ramblacelumbres. Criterio: flora, fauna, hongos, líquenes y paisaje natural, descritos como estudio.
+3. **Viatges**. Viajes y excursiones: «DUERO Tónica» (Arribes del Duero 2016; firmado «Tonica», comprobar
+   si es suyo o de una compañera), «Nuevo Roquetas», «La perla de la montaña. Llucena», «La Balma 2011»,
+   «Al Oeste del Maestrazgo», «foro Peñagolosa y Calderona», «El gran viatge» (la introducción es suya, la
+   crónica es de Amelia). **Trasladar aquí** desde C12 «Els meus viatges a Galícia» y desde C26 «De los
+   Ports al mar». Criterio: relato de un viaje o excursión, propio o de grupo.
+
+Posible cuarta obra, a decidir por el usuario: **Cartes a Vicente**, con las respuestas de ella a los
+escritos de Vicente Vicente Rodríguez (carpeta `VIVIR/`: «respuesta a deberes», «respuesta», «Bodas de
+oro», «Pasatiempo», «Aplausos», «Debajo del brazo», «Envidia», «hablando de capas», «Lugar de nacimiento»,
+«Mi figura», «Salud en la piel», «melanoma», «Un 14 de Julio de 2015», «adivinanzas», «Agosto», y «pueblo
+Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus respuestas van a C26.
+
+## Dónde va el material de la segunda tanda que encaja en obras existentes
+
+- **C22 Món rural i cuina**: `Memoria agricultura 4 temas/` (dos copias) y `¡Todo Memoria/`: los capítulos
+  sueltos del trabajo de agricultura (arroz, algarrobo, algodón, herrero, faixero, alimentación, mostillo,
+  curiosidades, partidas, San Antonio, recetas); comparar cada uno con el capítulo del libro ya en md/ y
+  quedarse con el más completo. «MEMORIA AGRICULTURA CLASE grupo» (149.000) es la versión de grupo.
+  Todo `TOT TRUFA/` con «La trufa negra Paquita» (su versión). «pastel de salmón» y «recetas todas».
+  La pedra en sec del blog de antropología (`blog uji/`, «Recopilando piedra en sec») y «els nostres jocs».
+- **C21 Cinctorres**: la iglesia de Sant Pere (`esglesia de Cinctorres 2 documments`, blog), «Torres de
+  Cinctorres» (toponimia), «Llibret mercat San Antoni», «Sant Antoni als Ports», las ermitas de `wiki/`
+  (Gràcia, Sant Pere, Sant Marc, rogatives), «cansalader», «FAIXERO(S)», «Mare de Deu de la Balma» (es de
+  Zorita: mejor en Viatges o Treballs).
+- **C24 Castelló**: «Cuartel de San Francisco» (32.000, febrero 2012), «Convento y cuartel», «Castelló
+  1200-1900», «Castellón», «Festes de la Magdalena» (26.000), «madalena - copia», las partidas.
+- **C12 Memoria familiar**: las tres versiones más de «Qui ho farà?» (`Fax/QUI HO FARA. Meu`, «Memoria
+  familiar Paquita.», «Memoria familiar con fotos»: comparar con la de md/ y quedarse con la mejor),
+  «Antepasados» (cuatro copias) y «Elodia» (= Familia Julián Segura), las tapas, «fotos libro» (pies de foto).
+- **C19 Familia Padilla Agut**: «Canción del agüelo Padilla», «pueblo Padilla» (si no va a Cartes a Vicente).
+- **C25 Listo**: «LIBRO LISTO» (31.000, tres copias: `LIBRO lISTO/`, `LIBRO lISTO - copia/`, `Dropbox
+  copia/compartida/LIBRO lISTO/`, «Listo, acabat»): el blog compilado como libro; comparar con las 14
+  entradas de md/ y añadir lo que falte o sustituir por la versión del libro si es más completa.
+- **C26 Treballs i reflexions**: «Guerra del Rif» (34.000, con Alicia; dos copias más «Guerra del Rif,
+  Paquita y Alicia»), «El gran silencio» (dos copias), «Pnset» (Punset), «Cultura para la Paz» (tres copias),
+  «J. Soriano. Resumen Francisca Julián», «CONFERENCIA del llibre Morella excursió», «SEXENNI 1922»,
+  «Sexenni.» y «sexeni mitad» (comparar con el Sexenni de md/), «Belleza objetiva o subjetiva» (dos copias
+  nuevas), «Reflexió», «arquitectura», los dos resúmenes del Quijote si son suyos, «Otoño».
+- **C23 Relats**: «Teatre. Rosa i Roseta» (14.000, teatro; anotarlo), «Els reis d'Orient» si resulta ser relato.
+- **C20 Poemes i reflexions**: «cançons» (Els dits), «Otoño» si es poema, «LAS PALABRAS».
+- **C08 Religion**: nada; `religión/` son copias de lo ya publicado o ajenos ya borrados.
+
+## Reglas de asignación cuando un documento encaja en dos obras
+
+- Lo narrado por Listo va a C25 aunque hable de Cinctorres o de fiestas.
+- Una entrada del blog «Les meues coses» va a la obra del blog aunque hable de Cinctorres o Castelló.
+- Un recuerdo en primera persona va a C12; un texto sobre el pueblo en tercera persona, a C21.
+- Un viaje va a Viatges aunque sea familiar.
+- Un trabajo de curso va a C26 salvo que sea de religión (C08), de agricultura (C22) o de naturaleza (Natura).
+- Lo copiado de otros (firmado por otra persona, Wikipedia, webs de genealogía, textos de compañeros) no va
+  a ninguna obra: se borra. Si lleva dentro un texto suyo, se salva ese texto.
+
+## Cambios ya hechos con la segunda tanda
+
+- 2026-09-05: borrada «La Salzadella» de C26 al aparecer el trabajo completo firmado por Carmen Vidal.
+- 2026-09-05: borrados de inprocess/ 64 documentos ajenos o restos (ver commit "Borrado de lo que sobra").
+- 2026-09-05: revisadas las 86 copias de lo ya publicado que traía la segunda tanda. Aprovechadas: fotos en alta
+  resolución para cinco entradas de Listo (El corderet, No és el que era, El carreró de la Placeta, Nit de
+  Maitines, Sant Antoni del porquet, El gran pi) y la versión más completa de la genealogía Julián Segura
+  («antepasados 2», 2013), más un documento nuevo «Antepasados» en Memoria familiar. El resto, borrado.

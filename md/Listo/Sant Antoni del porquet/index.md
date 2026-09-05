@@ -1,7 +1,7 @@
 ---
 id: "174"
 titulo: "Sant Antoni del porquet"
-notas: "Entrada 13 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens')."
+notas: "Entrada 13 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Afegida una foto (la família al carreró) de la còpia del blog."
 ---
 
 # Sant Antoni del porquet
@@ -33,3 +33,5 @@ Aquest any l’ama m’ha donat a tastar, un trosset del pastis, que bo!!!.
 Tornem a estar a casa... a Castelló, anirem al poble a les vacances de Pasqua uns dies, i desprès a l’estiu.
 
 En un any, tornarà a ser Sant Antoni i la nostra festa, la dels animalets. I un altra vegada el mateix, gelat de fred, sense pastis i mullat. Listo
+
+![](img/image4.jpeg)

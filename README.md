@@ -24,7 +24,8 @@ raw/  ──convierte.py──>  inprocess/  ──selección y regularización�
    desaparece de `inprocess/`.
 5. `tools/indice.py` regenera los índices y `tools/comprueba.py` verifica las normas de `md/`.
 
-El detalle del procedimiento, con los criterios de decisión, está en `CLAUDE.md`.
+El detalle del procedimiento, con los criterios de decisión, está en `CLAUDE.md`; el mapa de obras, las
+obras pendientes y el destino de cada bloque de material, en `OBRAS.md`.
 
 ## Qué hay aquí
 

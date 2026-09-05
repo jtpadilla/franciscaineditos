@@ -1,7 +1,7 @@
 ---
 id: "171"
 titulo: "No és el que era"
-notas: "Entrada 9 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens')."
+notas: "Entrada 9 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Fotos en alta resolució recuperades de la còpia del blog de la segona tanda."
 ---
 
 # No és el que era

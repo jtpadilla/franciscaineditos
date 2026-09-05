@@ -1,7 +1,7 @@
 ---
 id: "091"
 titulo: "Nit de Maitines"
-notas: "Entrada 12 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('revista nit de Maitines'), eliminada."
+notas: "Entrada 12 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('revista nit de Maitines'), eliminada. Fotos en alta resolució recuperades de la còpia del blog de la segona tanda. La foto de la compilació era un retall; ara va sencera i amb dues fotos més del sopar."
 ---
 
 # Nit de Maitines
@@ -21,5 +21,9 @@ La meua ama quan s’enfada es fica seria de debò , jo sé que és millor fer-l
 Ja tenim la taula muntada amb plats, coberts i tots els aparells per a la Nit de Maitines ,així es diu a Cinctorres la Nit de Nochebuena, el sofà a un racó, al voltant de la taula ple de cadires, les de casa i unes plegables que porta un germà, som 17 persones i jo, que també soc de casa. El millor de tot el que em donen d’amagat els menuts, sempre estic al seu costat i provo tot el que ells mengen. Baix de la taula tot són peus i de totes les mesures. No cap ningú més, la meua ama els diu al xics grans, que res de portar les núvies a sopar.
 
 ![](img/image35.jpeg)
+
+![](img/image1.jpeg)
+
+![](img/image3.jpeg)
 
 Aleshores fins l’any que ve. Ahhh, el torró de *guirlache* mai més l'he tastat ,amb una vegada vaig tindre prou. Listo

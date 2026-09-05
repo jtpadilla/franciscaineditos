@@ -1,12 +1,13 @@
 ---
 id: "050"
 titulo: "Familia Julián Segura"
-notas: "Genealogía de la línea paterna a partir del padrón de Cinctorres de 1817 y el libro de bautismos: los Segura y los Julián Segura hasta el mas de Julián. Firmado 23 de agosto de 2013. El fichero se llamaba 'Leonila'."
+notas: "Genealogía de la línea paterna a partir del padrón de Cinctorres de 1817 y el libro de bautismos: los Segura y los Julián Segura hasta el mas de Julián, con los tíos y primos (la tía María de la Parra, Manel de Chile). Firmado 23 de agosto de 2013. Versión más completa ('antepasados 2', segunda tanda) que sustituye a la de 'Leonila'; había otra variante firmada Paquita de Tadeo ('Elodia'), eliminada."
 ---
 
 # Familia Julián Segura
 
-Registro del padrón de Cinctorres 1817  
+Registro del padrón de Cinctorres 1817. En aquella época cada generación eran máximo 30 años. Así que desde 1818 hay que restar.
+
 Mas de Clara:  
 Apellidos: Segura Jordan.
 
@@ -20,13 +21,13 @@ Apellidos: Segura Ferrer.
 
 Manuel Segura y Montserrat hijo de Vicente Segura y Vicenta Monserrat de Cinctorres. Casado con: Felipa Ferrer Sorolla de Portell, hija de Francisco Ferrer y Teresa Sorolla de Portell.
 
-¿181…Vicente Segura Ferrer. Sin mas informacion de su fecha de nacimiento.Con su matrimanio con Maria Mestre de Castellfort se inicia nuestra familia a partir del libro de Bautismos de la Parroquia de Cinctorres, en el que tenemos informacion mas detallada de la fecha de nacimiento de los demas mienbros de la familia.
+¿1818. Vicente Segura Ferrer. Sin mas informacion de su fecha de nacimiento.Con su matrimanio con Maria Mestre de Castellfort se inicia nuestra familia a partir del libro de Bautismos de la Parroquia de Cinctorres, en el que tenemos informacion mas detallada de la fecha de nacimiento de los demas mienbros de la familia.
 
-![](img/image1.jpeg)
+![C:\Users\Paquita\Desktop\archiu 044.JPG](img/image1.jpeg)
 
 Miguel Segura Ferrer el 4 de Septiembre de 1820.
 
-![](img/image2.jpeg)
+![C:\Users\Paquita\Desktop\archiu 050.JPG](img/image2.jpeg)
 
 1831\. 2 Enero. Nace Felipe Segura Ferrer.  
 1833\. Manuel Segura Ferrer.  
@@ -39,7 +40,7 @@ I839. 20 de Abril.Nace Manuela Segura Mestre, hija de Vicente Segura y Maria Mes
 
 1841\. 20 Septiembre. Nace, Felipa Segura Mestre hija de Vicente Segura y María Mestre de Castellfort.
 
-![](img/image3.jpeg)
+![C:\Users\Paquita\Desktop\archiu 053.JPG](img/image3.jpeg)
 
 1844\. 8 de Mayo. Nace, Rosa Segura Mestre, hija de Vicente Segura y Maria Mestre de Castellfort.
 
@@ -58,10 +59,10 @@ Manuela
 Manuela Julián……………. casada con ……………………………………………..Hijos:  
 Lázaro.  
 Enrique.  
-Leonila.  
-Ramón. Julián Segura. Soltero.
+Leonila  
+Ramón. Julián Segura. Muerto en la guerra de Cuba
 
-Joseph. Julián Segura. Casado con Manuela Querol del Mas de Sabate. Hijos:
+Joseph. Julián Segura. Casado con Manuela Querol del Mas de Sabate. Nuestros abuelos. Hijos:
 
 Francisco  
 Ramón  
@@ -69,11 +70,18 @@ Juliana
 Tadeo  
 Rosario  
 Josefina  
-Manuel  
-María. Julián Segura casada con…………………..  
+Manuel.( Tio Fidel
+
+María. ( Tia Maria de la Parra) Julián Segura casada con…Manuel Segura Martí………………..
+
 Hijos:  
-Josefina,  
-Manuel.  
+Manuela  
+Josefina, de la Parra
+
+Manuel. Hijo Manel va y viene de Chile, todos los años nos vemos en Agosto en Morella.
+
+Antonio  
+Maria  
 Bernardo. Julián Segura. Soltero
 
 En el testamento dotan a Antonio el mayor (l,amillorat) con el mas de Julián.

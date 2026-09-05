@@ -1,7 +1,7 @@
 ---
 id: "173"
 titulo: "El gran pi"
-notas: "Entrada 11 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens')."
+notas: "Entrada 11 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Afegides tres fotos petites (els pardalets) de la còpia del blog."
 ---
 
 # El gran pi
@@ -19,5 +19,11 @@ La meua ama, quan els seus fills Juan i Manolo eren menuts els va fer una foto a
 ![](img/image34.jpeg)
 
 Com que els gossos no podem entrar al jardí on juguen els xiquets, jo,  ho mirava tot assomat  del balcó, lladrant molt enfadat, doncs a mi també m’agrada sortir a les fotos i a més, aquesta vegada soc perjudicat,  doncs els pardalets que  han fet  els nius entre les seues  rames, teuladins i una parella de merles, són molts descarats, sempre estan passejant pel nostre terrat com  si foren els amos i  damunt de la teulada ¡¡ la meua ama, els fica granets d’arròs del que em  guarden a mi de la paella i  molletes de pa, a vegades, també picotegen el meu menjar  que tinc a la galeria de la cuina. Si per mi fora ...l'arbre tallat,  a més, no m’he pogut arrimar mai a marcar-lo  fent  un pis al seu tronc,  i tinc 12 anys¡¡ doncs, per a  que serveis?.
+
+![](img/image2.jpeg)
+
+![](img/image4.jpeg)
+
+![](img/image5.jpeg)
 
 *Listo*

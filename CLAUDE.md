@@ -9,11 +9,21 @@ el usuario perdió el control sobre los documentos resultantes. Este va lento y 
 Idioma de trabajo con el usuario: castellano. Los textos de la autora van en la lengua en que ella los
 escribió (valencià o castellano) y **no se corrigen ni se retocan**; solo se les da formato.
 
+## OBRAS.md: el mapa de obras (consultar SIEMPRE)
+
+`OBRAS.md`, en la raíz, es la referencia obligatoria para decidir a qué obra va cada documento, qué obras
+faltan por crear, qué material de la tanda en curso va a cada una y qué reglas se aplican cuando un texto
+encaja en dos. **Leerlo antes de proponer o crear cualquier publicación y antes de mover documentos**, y
+actualizarlo cada vez que se crea o cierra una obra, cambia un criterio o se toma una decisión de destino.
+Las secciones de CLAUDE.md sobre "propón la siguiente publicación" y "hay candidatos para md/X" se
+responden a partir de OBRAS.md.
+
 ## Estado (2026-09-05, fin de la primera tanda)
 
-`md/` tiene 100 documentos en 11 obras (C08, C12, C19 a C27). `inprocess/` y `raw/` están vacíos.
-Último id de documento usado: 174. Última obra: C27. **Se va a repetir el ciclo completo desde `raw/`
-con ficheros nuevos**: seguir el procedimiento de abajo tal cual.
+Primera tanda cerrada con 100 documentos en 11 obras (C08, C12, C19 a C27). **Segunda tanda en curso**
+(2026-09-05): 580 documentos convertidos a `inprocess/Documents/` (C28, ids 175-754), 128 anotados como
+copias de lo ya publicado, 64 restos y ajenos ya borrados; 515 pendientes de selección. Las obras nuevas
+que pide esta tanda y el destino de cada bloque están en `OBRAS.md`.
 
 ## El ciclo completo de una tanda
 
@@ -73,7 +83,7 @@ con ficheros nuevos**: seguir el procedimiento de abajo tal cual.
    deja con `AUTORÍA A CONFIRMAR` al principio de `notas`.
 3. **Crear o completar la obra**: `md/<Obra>/_carpeta.md` con `id` (siguiente Cnn), `titulo`, `criterio`
    (qué va en la obra, para las búsquedas futuras) y `notas`. Nombre de obra en la lengua que toque, sin
-   chocar con el nombre de ningún documento de dentro.
+   chocar con el nombre de ningún documento de dentro. Añadir o actualizar la obra en `OBRAS.md`.
 4. **Mover cada documento** con su `img/` (copiar la carpeta `img` entera, nunca solo el `index.md`: así se
    perdieron imágenes una vez), con **cabecera mínima** `id`, `titulo`, `notas`. En `notas`: qué es, fecha
    y firma, qué versiones había y cuál se eligió, qué se quitó (índices de páginas, notas a terceros,

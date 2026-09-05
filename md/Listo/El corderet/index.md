@@ -1,7 +1,7 @@
 ---
 id: "035"
 titulo: "El corderet"
-notas: "Entrada 5 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('El corderet 2011'), eliminada."
+notas: "Entrada 5 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('El corderet 2011'), eliminada. Fotos en alta resolució recuperades de la còpia del blog de la segona tanda."
 ---
 
 # El corderet
