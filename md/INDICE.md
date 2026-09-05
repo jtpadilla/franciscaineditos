@@ -1,6 +1,6 @@
 # Índice de md/
 
-95 documentos seleccionados en 10 carpetas.
+97 documentos seleccionados en 11 carpetas.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, `notas`) de cada `index.md` y `_carpeta.md`, no esta tabla.
 
@@ -82,6 +82,9 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, 
 | 056 | [Poemes i reflexions/Pregunta](<Poemes i reflexions/Pregunta/index.md>) | Pregunta | Anava en el mateix fitxer que 'No somos distintos' (novembre 2008). |
 | 098 | [Poemes i reflexions/Reflexions](<Poemes i reflexions/Reflexions/index.md>) | Reflexions | Vuit reflexions breus escrites el novembre de 2018 per a acompanyar fotos de Karlos, amb la foto damunt de cada text com a les seues maquetes. Les set fotos citades (sèrie R de Karlos) es van recuperar de l'arxiu fotogràfic i van retallades a la imatge. Les referències 'Foto R-nn' del text i dues notes seues per a Karlos (que la flor de la 5ª potser era una orquídia, i que la referència de foto era només la inspiració) s'han tret del cos. Hi havia dues versions més curtes i sense numerar, eliminades. |
 | 104 | [Poemes i reflexions/Soc l'esperit dels camps](<Poemes i reflexions/Soc l'esperit dels camps/index.md>) | Soc l'esperit dels camps | Text breu sense títol ('Documento sin título(2)'), firmat P. Julian. |
+| **C27** | **[Polo de Bernabé/](<Polo de Bernabé/_carpeta.md>)** (2 docs) | **Polo de Bernabé** |  |
+| 060 | [Polo de Bernabé/Escrituras de inventarios de Polo de Bernabé](<Polo de Bernabé/Escrituras de inventarios de Polo de Bernabé/index.md>) | Escrituras de inventarios de Polo de Bernabé (1772-1775) | Transcripción paleográfica de las escrituras de inventarios y justiprecios de la herencia de Joseph Joaquín Polo de Bernabé y Arahuete (Vistabella, 1772-1775; Archivo Municipal de Vistabella, signatura AMV 2194), con marcas de folio y 65 notas al pie de vocabulario. AUTORÍA A CONFIRMAR: no va firmada y tiene factura de archivero (referencia al léxico de abreviaturas de Cappelli); el fichero se llamaba 'nova paginació'. Había una copia idéntica en la raíz ('escritura Polo inventario'), eliminada. Se ha quitado la nota inicial sobre la abreviatura 'Eodem'. |
+| 061 | [Polo de Bernabé/Orígenes de la familia Polo de Bernabé](<Polo de Bernabé/Orígenes de la familia Polo de Bernabé/index.md>) | Orígenes de la familia Polo de Bernabé | Su investigación sobre el linaje Polo de Bernabé, con el árbol genealógico desde 1487 y las casas pairales de Cinctorres y Vistabella. Firmado otoño 2018, con las fuentes consultadas al final. El resto de la carpeta 'POLO BERNABE' eran volcados de MyHeritage, Geni, Geneanet y Wikipedia, y notas copiadas de Linajes de Aragón; se han dejado en inprocess. |
 | **C23** | **[Relats/](<Relats/_carpeta.md>)** (5 docs) | **Relats** |  |
 | 158 | [Relats/Cuento de novios](<Relats/Cuento de novios/index.md>) | Cuento de novios | Relato en tres partes (la visita, el cortejo, la boda) sobre el noviazgo de Gracia de Franxo, del Cap de Vila, con Fidel del mas de Calduc: la generación de sus padres en Cinctorres. 'Memoria en castellano' (10 diciembre 2021) era un fragmento anterior del mismo relato, eliminado. |
 | 113 | [Relats/El viaje](<Relats/El viaje/index.md>) | El viaje | Los nervios del equipaje un mes antes de viajar a Chile. |

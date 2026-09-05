@@ -1,24 +1,22 @@
 # Índice de inprocess/
 
-26 documentos en 12 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 26.
+23 documentos en 12 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 23.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
 | **C01** | **[CEVA/](<CEVA/_carpeta.md>)** | **CEVA** | carpeta | 0 docs | | |  |
-| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 15 docs | | |  |
-| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 15 docs | | |  |
+| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 13 docs | | |  |
+| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 13 docs | | |  |
 | 023 | [Copias Pendrivers/Numero 02/Amelia.](<Copias Pendrivers/Numero 02/Amelia./index.md>) | Amelia. | docx | 4034 | 0 |  |  |
 | 024 | [Copias Pendrivers/Numero 02/arbol polo apuntes](<Copias Pendrivers/Numero 02/arbol polo apuntes/index.md>) | arbol polo apuntes | docx | 33663 | 16 |  |  |
 | 026 | [Copias Pendrivers/Numero 02/CANCIÓN PANDEROLA](<Copias Pendrivers/Numero 02/CANCIÓN PANDEROLA/index.md>) | CANCIÓN PANDEROLA | doc | 1177 | 0 |  |  |
 | 038 | [Copias Pendrivers/Numero 02/els Ports planol](<Copias Pendrivers/Numero 02/els Ports planol/index.md>) | els Ports planol | docx | 25311 | 7 |  |  |
 | **C04** | **[Copias Pendrivers/Numero 02/Embotit/](<Copias Pendrivers/Numero 02/Embotit/_carpeta.md>)** | **Embotit** | carpeta | 0 docs | | |  |
 | **C05** | **[Copias Pendrivers/Numero 02/Embotit/Nueva carpeta/](<Copias Pendrivers/Numero 02/Embotit/Nueva carpeta/_carpeta.md>)** | **Nueva carpeta** | carpeta | 0 docs | | |  |
-| **C07** | **[Copias Pendrivers/Numero 02/POLO BERNABE - copia/](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/_carpeta.md>)** | **POLO BERNABE - copia** | carpeta | 7 docs | | |  |
+| **C07** | **[Copias Pendrivers/Numero 02/POLO BERNABE - copia/](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/_carpeta.md>)** | **POLO BERNABE - copia** | carpeta | 5 docs | | |  |
 | 059 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/de todo polo](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/de todo polo/index.md>) | de todo polo | docx | 3923 | 0 |  |  |
-| 060 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/Escrituras de inventarios nova paginacio](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/Escrituras de inventarios nova paginacio/index.md>) | Escrituras de inventarios nova paginacio | docx | 314216 | 0 |  |  |
-| 061 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/Genealogui de Polo de Bernabe .](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/Genealogui de Polo de Bernabe ./index.md>) | Genealogui de Polo de Bernabe . | docx | 6350 | 1 |  |  |
 | 062 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/internet Polo](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/internet Polo/index.md>) | internet Polo | docx | 9041 | 1 |  |  |
 | 063 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/montargull cinctorres.](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/montargull cinctorres./index.md>) | montargull cinctorres. | docx | 38839 | 3 |  |  |
 | 064 | [Copias Pendrivers/Numero 02/POLO BERNABE - copia/Nuevo Documento de Microsoft Office Word](<Copias Pendrivers/Numero 02/POLO BERNABE - copia/Nuevo Documento de Microsoft Office Word/index.md>) | Nuevo Documento de Microsoft Office Word | docx | 33663 | 16 |  |  |
@@ -33,7 +31,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 107 | [Documento sin títulot exto de las partidas](<Documento sin títulot exto de las partidas/index.md>) | Documento sin títulot exto de las partidas | docx | 3190 | 0 |  |  |
 | **C11** | **[Entradas blog/](<Entradas blog/_carpeta.md>)** | **Entradas blog** | carpeta | 1 docs | | |  |
 | 117 | [Entradas blog/Copia de Revista Cinctorres](<Entradas blog/Copia de Revista Cinctorres/index.md>) | Copia de Revista Cinctorres | docx | 2729 | 0 |  |  |
-| 118 | [escritura Polo  inventario](<escritura Polo  inventario/index.md>) | escritura Polo  inventario | docx | 314216 | 0 |  |  |
 | 123 | [foto amb David de quinto](<foto amb David de quinto/index.md>) | foto amb David de quinto | docx | 796 | 1 |  |  |
 | 132 | [Lourdes](<Lourdes/index.md>) | Lourdes | docx | 246 | 0 |  |  |
 | **C15** | **[palmira/](<palmira/_carpeta.md>)** | **palmira** | carpeta | 0 docs | | |  |
