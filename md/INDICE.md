@@ -1,6 +1,6 @@
 # Índice de md/
 
-72 documentos seleccionados en 8 carpetas.
+86 documentos seleccionados en 9 carpetas.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, `notas`) de cada `index.md` y `_carpeta.md`, no esta tabla.
 
@@ -29,6 +29,21 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, 
 | 097 | [Cinctorres/La pedra en sec](<Cinctorres/La pedra en sec/index.md>) | La pedra en sec | Apunts sobre l'arquitectura de pedra en sec i els camins empedrats (el fitxer es deia 'apuns'). Al final portava dues frases soltes que pertanyen a 'Reflexions' (Poemes i reflexions) i s'han tret. |
 | **C19** | **[Familia Padilla Agut/](<Familia Padilla Agut/_carpeta.md>)** (1 docs) | **Família Padilla Agut** |  |
 | 001 | [Familia Padilla Agut/Abuela María](<Familia Padilla Agut/Abuela María/index.md>) | Abuela María | Relato sobre María Gracia Agut Monfort (1918), la abuela María, madre de su marido Juan Padilla Agut. Habla su abuelo Manuel Agut, alcalde, y luego ella misma al reencontrar sus raíces. |
+| **C25** | **[Listo/](<Listo/_carpeta.md>)** (14 docs) | **Listo** | Ordre de les entrades a la compilació: 1. Em diuen Listo; 2. Tertúlia entre amics; 3. Estem de vacances; 4. Ja estem a casa; 5. El corderet; 6. Déu dirà; 7. El carreró de la Placeta; 8. La medicació; 9. No és el que era; 10. Listo, t'he pillat!; 11. El gran pi; 12. Nit de Maitines; 13. Sant Antoni del porquet; 14. Gràcies Listo. |
+| 125 | [Listo/Déu dirà](<Listo/Déu dirà/index.md>) | Déu dirà | Entrada 6 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior titulada 'Ja vorem', eliminada. |
+| 169 | [Listo/El carreró de la Placeta](<Listo/El carreró de la Placeta/index.md>) | El carreró de la Placeta | Entrada 7 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 035 | [Listo/El corderet](<Listo/El corderet/index.md>) | El corderet | Entrada 5 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('El corderet 2011'), eliminada. |
+| 173 | [Listo/El gran pi](<Listo/El gran pi/index.md>) | El gran pi | Entrada 11 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 130 | [Listo/Em diuen Listo](<Listo/Em diuen Listo/index.md>) | Em diuen Listo | Entrada 1 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una presentació anterior ('Listo. Presentació', 2008), eliminada. |
+| 167 | [Listo/Estem de vacances](<Listo/Estem de vacances/index.md>) | Estem de vacances | Entrada 3 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 045 | [Listo/Gràcies Listo](<Listo/Gràcies Listo/index.md>) | Gràcies Listo | Entrada 14 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). És l'entrada 60 i última del blog, novembre 2014, escrita per Paquita després de la mort de Listo. Hi havia una còpia solta, eliminada. |
+| 168 | [Listo/Ja estem a casa](<Listo/Ja estem a casa/index.md>) | Ja estem a casa | Entrada 4 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 170 | [Listo/La medicació](<Listo/La medicació/index.md>) | La medicació | Entrada 8 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 172 | [Listo/Listo t'he pillat](<Listo/Listo t'he pillat/index.md>) | Listo, t'he pillat! | Entrada 10 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 091 | [Listo/Nit de Maitines](<Listo/Nit de Maitines/index.md>) | Nit de Maitines | Entrada 12 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('revista nit de Maitines'), eliminada. |
+| 171 | [Listo/No és el que era](<Listo/No és el que era/index.md>) | No és el que era | Entrada 9 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 174 | [Listo/Sant Antoni del porquet](<Listo/Sant Antoni del porquet/index.md>) | Sant Antoni del porquet | Entrada 13 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). |
+| 131 | [Listo/Tertúlia entre amics](<Listo/Tertúlia entre amics/index.md>) | Tertúlia entre amics | Entrada 2 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia dues versions anteriors ('Tertulia', una firmada Paquita 4 març 2008), eliminades. |
 | **C12** | **[Memoria familiar/](<Memoria familiar/_carpeta.md>)** (10 docs) | **Memòria familiar** | El llibre de memòries (2026), la versió de 2014 amb fotos, la tapa i dos capítols de 2024. |
 | 003 | [Memoria familiar/Archivo parroquial](<Memoria familiar/Archivo parroquial/index.md>) | Archivo parroquial | Apuntes de su consulta del archivo parroquial de Cinctorres (julio 2022): bodas y bautismos de padres, abuelos y bisabuelos. |
 | 135 | [Memoria familiar/Cinctorres i Morella](<Memoria familiar/Cinctorres i Morella/index.md>) | Cinctorres i Morella | Dos capítols de la còpia de 2024 del llibre de memòries que no estan a la versió de 2026 (o hi estan retallats). La resta de la còpia era la mateixa i es va eliminar. |
