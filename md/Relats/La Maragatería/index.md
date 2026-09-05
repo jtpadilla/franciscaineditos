@@ -1,13 +1,10 @@
 ---
 id: "013"
-titulo: "oca (2)"
-origen: "CEVA/oca (2).docx"
-formato: "docx"
-caracteres: 2463
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "La Maragatería"
+notas: "Los peregrinos del Camino de Santiago y el juego de la oca en un pueblo maragato. Se conserva la versión de CEVA, la más elaborada; había dos anteriores ('El camí', docx y txt, firmadas Paquita), eliminadas."
 ---
+
+# La Maragatería
 
 Des de lluny el poble es veu uniforme, La pedra de les façanes és d’un color rogenc de forma irregular cassi rodones, del mateix color que les teules i altres també d’un color grisenc de pissarra sense polir, Moltes de les portades son de mitg punt de pedra i doveles, totes tenen entrada de carro \<com deien a la Plana\>. Es un poble maragato dels antics traginers, els que amb recrues, transportaven mercaderies per rutes romanes fins a Galicia i tota Castella. Lloc on pareix que no ha passat el temps i que en un moment donat escoltarem el rodar dels carros . Els carrers estan empedrats amb cantos rodats o morrillo, i per el centre amb llosses de gres roig. Està una mica empinat, però no ho pareix als peregrins que fan el camí i pugen en parelles o a soles carregats amb la motxilla i algun parell de botes de recanvi penjant pel costat. Càrrega per antiges
 

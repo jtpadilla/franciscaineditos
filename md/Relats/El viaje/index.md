@@ -1,13 +1,10 @@
 ---
 id: "113"
 titulo: "El viaje"
-origen: "El viaje.docx"
-formato: "docx"
-caracteres: 1055
-imagenes: 0
-interesa: ""
-notas: ""
+notas: "Los nervios del equipaje un mes antes de viajar a Chile."
 ---
+
+# El viaje
 
 No hay tanta diferencia de 23kg de peso como 26,50 pero que cantidad de problema.
 

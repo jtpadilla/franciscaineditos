@@ -1,6 +1,6 @@
 # Índice de inprocess/
 
-60 documentos en 13 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 60.
+49 documentos en 13 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 49.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
@@ -8,18 +8,15 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 |---|---|---|---|---|---|---|---|
 | 004 | [Belleza, objetiva o subjestiva.](<Belleza, objetiva o subjestiva./index.md>) | Belleza, objetiva o subjestiva. | docx | 1839 | 0 |  |  |
 | 006 | [CALLES ANTIGUAS](<CALLES ANTIGUAS/index.md>) | CALLES ANTIGUAS | docx | 952 | 0 |  |  |
-| **C01** | **[CEVA/](<CEVA/_carpeta.md>)** | **CEVA** | carpeta | 2 docs | | |  |
+| **C01** | **[CEVA/](<CEVA/_carpeta.md>)** | **CEVA** | carpeta | 1 docs | | |  |
 | 012 | [CEVA/la felicidad](<CEVA/la felicidad/index.md>) | la felicidad | docx | 965 | 0 |  |  |
-| 013 | [CEVA/oca (2)](<CEVA/oca (2)/index.md>) | oca (2) | docx | 2463 | 0 |  |  |
-| 020 | [clasecuento](<clasecuento/index.md>) | clasecuento | docx | 653 | 0 |  |  |
-| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 29 docs | | |  |
-| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 29 docs | | |  |
+| **C02** | **[Copias Pendrivers/](<Copias Pendrivers/_carpeta.md>)** | **Copias Pendrivers** | carpeta | 28 docs | | |  |
+| **C03** | **[Copias Pendrivers/Numero 02/](<Copias Pendrivers/Numero 02/_carpeta.md>)** | **Numero 02** | carpeta | 28 docs | | |  |
 | 023 | [Copias Pendrivers/Numero 02/Amelia.](<Copias Pendrivers/Numero 02/Amelia./index.md>) | Amelia. | docx | 4034 | 0 |  |  |
 | 024 | [Copias Pendrivers/Numero 02/arbol polo apuntes](<Copias Pendrivers/Numero 02/arbol polo apuntes/index.md>) | arbol polo apuntes | docx | 33663 | 16 |  |  |
 | 025 | [Copias Pendrivers/Numero 02/Bueno SALSADELLA](<Copias Pendrivers/Numero 02/Bueno SALSADELLA/index.md>) | Bueno SALSADELLA | docx | 14412 | 8 |  |  |
 | 026 | [Copias Pendrivers/Numero 02/CANCIÓN PANDEROLA](<Copias Pendrivers/Numero 02/CANCIÓN PANDEROLA/index.md>) | CANCIÓN PANDEROLA | doc | 1177 | 0 |  |  |
 | 030 | [Copias Pendrivers/Numero 02/clases de belleza](<Copias Pendrivers/Numero 02/clases de belleza/index.md>) | clases de belleza | docx | 7123 | 0 |  |  |
-| 031 | [Copias Pendrivers/Numero 02/cobrellit](<Copias Pendrivers/Numero 02/cobrellit/index.md>) | cobrellit | docx | 844 | 0 |  |  |
 | 034 | [Copias Pendrivers/Numero 02/diversidad Paquita](<Copias Pendrivers/Numero 02/diversidad Paquita/index.md>) | diversidad Paquita | docx | 2850 | 0 |  |  |
 | 035 | [Copias Pendrivers/Numero 02/EL CORDERET 2011.  LISTO.](<Copias Pendrivers/Numero 02/EL CORDERET 2011.  LISTO./index.md>) | EL CORDERET 2011.  LISTO. | docx | 3251 | 3 |  |  |
 | 036 | [Copias Pendrivers/Numero 02/EL MERCAT DEL DILLUNS 2010](<Copias Pendrivers/Numero 02/EL MERCAT DEL DILLUNS 2010/index.md>) | EL MERCAT DEL DILLUNS 2010 | docx | 2704 | 1 |  |  |
@@ -50,9 +47,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 102 | [Copias Pendrivers/Numero 02/Verbs](<Copias Pendrivers/Numero 02/Verbs/index.md>) | Verbs | doc | 396 | 0 |  |  |
 | 105 | [Documento sin título(4)](<Documento sin título(4)/index.md>) | Documento sin título(4) | docx | 7037 | 0 |  |  |
 | 107 | [Documento sin títulot exto de las partidas](<Documento sin títulot exto de las partidas/index.md>) | Documento sin títulot exto de las partidas | docx | 3190 | 0 |  |  |
-| 108 | [El camí (docx)](<El camí (docx)/index.md>) | El camí | docx | 1939 | 0 |  |  |
-| 109 | [El camí (txt)](<El camí (txt)/index.md>) | El camí | txt | 1920 | 0 |  |  |
-| 113 | [El viaje](<El viaje/index.md>) | El viaje | docx | 1055 | 0 |  |  |
 | **C11** | **[Entradas blog/](<Entradas blog/_carpeta.md>)** | **Entradas blog** | carpeta | 1 docs | | |  |
 | 117 | [Entradas blog/Copia de Revista Cinctorres](<Entradas blog/Copia de Revista Cinctorres/index.md>) | Copia de Revista Cinctorres | docx | 2729 | 0 |  |  |
 | 118 | [escritura Polo  inventario](<escritura Polo  inventario/index.md>) | escritura Polo  inventario | docx | 314216 | 0 |  |  |
@@ -62,20 +56,15 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 131 | [Listo](<Listo/index.md>) | Listo | docx | 2130 | 1 |  |  |
 | 130 | [Listo. Presentació](<Listo. Presentació/index.md>) | Listo. Presentació | docx | 2320 | 0 |  |  |
 | 132 | [Lourdes](<Lourdes/index.md>) | Lourdes | docx | 246 | 0 |  |  |
-| 142 | [Mi destino_](<Mi destino_/index.md>) | Mi destino_ | txt | 857 | 0 |  |  |
 | **C15** | **[palmira/](<palmira/_carpeta.md>)** | **palmira** | carpeta | 0 docs | | |  |
 | **C16** | **[Partides/](<Partides/_carpeta.md>)** | **Partides** | carpeta | 1 docs | | |  |
 | 148 | [Partides/Partides](<Partides/Partides/index.md>) | Partides | docx | 2619 | 0 |  |  |
 | 149 | [Paviment ceràmic](<Paviment ceràmic/index.md>) | Paviment ceràmic | docx | 6746 | 0 |  |  |
 | 151 | [Prueba 1](<Prueba 1/index.md>) | Prueba 1 | docx | 1058 | 1 |  |  |
 | 153 | [Revista Cinctorres](<Revista Cinctorres/index.md>) | Revista Cinctorres | docx | 2704 | 0 |  |  |
-| 154 | [Santa Compaña (1)](<Santa Compaña (1)/index.md>) | Santa Compaña (1) | docx | 745 | 0 |  |  |
 | **C17** | **[sin titulo vacia/](<sin titulo vacia/_carpeta.md>)** | **sin titulo vacia** | carpeta | 0 docs | | |  |
 | 156 | [Tapa - copia](<Tapa - copia/index.md>) | Tapa - copia | docx | 265 | 2 |  |  |
 | 157 | [tele.](<tele./index.md>) | tele. | docx | 231 | 0 |  |  |
-| **C18** | **[Trabajos/](<Trabajos/_carpeta.md>)** | **Trabajos** | carpeta | 5 docs | | |  |
-| 158 | [Trabajos/cuento de novios](<Trabajos/cuento de novios/index.md>) | cuento de novios | docx | 14145 | 0 |  |  |
+| **C18** | **[Trabajos/](<Trabajos/_carpeta.md>)** | **Trabajos** | carpeta | 2 docs | | |  |
 | 161 | [Trabajos/Listo](<Trabajos/Listo/index.md>) | Listo | docx | 2141 | 1 |  |  |
-| 162 | [Trabajos/memoria en castellano](<Trabajos/memoria en castellano/index.md>) | memoria en castellano | docx | 8115 | 0 |  |  |
 | 163 | [Trabajos/Revista Cinctorres](<Trabajos/Revista Cinctorres/index.md>) | Revista Cinctorres | docx | 2729 | 0 |  |  |
-| 164 | [Trabajos/Santa Compaña (1)](<Trabajos/Santa Compaña (1)/index.md>) | Santa Compaña (1) | docx | 745 | 0 |  |  |

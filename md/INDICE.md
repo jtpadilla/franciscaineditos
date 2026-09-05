@@ -1,6 +1,6 @@
 # Índice de md/
 
-61 documentos seleccionados en 6 carpetas.
+66 documentos seleccionados en 7 carpetas.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, `notas`) de cada `index.md` y `_carpeta.md`, no esta tabla.
 
@@ -60,6 +60,12 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, 
 | 056 | [Poemes i reflexions/Pregunta](<Poemes i reflexions/Pregunta/index.md>) | Pregunta | Anava en el mateix fitxer que 'No somos distintos' (novembre 2008). |
 | 098 | [Poemes i reflexions/Reflexions](<Poemes i reflexions/Reflexions/index.md>) | Reflexions | Vuit reflexions breus escrites el novembre de 2018 per a acompanyar fotos de Karlos, amb la foto damunt de cada text com a les seues maquetes. Les set fotos citades (sèrie R de Karlos) es van recuperar de l'arxiu fotogràfic i van retallades a la imatge. Les referències 'Foto R-nn' del text i dues notes seues per a Karlos (que la flor de la 5ª potser era una orquídia, i que la referència de foto era només la inspiració) s'han tret del cos. Hi havia dues versions més curtes i sense numerar, eliminades. |
 | 104 | [Poemes i reflexions/Soc l'esperit dels camps](<Poemes i reflexions/Soc l'esperit dels camps/index.md>) | Soc l'esperit dels camps | Text breu sense títol ('Documento sin título(2)'), firmat P. Julian. |
+| **C23** | **[Relats/](<Relats/_carpeta.md>)** (5 docs) | **Relats** |  |
+| 158 | [Relats/Cuento de novios](<Relats/Cuento de novios/index.md>) | Cuento de novios | Relato en tres partes (la visita, el cortejo, la boda) sobre el noviazgo de Gracia de Franxo, del Cap de Vila, con Fidel del mas de Calduc: la generación de sus padres en Cinctorres. 'Memoria en castellano' (10 diciembre 2021) era un fragmento anterior del mismo relato, eliminado. |
+| 113 | [Relats/El viaje](<Relats/El viaje/index.md>) | El viaje | Los nervios del equipaje un mes antes de viajar a Chile. |
+| 013 | [Relats/La Maragatería](<Relats/La Maragatería/index.md>) | La Maragatería | Los peregrinos del Camino de Santiago y el juego de la oca en un pueblo maragato. Se conserva la versión de CEVA, la más elaborada; había dos anteriores ('El camí', docx y txt, firmadas Paquita), eliminadas. |
+| 142 | [Relats/Mi destino](<Relats/Mi destino/index.md>) | Mi destino | El cobrellit antiguo cuenta su vida y su destino: ser la falda del traje de castellonera de la única niña de la familia. Había una versión anterior ('cobrellit', en el pendrive), eliminada. |
+| 154 | [Relats/Noche de tormenta](<Relats/Noche de tormenta/index.md>) | Noche de tormenta | Microrrelato de la Santa Compaña. En 'clasecuento' (2016) iba como ejercicio de la clase de suspense ('hacer un relato con no más de 100 palabras'), con un final más corto; se conserva esta versión, la más completa. Había otra copia idéntica en Trabajos. |
 | **C08** | **[Religion/](<Religion/_carpeta.md>)** (12 docs) | **Religión** | Trabajos, apuntes y mensajes del curso de religión medieval de la Universitat per a Majors (UJI, 2016-2017). Los textos de otros alumnos que venían mezclados se eliminaron. |
 | 069 | [Religion/Beato de Facundo](<Religion/Beato de Facundo/index.md>) | Beato de Facundo | Comentario en valencià del documental sobre el Beato de Liébana. Había otro comentario en castellano ('Beato_Facundo'); se eliminó. |
 | 071 | [Religion/Cátaros](<Religion/Cátaros/index.md>) | Cátaros | Firmado Francisca Julián, diciembre 2016, Carcassone. |
