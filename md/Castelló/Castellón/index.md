@@ -1,15 +1,10 @@
 ---
-id: "650"
+id: "473"
 titulo: "Castellón"
-origen: "Documents/escritos sueltas de agricultura/para Vicente/Castellón.docx"
-formato: "docx"
-caracteres: 2702
-imagenes: 0
-interesa: ""
-notas: ""
+notas: "Resumen de la historia de la ciudad, de Estrabón a la industria cerámica. Firmado Francisca Julián Querol, 31-1-2014. Dos copias idénticas (Shrew Soft VPN y 'escritos sueltas de agricultura/para Vicente'), la segunda escrita para Vicente Vicente Rodríguez. Es un texto distinto de la entrada del blog 'Castelló 1200-1900'."
 ---
 
-CASTELLÓN
+# Castellón
 
 El geógrafo e historiador griego Estrabón, hallo indicios íberos, griegos y romanos de su origen, como Castalio, Castalia o Sepilano.
 
@@ -27,7 +22,7 @@ En el Trienio Liberal de 1822, pasa a ser capital de la provincia con el mismo n
 
 La ciudad, es partidaria de los liberales durante la Primera Guerra Carlista, siendo asediada por el Ejército del General Cabrera.
 
-.Castellón, ya en su nuevo rango, disfruta del Camino Real de Valencia a Barcelona y se construye en nuevo Camino del Mar. Llega el ferrocarril de Valencia en 1862 y el de Barcelona en 1888. Como capital de provincia y fin de las Guerras Carlitas aumenta su auge constructivo. Pero el verdadero auge económico fue, a principio de siglo XX cuando se empiezan a cultivar naranjos en Villareal y se extiende por toda la comarca.
+Castellón, ya en su nuevo rango, disfruta del Camino Real de Valencia a Barcelona y se construye en nuevo Camino del Mar. Llega el ferrocarril de Valencia en 1862 y el de Barcelona en 1888. Como capital de provincia y fin de las Guerras Carlitas aumenta su auge constructivo. Pero el verdadero auge económico fue, a principio de siglo XX cuando se empiezan a cultivar naranjos en Villareal y se extiende por toda la comarca.
 
 Durante la Guerra civil de 1936, la ciudad, paso al bando republicano, hasta el 1938 en que entraron las tropas del General Franco.
 
@@ -35,4 +30,4 @@ Con las heladas de las naranjas, de principios de los años cincuenta y aprovech
 
 Siendo actualmente junto con los cítricos, el motor económico de esta tierra.
 
-Francisca Julián Querol. 31-1 -2014.
+*Francisca Julián Querol. 31-1-2014*

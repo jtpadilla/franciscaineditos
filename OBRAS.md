@@ -9,14 +9,14 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 
 | Id | Obra | Docs | Qué va | Qué NO va |
 |---|---|---|---|---|
-| C12 | Memoria familiar | 11 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
+| C12 | Memoria familiar | 14 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
 | C19 | Familia Padilla Agut | 1 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
 | C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
 | C21 | Cinctorres | 13 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
 | C22 | Món rural i cuina | 10 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
-| C24 | Castelló | 6 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
+| C24 | Castelló | 9 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
 | C26 | Treballs i reflexions | 9 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
@@ -67,11 +67,17 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   Cinctorres» (toponimia), «Llibret mercat San Antoni», «Sant Antoni als Ports», las ermitas de `wiki/`
   (Gràcia, Sant Pere, Sant Marc, rogatives), «cansalader», «FAIXERO(S)», «Mare de Deu de la Balma» (es de
   Zorita: mejor en Viatges o Treballs).
-- **C24 Castelló**: «Cuartel de San Francisco» (32.000, febrero 2012), «Convento y cuartel», «Castelló
-  1200-1900», «Castellón», «Festes de la Magdalena» (26.000), «madalena - copia», las partidas.
-- **C12 Memoria familiar**: las tres versiones más de «Qui ho farà?» (`Fax/QUI HO FARA. Meu`, «Memoria
-  familiar Paquita.», «Memoria familiar con fotos»: comparar con la de md/ y quedarse con la mejor),
-  «Antepasados» (cuatro copias) y «Elodia» (= Familia Julián Segura), las tapas, «fotos libro» (pies de foto).
+- **C24 Castelló**: hechos el 2026-09-06 «Cuartel de San Francisco», «Castellón» y «Partidas de Castellón».
+  «Convento y cuartel» y «Castelló 1200-1900» son entradas del blog y van a Les meues coses. Quedan a decisión
+  del usuario «Festes de la Magdalena» (26.000, cuatro copias: 224, 232, 383, 391) y «madalena - copia» (371):
+  salvo la introducción sobre Bernat Artola, son la transcripción del librito «La Magdalena» de Emilio Calduch
+  (1940), que la copia cita como bibliografía; probablemente ajeno.
+- **C12 Memoria familiar**: ya revisado el 2026-09-06. Las tres versiones más de «Qui ho farà?» (`Fax/QUI
+  HO FARA. Meu` 436, «Memoria familiar Paquita.» 454 y 456, «Memoria familiar con fotos» 347 y 666) son
+  borradores de la que ya está en md/ (la «con fotos» es idéntica; la del Fax es una redacción anterior sin
+  contenido nuevo) y las tapas (348, 349, 667, 668) son las mismas imágenes que la Tapa de md/ en menor
+  resolución: borrado todo el 2026-09-06. «Antepasados» y «fotos libro» ya están en md/. «Lugar de nacimiento»
+  (VIVIR) se ha pasado a C12 como recuerdo en primera persona. No queda nada pendiente para C12.
 - **C19 Familia Padilla Agut**: «Canción del agüelo Padilla», «pueblo Padilla» (si no va a Cartes a Vicente).
 - **C25 Listo**: «LIBRO LISTO» (31.000, tres copias: `LIBRO lISTO/`, `LIBRO lISTO - copia/`, `Dropbox
   copia/compartida/LIBRO lISTO/`, «Listo, acabat»): el blog compilado como libro; comparar con las 14
@@ -103,6 +109,15 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   resolución para cinco entradas de Listo (El corderet, No és el que era, El carreró de la Placeta, Nit de
   Maitines, Sant Antoni del porquet, El gran pi) y la versión más completa de la genealogía Julián Segura
   («antepasados 2», 2013), más un documento nuevo «Antepasados» en Memoria familiar. El resto, borrado.
+- 2026-09-06: Memoria familiar recibe «Fotos antiguas» (id 340: las cinco fotos con pie de `fotos libro` y
+  `fotos meues treball/Pili`, reunidas en un documento; borradas las tres copias, ids 247-251, 340-343 y
+  406-410) y «Lugar de nacimiento» (id 532, de `VIVIR/`). Con Antepasados, la obra pasa de 11 a 14 documentos.
+- 2026-09-06: borradas de inprocess/ las cuatro versiones sobrantes de «Qui ho farà?» (436, 454, 456, 347 y 666)
+  y las tapas (348, 349, 667, 668), copias de lo que ya está en md/, con sus carpetas vacías (`Fax/QUI HO FARA.
+  Meu`, `MMEMORIA FAMILIAR Paquita 2 documents`, `memoria familiar y dos tapas`).
+- 2026-09-06: Castelló recibe «Cuartel de San Francisco» (id 211), «Castellón» (id 473; copia 650 borrada) y
+  «Partidas de Castellón» (id 238, la versión completa; borradas la copia 397 y las versiones cortas 363 y 645).
+  La obra pasa de 6 a 9 documentos.
 
 ## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
 
