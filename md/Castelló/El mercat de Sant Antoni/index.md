@@ -10,7 +10,7 @@ Quan entrem al mercat de Sant Antoni, veiem un espai modern amb instal·lacions 
 
 Hi ha tres grans parades de carn i els seus derivats, tres paredes molt vistoses de fruita i verdura, una de tot tipus de peix fresc i congelat, un olivero amb molt de sortit dels seus productes i una panaderia que també és pastisseria i cafeteria. I a més de tot això el calor humà que li dona la gent que allí treballa, ELS SEUS VENEDORS.
 
-Erundina (la més antiga del mercat, va ser una de les carnisseres des del començament l’any 1959) Javier, Inma, Pablo, Vicent, Vicent i Pepe, Carlos, Consuelo, Carmen,Vitonia, La Simona- Fina Tere.
+Erundina (la més antiga del mercat, va ser una de les carnisseres des del començament l’any 1959) Javier, Inma, Pablo, Vicent, Vicent i Pepe, Carlos, Consuelo, Carmen, Vitonia, La Simona- Fina Tere.
 
 Tots ells són treballadors autònoms.
 
@@ -18,7 +18,7 @@ Així és aleshores, el mercat quan es fica en marxa i comença el dia laboral
 
 Té poc a veure, amb el mercat de Sant Antoni dels any 60. Aquest començava a les 7 del matí, l’hora, en que un guàrdia municipal obria les dos portes. Moltes vegades, els venedors ja estaven allí esperant. Les diferents parades eren de pedra artificial, no hi havia mostrador frigorífics, aleshores els productes havien de ser molt frescs abans d’arribar als clients.
 
-ELS CARNICERS deixaven les parts dels corders que portaven en grans cistelles i sen’anaven al escorxador, i quan podien encara calent, portaven a vendre, parts del animal,com el fetge, lleus, lleteroles, etc. que allí es sacrificàvem pal consum.
+ELS CARNICERS deixaven les parts dels corders que portaven en grans cistelles i sen’anaven al escorxador, i quan podien encara calent, portaven a vendre, parts del animal, com el fetge, lleus, lleteroles, etc. que allí es sacrificàvem pal consum.
 
 CANSALADERS, amb tots els productes del porc i els embotits derivats com ara. La tarbena, marineta, blanquets, botifarra negra amb quadrets de cansalada tallada a mà, a més de les botifarres d’arròs, de seva i botifarronets de seva amb pinyons, llonganisses i xoriços
 
@@ -26,9 +26,9 @@ També arribaven els repartidors dels diferents productes com els pollastrers, f
 
 ELS OLIVEROS. Amb grans perols plens de llegums cuits, dels que encara sortia el vapor de la cocció, abadejo salat i remullat, tollina a granel (es portava el pà i et preparaven un entrepà amb tollina i olives que era una delícia) sardines de bota, capellans, sorra, moixama, anxoves amb sal, tot tipus d’olives; sevillanes, partides, de Borriol, del cuquello, d’Aragó, etc.
 
-LES PESCATERES. Amb les caixes de peix, que es pescava al Grau, espècies, que avui és molt difícil de veure pels mercats, doncs moltes vegades, ni els pescadors les agarren degut al vaix valor comercial que tenen, com: Sorell, sucla, boga, cavalla,sardina,anxova, mollets,galeres, musclos, mare del lluç,
+LES PESCATERES. Amb les caixes de peix, que es pescava al Grau, espècies, que avui és molt difícil de veure pels mercats, doncs moltes vegades, ni els pescadors les agarren degut al vaix valor comercial que tenen, com: Sorell, sucla, boga, cavalla, sardina, anxova, mollets, galeres, musclos, mare del lluç,
 
-palades, ànguila, pagell, gallineta,marbra,.mussola,cabut, morralla etc. Sempre recordo, quan de bon matí, animaven a la gent amb els seus crits pregonant la mercaderia (xiquetes ...qui menja sorell no és fa vell) esta dita, és la que més recordo entre un munt de les que deien.
+palades, ànguila, pagell, gallineta, marbra,.mussola, cabut, morralla etc. Sempre recordo, quan de bon matí, animaven a la gent amb els seus crits pregonant la mercaderia (xiquetes ...qui menja sorell no és fa vell) esta dita, és la que més recordo entre un munt de les que deien.
 
 PARADES DE VERDURA. Llauradors dels voltants, que portaven a vendre el que es collia de temporada. També hi havia productes del mercat d’Abastos.
 
@@ -230,7 +230,7 @@ La darrera informació que porta, sobre la construccio del Mercart da Sant Anton
 
 Expuesto por el Alcalde, camarada José Ferrer Fons, en la sesión de anteayer.
 
-Hemos visto la reciente inaguración del Mercado de San Antonio,que no obstante tener un caracter provisional, ha permitido que desaparezca aquel molesto y desagradable mercado-xoco próximo a la Ronda. Si bien el nuevo Mercado no es un alarde arquitectónico cumple perfectamente su función d obra provisiona. Además, en el plazo de 15 años quedará amortizado y por lo menos habremos pasado este lapso de tiempo con una construcción que no desmerece de la corriente urbanística y de mejora que se viene operando en nuestro Castellón.”
+Hemos visto la reciente inaguración del Mercado de San Antonio, que no obstante tener un caracter provisional, ha permitido que desaparezca aquel molesto y desagradable mercado-xoco próximo a la Ronda. Si bien el nuevo Mercado no es un alarde arquitectónico cumple perfectamente su función d obra provisiona. Además, en el plazo de 15 años quedará amortizado y por lo menos habremos pasado este lapso de tiempo con una construcción que no desmerece de la corriente urbanística y de mejora que se viene operando en nuestro Castellón.”
 
 ![](img/image1.jpeg)
 

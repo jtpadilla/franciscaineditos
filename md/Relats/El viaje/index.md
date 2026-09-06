@@ -12,7 +12,7 @@ No hay tanta diferencia de 23kg de peso como 26,50 pero que cantidad de problema
 
 Todo lo que he puesto lo uso, me gusta, Zapatos, jerséis, ese bolso que pega con todo, y las faldas, de vestir de entretiempo, de abrigo, Claro no voy a ir siempre con pantalón, No es tan femenino, y yo lo soy.
 
-¿Y que hago con los abrigos? Si pronto será otra vez invierno,El de vestir negro, el entallado que me cae muy bien y la cazadora, esa, es preciso, no pesa y no voy a ir siempre con abrigo,. Y los trajes de chaqueta como fondo de armario y al menos un par de chándal, si hago un poco de deporte me aran faltas y las zapatillas de deporte, que menos que dos pares. Claro también algún traje de fiesta, Como escojo? Si todos me gustan y son bonitos. Seguro que no pueden pesar mucho
+¿Y que hago con los abrigos? Si pronto será otra vez invierno, El de vestir negro, el entallado que me cae muy bien y la cazadora, esa, es preciso, no pesa y no voy a ir siempre con abrigo,. Y los trajes de chaqueta como fondo de armario y al menos un par de chándal, si hago un poco de deporte me aran faltas y las zapatillas de deporte, que menos que dos pares. Claro también algún traje de fiesta, Como escojo? Si todos me gustan y son bonitos. Seguro que no pueden pesar mucho
 
 ¿Como consigo hacer desaparecer 3,50 Kg. de mi equipaje.?.
 

@@ -6,7 +6,7 @@ notas: "Escrit per a la wiki de la Universitat per a Majors sobre el museu inaug
 
 # El museu de la faixa
 
-A raderies d'agost, dins de la setmana de festes de 2007, es va inaugurar a Cinctorres,el museu de la faixa.
+A raderies d'agost, dins de la setmana de festes de 2007, es va inaugurar a Cinctorres, el museu de la faixa.
 
 ![](img/image4.png)
 
@@ -14,7 +14,7 @@ A raderies d'agost, dins de la setmana de festes de 2007, es va inaugurar a Cinc
 
 *Museu de la faixa*
 
-El museu està situat al carrer de l'hospital que dona a la Plaça Vella o del ajuntament,en l’edifici que en època medieval era hospital de pobres. Damunt de la portada de pedra, està gravada la data 1547. És una construcció amb arcades de pedra del gòtic civil, con alguna casa que es conserva d'aquella època. També es d'aquesta manera l'antic escorxador del poble que abans va ser el graner. Actualment és l'oficina de turisme i un dels llocs, on es fan, actes culturals.
+El museu està situat al carrer de l'hospital que dona a la Plaça Vella o del ajuntament, en l’edifici que en època medieval era hospital de pobres. Damunt de la portada de pedra, està gravada la data 1547. És una construcció amb arcades de pedra del gòtic civil, con alguna casa que es conserva d'aquella època. També es d'aquesta manera l'antic escorxador del poble que abans va ser el graner. Actualment és l'oficina de turisme i un dels llocs, on es fan, actes culturals.
 
 ![](img/image1.png)
 

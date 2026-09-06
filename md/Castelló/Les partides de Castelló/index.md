@@ -47,7 +47,7 @@ notas: "Les partides del terme de Castelló (secà, horta i marjal) amb l'origen
 
 **Coscollosa** (nom català) abundans arbust de la familia Quercus
 
-**La Zafra** (nom aràbic) construccions de baixa intensitat en el nucli urbà,rotonda canyes.
+**La Zafra** (nom aràbic) construccions de baixa intensitat en el nucli urbà, rotonda canyes.
 
 **Cap** (nom català) lloc on acaba la Sèquia Major
 

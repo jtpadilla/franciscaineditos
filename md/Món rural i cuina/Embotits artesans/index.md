@@ -67,7 +67,7 @@ Budell de porc.
 
 ## ALTRA FORMULA DEL LLIBRE DE LA GENERALITAT DE EMBUTITS ARTESANS. xorisos
 
-Condiments: Sal,pebre roig, orenga,alls, clau, canella, nou mosacada,i i brandi.
+Condiments: Sal, pebre roig, orenga, alls, clau, canella, nou mosacada, i i brandi.
 
 Sempre: pastar mexclar be i guardar al fret un dia abans d’ embutir
 

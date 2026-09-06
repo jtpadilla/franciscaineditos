@@ -6,7 +6,7 @@ notas: "El seu net major de quinto a la festa de la Patrona, amb foto. Era una p
 
 # El meu net quinto
 
-Es domingo.Día en que se celebra la fiesta religiosa en honor de la Patrona del pueblo. Mi nieto mayor es uno de los quintos de este año, y, como manda la tradición, ellas y ellos asisten a la ceremonia religiosa.
+Es domingo. Día en que se celebra la fiesta religiosa en honor de la Patrona del pueblo. Mi nieto mayor es uno de los quintos de este año, y, como manda la tradición, ellas y ellos asisten a la ceremonia religiosa.
 
 ![](img/image1.jpg)
 

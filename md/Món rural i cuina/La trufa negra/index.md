@@ -40,7 +40,7 @@ Teofrasto S.III a C. discípulo y sucesor de Aristóteles, consideraba que las t
 
 Plutarco la creía generada por los rayos en la acción combinada del agua y la tierra o sea que son el resultado de la fusión de los tres elementos.
 
-Plinio el Viejo S.I a C. escritor y naturalista vi que crecía sin raíces, decía: es una callosidad de la tierra,surgida espontáneamente y no se siembra, como un milagro de la Naturaleza.
+Plinio el Viejo S.I a C. escritor y naturalista vi que crecía sin raíces, decía: es una callosidad de la tierra, surgida espontáneamente y no se siembra, como un milagro de la Naturaleza.
 
 Griegos y romanos le atribuyen propiedades divinas
 
@@ -278,7 +278,7 @@ Posar la gallina plana i repartir per damunt la mescla anterior, el pernil a tir
 
 Cosir la gallina i posan-la a coure amb els alls que han quedat, la ceba i els ossos de la gallina.
 
-Quan estiga freda,tallar a rodanxes,
+Quan estiga freda, tallar a rodanxes,
 
 Es pot menjar freda o calenta.
 
@@ -320,7 +320,7 @@ Enciclopedia Temática Planeta. Tomo Botánica, Zoología, Ecología.
 
 Enciclopedia Larouse. Tomo 10.
 
-Julian Querol, Francisca: Masos de Morella. Vida i costums en la dena dels Llivis. Editorial, Morella.Universitat Jaume I. 2006.
+Julian Querol, Francisca: Masos de Morella. Vida i costums en la dena dels Llivis. Editorial, Morella. Universitat Jaume I. 2006.
 
 Paciani, Giovanni: El cultivo moderno y rentable de la trufa. Editorial DE Vecchi, S.A. 1992.
 

@@ -64,6 +64,6 @@ Se aprecia muy bien el empedrado que había en todas las calles.
 
 La foto es del año 1966. En ella aparezco yo recién casada ayudando en el oficio de la familia de mi esposo, en activo durante tres generaciones.
 
-El lugar es en el *Mercat de Sant Anton,i* y la clienta es una vendedora de verduras de cosecha propia llamada *Maria la Mascarosa.*
+El lugar es en el *Mercat de Sant Anton, i* y la clienta es una vendedora de verduras de cosecha propia llamada *Maria la Mascarosa.*
 
 *Paquita.*

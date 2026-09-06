@@ -20,7 +20,7 @@ que als meus xiquets i dona vull abrasar.
 
 Entre el riu Caldes i la Rambla Celumbre hi ha una llanura es Cinctorres molt esbelt i han començat a tirar els murs pa que creixe pla i en hermosura.
 
-Desde fa centuries, la va adorar a la mare de Deu de Gracia nostra patrona, per grans i menuts venerà,lo que em recibit dels nostre avanpasats sapigen transmeti als nostres fills i nets.
+Desde fa centuries, la va adorar a la mare de Deu de Gracia nostra patrona, per grans i menuts venerà, lo que em recibit dels nostre avanpasats sapigen transmeti als nostres fills i nets.
 
 La campana de la Mare de Deu de Gracia la campana de la capella de Sant Lluis Beltrani les campanes de la Iglesia parroquial no paren de volteja i repiquen i repiquen i anuncien que la ermita de la Mare de Deu de Gracia la acaven de inagura, i tots contens i emocionats dieun: que gran i alta a quedat.
 
@@ -36,7 +36,7 @@ Desde mitja nit teixo faixesi no me vull adormir, tinc que teixir molt apressa p
 
 A Cinctorres els faixeros, a Morella els senyorets a Forcall, Todolella i la Mata cusen moltes espardenyes, i ttixen i cusen mocadors de fardo a Portell.
 
-Los quintos de Cantavieja,faja coloradica quieres estrenar, las encargan a Cinctorres pa que empiecen a tejer y a cordonear cuando las tengan hechas vajaremos a recojerlas, y a pagar.
+Los quintos de Cantavieja, faja coloradica quieres estrenar, las encargan a Cinctorres pa que empiecen a tejer y a cordonear cuando las tengan hechas vajaremos a recojerlas, y a pagar.
 
 ## EL JARDÍ
 
@@ -60,5 +60,5 @@ l’ermita de la patrona
 se va acabar de fer.  
 Muntanyes abancalades on verdeja l’ametller  
 L’herbeta de Sant Antoni  
-L’espígol,menta,sàlvia i timonet.  
+L’espígol, menta, sàlvia i timonet.  
 *Reinalda Artola Mestre. Agost 12018*

@@ -14,7 +14,7 @@ També aquestes celebracions en Cinctorres, es diuen: Les Caritats.
 
 Sempre és, en alguna ermita de un Sant determinat, de la sua devoció, que està al camp, dins del terme del poble
 
-El costum és, que, voluntàriament, la persona que per algun motiu particular (normalment en acció de gracies,) s’ofereix, a ser, l’encarregat de sufragar els costs de dita rogativa,i rep el nom de majoral.
+El costum és, que, voluntàriament, la persona que per algun motiu particular (normalment en acció de gracies,) s’ofereix, a ser, l’encarregat de sufragar els costs de dita rogativa, i rep el nom de majoral.
 
 El majoral, uns dies abans, complís amb el ritu de elaborar al forn del poble, el pa beneït, que en cada lloc té un nom, com rotllo o prima. Fet amb massa àzima sense llevat. Com el pa que feien els hebreu.
 
@@ -46,11 +46,11 @@ Es tracta d’un edifici treballat amb maçoneria i pedres carreus als cantons, 
 
 espadanya posterior d’un sols cos i també d’un sol vat La coberta es de teules a dos aigües.
 
-De plata rectangular d’un nau (21´40x8´90 m.)amb quatre trams,marcats per dos arcs faixons apuntats en pedra,mentre el tercer afegit ho es de maçoneria. En el presbiteri hi ha banc corregut i la coberta de fusta
+De plata rectangular d’un nau (21´40x8´90 m.)amb quatre trams, marcats per dos arcs faixons apuntats en pedra, mentre el tercer afegit ho es de maçoneria. En el presbiteri hi ha banc corregut i la coberta de fusta
 
 La seua festa, abans es feia el dia 29 d’abril, actualment es celebra el segon diumenge d’maig.
 
-Està situada, aproximadament a dos km. al S del poble.També es va en processó amb el capella i fidels pel camí que arriba al mas de San Pere, que està just davant de l’ermita i desprès de la missa es fan les benediccions als camps.com sempre s’ha fet. El majoral obsequia als assistents amb una prima beneïda.
+Està situada, aproximadament a dos km. al S del poble. També es va en processó amb el capella i fidels pel camí que arriba al mas de San Pere, que està just davant de l’ermita i desprès de la missa es fan les benediccions als camps.com sempre s’ha fet. El majoral obsequia als assistents amb una prima beneïda.
 
 ## Sant Marc
 
@@ -62,4 +62,4 @@ Construïda per voluntat testamentaria dels cònjuges, Bernat Carbó i Ursola Ce
 
 L’interior mesura (20x8,83m.) recolzada sobre tres arcs de diafragma gòtics i amb l’accés lateral mitjans arc de mig punt i dos finestres de tronera al mateix costat.
 
-La festa sempre s’ha celebrat el dia 25 d’abril. Actualment es fa l’últim diumenge d’abril.Es va caminat des de el poble amb la bandera, el capella i fidels pels camins de ferradura. Hi ha persones, que ho fan en vehicles per la pista que creua, tor el terme..
+La festa sempre s’ha celebrat el dia 25 d’abril. Actualment es fa l’últim diumenge d’abril. Es va caminat des de el poble amb la bandera, el capella i fidels pels camins de ferradura. Hi ha persones, que ho fan en vehicles per la pista que creua, tor el terme..

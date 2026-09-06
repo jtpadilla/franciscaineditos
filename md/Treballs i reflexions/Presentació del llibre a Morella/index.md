@@ -14,7 +14,7 @@ Quan vaig decidir fer el treball d’investigació, al acabar el primer cicle de
 
 És clar que totes les coses canvien i que no es pot parar el temps, però crec que no es deu oblidar, com les dones i homes dels masos tenim que lluitar per ha sobreviure i criar a la família en els seus valors.
 
-Sé que moltes persones de les que estan ací saben d’aquest tema més que jo, també que es queden moltes coses per dir. En poc temps tot ha canviat, moltes vegades a millor,però també crec que els costums son molt importants i no s’han d’oblidar.
+Sé que moltes persones de les que estan ací saben d’aquest tema més que jo, també que es queden moltes coses per dir. En poc temps tot ha canviat, moltes vegades a millor, però també crec que els costums son molt importants i no s’han d’oblidar.
 
 L’últim any que vaig anar a Sant Pere dels LLivis el dia de la seua festa, si no fos per la quantitat de vehicles que hi havia al voltant, pareix que no havia passat el temps. Segueix el costum de beneir el camp com abans i també es segueix portant a l’església el romer amb el que es faran les creus per ha posar-les als camps i així protegir la collita. El dia que tot això s’oblidi, es pedra una part molt important de la nostra cultura i les nostres arrels.
 

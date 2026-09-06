@@ -32,6 +32,6 @@ La **presó** és el que és, difícil d’eixir d’ella.
 
 La **calavera**, la mort, i desprès, el renaixement.
 
-I per fi l’ **Oca** el gran premi, esteu en el seu jardí. Heu arribat a Santiago, heu acabat el Camí. Els joves,mirat al pelegrí li varen dir: com sap vostè el que vol dir? I ell contesta- aquest joc el varen fer els meus germans templaris, i té aquest simbolisme i molts més, sols cal mirar la petjada que deixa la pota d’una oca, té la Creu Tau del Temple, és la seua signatura.
+I per fi l’ **Oca** el gran premi, esteu en el seu jardí. Heu arribat a Santiago, heu acabat el Camí. Els joves, mirat al pelegrí li varen dir: com sap vostè el que vol dir? I ell contesta- aquest joc el varen fer els meus germans templaris, i té aquest simbolisme i molts més, sols cal mirar la petjada que deixa la pota d’una oca, té la Creu Tau del Temple, és la seua signatura.
 
-Els joves pelegrins es miren amb sorpresa, volen preguntar -li alguna cossa mes però... no hi havia ningú,ha desaparegut serà un somni? el que està clar, és si ve el cas, que miraran la petjada d’ una oca, aquesta que sigues de veritat, no dins del joc de l’Oca.
+Els joves pelegrins es miren amb sorpresa, volen preguntar -li alguna cossa mes però... no hi havia ningú, ha desaparegut serà un somni? el que està clar, és si ve el cas, que miraran la petjada d’ una oca, aquesta que sigues de veritat, no dins del joc de l’Oca.

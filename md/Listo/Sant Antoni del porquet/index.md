@@ -14,7 +14,7 @@ Serà per aquest motiu, que tots els anys, el dia de la seua festa ens anem al p
 
 ![](img/image37.jpeg)
 
-Esta vegada, he tingut companyia al carreró, doncs a l’argolla de la casa del costat, on abans es nugava del ramal als animals, ases, burros,mulos, que hi havia a totes les cases del poble, ha estat tota la vesprada, una burreta amb la seua cria, de tant en bramava de bo, fins que li han portat un cabàs d’ordi, jo estava mirant darrere del vidre de la porta, fins que ha sigut de nit i ens em anat a la festa.
+Esta vegada, he tingut companyia al carreró, doncs a l’argolla de la casa del costat, on abans es nugava del ramal als animals, ases, burros, mulos, que hi havia a totes les cases del poble, ha estat tota la vesprada, una burreta amb la seua cria, de tant en bramava de bo, fins que li han portat un cabàs d’ordi, jo estava mirant darrere del vidre de la porta, fins que ha sigut de nit i ens em anat a la festa.
 
 El que menys m’agrada d'aquesta festa, és anar tots el anys a rebre la benedicció del capellá. Els carrers del poble estan plens de gent que porta algun animalet, es veuen corderets, conills, gallines, pollets. Pardalets dins de les gàbies, un ratolí també dins d’una gàbia, cavalls engalanats de festa i altres preparats amb aparells, com els que portaven els traginers.
 
@@ -22,7 +22,7 @@ Quan es fan les deu de la nit, la plaça davant de l’església està plena de 
 
 ![](img/image38.jpeg)
 
-Després caminar per mig poble, com una processó,els cavalls van davant, es té que anar amb conte que no et solten una guitza sols es veuen peus i potes, com et descuides un poc et xafen, fins arribar als porxos de l’ajuntament, on el majoral, dóna a cada persona que porta un animalet una coqueta de panoli, farcida de confitura de carabassa que el capellà ha beneït, i un gotet de aiguardent a qui en vol.
+Després caminar per mig poble, com una processó, els cavalls van davant, es té que anar amb conte que no et solten una guitza sols es veuen peus i potes, com et descuides un poc et xafen, fins arribar als porxos de l’ajuntament, on el majoral, dóna a cada persona que porta un animalet una coqueta de panoli, farcida de confitura de carabassa que el capellà ha beneït, i un gotet de aiguardent a qui en vol.
 
 Aixó no esta bé!!!. Si es la nostra festa; per que no ens dóna la coqueta a nosaltres?.
 

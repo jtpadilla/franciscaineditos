@@ -24,7 +24,7 @@ Segint esta narració que mantén el canonge de la Catedral de València i un am
 
 ## 3. Color i forma
 
-Col-leccionistes i marxans de Barcelona i València,antiquaris de ciutats i viles, coneixen a Mr.Howard Seligmann, el jove director del Museu de Bòston comprador de tota mena d’antiquitats i pintor
+Col-leccionistes i marxans de Barcelona i València, antiquaris de ciutats i viles, coneixen a Mr. Howard Seligmann, el jove director del Museu de Bòston comprador de tota mena d’antiquitats i pintor
 
 Convertí Penyiscola en centre d’operacions, pintava adalerat la llum enlluernadora de la mar, passava la vesprada pintan a Mari Gracia al castell, Aquell retrat no s’acabava mai.
 
@@ -56,7 +56,7 @@ Actualment quan comença el mes de maig es fan les rogatives al terme de Morella
 
 ## 6. L’arc del dimoni
 
-Pels carrers entortolligats i costeruts del poble, puja Climentet, és el geperut. No-res-menys que ne té dues, una al davant i altra al darrere.Les gepes tenen corva com l’arc d’aquell matí, la figura és tan menuda com petit era l’arc del dimoni que va aparèixer al costat de l’arc de Sant Martí. Tornará sa mare volguda a contar-li com va nàixer aquell matí mimbat amb l’arc del diable
+Pels carrers entortolligats i costeruts del poble, puja Climentet, és el geperut. No-res-menys que ne té dues, una al davant i altra al darrere. Les gepes tenen corva com l’arc d’aquell matí, la figura és tan menuda com petit era l’arc del dimoni que va aparèixer al costat de l’arc de Sant Martí. Tornará sa mare volguda a contar-li com va nàixer aquell matí mimbat amb l’arc del diable
 
 Havia plogut moltíssim, després de varies vergonyoses carades de sol, lluïa aquell, la llanterna tota encesa.
 
@@ -64,7 +64,7 @@ Sa mare era al camp amb son pare. De prompte se sentí malalta i lliurà sense a
 
 Aleshores dos arcs ficaren llurs puntes dins la terra i dins la mar. L’un era gran i de set colors vius, era l’arc de Sant Martí, l’altre petit i de colors pal-lids era l’arc del Dimoni, dins de la corva de l’arc menut naixe Climentet.
 
-La supertició, i la llegenda contrasta amb l’incredulitat i la llògica.Però quina persona no mira al cel quan hi ha un arc de set colors lluens i vius? I pot ser, que a leshores mirem si hi ha un altre més menut al costat.
+La supertició, i la llegenda contrasta amb l’incredulitat i la llògica. Però quina persona no mira al cel quan hi ha un arc de set colors lluens i vius? I pot ser, que a leshores mirem si hi ha un altre més menut al costat.
 
 ## 7. Galanies i cobejances
 

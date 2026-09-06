@@ -8,9 +8,9 @@ notas: "Reseña del documental de Philip Gröning sobre la cartuja de la Grande 
 
 ![](img/image1.jpeg)
 
-Silenci, per a que parli,la veu del silenci.
+Silenci, per a que parli, la veu del silenci.
 
-Vaig veure començat aquest film, una nit per la 2 de TVE, em va impressionar,desprès amb el temps no recordava el títol. Aleshores, degut a les classes Anàlisi de textos cinematogràfics, Tendències i perspectives, o ha recordat.
+Vaig veure començat aquest film, una nit per la 2 de TVE, em va impressionar, desprès amb el temps no recordava el títol. Aleshores, degut a les classes Anàlisi de textos cinematogràfics, Tendències i perspectives, o ha recordat.
 
 ## Ficha técnica
 
@@ -58,7 +58,7 @@ El último plano es magistral. El intenso y luminoso cielo azul se difumina, lo 
 
 No sé escribir sobre cine Es la primera vez que lo hago. No me atrevo a calificarlo, a mi me ha impresionado y gustado mucho. Las fotografías son preciosas, el director y su equipo han logrado transmitir de manera singular, sin palabras, el sentido y la religiosidad del film.
 
-*He vist el films dues vegades, m’ha agradat molt. És llarga, cassi tres hores,però crec que han segut ben aprofitades. Transmet pau i serenitat.*
+*He vist el films dues vegades, m’ha agradat molt. És llarga, cassi tres hores, però crec que han segut ben aprofitades. Transmet pau i serenitat.*
 
 ## Premios recibidos
 

@@ -6,7 +6,7 @@ notas: "Les peces de roba antigues heretades de la família. Versió amb l'ortog
 
 # Els meus tresors
 
-De tant en tant faig una ullada als meus “tresors”.Són peces de roba antigues, heretades de la meua família.Les guarde, en una maleta de cuir que coneix les fronteres de mitja Europa, acompanyant en els seus viatges, al jove que anys després serà el meu marit.
+De tant en tant faig una ullada als meus “tresors”.Són peces de roba antigues, heretades de la meua família. Les guarde, en una maleta de cuir que coneix les fronteres de mitja Europa, acompanyant en els seus viatges, al jove que anys després serà el meu marit.
 
 Dins de dita maleta hi ha un saquet de roba ple de fulles de llorer, que cada any canvie i així s’evita que la roba s’arnés.
 
@@ -30,7 +30,7 @@ Però el cobrellit no l’ha lluït mai. Pel meu carrer no passa cap processó i
 
 Per això pot ser m’agraden les festes de Castelló. És un goig veure als membres de les gaiates i gent de la festa amb els vestits típics que porten. Els diferents colors de les faldes i els brodats de manteletes davantals i gipons.
 
-Més que res m’agrada veure la desfilada de les gaiates.L’últim any davant de mi, hi havia una jove vestida de castellonera que té molta gràcia donant la volteta i que portava un vestit preciós! amb una falda brocada de color fúcsia única! amb els tons i caiguda de roba que sols dona l’antigor, molt semblant, al teixit i color del meu cobrellit,i de sobte m’adono, que l’aguardat tant anys per això i no és necessari lluir-lo al balcó, que el seu destí, més aviat és, ser, la falda del vestit de castellonera d’una néta meua. Que tindrà molta gràcia donant la volteta, i que la lluirà, en les processons de la Magdalena.
+Més que res m’agrada veure la desfilada de les gaiates.L’últim any davant de mi, hi havia una jove vestida de castellonera que té molta gràcia donant la volteta i que portava un vestit preciós! amb una falda brocada de color fúcsia única! amb els tons i caiguda de roba que sols dona l’antigor, molt semblant, al teixit i color del meu cobrellit, i de sobte m’adono, que l’aguardat tant anys per això i no és necessari lluir-lo al balcó, que el seu destí, més aviat és, ser, la falda del vestit de castellonera d’una néta meua. Que tindrà molta gràcia donant la volteta, i que la lluirà, en les processons de la Magdalena.
 
 *Paquita*
 

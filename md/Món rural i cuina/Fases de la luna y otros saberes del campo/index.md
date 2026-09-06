@@ -59,7 +59,7 @@ Marzo 25 si no llueve sequía
 
 Abril 3 cambio de masia época donde hay menos trabajo en el campo aún no ha llegado la cosecha.
 
-Cañada, vía pecuaria o assagador que cruza varias provincias,siendo su ancho 75,22 metros.
+Cañada, vía pecuaria o assagador que cruza varias provincias, siendo su ancho 75,22 metros.
 
 Cordel, vía pecuaria que afluye a las cañadas y pone en comunicación dos provincias limítrofes, cuya anchura es 37,61 m.
 

@@ -6,7 +6,7 @@ notas: "Els jocs tradicionals de xiquets amb les seues cançonetes (Bernat Berna
 
 # Els nostres jocs
 
-A vegades creem erròniament que els xiquets necessiten joguets per despertar la seua imaginació, i sols cal recordar els jocs en els que tots hem participat quan érem menuts i es jugaven als carres, places,a les afores, i descampats, sobretot als pobles.
+A vegades creem erròniament que els xiquets necessiten joguets per despertar la seua imaginació, i sols cal recordar els jocs en els que tots hem participat quan érem menuts i es jugaven als carres, places, a les afores, i descampats, sobretot als pobles.
 
 Com a jocs tradicionals coneixem aquest Jocs Populars que de vegades es veuen com si fora una novetat, quan la veritat, sempre ha segut una manera divertida d’aprendre a compartir i veure, que no sempre es pot guanyar.
 
@@ -163,10 +163,10 @@ El joc de la taba que conec es jugava amb l’osset de corder (l’astràgal o t
 
 ### La xata merenguera
 
-Un dels jocs més populars. Les xiquetes formen dos files paral·leles mirant cap al centre. A cada cap de corredor es col·loca un altra xiqueta. Al començar a cantar,de manera rítmica fent palmes les dos que estan a l’extrem del corredor amb les mans a la cintura, es posen a recórrer el passadís, saltant cada una en sentit contrari al de l’altra. Quan acaba la cançó fan el mateix una xiqueta de cada filera, fins que hagin ballat totes:
+Un dels jocs més populars. Les xiquetes formen dos files paral·leles mirant cap al centre. A cada cap de corredor es col·loca un altra xiqueta. Al començar a cantar, de manera rítmica fent palmes les dos que estan a l’extrem del corredor amb les mans a la cintura, es posen a recórrer el passadís, saltant cada una en sentit contrari al de l’altra. Quan acaba la cançó fan el mateix una xiqueta de cada filera, fins que hagin ballat totes:
 
 La xata merengera,  
-(vuit,nou,deu)  
+(vuit, nou, deu)  
 com que és tan fina,  
 (trico, trico, tras)  
 com que és tan fina,  
@@ -180,7 +180,7 @@ lairo, lairo, lairo, lairo, lairo.
 
 ### Les maces
 
-El joc de les maces sols era una vegada a l’any, la resta de temps estaven guardades,fetes de fusta,rodones amb mànec,i de mesura diversa. El dissabte de gloria, a les deu del matí desprès que el Nostre Senyor ha ressuscitat, el capellà feia un recorregut per tots els carrers, i casses del poble o parròquia, acompanyat pels coteros o escolanets, beneint les casses que tenien la porta oberta amb aigua beneïda i també tirava un polset de sego, li donaven o bé una moneda i un ou que ficaven a un calderet. Els xiquets amb les masses a la porta que estava tancada li pegaven colps fins que l’obrien i anaven cantant:
+El joc de les maces sols era una vegada a l’any, la resta de temps estaven guardades, fetes de fusta, rodones amb mànec, i de mesura diversa. El dissabte de gloria, a les deu del matí desprès que el Nostre Senyor ha ressuscitat, el capellà feia un recorregut per tots els carrers, i casses del poble o parròquia, acompanyat pels coteros o escolanets, beneint les casses que tenien la porta oberta amb aigua beneïda i també tirava un polset de sego, li donaven o bé una moneda i un ou que ficaven a un calderet. Els xiquets amb les masses a la porta que estava tancada li pegaven colps fins que l’obrien i anaven cantant:
 
 Ous i diners,  
 que el retor,  

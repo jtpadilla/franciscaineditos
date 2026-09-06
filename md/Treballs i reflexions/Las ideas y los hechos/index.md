@@ -10,7 +10,7 @@ Creo que las ideas son importantes, no podemos hacer nada sin antes pensarlo. Lu
 
 ![](img/image1.jpg)
 
-Luego los pensamientos y las ideas que en un momento dado fueron fugaces cuando se han realizado y resultan satisfactorias,antes, en el pensamiento, ya han sido analizadas sin darnos cuenta,y ha quedado en la memoria la mejor opción.
+Luego los pensamientos y las ideas que en un momento dado fueron fugaces cuando se han realizado y resultan satisfactorias, antes, en el pensamiento, ya han sido analizadas sin darnos cuenta, y ha quedado en la memoria la mejor opción.
 
 En el caso de la imagen anterior el pastor o labrador que construyó la pared divisoria y después la barraca, fue primero una idea, y después un hecho.
 

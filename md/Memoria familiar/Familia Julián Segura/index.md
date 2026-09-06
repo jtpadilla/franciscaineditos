@@ -21,7 +21,7 @@ Apellidos: Segura Ferrer.
 
 Manuel Segura y Montserrat hijo de Vicente Segura y Vicenta Monserrat de Cinctorres. Casado con: Felipa Ferrer Sorolla de Portell, hija de Francisco Ferrer y Teresa Sorolla de Portell.
 
-¿1818. Vicente Segura Ferrer. Sin mas informacion de su fecha de nacimiento.Con su matrimanio con Maria Mestre de Castellfort se inicia nuestra familia a partir del libro de Bautismos de la Parroquia de Cinctorres, en el que tenemos informacion mas detallada de la fecha de nacimiento de los demas mienbros de la familia.
+¿1818. Vicente Segura Ferrer. Sin mas informacion de su fecha de nacimiento. Con su matrimanio con Maria Mestre de Castellfort se inicia nuestra familia a partir del libro de Bautismos de la Parroquia de Cinctorres, en el que tenemos informacion mas detallada de la fecha de nacimiento de los demas mienbros de la familia.
 
 ![C:\Users\Paquita\Desktop\archiu 044.JPG](img/image1.jpeg)
 
@@ -36,7 +36,7 @@ Apellidos: Segura Mestre.
 
 Vicente Segura Ferrer hijo de Vicente Segura y Felipa Ferrer casado con Maria Mestre hija de Tomas Mestre y Ana Maria Benlliure de Castellfort.
 
-I839. 20 de Abril.Nace Manuela Segura Mestre, hija de Vicente Segura y Maria Mestre.de Castellfort.
+I839. 20 de Abril. Nace Manuela Segura Mestre, hija de Vicente Segura y Maria Mestre.de Castellfort.
 
 1841\. 20 Septiembre. Nace, Felipa Segura Mestre hija de Vicente Segura y María Mestre de Castellfort.
 
@@ -51,7 +51,7 @@ Aquí empieza los apellidos Julián Segura.
 186… Felipa Segura Mestre se casa con Ramón Julián de Morella.
 
 Hijos:  
-Antonio.Julián Segura casado con …………………  
+Antonio. Julián Segura casado con …………………  
 Hijos:  
 Ramona,  
 Pepet, (padre de Lucas)  
@@ -84,11 +84,11 @@ Antonio
 Maria  
 Bernardo. Julián Segura. Soltero
 
-En el testamento dotan a Antonio el mayor (l,amillorat) con el mas de Julián.
+En el testamento dotan a Antonio el mayor (l, amillorat) con el mas de Julián.
 
 Ramón murió en Cuba.  
 A Josep le dotan con 400 duros.  
-María.La casa de Morella.
+María. La casa de Morella.
 
 Bernardo Maset de Conill más tarde conocido como Maset de Benardo en Cinctorres.
 

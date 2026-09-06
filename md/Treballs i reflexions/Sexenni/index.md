@@ -18,7 +18,7 @@ El año del Sexenio empieza con el recibimiento que se hace a los morellanos aus
 
 El carácter festivo y cívico-religioso lo componen el Novenario que cada día está protagonizado, organizado y financiado por un gremio distinto; cada gremio aporta al conjunto de las procesiones y al propio “retaule” la procesión cívico-religiosa y sus danzas representativas.
 
-El adorno de las calles, es objeto de un laborioso trabajo realizado por los vecinos de cada calle por donde pasa el retaule de forma callada y continua durante noches de trabajo en la que participan todos los miembros de la calle,el trabajo está compuesto por papel rizado de distintas maneras, "fulleta'' "caracolillo'' " pelusa'' que cubrirán los moldes y armazones del tema escogido como un tapiz, y que solo los vecinos que lo hacen conocen, lo trabajan durante todo el año desde l’Anunci hasta el Sexenni.
+El adorno de las calles, es objeto de un laborioso trabajo realizado por los vecinos de cada calle por donde pasa el retaule de forma callada y continua durante noches de trabajo en la que participan todos los miembros de la calle, el trabajo está compuesto por papel rizado de distintas maneras, "fulleta'' "caracolillo'' " pelusa'' que cubrirán los moldes y armazones del tema escogido como un tapiz, y que solo los vecinos que lo hacen conocen, lo trabajan durante todo el año desde l’Anunci hasta el Sexenni.
 
 A partir del primer día de fiestas, cada día de la semana lleva consigo misa solemne, y el Retaule del gremio correspondiente, todos los gremios recorre el mismo itinerario por las calles de la ciudad adornadas de distinta manera.
 

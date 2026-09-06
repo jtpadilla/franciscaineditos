@@ -26,4 +26,4 @@ El gremi dels Sogers de Castello abastie de fibra de canem a lae reials fabrique
 arros  
 origen Sureste de Xina,
 
-L,ajuntamen de Castello degunt a una haretat que va rebre en 1911 de casi de 384 hectáreas en el lloc denominat Prado o Cuadro forme el Coto Arrocer al que veins conlindans tambe se sumen. en 1924 se constituir la Primitiva Arrocera.En els añys 1940 ¡ 1950 0 la produccio estave en auge despre degut al poc rendiment i insalubritad lájuntamen varen aconsellar la desecasio del coto arrocer em 1969
+L,ajuntamen de Castello degunt a una haretat que va rebre en 1911 de casi de 384 hectáreas en el lloc denominat Prado o Cuadro forme el Coto Arrocer al que veins conlindans tambe se sumen. en 1924 se constituir la Primitiva Arrocera. En els añys 1940 ¡ 1950 0 la produccio estave en auge despre degut al poc rendiment i insalubritad lájuntamen varen aconsellar la desecasio del coto arrocer em 1969
