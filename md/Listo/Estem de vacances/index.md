@@ -28,4 +28,4 @@ Per la vesprada, la gosseta i la seua ama estan les dos assegudes a uns bancs qu
 
 Però Babsy m’ho conta a mi tot. Les persones es creuen que nosaltres no veiem res, i sabem tot el que es diu i es fa al nostre voltant. Ahhh si parlarem!
 
-*Listo.*
+*Listo*

@@ -22,4 +22,6 @@ Aleshores, el xiquet menut va dir que una ovella s’havia perdut i que estava a
 
 La meua ama, deia que el corderet es moriria amb la pluja, i que hi havia d’avisar-li. Els altres deien que era una exagerada i que els animals per instint, saben què han de fer. Després d’una bona discussió, ja tens al germà, remugant amb el paraigües, a dir-li al pastor, (que cada vegada estava més allunat,) el que havia ocorregut, i ell sense immutar-se va contestar que ja ho sabia. Total, a la meua ama, li van dir tots enfadats, que cadascú sap de la seua faena i que aixó era una lliçó, està clar que no et pots ficar en camisa d’onze vares
 
-Veurem si un altra vegada ho recordarem. Listo
+Veurem si un altra vegada ho recordarem.
+
+*Listo*

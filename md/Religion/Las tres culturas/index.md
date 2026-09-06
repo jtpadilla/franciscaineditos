@@ -6,7 +6,7 @@ notas: "Respuestas a un cuestionario del curso (ejercicios 1 a 4)."
 
 # Las tres culturas
 
-## EJERCICIO 1. Contesta verdadero o falso:
+## Ejercicio 1. Contesta verdadero o falso:
 
 1. Falso
 
@@ -18,7 +18,7 @@ notas: "Respuestas a un cuestionario del curso (ejercicios 1 a 4)."
 
 5. verdadero
 
-## EJERCICIO 2. Observa una noticia gráfica y contesta:
+## Ejercicio 2. Observa una noticia gráfica y contesta:
 
 ¿En qué zonas geográficas o Comunidades hay mayor concentración de genes judíos Sefardíes?
 
@@ -52,11 +52,11 @@ Lee los documentos anteriores y completa el vocabulario:
 
 8\. F
 
-## EJERCICIO 4
+## Ejercicio 4
 
 Conquista Musulmana, Waliato, Reinos Taifas, Califato Córdoba, Dominio Almorávide, Almohade, Nazarí Granada, Terceros Taifas, etc.
 
-## EJERCICIO 5. Di si son verdaderas o falsas las siguientes afirmaciones:
+## Ejercicio 5. Di si son verdaderas o falsas las siguientes afirmaciones:
 
 1. verdadero
 
@@ -74,7 +74,7 @@ Conquista Musulmana, Waliato, Reinos Taifas, Califato Córdoba, Dominio Almoráv
 
 8. verdadero
 
-## EJERCICIO 6
+## Ejercicio 6
 
 **Musulmán:** Mezquita, Mahoma, Mudéjar, Árabe, Alfaquí
 
@@ -82,7 +82,7 @@ Conquista Musulmana, Waliato, Reinos Taifas, Califato Córdoba, Dominio Almoráv
 
 **Cristiano:** Iglesia, Papado, Obispo, Romance, Mozárabe
 
-## EJERCICIO 7. Contesta a estas preguntas:
+## Ejercicio 7. Contesta a estas preguntas:
 
 ¿Qué dos cosas quería provocar el papa Urbano II?
 
@@ -104,7 +104,7 @@ Jerusalén, Santiago y Roma
 
 A la Corona de Aragón
 
-## EJERCICIO 8. Lee el documento 7 y completa la siguiente frase:
+## Ejercicio 8. Lee el documento 7 y completa la siguiente frase:
 
 Los musulmanes invocaban el nombre de \_ALÁ\_ y su profeta \_\_MAHOMA\_\_. Desde
 
@@ -112,7 +112,7 @@ el \_\_MINARETE\_\_ el \_MUECÍN\_ llamaba a la oración para convocar a los \_M
 
 a la \_MEZQUITA\_. Los judíos lo hacían en la \_\_SINAGOGA\_\_.
 
-## EJERCICIO 9
+## Ejercicio 9
 
 En España: Santiago, Toledo, Sevilla, Córdoba y Granada
 
@@ -126,7 +126,7 @@ En Turquía: Constantinopla
 
 En Israel: Jerusalén
 
-## EJERCICIO 10
+## Ejercicio 10
 
 ARABE ROMANCE HEBREO LATIN
 
@@ -138,7 +138,7 @@ ARABE ROMANCE HEBREO LATIN
 
 ![](img/image4.png)
 
-## EJERCICIO 11
+## Ejercicio 11
 
 Mozárabe-Comes-Iglesia
 
@@ -146,13 +146,13 @@ Judío-Torá-Sinagoga
 
 Musulmán-Alfaquí-Mezquita
 
-## EJERCICIO 12
+## Ejercicio 12
 
 En la ciudad cristiana amurallada de Valencia, hay dos barrios internos diferenciados con otras murallas que son: JUDERIA Y MORERIA
 
 Si la ciudad fuera musulmana, por ejemplo Sevilla; ¿qué dos barrios quedarían diferenciados? JUDERÍA Y MOZÁRABE
 
-## EJERCICIO 13
+## Ejercicio 13
 
 ¿Cuál era el objetivo de la Inquisición?
 
@@ -166,7 +166,7 @@ Toledo
 
 Dominicos y Franciscanos
 
-## EJERCICIO 14: Completa las frases siguientes:
+## Ejercicio 14: Completa las frases siguientes:
 
 La desconfianza de la \_CURIA ROMANA\_\_ a la recuperación de la tradición
 
@@ -180,13 +180,13 @@ haciendo caso de los dictados de la Universidad de \_PARÍS\_ y la creación de 
 
 de la cristiandad.
 
-## EJERCICIO 15. Une las columnas:
+## Ejercicio 15. Une las columnas:
 
 Moriscos-1609-Felipe III
 
 Judíos-1492-Reyes Católicos
 
-## EJERCICIO 16
+## Ejercicio 16
 
 Sopa de letras. Encuentra las tres culturas y cuatro ciudades nombradas en los documentos:
 
@@ -204,10 +204,10 @@ Sopa de letras. Encuentra las tres culturas y cuatro ciudades nombradas en los d
 | | | R | | | | | | | | | |
 | | | | | | | | | | | | |
 
-## EJERCICIO 17
+## Ejercicio 17
 
 Tras la expulsión de los judíos en 1492, unos 120.000 judíos se refugiaron en el sur de Portugal
 
-## EJERCICIO 18
+## Ejercicio 18
 
 Los **musulmanes** invaden en el año **711** la **península ibérica**. Mantienen su **dominación política** hasta el avance de los **reinos cristianos** en los **siglos XIII-XIV** quedando en sus tierras los llamados **mudéjares**. En **1492** son expulsados del **Reino Nazarí de Granada**, siendo obligados a convertirse (** moriscos**) hasta su expulsión definitiva en **1609**.

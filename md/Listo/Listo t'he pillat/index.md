@@ -20,4 +20,4 @@ Vaig estar baix del llit fins es va fer de nit i no podia aguantar el pis, així
 
 Es clar que tinc que anar amb conte, i quan tornaré a veure l’habitació oberta faré altra vegada, una bona dormideta, escoltaré si s’obri la porta de casa per a poder fugir apressa. Es dorm tant bé al seu llit!! es tan gran!! que és un llàstima no aprofitar-ho.
 
-*Listo.*
+*Listo*

@@ -38,7 +38,7 @@ A Cinctorres els faixeros, a Morella els senyorets a Forcall, Todolella i la Mat
 
 Los quintos de Cantavieja, faja coloradica quieres estrenar, las encargan a Cinctorres pa que empiecen a tejer y a cordonear cuando las tengan hechas vajaremos a recojerlas, y a pagar.
 
-## EL JARDÍ
+## El jardí
 
 Cinctorres té un jardí,  
 De clavells i roses fines  

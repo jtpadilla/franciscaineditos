@@ -35,7 +35,7 @@ Carrer de la meua infància.
 
 ![](img/R-120.jpg)
 
-Ay!!!carrer de Gemec o costereta de la Font de la Vila. On les dones pujaven amb els cànters plens d’aigua recolzats en la capçana al costat del seu cos.
+Ay!!! carrer de Gemec o costereta de la Font de la Vila. On les dones pujaven amb els cànters plens d’aigua recolzats en la capçana al costat del seu cos.
 
 Si el empedrat del esglaons parlaren…
 

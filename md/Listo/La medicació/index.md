@@ -22,4 +22,4 @@ Espero que la medicació dure un temps. Hi ha dies que si no té formatge, la pa
 
 Qui no es conforma, perque no vol.
 
-*Listo.*
+*Listo*

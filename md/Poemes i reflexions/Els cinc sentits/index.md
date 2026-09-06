@@ -10,7 +10,7 @@ notas: "Hi havia dues còpies idèntiques (l'altra al pendrive), eliminada una."
 
 *Hui al matí quan m’he despertat, volia tornar-me a dormir i somiar un altra vegada.*
 
-## I VEURE
+## I veure
 
 L’espectacle del sol naixent.  
 El cel del meu poble, blau, com el mantell de la Verge de Murillo  
@@ -23,7 +23,7 @@ El lluminós groc de la flor d’argelaga, com un premi a la mata que quan despr
 El roig de les roselles, que pareixen gotes de sang i vida  
 La majestuositat de les muntanyes.  
 
-## I ESCOLTAR
+## I escoltar
 
 El feble moviment dels arbres.  
 El run-run de les abelles treballant.  
@@ -36,7 +36,7 @@ El rugit dels trons a la tempesta.
 El sorprenent so de l’eco quan et contesta  
 El bufit del vent.  
 
-## I OLORAR
+## I olorar
 
 L’espígol, que em recorda els armaris perfumats de ma mare  
 La saborija que es fica a les olives trencades.  
@@ -49,7 +49,7 @@ L’herba sana dels ribassos
 El perfum de les violetes  
 L’olor de la terra banyada.  
 
-## I ASSABORIR
+## I assaborir
 
 La dolçor de la mel.  
 Les mores dels esbarzers.  
@@ -62,7 +62,7 @@ Les cireres recent collides.
 Els aranyons madurs.  
 L’extraordinari sabor de la tafona com condiment.  
 
-## I ACARICIAR
+## I acariciar
 
 El rugós tronc de les carrasques.  
 L’estrany tacte dels líquens.  

@@ -46,4 +46,4 @@ GALA: Doncs la meua ama i jo, crec, que com tots els anys ens anirem a la platja
 
 LISTO: Que bé! a mi segur em donaran a tastar llonganissetes, botifarres seques i xorissets, com sempre, que bones estan!!!
 
-*Listo.*
+*Listo*

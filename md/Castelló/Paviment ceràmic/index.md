@@ -51,5 +51,4 @@ Aquest colors s’utilitzaven en totes les manufactures i fabriques.
 
 Per aconseguir les diferents games de colors és, feien diferents mescles i pinzellades més o menys aiguades i la temperatura adequada del forn.
 
-dimarts, 6 / octubre / 2009. Paquita.  
-1
+*dimarts, 6 / octubre / 2009. Paquita*

@@ -5,8 +5,7 @@ notas: "Poema. Hi havia una còpia anterior en txt a 'palmira', eliminada. El te
 ---
 
 # Pedra
-
-# Pedra  
+  
 Sempre pedra  
 Fent esglaons de pedra vaig les muntanyes.  
 cosint pedaços de diferents colors.  

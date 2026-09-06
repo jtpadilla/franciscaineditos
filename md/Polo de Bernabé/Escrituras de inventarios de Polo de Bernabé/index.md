@@ -35,6 +35,7 @@ En el intermedio de las dos entradas es saguanes (¿):
 4. Otrosí: una auca grande con serraja y llave en tres libras.
 
 **En el entresuelo:**
+
 5. Quatro sillas de pino, una de ellas de nogal con cuerdas de esparto muy usadas en una libra.
 
 6. Otrosí: una mesa de pino con dos caxones sin llave en diez y seys sueldos.
@@ -48,15 +49,19 @@ En el intermedio de las dos entradas es saguanes (¿):
 10. Otrosí: una auca menor que de costal, de pino con serraxa y llave en catorze sueldos. [f. 5v]
 
 **En la bodega de debaxo la escalera:**
+
 11. Una tenaxa de diez y seys cantaros en diez sueldos.
 
 **En la bodega junta al entresuelo:**
+
 12. Tres gamellas y dos palas de madra en cinco sueldos.
 
 **En el corral eo Cavalleriza:**
+
 13. Una segur en diez sueldos.
 
 **En el granero principal:**
+
 14. Seys tablas de nogal en una libra quatro sueldos.
 
 15. Otrosí: treze tablas de pino en diez y nueve sueldos y seys.
@@ -300,6 +305,7 @@ En el cuarto sobre la cama.
 123. Una cortina a viras de lana, e hilo.
 
 **En cuyo estado la contenida Doña Josepha [f. 12r] María Fabra en dichos nombres sobreseyó por ahora en el presente inventario con intención de proseguirle hasta su finalización. Y a todo se hallaron presentes por tiempos Balthazar Safont de Juan y Joseph Cantavella Mancebo, de esta dicha Vlla vecinos y moradores. Y la dicha otorgante (a quién yo el escrivano doy fee conozco) lo firmó= Doña Josepha Mara Fabra = Ante mi Pedro Benito Cantavella.**
+
 3ª Jornada)
 
 En la villa de Vistabella a los diez y nueve dias del mes de Noviembre de ml setecientos y setenta y dos años. Doña Josepha Maria Fabra viuda del Doctor Don Joseph Joaquín Polo de Bernabé en los nombres que interviene en los principiados inventarios de la universal herencia del dicho su difunto marido; continua el manifiesto de los [f. 12v] bienes recayentes en aquella en la forma siguiente.
@@ -803,6 +809,7 @@ En el escritorio de nogal del recibidor con doze gavetas y diferentes secretos; 
 351. Un tintero y arenero de bronze grandes.
 
 **En un armario grande de dicho recibidor.**
+
 352. Dos linternas grandes de oja de llanda con sus vidrios.
 
 353. Ciento y veynte y dos piezas de vidrio ordinario; vasos y otras.
@@ -1562,6 +1569,7 @@ En cuyo estado la contenida Dona Josepha María fabra en los nombres que intervi
 Jornada 8ª) En la villa de Vistabella a los veynte y quatro días del mes de noviembre de mil setecientos y setenta y dos años. Dona Josepha María Fabra viuda del Doctor Don Joseph Joaquín Polo de Bernabé y Araguete, vecina de esta villa; en los respective nombres que va continuando el presente inventario de los bienes, derechos y acciones de la heren[f. 72v]cia de su difunto marido, y baxo el juramento que sobre ello tiene fecho; lo continua, en la forma y por el orden siguiente.
 
 **Bienes sitios en el término de la villa de Luzena.**
+
 629. Mediante escritura por ante mi el presente escrivano a los veynte y ocho dias del mes de deciembre de mil setecientos y sesenta y dos años; Joseph Aycart labrador y vecino de dicha villa de Luzena, otorgó venta a favor de Polo, de la metad de la casa masía, y metad de los corrales de ellas, dicha vulgarmente La Masía de Timor, propria del otorgante vendedor en el partido de les Torroselles. E otrosí: de la heredad dicha masía por delante de la casa de esta, sus lindes; con dicha casa y corrales; con la heredad [f. 73r] de debaxo el callejón, camino en medio que sube a la v illa de Chodos; con tierras de la heredad de María Aycart con tierras de la masía dicha de Tarasona, y con tierras de la dicha Masía del Timor. Por precio de doscientas y cinquenta libras; y baxo la reserva, eo carta de gracia de poder recobrar dicha heredad y demás edificios vendidos, dentro el plazo de nueve años, haciendo restitución del citado precio. I mediante escritura por ante mi el escrivano en dicho citado día; el mencionado Polo comprador, otorgó arrendamiento de los nominados bienes; por tiempo de nueve años continuos, y subsiguientes; por precio annuo de dos cahizes y seys barchillas de trigo, pagadores en el dia quinze de agosto, durante dicho arrendamiento. Y es de notar, que el (¿) el día está siguiendo pleyto la presente herencia por [f. 73v] vía de execución, por el recobro de los arrendamientos vencidos y otros debitos, a la qual se halla oppuesto Don Carlos Grau de Adzeneta, dueño que dize ser de la referida masía; y sobre possessión de ella, ante la justicia de la dicha de Luzena.
 
 Bienes sitios de Cabanes pertenecientes a la presente herencia.
@@ -1633,88 +1641,171 @@ Censo de Don pedro Juan Madramany de la Alcudia de Carlet.
 Manifiesto que hace la otorgante (baxo el juramento que fecho tiene) con declaración y adnotación de las alaxas, ropas y vestidos; xoyas de plata y otro que se hallan dentro la casa de su habitación; parte de cuyos muebles traxo a ella, eo a dicha casa por proprio ajuar heredado de sus difuntos padres; y parte hechos durante el matrimonio: Y para mayor claridad y comprensión de unos y otros; los primeros se distinguirán de [f. 79v] los segundos con la letra = A = puesta al marxen en lugar de número; significativa, de antes del matrimonio, Y los segundos con la letra = D = figurativa, durante el matrimonio. Baxo cuya inteligencia, passa a executarlo en la forma siguiente.
 
 **A. Quatro lienzos de las imágenes de San Pedro Martir; la Sagrada Familia = el Niño Jesús = y San Francisco de Pádua.**
-**> A. Una arquimesa, eo escritorio inglés de nogal, con diferentes departamentos, eo caxones.**
-**> A. Un aguamanil de estaño con su grifo.**
-**> A. Un rallo grande de hierro.**
-**> A. Una cazuela grande de arambre estañada.**
-**> A. Otra pequeña de lo mismo.**
-**> A. Un caldero mayor que ninguno de los adnotados en el cuerpo de [f. 80r] este inventario.**
-**> A. Tres dozenas de vasos de christal, nuevos.**
-**> A. Un bahúl grande forrado de piel de toro, con serraxa y llave.**
-**> A. Otro pequeño, eo de costal de lo mismo, serraxa y llave.**
-**> A. Una arca grande de pino con su serraxa y llave**
-**> A. Dos goteras corladas y pintadas.**
-**> A. Una mesa de nogal, pequeña.**
-**> Vestidos.**
-**> D. Un guardapies de espolín de oro, campo, color de leche.**
-**> A. Otro de espolín de plata campo azul.**
-**> D. Otro de seda, alistonado, verde de Pussia, y blanco, con flores menudas.**
-**> D. Otro de tafetán a llamas.**
-**> D. Otro de melania azul, con puntilla de oro.**
-**> D. Una basquina de medio carro de [f. 80v] oro, con guarnición de la mesma ropa.**
-**> A. Una bata de melanía azul, con guarnición de plata.**
-**> A. Una casaca de chamellote, negra.**
-**> A. Una capeta de grana, con puntilla de plata.**
-**> D. Otra de rasillo de color de rosa.**
-**> D. Otra de Pelfilla, negra.**
-**> D. Un cabriolé de vayetón de color de pelo de rata, a motas verdes y azules.**
-**> A. Dos mantos de tafetán de Francia, con encaxes.**
-**> D. Otro mas ordinario también de tafetán.**
-**> D. Tres marchas, eo delantales de tafetán negro; los dos con guarnición de lo mesmo y el otro de blonda.**
-**> D. Otro = un peto = paletina de raso lisso con bordaduras, y guarnición de plata y seda. [f. 81r]**
-**> A. Un manguito de terciopelo negro.**
-**> D. Quatro mantellinas de christal = De franela = de Mosulina fina = y basta.**
-**> A. Un cobertor, y rueda = cama de Damazco azul, con puntilla de seda.**
-**> A. Otro de alducar y seda, verde con puntilla blanca y naquerada.**
-**> A. Un cubrimesa de Indiana = una toalla de seda de diferentes colores = y un delantal, y pañuelo blanco de escumilla.**
-**> 3 A 2 D. Cinco avanitos; los quatro de marfil y el otro de palo=santo.**
-**> A. Una colcha de Indiana nueva.**
-**> 68 A. 6 D. Veynte y quatro camisas; las ocho de lienzo fino; y las demás de lienzo casero, con mangas de tela.**
-**> 9 A. 3 D. Doze enaguas, las quatro con encaxe = quatro con franjas =y quatro ordinarias.**
-**> A. Doze fundas de almoada buenas y finas.[f. 81v]**
-**> A. Una savana de cambray fino, con encaxe.**
-**> A. Quatro fundas; las dos pequeñas con encaxe.**
-**> A. Quatro fundas para almoadas de Indiana.**
-**> A. Un tapete de clarín a rayas con encaxe.**
-**> A. Dos dozenas de savanas; las seys de lienzo de compra, y las restantes de lienzo de casa.**
-**> A. Ocho toallas; las dos ordinarias; y las demás finas.**
-**> A. Tres dozenas de servilletas entre bastas, y finas.**
-**> A. Seys enjugamano de linete.**
-**> D. Una bata de Indiana usada.**
-**> A. Una alfombra, ropa antigua.**
-**> A. Una toalla de lienzo, usada, con encaxe.**
-**> A. Dos galterets, eo funditas de lienzo delgado. [f. 82r]**
-**> D. Un sombrero fino con plumas, y puntilla de plata.**
-**> A. Cinco láminas con sus vidrios.**
-**> A. Dos cruzes; y dos relicarios pequeños.**
-**> Oros y plata.**
-**> D. Una sortixa de oro, con su esmeralda, y dos diamantes.**
-**> A. Otra de oro con esmeralda.**
-**> A. Otra de oro con dos piedras moradas.**
-**> D. Unos pendientes de oro con piedras verdes.**
-**> A. Una xoya de oro, guarnecida de perlas, de Santa María Magdalena.**
-**> A. Un relicario sobredorado, con las imágenes de Jesús y María.**
-**> A. Un leoncillo de plata con sus cascabelillos.**
-**> D. Una virgen del Pilar, sobredorada.**
-**> A. Dos relicarios sobre marfil, engastados de plata, con las imágenes de Jesús y María. [f. 82v]**
-**> A. Un llavero de plata.**
-**> A. Noventa onzas de plata obrada, de las quales se ha hecho mención en el cuerpo de este inventario al nº (---) contadas y pesadas, con la de la presente herencia.**
-**> A. Una olla de bronze grande.**
-**> A. Un plato grande de estaño.**
-**> Bienes sitios que la otorgante dize haver heredado de sus difuntos padres, y le fueron adjudicados, en la escritura de partición por ante Joseph Ballester escrivano en veynte y uno de febrero del año mil setecientos y quarenta y siete, posteriormente a sus cartas de bodas con dicho su difunto marido, authorizadas por mi el presente escrivano baxo cierto chalendario: de los quales sitios, notará la otorgante en el presente manifiesto, ahún los que ya tiene dádos y concedidos a su hija Doña María Manuela Polo, y Fabra, en sus cartas de bodas [f. 83r] con Don Joaquín Miguel y Lluys su actual marido, recibidas por mi el escrivano a los tres dias del mes de abril del año mil setecientos y setenta; con el fin, y motivo, que se tenga presente el valor de dichos sitios Donados; al tiempo de la divición hacedera entre la otorgante y sus hijos; para compensarse de igual cantidad, en los gananciales hechos durante el matrimonio de la otorgante; y para los demás fines y efectos que en derecho puedan aprovecharla, de que protesta usar y valerse en su caso, y lugar. E igualmente adnotará las deudas que tomó a su cargo, y le fueron adjudicadas en la citada partición ante el contenido escrivano Ballester; las quales fueron redimidas, durante dicho matrimonio de la otorgante, para los mismos fines de suso (¿) empresador. Baxo [f. 83v] cuyas protestas, lo executa en el modo y forma siguiente.**
-**> Primeramente manifiesta una heredad con dos norias; una casa de campo y una hera de trillar, todo junto, y contiguo, sito en la huerta y término de la villa de Benicarló, en el partido del convento, sus lindes por entero, de un lado, con la heredad noria de Francisco Serdà; y del otro con la heredad noria de Francisco Senar; de un cabo, con el camino de Calig; y del otro, con el camino dels Mallols.**
-**> Otrosí: un patio nombrado, el corralet, con algunos cubiertos, sito en el poblado de dicha de Benicarló en la calle del Trinquet, que linda de lados, con las casas de Jayme Angles y de Juan Artola; por las espaldas con la casa de la viuda de Vicente Masip; y por delante con la [f. 84r] casa arriba deslindada dicha calle en medio.**
-**> Bienes donados en bodas a Doña María Manuela Polo y Fabra.**
-**> Otrosí: una heredad viña, sita en dicho término de Benicarló en la partida del mas dels Gumbaus llamada vulgarmente, La Viña del Albercoquer, sus lindes; por los dos cabos con heredad de Mariano Masip y viuda de Bartholome Balaguer y por los lados con heredades Antonio Foyx y de Joseph Fibra. La qual viña le fue dada a la contenida Doña María Manuela en precio, y estimación de qunientas setenta y tres libras, treze sueldos y ocho dineros como consta de las cartas de bodas ya citadas.**
-**> Otrosí: otra heredad viña nueva, sita [f. 84v] en dicho término, al partido del Mas de Gombau que linda por entero, con heredad del Doctor Frey[^60] Don Pasqual Fabra; con otra de Joseph Bretó, por los dos lados; y por los cabos con heredad del dicho Frey Don Pasqual Fabra y heredad de Pablo Segarra la qual también le fue dada en bodas a la citada Doña María Manuela, en precio, y esimación de seyscientaas y sesenta libras; y a la otorgante le vino y perteneció por la escritura de Donación que a su favor otorgó el referido Doctor Frey Don Pasqual Fabra su hermano, authorizada por Roqe Peres escrivano de Valencia, a los veynte días del mes de abril de mil setecientos y sesenta y dos años.**
-**> Otrosí: Otra viña también dada y concedida en bodas a la referida [f. 85r] Doña maria Manuela Polo, y Fabra, en precio de doscientas libras, sita y puerta en em termino de benicarló, dicha el Llansolet, en la partida del Collet, sus lindes, por los dos lados, con heredades de Francisco Angles y Francisco Febrer; y por los cabos con Rio, y heredad de Francisco Angles.**
-**> Otrosí: También le fue adjudicada a la otorgante en la citada partición por ante el dicho Ballester una heredad olivar, sita en el término de la ciudad de Peñiscola en parte de pago de la legítima materna, por precio de ciento y treynta libras; cuya heredad después vendió la otorgante a Isidoro Redolat de Benicarló; de cuyo precio se originó el censo de ciento y treynta libras de capital, otorgado por el mencionado Redolat, a favor de la otor[f. 85v]gante, según escritura ante el dicho Joseph Ballester escrivano a los dos dias del mes de octubre del año mil setecientos y quarenta y ocho. Cuyo censo igualmente se le transfirió a la contenida Doña María Manuela en la citada Donación de bodas. De forma; que unida la estimación de las quatro partidas antecedentes, toman la suma de mil quinientas setenta y tres libras treze sueldos y ocho dineros. Y aunque a la misma Donataria se le dieron y cedieron en parte de pago de las cinco mil libras total importe de su Donación; el censo de propriedad de ciento y ochenta libras, que correspondía Francisco Angles de Benicarló, según escritura ante Pablo Segarra escrivano en dos de octubre del año mil setecientos y cinquenta y quatro = treynta libras que el cita[f. 86r]do Angles estava debiendo de pensiones vencidas de dicho censo = ciento y setenta libras que debia a los Donadores Pedro Vicente Maneç de Alcalà de Chivert, restantes de las ciento y noventa que confesó deber mediante escritura de obligación ante Joseph Juan escrivano a los diez y nueve dias del mes de setiembre de mil setecientos y sesenta = ochenta y quatro libras en el valor y precio de una heredad sita en el término de dicha villa de Alcalà junto a la Balza, camino de benicarló, según va lindada en dicha escritura de bodas = ocho libras que deve Miguel Barceló labrador de dicha de Alcalá, arrendatario de dicha heredad = Y ultimamente trece libras seys sueldos y quatro dineros restantes al cumplimiento de dichas cinco mil libras en dinero = estas seys par[f. 86v]tidas que importan quatrocientas setenta y quatro libras seys sueldos y quatro dineros; todas ellas, se deven considerar, gananciales, con interés de la metad de ellas, a favor de la otorgante; y la otra metad a favor de la herencia de su difunto marido.**
-**> E últimamente manifiesta la otorgante que a mas de los dichos, le fueron adjudicados en la mencionada escritura de partición por ante el nominado Joseph ballester en las partidas contenidas y expresadas en la adjudicación y pago de su haber; hasta la suma y quantía de tes=mil, ciento sesenta y una libras diez y nueve sueldos y ocho dineros. I aunque el total de su haber solo importo dos mil setenta y siete libras nueve sueldos y onze dineros; y llevó de excesso; mil ochenta y quatro libras nueve sueldos y nueve dineros: Fue [f. 87r] por haver tomado a su cargo diferentes pagos y deudas (expresadas por menor en dicha su hijuela según resulta de ella) quantiosas a dichas mil ochenta y quatro libras nueve sueldos y nueve dineros. Cuya quantia satisfizo posteriormente a dicha partición, como se justifica por las cautelas y escrituras de que hará ostención siempre que convenga.**
-**> Y en este estado suspendió la referida otorgante en dichos nombres, la continuación del presente inventario, hasta que queden liquidados los ganados y deudas recayentes en la presente herencia; para cuya liquidación (y la de las deudas contra esta herencia9 se necessita de mucho tiempo a causa de haverse de passar cuentas generales con todos los deudores y medieros de ganados, que son muchos, y dispersos en diferentes villas y lugares [f. 87v] del presente Reyno y del de Aragón; formando como es preciso libro nuevo de las resultas de cuentas y estado que tenían (con dichos ganado) en el dia de la muerte del difunto marido de la otorgante; y antes de ello hacer una extracta de cargo y descargo de cada uno de los deudores, según los assientos continuados en los libros del difunto, difíciles de entender por ser la letra poco legible. Y hasta estar todo lo referido justificado y liquidado; suspendió y suspende la otorgante dicha continuación y prosecución del presente inventario; e interi de los bienes hasta ahora adnotados, e inventariados; se constituye la referida otorgante, e depositaria y juntamente administradora de dicho bienes, hasta la divició, y partición de aquellos. Confesando haverles recibido por corporal y físico en[f. 88r]trego en presencia de mi el escrivano, y testigos de iussa; de que doy fee. Y promete, y se obliga de tenerlos en ser, y de manifiesto, para siempre que se le pidan y deba entregarlos; o de pagar su valor, a ley de depositaria real y so las penas de tal. Y para lo assí cumplir, obliga todos sus bienes y de dicha tutela y cura, havidos y por haver. Y da poder a las justicias de su magestad, y en especial a las de esta presente villa, a cuya jurisdicción se sobmete, y a sus bienes, renunciando su domicilio y otro fuero que de nuevo ganare; la ley: *si convenit: de jurisditione omnium judicum*; la última pragmática de las submissiones, y las demás leyes e fueros de su favor; con la general del derecho en forma, para que la apremien al cumplimiento de lo referido; como por sentencia passada en [f. 88v] casa juzgada, y por la otorgante consentida. Y renuncia en lo necessario el auxilio, y leyes de Veleyano, senatus consulto, nuevas constituciones; leyes de Toro, Madrid, y Partida y demás de su favor; por que como sabedora de ella; y avissada de lo especial de su efecto por mi el escrivano; quiere no la valgan, ni aprovechen e otorga la presente. En esta dicha villa los dias, mes e año arriba dichos. Siendo presentes por testigos Balthazar Safont de Juan, y joseph Cantavella mancebo, vecinos de la mesma. Y la otorgante (a quién yo el escrivano doy fee conozco) lo firmó = Doña josepha maría Fabra = Ante mi Pedro Benito Cantavella.**
-**> 9ª y última jornada)**
-**> En la villa de Vistabella el primero día del mes de deciembre de mil setecientos y setenta y cinco [f. 89r] años. Dona Josepha María Fabra viuda del Doctor Don Joseph Joaquín Polo de Bernabé y Arahuete de esta dicha villa vecina; en los respective nombres que prencipiados tiene, y va continuando los inventarios de los bienes y herencia del difunto su marido, en los quales sobreseyó, hasta estar liquidados, y justificado los ganados y deudas assí activas, como passivas de dicha herencia; según que assí lo motivó en la octava jornada del dia diez de deiciembre del año mil setecientos y setenta y dos, authorizadas por ante mi el presente escrivano a la qual en lo necessario se refiere: Constituhida nuevamente la sobredicha otorgante ante mí, y los testigos de iusso; Dixo: Que haviendose ya liquidado, y justificado todo lo dicho; desseando terminar y con[f. 89v]cluyr dicho Inventario; prosigue en manifestar lo que resta a adnotar en deudas, ganados, dinero, y demás, a favor de dicha herencia en el modo y forma que abaxo se dirá. Y respeto de haver advertido y comprovado, que a mas de los sitios y censos manifestaso hasta ahora; están recayendo otros; passa a addicionar en primer lugar, por el thenor y forma que se verá.**
-**> Addicción a los sitios y censos que no se tuvieron presentes en el cuerpo de este inventario.**
-**> En Vistabella.**
+
+**A. Una arquimesa, eo escritorio inglés de nogal, con diferentes departamentos, eo caxones.**
+
+**A. Un aguamanil de estaño con su grifo.**
+
+**A. Un rallo grande de hierro.**
+
+**A. Una cazuela grande de arambre estañada.**
+
+**A. Otra pequeña de lo mismo.**
+
+**A. Un caldero mayor que ninguno de los adnotados en el cuerpo de [f. 80r] este inventario.**
+
+**A. Tres dozenas de vasos de christal, nuevos.**
+
+**A. Un bahúl grande forrado de piel de toro, con serraxa y llave.**
+
+**A. Otro pequeño, eo de costal de lo mismo, serraxa y llave.**
+
+**A. Una arca grande de pino con su serraxa y llave**
+
+**A. Dos goteras corladas y pintadas.**
+
+**A. Una mesa de nogal, pequeña.**
+
+**Vestidos.**
+
+**D. Un guardapies de espolín de oro, campo, color de leche.**
+
+**A. Otro de espolín de plata campo azul.**
+
+**D. Otro de seda, alistonado, verde de Pussia, y blanco, con flores menudas.**
+
+**D. Otro de tafetán a llamas.**
+
+**D. Otro de melania azul, con puntilla de oro.**
+
+**D. Una basquina de medio carro de [f. 80v] oro, con guarnición de la mesma ropa.**
+
+**A. Una bata de melanía azul, con guarnición de plata.**
+
+**A. Una casaca de chamellote, negra.**
+
+**A. Una capeta de grana, con puntilla de plata.**
+
+**D. Otra de rasillo de color de rosa.**
+
+**D. Otra de Pelfilla, negra.**
+
+**D. Un cabriolé de vayetón de color de pelo de rata, a motas verdes y azules.**
+
+**A. Dos mantos de tafetán de Francia, con encaxes.**
+
+**D. Otro mas ordinario también de tafetán.**
+
+**D. Tres marchas, eo delantales de tafetán negro; los dos con guarnición de lo mesmo y el otro de blonda.**
+
+**D. Otro = un peto = paletina de raso lisso con bordaduras, y guarnición de plata y seda. [f. 81r]**
+
+**A. Un manguito de terciopelo negro.**
+
+**D. Quatro mantellinas de christal = De franela = de Mosulina fina = y basta.**
+
+**A. Un cobertor, y rueda = cama de Damazco azul, con puntilla de seda.**
+
+**A. Otro de alducar y seda, verde con puntilla blanca y naquerada.**
+
+**A. Un cubrimesa de Indiana = una toalla de seda de diferentes colores = y un delantal, y pañuelo blanco de escumilla.**
+
+**3 A 2 D. Cinco avanitos; los quatro de marfil y el otro de palo=santo.**
+
+**A. Una colcha de Indiana nueva.**
+
+**68 A. 6 D. Veynte y quatro camisas; las ocho de lienzo fino; y las demás de lienzo casero, con mangas de tela.**
+
+**9 A. 3 D. Doze enaguas, las quatro con encaxe = quatro con franjas =y quatro ordinarias.**
+
+**A. Doze fundas de almoada buenas y finas.[f. 81v]**
+
+**A. Una savana de cambray fino, con encaxe.**
+
+**A. Quatro fundas; las dos pequeñas con encaxe.**
+
+**A. Quatro fundas para almoadas de Indiana.**
+
+**A. Un tapete de clarín a rayas con encaxe.**
+
+**A. Dos dozenas de savanas; las seys de lienzo de compra, y las restantes de lienzo de casa.**
+
+**A. Ocho toallas; las dos ordinarias; y las demás finas.**
+
+**A. Tres dozenas de servilletas entre bastas, y finas.**
+
+**A. Seys enjugamano de linete.**
+
+**D. Una bata de Indiana usada.**
+
+**A. Una alfombra, ropa antigua.**
+
+**A. Una toalla de lienzo, usada, con encaxe.**
+
+**A. Dos galterets, eo funditas de lienzo delgado. [f. 82r]**
+
+**D. Un sombrero fino con plumas, y puntilla de plata.**
+
+**A. Cinco láminas con sus vidrios.**
+
+**A. Dos cruzes; y dos relicarios pequeños.**
+
+**Oros y plata.**
+
+**D. Una sortixa de oro, con su esmeralda, y dos diamantes.**
+
+**A. Otra de oro con esmeralda.**
+
+**A. Otra de oro con dos piedras moradas.**
+
+**D. Unos pendientes de oro con piedras verdes.**
+
+**A. Una xoya de oro, guarnecida de perlas, de Santa María Magdalena.**
+
+**A. Un relicario sobredorado, con las imágenes de Jesús y María.**
+
+**A. Un leoncillo de plata con sus cascabelillos.**
+
+**D. Una virgen del Pilar, sobredorada.**
+
+**A. Dos relicarios sobre marfil, engastados de plata, con las imágenes de Jesús y María. [f. 82v]**
+
+**A. Un llavero de plata.**
+
+**A. Noventa onzas de plata obrada, de las quales se ha hecho mención en el cuerpo de este inventario al nº (---) contadas y pesadas, con la de la presente herencia.**
+
+**A. Una olla de bronze grande.**
+
+**A. Un plato grande de estaño.**
+
+**Bienes sitios que la otorgante dize haver heredado de sus difuntos padres, y le fueron adjudicados, en la escritura de partición por ante Joseph Ballester escrivano en veynte y uno de febrero del año mil setecientos y quarenta y siete, posteriormente a sus cartas de bodas con dicho su difunto marido, authorizadas por mi el presente escrivano baxo cierto chalendario: de los quales sitios, notará la otorgante en el presente manifiesto, ahún los que ya tiene dádos y concedidos a su hija Doña María Manuela Polo, y Fabra, en sus cartas de bodas [f. 83r] con Don Joaquín Miguel y Lluys su actual marido, recibidas por mi el escrivano a los tres dias del mes de abril del año mil setecientos y setenta; con el fin, y motivo, que se tenga presente el valor de dichos sitios Donados; al tiempo de la divición hacedera entre la otorgante y sus hijos; para compensarse de igual cantidad, en los gananciales hechos durante el matrimonio de la otorgante; y para los demás fines y efectos que en derecho puedan aprovecharla, de que protesta usar y valerse en su caso, y lugar. E igualmente adnotará las deudas que tomó a su cargo, y le fueron adjudicadas en la citada partición ante el contenido escrivano Ballester; las quales fueron redimidas, durante dicho matrimonio de la otorgante, para los mismos fines de suso (¿) empresador. Baxo [f. 83v] cuyas protestas, lo executa en el modo y forma siguiente.**
+
+**Primeramente manifiesta una heredad con dos norias; una casa de campo y una hera de trillar, todo junto, y contiguo, sito en la huerta y término de la villa de Benicarló, en el partido del convento, sus lindes por entero, de un lado, con la heredad noria de Francisco Serdà; y del otro con la heredad noria de Francisco Senar; de un cabo, con el camino de Calig; y del otro, con el camino dels Mallols.**
+
+**Otrosí: un patio nombrado, el corralet, con algunos cubiertos, sito en el poblado de dicha de Benicarló en la calle del Trinquet, que linda de lados, con las casas de Jayme Angles y de Juan Artola; por las espaldas con la casa de la viuda de Vicente Masip; y por delante con la [f. 84r] casa arriba deslindada dicha calle en medio.**
+
+**Bienes donados en bodas a Doña María Manuela Polo y Fabra.**
+
+**Otrosí: una heredad viña, sita en dicho término de Benicarló en la partida del mas dels Gumbaus llamada vulgarmente, La Viña del Albercoquer, sus lindes; por los dos cabos con heredad de Mariano Masip y viuda de Bartholome Balaguer y por los lados con heredades Antonio Foyx y de Joseph Fibra. La qual viña le fue dada a la contenida Doña María Manuela en precio, y estimación de qunientas setenta y tres libras, treze sueldos y ocho dineros como consta de las cartas de bodas ya citadas.**
+
+**Otrosí: otra heredad viña nueva, sita [f. 84v] en dicho término, al partido del Mas de Gombau que linda por entero, con heredad del Doctor Frey[^60] Don Pasqual Fabra; con otra de Joseph Bretó, por los dos lados; y por los cabos con heredad del dicho Frey Don Pasqual Fabra y heredad de Pablo Segarra la qual también le fue dada en bodas a la citada Doña María Manuela, en precio, y esimación de seyscientaas y sesenta libras; y a la otorgante le vino y perteneció por la escritura de Donación que a su favor otorgó el referido Doctor Frey Don Pasqual Fabra su hermano, authorizada por Roqe Peres escrivano de Valencia, a los veynte días del mes de abril de mil setecientos y sesenta y dos años.**
+
+**Otrosí: Otra viña también dada y concedida en bodas a la referida [f. 85r] Doña maria Manuela Polo, y Fabra, en precio de doscientas libras, sita y puerta en em termino de benicarló, dicha el Llansolet, en la partida del Collet, sus lindes, por los dos lados, con heredades de Francisco Angles y Francisco Febrer; y por los cabos con Rio, y heredad de Francisco Angles.**
+
+**Otrosí: También le fue adjudicada a la otorgante en la citada partición por ante el dicho Ballester una heredad olivar, sita en el término de la ciudad de Peñiscola en parte de pago de la legítima materna, por precio de ciento y treynta libras; cuya heredad después vendió la otorgante a Isidoro Redolat de Benicarló; de cuyo precio se originó el censo de ciento y treynta libras de capital, otorgado por el mencionado Redolat, a favor de la otor[f. 85v]gante, según escritura ante el dicho Joseph Ballester escrivano a los dos dias del mes de octubre del año mil setecientos y quarenta y ocho. Cuyo censo igualmente se le transfirió a la contenida Doña María Manuela en la citada Donación de bodas. De forma; que unida la estimación de las quatro partidas antecedentes, toman la suma de mil quinientas setenta y tres libras treze sueldos y ocho dineros. Y aunque a la misma Donataria se le dieron y cedieron en parte de pago de las cinco mil libras total importe de su Donación; el censo de propriedad de ciento y ochenta libras, que correspondía Francisco Angles de Benicarló, según escritura ante Pablo Segarra escrivano en dos de octubre del año mil setecientos y cinquenta y quatro = treynta libras que el cita[f. 86r]do Angles estava debiendo de pensiones vencidas de dicho censo = ciento y setenta libras que debia a los Donadores Pedro Vicente Maneç de Alcalà de Chivert, restantes de las ciento y noventa que confesó deber mediante escritura de obligación ante Joseph Juan escrivano a los diez y nueve dias del mes de setiembre de mil setecientos y sesenta = ochenta y quatro libras en el valor y precio de una heredad sita en el término de dicha villa de Alcalà junto a la Balza, camino de benicarló, según va lindada en dicha escritura de bodas = ocho libras que deve Miguel Barceló labrador de dicha de Alcalá, arrendatario de dicha heredad = Y ultimamente trece libras seys sueldos y quatro dineros restantes al cumplimiento de dichas cinco mil libras en dinero = estas seys par[f. 86v]tidas que importan quatrocientas setenta y quatro libras seys sueldos y quatro dineros; todas ellas, se deven considerar, gananciales, con interés de la metad de ellas, a favor de la otorgante; y la otra metad a favor de la herencia de su difunto marido.**
+
+**E últimamente manifiesta la otorgante que a mas de los dichos, le fueron adjudicados en la mencionada escritura de partición por ante el nominado Joseph ballester en las partidas contenidas y expresadas en la adjudicación y pago de su haber; hasta la suma y quantía de tes=mil, ciento sesenta y una libras diez y nueve sueldos y ocho dineros. I aunque el total de su haber solo importo dos mil setenta y siete libras nueve sueldos y onze dineros; y llevó de excesso; mil ochenta y quatro libras nueve sueldos y nueve dineros: Fue [f. 87r] por haver tomado a su cargo diferentes pagos y deudas (expresadas por menor en dicha su hijuela según resulta de ella) quantiosas a dichas mil ochenta y quatro libras nueve sueldos y nueve dineros. Cuya quantia satisfizo posteriormente a dicha partición, como se justifica por las cautelas y escrituras de que hará ostención siempre que convenga.**
+
+**Y en este estado suspendió la referida otorgante en dichos nombres, la continuación del presente inventario, hasta que queden liquidados los ganados y deudas recayentes en la presente herencia; para cuya liquidación (y la de las deudas contra esta herencia9 se necessita de mucho tiempo a causa de haverse de passar cuentas generales con todos los deudores y medieros de ganados, que son muchos, y dispersos en diferentes villas y lugares [f. 87v] del presente Reyno y del de Aragón; formando como es preciso libro nuevo de las resultas de cuentas y estado que tenían (con dichos ganado) en el dia de la muerte del difunto marido de la otorgante; y antes de ello hacer una extracta de cargo y descargo de cada uno de los deudores, según los assientos continuados en los libros del difunto, difíciles de entender por ser la letra poco legible. Y hasta estar todo lo referido justificado y liquidado; suspendió y suspende la otorgante dicha continuación y prosecución del presente inventario; e interi de los bienes hasta ahora adnotados, e inventariados; se constituye la referida otorgante, e depositaria y juntamente administradora de dicho bienes, hasta la divició, y partición de aquellos. Confesando haverles recibido por corporal y físico en[f. 88r]trego en presencia de mi el escrivano, y testigos de iussa; de que doy fee. Y promete, y se obliga de tenerlos en ser, y de manifiesto, para siempre que se le pidan y deba entregarlos; o de pagar su valor, a ley de depositaria real y so las penas de tal. Y para lo assí cumplir, obliga todos sus bienes y de dicha tutela y cura, havidos y por haver. Y da poder a las justicias de su magestad, y en especial a las de esta presente villa, a cuya jurisdicción se sobmete, y a sus bienes, renunciando su domicilio y otro fuero que de nuevo ganare; la ley: *si convenit: de jurisditione omnium judicum*; la última pragmática de las submissiones, y las demás leyes e fueros de su favor; con la general del derecho en forma, para que la apremien al cumplimiento de lo referido; como por sentencia passada en [f. 88v] casa juzgada, y por la otorgante consentida. Y renuncia en lo necessario el auxilio, y leyes de Veleyano, senatus consulto, nuevas constituciones; leyes de Toro, Madrid, y Partida y demás de su favor; por que como sabedora de ella; y avissada de lo especial de su efecto por mi el escrivano; quiere no la valgan, ni aprovechen e otorga la presente. En esta dicha villa los dias, mes e año arriba dichos. Siendo presentes por testigos Balthazar Safont de Juan, y joseph Cantavella mancebo, vecinos de la mesma. Y la otorgante (a quién yo el escrivano doy fee conozco) lo firmó = Doña josepha maría Fabra = Ante mi Pedro Benito Cantavella.**
+
+**9ª y última jornada)**
+
+**En la villa de Vistabella el primero día del mes de deciembre de mil setecientos y setenta y cinco [f. 89r] años. Dona Josepha María Fabra viuda del Doctor Don Joseph Joaquín Polo de Bernabé y Arahuete de esta dicha villa vecina; en los respective nombres que prencipiados tiene, y va continuando los inventarios de los bienes y herencia del difunto su marido, en los quales sobreseyó, hasta estar liquidados, y justificado los ganados y deudas assí activas, como passivas de dicha herencia; según que assí lo motivó en la octava jornada del dia diez de deiciembre del año mil setecientos y setenta y dos, authorizadas por ante mi el presente escrivano a la qual en lo necessario se refiere: Constituhida nuevamente la sobredicha otorgante ante mí, y los testigos de iusso; Dixo: Que haviendose ya liquidado, y justificado todo lo dicho; desseando terminar y con[f. 89v]cluyr dicho Inventario; prosigue en manifestar lo que resta a adnotar en deudas, ganados, dinero, y demás, a favor de dicha herencia en el modo y forma que abaxo se dirá. Y respeto de haver advertido y comprovado, que a mas de los sitios y censos manifestaso hasta ahora; están recayendo otros; passa a addicionar en primer lugar, por el thenor y forma que se verá.**
+
+**Addicción a los sitios y censos que no se tuvieron presentes en el cuerpo de este inventario.**
+
+**En Vistabella.**
+
 645. El establecimiento de dos barchillas y quatro quarticas de trigos annuales y perpetuas en el dia de nuestra señora de Agosto, que paga y corresponde Miguel Olaria [f. 90r] labrador en fuerza de la escritura de establecimiento authorizada por Joseph Juan escrivano en siete de agosto del año mil setecientos y sesenta y nueve.
 
 Pasqual Lliberos de Anillo (¿)[^61]
@@ -4295,9 +4386,11 @@ Otrosí: Los dos areneros del nº465, en cinco sueldos.
 Otrosí: Las tixeras nº466, en quatro sueldos.
 
 **Justiprecio de los nº de poco valor desde el 30 inclusive en adelante [f. 231r] hasta el de 466 antecedente.**
+
 Los tres capazos de plama usados del nº30 = El ambudo del nº50 = Las tres orcitas del 77 = Las azeyteras al 82 = el pozal al 84 = El salero al 85 = Otro de mesa al 86 = las diez piezas obra de Alcora al 87 = Los seys cántaros al 89= la cortina verde de vayeta al 94 = las veynte y una piezas de vidrio al 108 = La arroba de manzanas al 131 = las dos arrobas de higos al 132 = las tres colmenas viexas al 148 = la arca viexa al 171= Las quatro sillas al 176 = El oron de esparto y argador al 197; todo ello lo estimaron en … 25£. [f. 231v]
 
 **Manifiesto de las alaxas, ropas y demás existente en la casa solar de cinchtorres.**
+
 La contenida Doña Josepha María Fabra declaró haver hecho ver y estimar a personas prácticas e inteligentes de la dicha villa de Cinch=torres (para obviar mayores costas) lo expresado en el título antecedente, desde el nº469 hasta el 514 ambos inclusive y me exhibió una nota del thenor siguiente =
 
 El San Christoval de la entrada un sueldo.

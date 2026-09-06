@@ -19,7 +19,3 @@ Al principio del otoño, es hermoso ver las viñas con su fruto en sazón. Los p
 El invierno es el silencio apacible de la nevada, de las calles desiertas, de las largas.noches, del calor del hogar.
 
 *Paquita. 2010*
-
-*
-
-*
