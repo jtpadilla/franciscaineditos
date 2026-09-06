@@ -1,7 +1,7 @@
 ---
 id: "626"
 titulo: "Sant Antoni als Ports"
-notas: "La festa de Sant Antoni a la comarca dels Ports (Morella, Forcall, Vilafranca...) i amb detall la de Cinctorres el 31 de gener: el maio, les carrasques, la barraca, la benedicció dels animals i la torrà. Firmat 1 desembre 2009, Paquita. No es va publicar al blog. Tot el text anava en cursiva, que s'ha tret. Dues còpies idèntiques (626 i 257)."
+notas: "La festa de Sant Antoni a la comarca dels Ports (Morella, Forcall, Vilafranca...) i amb detall la de Cinctorres el 31 de gener: el maio, les carrasques, la barraca, la benedicció dels animals i la torrà. Firmat 1 desembre 2009, Paquita. No es va publicar al blog. Tot el text anava en cursiva, que s'ha tret. Dues còpies idèntiques (626 i 257). Firma original: «1 desembre 2009. Paquita»."
 ---
 
 # Sant Antoni als Ports
@@ -30,4 +30,4 @@ La festa aleshores ès al plasset de l’església, plena de gent, amb tot tipus
 
 I allí mateix, al caliu de les brases de la foguera, que dura fins al dia següen, els que tenen ganes de seguir la festa, fan la torrà per a sopar, acompanyats de la música de la dolçaina i tabal. I fins al proper any.
 
-*1 desembre 2009. Paquita*
+*Paquita, 1 desembre 2009*

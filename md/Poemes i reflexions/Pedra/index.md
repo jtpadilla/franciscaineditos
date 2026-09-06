@@ -39,4 +39,4 @@ rtesans i picapedrers.
 Fet amb pedres.  
 Pedra, sempre pedra.
 
-*Paquita.*
+*Paquita*

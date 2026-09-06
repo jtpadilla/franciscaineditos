@@ -1,7 +1,7 @@
 ---
 id: "134"
 titulo: "Qui ho farà?"
-notas: "Memòries de 2014 (firmades 24 juny 2014), amb 34 fotos. És la versió anterior del 'Llibre de memòries', que les reescriu. Hi havia una còpia sense fotos, eliminada."
+notas: "Memòries de 2014 (firmades 24 juny 2014), amb 34 fotos. És la versió anterior del 'Llibre de memòries', que les reescriu. Hi havia una còpia sense fotos, eliminada. Firma original: «24 juny 2014. Paquita Julian Querol»."
 ---
 
 # Qui ho farà?
@@ -486,4 +486,4 @@ Tinc 69 anys, en la meua vida tot m’ha ocorregut, massa prompte i a deshora, v
 
 Soc, la més longeva de la família, 69 anys ni els meus pares ni agüelos ni el meu Juan, van arribar aquesta edat. Quan els meus germans i jo ens vàrem quedar a soles Jose Manuel tenia 3, Tadeo 10, i jo 17 anys, ells no recorden, o molt poc dels nostres pares i la vida familiar, ha sigut dur recordar i donar testimoni d’aquestos fets, a vegades, no podia seguir escrivint i ho deixava un temps, i tornava a cavil·lar… soc la memòria de la família, si no ho conto jo, qui ho farà?
 
-*24 juny 2014. Paquita Julian Querol*
+*Paquita, 24 juny 2014*

@@ -92,8 +92,8 @@ Para los medios de comunicación, las personas que están en contacto visual con
 
 A mi entender la Belleza, está en todas partes, solo hay que abrir el corazón y la mente, para sentirla y disfrutar de ella.
 
-Paquita Julián Querol
+*Paquita*
 
 Ser amado es además de todo lo que dice este archivo:
 
-Intuir la llegada del ser amado, oler su presencia antes de verlo u oírlo y entre otras cosas tener la seguridad de que nada malo puede ocurrirte cuando estas a su lado. Los pequeños problemas desaparecen y los grandes crees que tienen solución si los compartes con el. Es sentirte parte de su universo y el del tuyo. Es esto y mucho más. Paquita.
+Intuir la llegada del ser amado, oler su presencia antes de verlo u oírlo y entre otras cosas tener la seguridad de que nada malo puede ocurrirte cuando estas a su lado. Los pequeños problemas desaparecen y los grandes crees que tienen solución si los compartes con el. Es sentirte parte de su universo y el del tuyo. Es esto y mucho más.

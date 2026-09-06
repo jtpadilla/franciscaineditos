@@ -1,7 +1,7 @@
 ---
 id: "115"
 titulo: "Embotits artesans"
-notas: "Receptes d'embotits (blanquets, llonganisses, tarmena, sobrassada, choriços). Firmat 31 gener 2017. Hi havia dues còpies idèntiques a la carpeta Embotit del pendrive, eliminades."
+notas: "Receptes d'embotits (blanquets, llonganisses, tarmena, sobrassada, choriços). Firmat 31 gener 2017. Hi havia dues còpies idèntiques a la carpeta Embotit del pendrive, eliminades. Firma original: «Paquita 31 de Gener 2017.»."
 ---
 
 # Embotits artesans
@@ -71,4 +71,4 @@ Condiments: Sal, pebre roig, orenga, alls, clau, canella, nou mosacada, i i bran
 
 Sempre: pastar mexclar be i guardar al fret un dia abans d’ embutir
 
-*Paquita 31 de Gener 2017.*
+*Paquita, 31 de Gener 2017*

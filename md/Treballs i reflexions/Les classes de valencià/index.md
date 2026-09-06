@@ -1,7 +1,7 @@
 ---
 id: "051"
 titulo: "Les classes de valencià"
-notas: "Sobre les classes de valencià de la Universitat per a Majors, dedicat a l'amic Agustí. Firmat 2007."
+notas: "Sobre les classes de valencià de la Universitat per a Majors, dedicat a l'amic Agustí. Firmat 2007. Firma original: «Paquita. 2007»."
 ---
 
 # Les classes de valencià
@@ -56,4 +56,4 @@ Tots i cadascun dels dies de la travessia vàrem omplir el full de Bitàcola un 
 
 Vull dedicar aquest escrit amb el nom de la capitana i tots els mariners de la Nau la Valenciana, al nostre amic Agustí, que ha fet un altre viatge. Recordant el que va escriure entre altres coses, en el full de Bitàcola nº 3 del 24 d’octubre amb estes paraules. -Jo creia que sabia un poc de valencià, aleshores veig que no se res. Crec, que poc a poc en sortiré, tot és qüestió de temps -. I si, en va sortir, sabia escriure amb la seua llengua materna, en valencià, molt bé.
 
-*Paquita. 2007*
+*Paquita, 2007*

@@ -32,4 +32,4 @@ Y sobre el sentido de los monasterios en la actualidad creo que ahora en menor m
 
 La película reportaje EL GRAN SILENCIO sobre un monasterio cartujano actual, refleja que para alguna persona es necesaria.
 
-*Paquita 2016-2017.*
+*Paquita, 2016-2017*

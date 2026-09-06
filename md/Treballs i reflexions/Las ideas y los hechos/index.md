@@ -1,7 +1,7 @@
 ---
 id: "151"
 titulo: "Las ideas y los hechos"
-notas: "Reflexión sobre las ideas y los hechos a partir de la foto de una barraca de piedra, firmada el 10 de febrero de 2022. Era una prueba de escritura en el ordenador ('Prueba / Estoy aprendiendo'); se ha quitado el encabezado."
+notas: "Reflexión sobre las ideas y los hechos a partir de la foto de una barraca de piedra, firmada el 10 de febrero de 2022. Era una prueba de escritura en el ordenador ('Prueba / Estoy aprendiendo'); se ha quitado el encabezado. Firma original: «10 feb 2022 Paquita.»."
 ---
 
 # Las ideas y los hechos
@@ -16,4 +16,4 @@ En el caso de la imagen anterior el pastor o labrador que construyó la pared di
 
 Lo más lógico es que la barraca se construyera después aprovechando la pared ya hecha como contrafuerte, luego no se que es más importante el hecho de pensarlo o la acción de hacerlo pues no todas las personas tienen las dos habilidades, el pensamiento y el hecho.
 
-*10 feb 2022 Paquita.*
+*Paquita, 10 feb 2022*

@@ -26,7 +26,7 @@ La fotografía lleva una dedicatoria de las hermanas Pilar y María Celma a mi a
 
 Son sus sobrinas, hijas de una de sus hermanas que vivían en la Fresneda provincia de Teruel.
 
-*Paquita.*
+*Paquita*
 
 ## Manolo el Bàixo
 
@@ -36,7 +36,7 @@ La fecha de esta foto es 1922. Este joven era conocido como *Manolo el Bàixo*, 
 
 Su nombre es Manuel Padilla Calatayud, bisabuelo de mis nietos.
 
-*Paquita.*
+*Paquita*
 
 ## Danza dels llauradors
 
@@ -46,7 +46,7 @@ En el *Sexenni* del año 1922, mi padre Tadeo Julián Querol, participo en las f
 
 Es el primer danzante de la parte izquierda de la foto, según decían sus hermanas, mis tías, el lugar más difícil, pues era el que empezaba y dirigía los distintos pasos de la danza de caracol acompañados por la música de *dolzaina i tabal*.
 
-*Paquita.*
+*Paquita*
 
 ## Boda
 
@@ -56,7 +56,7 @@ No conozco a los invitados ni novios de esta boda, salvo a mis padres los dos ve
 
 Se aprecia muy bien el empedrado que había en todas las calles.
 
-*Paquita.*
+*Paquita*
 
 ## Cansaladería
 
@@ -66,4 +66,4 @@ La foto es del año 1966. En ella aparezco yo recién casada ayudando en el ofic
 
 El lugar es en el *Mercat de Sant Anton, i* y la clienta es una vendedora de verduras de cosecha propia llamada *Maria la Mascarosa.*
 
-*Paquita.*
+*Paquita*

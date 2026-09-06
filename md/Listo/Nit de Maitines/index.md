@@ -28,4 +28,6 @@ Ja tenim la taula muntada amb plats, coberts i tots els aparells per a la Nit de
 
 ![](img/image3.jpeg)
 
-Aleshores fins l’any que ve. Ahhh, el torró de *guirlache* mai més l’he tastat, amb una vegada vaig tindre prou. Listo
+Aleshores fins l’any que ve. Ahhh, el torró de *guirlache* mai més l’he tastat, amb una vegada vaig tindre prou.
+
+*Listo*

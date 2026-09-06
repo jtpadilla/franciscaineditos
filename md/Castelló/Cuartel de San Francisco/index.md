@@ -1,7 +1,7 @@
 ---
 id: "211"
 titulo: "Cuartel de San Francisco"
-notas: "Historia de la ermita de Santa Bárbara, el convento y el cuartel de San Francisco, del siglo XIII a 1953, con bibliografía, datos del archivo del teniente coronel Manuel Salvador Gaspar y del Aula Militar Bermúdez de Castro, y cuadro de la guarnición 1840-1953 (el título de sección del archivo particular se ha añadido a partir de la frase que lo presenta). Firmado Francisca Julián Querol, febrero 2012. Única versión (un .doc con 13 imágenes); el cuadro sinóptico venía como tabla HTML y se ha pasado a tabla markdown."
+notas: "Historia de la ermita de Santa Bárbara, el convento y el cuartel de San Francisco, del siglo XIII a 1953, con bibliografía, datos del archivo del teniente coronel Manuel Salvador Gaspar y del Aula Militar Bermúdez de Castro, y cuadro de la guarnición 1840-1953 (el título de sección del archivo particular se ha añadido a partir de la frase que lo presenta). Firmado Francisca Julián Querol, febrero 2012. Única versión (un .doc con 13 imágenes); el cuadro sinóptico venía como tabla HTML y se ha pasado a tabla markdown. Firma original: «Francisca Julián Querol. Febrero 2012»."
 ---
 
 # Cuartel de San Francisco
@@ -266,4 +266,4 @@ El 1 de febrero de 1956 fue donado por el Ejército al Ayuntamiento de Castelló
 
 Después de 800 años de servir como ermita, convento, hospital, y Cuartel de Infantería, vuelve a ser lugar de culto, conservando su toponimia, San Francisco.
 
-*Francisca Julián Querol. Febrero 2012*
+*Paquita, Febrero 2012*

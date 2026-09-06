@@ -1,7 +1,7 @@
 ---
 id: "166"
 titulo: "Complir anys"
-notas: "Felicitació d'aniversari, 2010. Anava en el mateix fitxer que 'I t'estimo tant', en castellà i en valencià; es conserva la versió en valencià."
+notas: "Felicitació d'aniversari, 2010. Anava en el mateix fitxer que 'I t'estimo tant', en castellà i en valencià; es conserva la versió en valencià. Firma original: «Paquita. 2010»."
 ---
 
 # Complir anys
@@ -14,4 +14,4 @@ Que assaborisques, els aliments senzills, com la mel.
 Que acaricies, als que de debò vols i et volen.  
 Usa els teus sentits! Que millor regal et puc fer?
 
-*Paquita. 2010*
+*Paquita, 2010*

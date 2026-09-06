@@ -1,7 +1,7 @@
 ---
 id: "061"
 titulo: "Orígenes de la familia Polo de Bernabé"
-notas: "Su investigación sobre el linaje Polo de Bernabé, con el árbol genealógico desde 1487 y las casas pairales de Cinctorres y Vistabella. Firmado otoño 2018, con las fuentes consultadas al final. El resto de la carpeta 'POLO BERNABE' eran volcados de MyHeritage, Geni, Geneanet y Wikipedia, y notas copiadas de Linajes de Aragón; se han dejado en inprocess."
+notas: "Su investigación sobre el linaje Polo de Bernabé, con el árbol genealógico desde 1487 y las casas pairales de Cinctorres y Vistabella. Firmado otoño 2018, con las fuentes consultadas al final. El resto de la carpeta 'POLO BERNABE' eran volcados de MyHeritage, Geni, Geneanet y Wikipedia, y notas copiadas de Linajes de Aragón; se han dejado en inprocess. Firma original: «Francisca Julián Querol. Otoño 2018»."
 ---
 
 # Orígenes de la familia Polo de Bernabé
@@ -82,6 +82,6 @@ María Luisa Lequerica Bernabé.
 
 Hasta aquí, todo lo que he encontrado sobre el linaje Polo de Bernabé, que en la tercera generación empezó su andadura en Cinctorres.(*seguiré investigando en su archivo municipal*) El apellido Polo aún perdura en familias cinctorrana, en otras se ha perdido como ha ocurrido por parte de mi familia materna. El motivo de esta investigación ha sido debido al trabajo que he hecho sobre la historia de la Casa Santjoans, que termino, con la publicación de mi libro Paviment Ceràmic de la casa Santjoans, publicado por La Diputación Provincial de Castellón en 2012.
 
-*Francisca Julián Querol. Otoño 2018*
+*Paquita, Otoño 2018*
 
 *Información obtenida por medio del Archivo municipal de Cinctorrres. Archivo municipal de Vistabella. Archivo municipal de Vila- Real. Linajes de Aragon. Estudios sobre la casa de Anjou Francia i Plantagenet.*

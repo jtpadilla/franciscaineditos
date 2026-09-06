@@ -26,4 +26,4 @@ La **Encomienda de Fadrell** situada en la partida de Fadrell, celebra su fiesta
 
 También tuvieron sus fiestas propias las **Ermitas del Salvador** construida en 1782 en la partida de Benadresa, junto a la Rambla de la Viuda y la **Ermita de la Virgen del Carmen** construida en 1948 en la partida de l’Estepar, junto al Camí dels Palos. En esta ermita se celebra su fiesta el día 16 de julio o domingo inmediato posterior.
 
-*Paquita Julián Querol*
+*Paquita*

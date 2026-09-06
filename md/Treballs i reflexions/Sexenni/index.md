@@ -1,7 +1,7 @@
 ---
 id: "094"
 titulo: "Sexenni"
-notas: "Las fiestas sexenales de Morella: origen, contenido folklórico y su relación con Castellón. Firmado Francisca Julián Querol, 2017 y enero 2026. Con una imagen."
+notas: "Las fiestas sexenales de Morella: origen, contenido folklórico y su relación con Castellón. Firmado Francisca Julián Querol, 2017 y enero 2026. Con una imagen. Firma original: «Francisca Julián Querol. 2017 y enero 2026»."
 ---
 
 # Sexenni
@@ -90,4 +90,4 @@ La importancia que tienen el Sexenni de Morella en Castellón es innegable, pues
 
 También en el del Pregón de las Fiestas de la Magdalena de Castellón, el año siguiente al Sexenni, la danza del Torners como representantes del Ayuntamiento de la ciudad de Morella desfila con su ancestral danza por todo el recorrido del pregón, y también acude los danzantes de algún gremio, normalmente es el de Los Oficios.
 
-*Francisca Julián Querol. 2017 y enero 2026*
+*Paquita, 2017 y enero 2026*

@@ -1,7 +1,7 @@
 ---
 id: "071"
 titulo: "Cátaros"
-notas: "Firmado Francisca Julián, diciembre 2016, Carcassone."
+notas: "Firmado Francisca Julián, diciembre 2016, Carcassone. Firma original: «Francisca Julián diciembre 2016 Carcassone.»."
 ---
 
 # Cátaros
@@ -14,4 +14,4 @@ La palabra Katharos quiere decir Puros, creen en un cristianismo dualista. Frent
 
 Fue en las tierras de lengua de oc entre Gascuña, los Pirineos, el Mediterraneo y el Macizo central francés por donde se propago el catarismo en el siglo XII. Primero combatido en el terreno doctrinal, este cristianismo dualista tratado como una herejía, ocasiono la cruzada contra los albigenses. Los poderes religiosos y políticos necesitaron más de un siglo para acabar con el catarismo.
 
-*Francisca Julián diciembre 2016 Carcassone.*
+*Paquita, diciembre 2016 Carcassone*

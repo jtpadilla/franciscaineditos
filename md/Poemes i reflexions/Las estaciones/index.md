@@ -1,7 +1,7 @@
 ---
 id: "057"
 titulo: "Las estaciones"
-notas: "Reflexió en prosa, 2010."
+notas: "Reflexió en prosa, 2010. Firma original: «Paquita. 2010»."
 ---
 
 # Las estaciones
@@ -18,4 +18,4 @@ Al principio del otoño, es hermoso ver las viñas con su fruto en sazón. Los p
 
 El invierno es el silencio apacible de la nevada, de las calles desiertas, de las largas.noches, del calor del hogar.
 
-*Paquita. 2010*
+*Paquita, 2010*

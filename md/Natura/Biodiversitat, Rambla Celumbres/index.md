@@ -28,4 +28,4 @@ Gaudir de la biodiversitat és tan fàcil con enriquidor, prenent part tots els 
 
 Tot està relacionat amb el seu nom: varietat, diferència i pluralitat.
 
-*Paquita Julian Querol*
+*Paquita*

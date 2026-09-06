@@ -26,4 +26,4 @@ También cultivo *la filosofía*, *el rabinismo, la medicina, y la astronomía.*
 
 No es posible mencionar aquí todas las obras de Maimónides. Era bilingüe, utilizaba las dos lenguas hebreo y árabe, pero un solo sistema grafico hebreo, fue apreciado por cristianos, judíos y musulmanes, y recordado actualmente en la cristiana Córdoba en pleno corazón de la judería, en la plaza de Maimónides, su figura austera, pone de manifiesto el dicho que « de Moisés a Moisés, no hubo otro Moisés.
 
-*Francisca Julián.*
+*Paquita*

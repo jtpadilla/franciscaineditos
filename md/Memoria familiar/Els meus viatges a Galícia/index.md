@@ -1,7 +1,7 @@
 ---
 id: "124"
 titulo: "Els meus viatges a Galícia"
-notas: "Els tres viatges a Galícia amb els fills. Hi havia una còpia quasi idèntica al pendrive, eliminada."
+notas: "Els tres viatges a Galícia amb els fills. Hi havia una còpia quasi idèntica al pendrive, eliminada. Firma original: «Paquita 26 maig.»."
 ---
 
 # Els meus viatges a Galícia
@@ -38,4 +38,4 @@ Es emocionat quan arribes a la porta del Perdó i en la missa del peregrí veien
 
 Quan tornàvem a casa desprès d’uns dies intensos varem dir (l’altra vegada vindrem caminat) No ha pogut ser… hi ha una absència… Però estan la memòria i els records, que sempre tornen, quan es l’Any Compostel·là.
 
-*Paquita 26 maig.*
+*Paquita, 26 maig*

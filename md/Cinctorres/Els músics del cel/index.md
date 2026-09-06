@@ -1,7 +1,7 @@
 ---
 id: "037"
 titulo: "Els músics del cel"
-notas: "Els àngels músics dels frescos de l'ermita de Sant Lluís Beltran. Firmat 10 novembre 2010."
+notas: "Els àngels músics dels frescos de l'ermita de Sant Lluís Beltran. Firmat 10 novembre 2010. Firma original: «dimecres, 10 / novembre / 2010 Paquita.»."
 ---
 
 # Els músics del cel
@@ -28,4 +28,4 @@ La meua ignorància en este tema musical fins i tot haver gaudit moltes vegades 
 
 He gaudit de la contemplació dels àngels músics de l’ermita de Sant Lluis des de l’infantera, sempre vaig pensat, que així devien ser. Els Músics del Cel.
 
-*dimecres, 10 / novembre / 2010 Paquita.*
+*Paquita, dimecres, 10 / novembre / 2010*

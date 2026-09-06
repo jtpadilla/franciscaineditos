@@ -1,7 +1,7 @@
 ---
 id: "562"
 titulo: "Adéu al blog"
-notas: "Nota de comiat del blog Les meues coses, 2015: per què va començar a escriure, per què ho contava Listo i per què ho deixa després de la seua pèrdua. No es va publicar al blog. El fitxer es deia 'A .A. A'; el títol és nou. Dues còpies idèntiques (562 i 261)."
+notas: "Nota de comiat del blog Les meues coses, 2015: per què va començar a escriure, per què ho contava Listo i per què ho deixa després de la seua pèrdua. No es va publicar al blog. El fitxer es deia 'A .A. A'; el títol és nou. Dues còpies idèntiques (562 i 261). Firma original: «Paquita. 2015»."
 ---
 
 # Adéu al blog
@@ -14,4 +14,4 @@ El primer escrit va ser el dia 13-3 -2010 (al blog diu 2009 crec que esta malame
 
 No te sentit segur escrivint, aquets cicle s’ha acabat.
 
-*Paquita. 2015*
+*Paquita, 2015*

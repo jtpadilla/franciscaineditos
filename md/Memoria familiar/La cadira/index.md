@@ -12,4 +12,4 @@ L’iaia se’n anat a fer-li companyia al iaio, ella deia que estava esperant. 
 
 La mare sempre té feina, i el ratet de prendre la fresca al carrer, és el moment de xerrar un poc amb el veïnat. A l’entrada de la casa, entre altres més vistoses y més grans, la baixeta cadira de boga, amb el seient corb i gastat té el seu lloc, pareix que a la mare està esperant, i ella diu, que vol gaudir asseguda amb aquesta cadira poc vistosa però tant volguda, aquest moments de descans.
 
-*Paquita.*
+*Paquita*

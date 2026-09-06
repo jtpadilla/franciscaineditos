@@ -1,7 +1,7 @@
 ---
 id: "034"
 titulo: "De los Ports al mar"
-notas: "Reflexión escrita el 22 de septiembre de 2015 en un viaje de Morella a Vinaròs: la diversidad de paisajes de Castellón. El fichero se llamaba 'diversidad Paquita' y el texto 'Reflexión'."
+notas: "Reflexión escrita el 22 de septiembre de 2015 en un viaje de Morella a Vinaròs: la diversidad de paisajes de Castellón. El fichero se llamaba 'diversidad Paquita' y el texto 'Reflexión'. Firma original: «Paquita. / 22/09/2015»."
 ---
 
 # De los Ports al mar
@@ -20,6 +20,4 @@ Volvemos hacia las montañas hemos terminado nuestra tarea.
 
 No hay ninguna duda, Castellón es la segunda provincia más montañosa de España. Yo también añadiría que desde Cinctorres pueblo cercano con la provincia de Teruel de cerca de 1000 metros de altitud, hasta el mar Mediterráneo 75 Km., en un espacio de tiempo de 60 minutos se ve como es España en su aspecto físico, diversa, única.
 
-*Paquita.*
-
-*22/09/2015*
+*Paquita, 22/09/2015*

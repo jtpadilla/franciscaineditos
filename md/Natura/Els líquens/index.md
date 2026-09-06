@@ -20,4 +20,4 @@ Son plantes pioneres i molt resistents. Es troben distribuïts per tot tipus de 
 
 L’escassetat d’animals que consumeixen líquens pot ser, per que algunes substancies liquèniques tenen un poder antibiòtic que han estat utilitzades per l\`home. La majoria de més de 400 substàncies liquèniques conegudes solament poden ser produïdes pel talo dels líquens.
 
-*Paquita Julian*
+*Paquita*

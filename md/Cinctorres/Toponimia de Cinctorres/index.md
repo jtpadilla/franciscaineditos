@@ -1,7 +1,7 @@
 ---
 id: "476"
 titulo: "Toponimia de Cinctorres"
-notas: "Carta a Tonica sobre el origen del nombre: Circum Turribus y Quinque Turres, con las torres del término (En Navalles, Solsona, Torrasa, Torreta dels Moros, la Llongera, En Pallarés, Tornera) y el escudo. Sin fecha. Había una copia (id 518) con restos de web al final, eliminada."
+notas: "Carta a Tonica sobre el origen del nombre: Circum Turribus y Quinque Turres, con las torres del término (En Navalles, Solsona, Torrasa, Torreta dels Moros, la Llongera, En Pallarés, Tornera) y el escudo. Sin fecha. Había una copia (id 518) con restos de web al final, eliminada. Firma original: «Un beset. Paquita»."
 ---
 
 # Toponimia de Cinctorres
@@ -32,6 +32,8 @@ Así que tenemos para escoger.
 
 Tonica discúlpame por el rollo que te mando, pero ya sabes que me gusta terminar lo que empiezo.
 
-*Un beset. Paquita*
+Un beset.
+
+*Paquita*
 
 ![](img/image1.png)

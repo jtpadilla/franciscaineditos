@@ -1,7 +1,7 @@
 ---
 id: "050"
 titulo: "Familia Julián Segura"
-notas: "Genealogía de la línea paterna a partir del padrón de Cinctorres de 1817 y el libro de bautismos: los Segura y los Julián Segura hasta el mas de Julián, con los tíos y primos (la tía María de la Parra, Manel de Chile). Firmado 23 de agosto de 2013. Versión más completa ('antepasados 2', segunda tanda) que sustituye a la de 'Leonila'; había otra variante firmada Paquita de Tadeo ('Elodia'), eliminada."
+notas: "Genealogía de la línea paterna a partir del padrón de Cinctorres de 1817 y el libro de bautismos: los Segura y los Julián Segura hasta el mas de Julián, con los tíos y primos (la tía María de la Parra, Manel de Chile). Firmado 23 de agosto de 2013. Versión más completa ('antepasados 2', segunda tanda) que sustituye a la de 'Leonila'; había otra variante firmada Paquita de Tadeo ('Elodia'), eliminada. Firma original: «Cinctorres 23 de Agosto 2013. / Francisca Julián Querol»."
 ---
 
 # Familia Julián Segura
@@ -92,6 +92,4 @@ María. La casa de Morella.
 
 Bernardo Maset de Conill más tarde conocido como Maset de Benardo en Cinctorres.
 
-*Cinctorres 23 de Agosto 2013.*
-
-*Francisca Julián Querol*
+*Paquita, Cinctorres 23 de Agosto 2013*

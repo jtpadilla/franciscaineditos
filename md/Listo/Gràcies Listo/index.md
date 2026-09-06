@@ -1,7 +1,7 @@
 ---
 id: "045"
 titulo: "Gràcies Listo"
-notas: "Entrada 14 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). És l'entrada 60 i última del blog, novembre 2014, escrita per Paquita després de la mort de Listo. Hi havia una còpia solta, eliminada. Foto de la Nit de Maitines de 2013 afegida el 2026-09-06 des de la còpia del llibre 'LIBRO lISTO'."
+notas: "Entrada 14 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). És l'entrada 60 i última del blog, novembre 2014, escrita per Paquita després de la mort de Listo. Hi havia una còpia solta, eliminada. Foto de la Nit de Maitines de 2013 afegida el 2026-09-06 des de la còpia del llibre 'LIBRO lISTO'. Firma original: «Paquita Novembre 2014.»."
 ---
 
 # Gràcies Listo
@@ -20,7 +20,7 @@ Pareix que volies descansar on has segut feliç, entre els pins i les carrasques
 
 Gràcies Listo. També per el que m’has cuidat, per la manera que em miraves, amb adoració, per fer-me sentir que jo era el màxim per a tu, per estimar-me tant. Listo…quanta falta em fas.
 
-*Paquita Novembre 2014.*
+*Paquita, Novembre 2014*
 
 ![](img/image40.jpeg)
 

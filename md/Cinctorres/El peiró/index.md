@@ -20,4 +20,4 @@ També hi ha en altres pobles i llocs de la Plana. En camins plens d\`ermites, t
 
 Tinc tants noms;PEIRÓ, PIURÓ, PRIGÓ o CREU DE TERME que puc triar.
 
-*Paquita.*
+*Paquita*

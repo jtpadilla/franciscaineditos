@@ -1,7 +1,7 @@
 ---
 id: "411"
 titulo: "Cartes amb Manel"
-notas: "Dues notes breus i la resposta a Manel, un parent de Caldes (Segura Julián) que va visitar Morella i Cinctorres: la tomba de la tia Maria, els besavis Miguel i Felipa Segura Mestre, el maset de Tadeo a la Rambla Celumbres i l'arbre genealògic que ella prepara; cap a finals de 2013. Del fitxer 'VALENCCIÀ' s'ha deixat fora la carta de Manel a la qual respon. La primera nota va adreçada a un Vicent."
+notas: "Dues notes breus i la resposta a Manel, un parent de Caldes (Segura Julián) que va visitar Morella i Cinctorres: la tomba de la tia Maria, els besavis Miguel i Felipa Segura Mestre, el maset de Tadeo a la Rambla Celumbres i l'arbre genealògic que ella prepara; cap a finals de 2013. Del fitxer 'VALENCCIÀ' s'ha deixat fora la carta de Manel a la qual respon. La primera nota va adreçada a un Vicent. Firma original: «Una forta abraçada per a tu i Andrea. Paquita»."
 ---
 
 # Cartes amb Manel
@@ -32,6 +32,8 @@ I si, estic recopilant fotos i fent el arbre com tu m’has dit, no si s està b
 
 Seria bonic tornar a veure mos el proper any.
 
-*Una forta abraçada per a tu i Andrea. Paquita*
+Una forta abraçada per a tu i Andrea.
+
+*Paquita*
 
 P.D. T’envie una foto de la pintura que ha fet (mol roina) però em divertís pintar pedres, es una copia d’un retrato antic de casa la Parra. El home del burret és el teu avi.

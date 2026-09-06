@@ -48,4 +48,4 @@ Té minerals com fòsfor, seleni i potassi, també sofre, calci, magnesi, ferro,
 
 Ha estat i és, una afició que a més a més dòna beneficis, i ha creat una cultura culinària al voltant d’aquest producte, conegut i valorat com es mereix.
 
-*Paquita Julian Querol*
+*Paquita*

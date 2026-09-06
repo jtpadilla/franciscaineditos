@@ -1,7 +1,7 @@
 ---
 id: "565"
 titulo: "Bolangera de dimonis"
-notas: "Ressenya del llibre de relats d'Àngel Sánchez Gozalbo (1931), un resum de cadascuna de les nou històries i una conclusió. Firmat 4 abril 2008, Paquita. Al blog només es va publicar una versió curta (maig 2012). Dues còpies idèntiques (565 i 264)."
+notas: "Ressenya del llibre de relats d'Àngel Sánchez Gozalbo (1931), un resum de cadascuna de les nou històries i una conclusió. Firmat 4 abril 2008, Paquita. Al blog només es va publicar una versió curta (maig 2012). Dues còpies idèntiques (565 i 264). Firma original: «Paquita. 4 abril 2008»."
 ---
 
 # Bolangera de dimonis
@@ -100,4 +100,4 @@ He intentat resumir les històries, sen-se pedre el sentit que l’autor d’aqe
 
 L’auto de BOLANGERA DE DIMONIS ens demostra que coneix les terres de Castelló. Esta escrit amb un llenguatge bellíssim on hi ha paraules que pareix tingen música. He gaudit dels dial-legs i situacions i he recordat vocabulari oblidat I m’adono que el mon roda i sempre feiem el mateix, com en un ball, com LA BOLANGERA.
 
-*Paquita. 4 abril 2008*
+*Paquita, 4 abril 2008*

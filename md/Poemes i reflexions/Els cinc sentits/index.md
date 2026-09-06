@@ -74,4 +74,4 @@ La netedat de l’aigua de la font.
 La puresa de la neu.  
 La fredor de la rosada matinera.I més coses més…més…
 
-*Paquita.*
+*Paquita*

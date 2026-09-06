@@ -1,7 +1,7 @@
 ---
 id: "128"
 titulo: "Les noves tecnologies"
-notas: "El mòbil i l'ordinador vistos per qui ha passat el mig segle. Firmat 2008."
+notas: "El mòbil i l'ordinador vistos per qui ha passat el mig segle. Firmat 2008. Firma original: «Paquita. 2008»."
 ---
 
 # Les noves tecnologies
@@ -26,4 +26,4 @@ Poc a poc es va perden la por, encara així, quan em fica davant del PC no saps 
 
 Un altra vegada desprès de fer una petita redacció no se que va ocórrer es va esborrar tot, Jo parlava a soles dient (qui em fa passar aquest mal trago) i el meu net de 5 anys que estava darrere, en una veu dolceta em va dir (abuela truca esta tecla) com un miracle tot va tornar a estar com abans, i vaig decidir que tenia que aprendre i fer algun curs, almenys estar un poc al dia. Aleshores mirem tots dos per Internet mapes callejeros busquem coses que el xiquet em vol ensenyar, classifiquem fotos, i clar en aquest e cas va ocorri el de sempre.també la càmera digital va ser un “regal”te un munto de funcions, a mi el que m’agrada es fer fotos sense pensar, el que veig, i desprès si fa el cas es borra, i calcificar-les en carpetes, ¡vaja! Que ho passe bé i com a perdut la por, sempre s’aprenen coses noves, I m’ha fitxat que hi han moltes coses relacionades amb les Noves Tecnologies, que mols dels electrodomèstics es programen i que poc a poc em vaig ficant al dia, almenys quan em fica endavant l’ordinador és per plaer i les hores volen. No en pensava que llegiria la premsa i escoltaria música i parlaria amb les amitges i trobaria per Internet informació de les coses més diverses fins receptes de cuina i veure en directe com plou o neva al meu poble, Quan alguna cosa es borra am paciència o encontre, crec que es pura lògica: i quan no surt bé es perquè ho ha fet malament, tot es qüestió de fixar-te el que fas, que l’ordinador no s’enganya mai.L’error sempre es nostre.
 
-*Paquita. 2008*
+*Paquita, 2008*

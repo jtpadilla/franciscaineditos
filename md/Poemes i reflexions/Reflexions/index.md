@@ -1,7 +1,7 @@
 ---
 id: "098"
 titulo: "Reflexions"
-notas: "Vuit reflexions breus escrites el novembre de 2018 per a acompanyar fotos de Karlos, amb la foto damunt de cada text com a les seues maquetes. Les set fotos citades (sèrie R de Karlos) es van recuperar de l'arxiu fotogràfic i van retallades a la imatge. Les referències 'Foto R-nn' del text i dues notes seues per a Karlos (que la flor de la 5ª potser era una orquídia, i que la referència de foto era només la inspiració) s'han tret del cos. Hi havia dues versions més curtes i sense numerar, eliminades."
+notas: "Vuit reflexions breus escrites el novembre de 2018 per a acompanyar fotos de Karlos, amb la foto damunt de cada text com a les seues maquetes. Les set fotos citades (sèrie R de Karlos) es van recuperar de l'arxiu fotogràfic i van retallades a la imatge. Les referències 'Foto R-nn' del text i dues notes seues per a Karlos (que la flor de la 5ª potser era una orquídia, i que la referència de foto era només la inspiració) s'han tret del cos. Hi havia dues versions més curtes i sense numerar, eliminades. Firma original: «Paquita Julian Querol novembre 2018»."
 ---
 
 # Reflexions
@@ -71,4 +71,4 @@ Pot ser el meu desig. Però jo veig que el color del cel del meu poble es blau, 
 
 La Natura és tan sàbia, que no es pot mesurar la bellesa d’una papallona Melanargia Galatea amb l’harmonia d’una senzilla rama de espígol, que li oferís el seu perfum i aliment.
 
-*Paquita Julian Querol novembre 2018*
+*Paquita, novembre 2018*

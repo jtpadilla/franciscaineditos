@@ -1,7 +1,7 @@
 ---
 id: "473"
 titulo: "Castellón"
-notas: "Resumen de la historia de la ciudad, de Estrabón a la industria cerámica. Firmado Francisca Julián Querol, 31-1-2014. Dos copias idénticas (Shrew Soft VPN y 'escritos sueltas de agricultura/para Vicente'), la segunda escrita para Vicente Vicente Rodríguez. Es un texto distinto de la entrada del blog 'Castelló 1200-1900'."
+notas: "Resumen de la historia de la ciudad, de Estrabón a la industria cerámica. Firmado Francisca Julián Querol, 31-1-2014. Dos copias idénticas (Shrew Soft VPN y 'escritos sueltas de agricultura/para Vicente'), la segunda escrita para Vicente Vicente Rodríguez. Es un texto distinto de la entrada del blog 'Castelló 1200-1900'. Firma original: «Francisca Julián Querol. 31-1-2014»."
 ---
 
 # Castellón
@@ -30,4 +30,4 @@ Con las heladas de las naranjas, de principios de los años cincuenta y aprovech
 
 Siendo actualmente junto con los cítricos, el motor económico de esta tierra.
 
-*Francisca Julián Querol. 31-1-2014*
+*Paquita, 31-1-2014*

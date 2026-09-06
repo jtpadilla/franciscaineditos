@@ -1,7 +1,7 @@
 ---
 id: "588"
 titulo: "Els reis d'Orient"
-notas: "Record d'infantesa: les tres xiquetes nascudes el mateix dia, el Rei d'Orient arribant a la cuina del carreró de la Placeta amb el burro Moro bramant, el Pepito de cartó, la nina de porcellana i l'any que el Rei va portar el germanet Tadeo; acaba amb el clauer digital que li han portat els Reis de 2009. Firmat 6 de gener de 2009, Paquita. No es va publicar al blog. Hi havia una versió quasi igual a 'Revista UJI' (258), eliminada."
+notas: "Record d'infantesa: les tres xiquetes nascudes el mateix dia, el Rei d'Orient arribant a la cuina del carreró de la Placeta amb el burro Moro bramant, el Pepito de cartó, la nina de porcellana i l'any que el Rei va portar el germanet Tadeo; acaba amb el clauer digital que li han portat els Reis de 2009. Firmat 6 de gener de 2009, Paquita. No es va publicar al blog. Hi havia una versió quasi igual a 'Revista UJI' (258), eliminada. Firma original: «6 de gener de 2009. Paquita»."
 ---
 
 # Els reis d'Orient
@@ -88,4 +88,4 @@ Quan m’ha quedat a soles, amb molta il·lusió i … una miqueta de por, ha en
 
 Aquest estiu, quan al poble em reuniré amb les meues amigues la Regina i la Feli els diré: - Veniu i mireu que m’ha portat aquest any els Reis -I els ensenyaré el clauer i una a una… totes les fotos, dels meus nets.
 
-*6 de gener de 2009. Paquita*
+*Paquita, 6 de gener de 2009*

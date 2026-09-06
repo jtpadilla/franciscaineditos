@@ -1,7 +1,7 @@
 ---
 id: "130"
 titulo: "Em diuen Listo"
-notas: "Entrada 1 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una presentació anterior ('Listo. Presentació', 2008), eliminada."
+notas: "Entrada 1 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una presentació anterior ('Listo. Presentació', 2008), eliminada. Firma original: «Listo. 2010»."
 ---
 
 # Em diuen Listo
@@ -22,4 +22,4 @@ Quan escriu, em pregunta què em pareix, si m’agrada moc les orelles i si no m
 
 Ara tecleja a l’ordinador però abans o feia asseguda a la butaca, i escrivia en llapis. Jo em gitava al seu braç, la seua llibreta recolzada al meu llom i estava quiet, a més a més deia el que escrivia parlant, tot un llibre sencer!! (el sé de memòria) i clar, m’ha apegat l’afició d’escriure, crec, que també tinc alguna cosa que dir. Penso dir-li tot el que m’agrada i el que no, i escriure ací.
 
-*Listo. 2010*
+*Listo, 2010*

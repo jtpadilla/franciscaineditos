@@ -1,7 +1,7 @@
 ---
 id: "137"
 titulo: "Llibre de memòries"
-notas: "Versió de 2026 del llibre de memòries (epíleg firmat Paquita, 20 maig 2026). Hi havia una còpia de 2024 amb un capítol sobre Cinctorres més llarg i un sobre Morella: estan a 'Cinctorres i Morella'. Inclou, resumits, els tres cursos de la Universitat Senior, que també estan com a documents propis."
+notas: "Versió de 2026 del llibre de memòries (epíleg firmat Paquita, 20 maig 2026). Hi havia una còpia de 2024 amb un capítol sobre Cinctorres més llarg i un sobre Morella: estan a 'Cinctorres i Morella'. Inclou, resumits, els tres cursos de la Universitat Senior, que també estan com a documents propis. Firma original: «Paquita 20 maig 2026.». Firma original: «24 juny 2014. Francisca Julian Querol»."
 ---
 
 # Llibre de memòries
@@ -22,7 +22,7 @@ Quan vaig començar a escriure tenia 61 anys ara en tinc 81 m’és molt difíci
 
 Quan va neiser el meu germà Jose Manuel el pare molt content em va ficar als braços al xiquet embolicat i em va dir “mira al teu germanet, tindras que [**ajudar.li**](http://ajudar.li) a criarlo a la mare, ja sap que te poca salut,” i anys després quan la mare estava agonitzant li vaig dir “mare, sempre cuidare dels meus germans” i així ha segut, els vull com als meus fills, varen créixer tots junts fins que es van fent adults i es van casar. El meu germà menut amb 62 anys el dia 7 d’abril de 2023 també ha marxat, ara descanse com la mare i el pare al donar-li sepultura recordant les seues paraules li vaig dir: “pare, no ho ha sabut fer millor, ara esteu els tres junts”, i rumio, si tots estos fets no els compte jo, qui ho farà.
 
-*Paquita 20 maig 2026.*
+*Paquita, 20 maig 2026*
 
 ## Records
 
@@ -823,7 +823,7 @@ Tinc 69 anys, en la meua vida tot m’ha ocorregut, massa prompte i a deshora, v
 
 Sóc la més longeva de la família, ni els meus pares ni agüelos ni el meu Juan, van arribar aquesta edat. Quan els meus germans i jo ens vàrem quedar a soles Joseret tenia 3, Tadeo 10, i jo 17 anys, ells no recorden, o molt poc dels nostres pares i la vida familiar, a sigut dur recordar i donar testimoni d’aquests fets, a vegades, no podia seguir escrivint i ho deixava un temps, i tornava a cavil·lar… soc la memòria de la família, si no ho conto jo, qui ho farà?
 
-*24 juny 2014. Francisca Julian Querol*
+*Paquita, 24 juny 2014*
 
 Dia 4 de decembre de 2023 recordant.
 

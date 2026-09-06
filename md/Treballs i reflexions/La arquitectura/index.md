@@ -1,7 +1,7 @@
 ---
 id: "654"
 titulo: "La arquitectura"
-notas: "Recorrido por la arquitectura desde Vitrubio y los menhires hasta el neoclasicismo y las construcciones rurales de piedra. Firmado 19-3-2011, Paquita; era en la carpeta 'para Vicente'. Única versión."
+notas: "Recorrido por la arquitectura desde Vitrubio y los menhires hasta el neoclasicismo y las construcciones rurales de piedra. Firmado 19-3-2011, Paquita; era en la carpeta 'para Vicente'. Única versión. Firma original: «19-3-2011. Paquita»."
 ---
 
 # La arquitectura
@@ -22,4 +22,4 @@ La arquitectura ha ido pareja en la época y los cambios de todo tipo de Arte. C
 
 Y están, las diversa construcciones rurales, integradas en el paisaje y con la materia prima que esta a su alcance, al limpiar el campo de piedras para hacerlo fértil. Son verdaderas murallas de piedra seca con las que sujetan la tierra de los bancales, y entre otras cosas, también las barracas con que resguardarse de las inclemencias del tiempo, hechas por personas anónimas, que no saben que son, auténticos constructores.
 
-*19-3-2011. Paquita*
+*Paquita, 19-3-2011*

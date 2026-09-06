@@ -1,7 +1,7 @@
 ---
 id: "127"
 titulo: "La festa del foc"
-notas: "Sant Antoni a Cinctorres, gener 2008. El text anava en negreta, que s'ha tret."
+notas: "Sant Antoni a Cinctorres, gener 2008. El text anava en negreta, que s'ha tret. Firma original: «Paquita 28 gener 2008.»."
 ---
 
 # La festa del foc
@@ -14,4 +14,4 @@ Després de dinar al local de festes a les cinc de la vesprada segons el costum 
 
 La festa aleshores és al plasset de la esglesia plena de gent amb tot tipus d’animals, conills, gallines, gats, gàvies amb pardalets, gossos i com no, cavalls, mulos i ases. Al cap d’abant els majorals a la gropa dels animals, amb la bandera de la associacio del sant, després de la benedició, van pels carres del poble fins a l’ajuntamen, a la Plaça Vella, on a tots els que porten un animal li donen la coqueta com a regal, que pesa una lliura (333)grams.I allí meteix, amb el caliu de la foguera plena de brases que duren tota la nit, els que tenen ganes de seguir la festa, fan la torrada per a sopar, acompanyats de la música, de la dolçaina i tabal.
 
-*Paquita 28 gener 2008.*
+*Paquita, 28 gener 2008*

@@ -1,7 +1,7 @@
 ---
 id: "096"
 titulo: "Font, aigua, llavadors"
-notas: "Les fonts i els llavadors del poble. Firmat 27-4-2026."
+notas: "Les fonts i els llavadors del poble. Firmat 27-4-2026. Firma original: «Paquita. 27-4-2026»."
 ---
 
 # Font, aigua, llavadors
@@ -16,4 +16,4 @@ La font dels Horts i llavadors, i la font de San Marc, que gaudeix del poble des
 
 I al barranc de la Vila, l’aigua de la Fontanassa alimenta els seu llavador, on les dones agenollades renten la roba dels malalts i difunts. Mentres descansen fent un mosset, la roba estesa a les parets dels bancals s’eixuga, així no pesa tant, i amb el cartró de mimbre o tina de cinc plena de roba neta, recolzat amb la capçana al costat, la font del Basiet, LLucarda i Sol de Vila, les veu passar. Una parada per ha trencar l’alè i capa a casa, per les Solanetes, o per les costeretes del gemec, “ai” si els seus esglaons parlaren.
 
-*Paquita. 27-4-2026*
+*Paquita, 27-4-2026*

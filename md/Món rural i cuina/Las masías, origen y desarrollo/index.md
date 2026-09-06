@@ -1,7 +1,7 @@
 ---
 id: "144"
 titulo: "Las masías, origen y desarrollo"
-notas: "Texto del taller de Sabiduría masovera de CEVA (mayo 2019): origen de las masías dels Ports y crónica del primer taller (la cuajada de leche de oveja). Había cuatro copias (dos en CEVA, una vacía); se conserva la de la raíz. Se ha quitado un enlace suelto a un periódico que iba al final."
+notas: "Texto del taller de Sabiduría masovera de CEVA (mayo 2019): origen de las masías dels Ports y crónica del primer taller (la cuajada de leche de oveja). Había cuatro copias (dos en CEVA, una vacía); se conserva la de la raíz. Se ha quitado un enlace suelto a un periódico que iba al final. Firma original: «Paquita Julián». Firma original: «Paquita. Mayo del 2019»."
 ---
 
 # Las masías, origen y desarrollo
@@ -20,7 +20,7 @@ Cuando Jaume I concede a Blasco de Alagón la Carta Pobla de Morella en 1233 le 
 
 La comarca fue repoblada por gentes de las sierras de Aragón, de los que se adapto la vestimenta y en algunos casos su idioma. De Cataluña, gentes de pueblos del pirineo de Lerida con el idioma llamado Lemosín dialecto del Occitano. La arquitectura mayoritariamente de las masías y costumbres, como por ejemplo que sea el hijo mayor l’hereu. El es, quien recibe todas las tierras para que no se dividan, costumbre que perduró en muchas masías, en el caso en mi familia paterna hasta principios del s.XX.
 
-*Paquita Julián*
+*Paquita*
 
 ## 1º Taller de Sabiduría masovera
 
@@ -38,4 +38,4 @@ El regreso al pueblo fue también un improvisado acto cultura pues vimos el muse
 
 Mi agradecimiento y bravo a todos mis compañeros de C.E.V.A y de aventura con cuajada.
 
-*Paquita. Mayo del 2019*
+*Paquita, Mayo del 2019*

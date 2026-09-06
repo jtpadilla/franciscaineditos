@@ -1,7 +1,7 @@
 ---
 id: "455"
 titulo: "Mare de Déu de la Balma"
-notas: "El santuario de la Balma, en Zorita: el río Bergantes, el origen de la devoción, la fiesta del primer sábado de septiembre con los quintos, las danzas y el diálogo del Ángel y el Demonio. Cuatro fotos. Firmado Paquita Julián, julio 2014. Había una versión sin fotos ni fecha en Revista UJI (255), eliminada. Se han recompuesto tres cursivas partidas."
+notas: "El santuario de la Balma, en Zorita: el río Bergantes, el origen de la devoción, la fiesta del primer sábado de septiembre con los quintos, las danzas y el diálogo del Ángel y el Demonio. Cuatro fotos. Firmado Paquita Julián, julio 2014. Había una versión sin fotos ni fecha en Revista UJI (255), eliminada. Se han recompuesto tres cursivas partidas. Firma original: «Paquita Julián. Julio 2014»."
 ---
 
 # Mare de Déu de la Balma
@@ -44,4 +44,4 @@ Al llegar a la magnífica *Creu Cuberta* con pinturas del pintor morellano *Crue
 
 Ahora La Balma es devoción y fe en un mundo de montañas, de ambiente enigmático y sereno, inmóvil en el tiempo.
 
-*Paquita Julián. Julio 2014*
+*Paquita, Julio 2014*

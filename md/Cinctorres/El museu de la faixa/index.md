@@ -60,6 +60,6 @@ La catalina,**és la barra de fusta rodona on s’enrola el teixit després d’
 
 Els moviments compassats dels peus i mans son l’art de **teixir** Es comença xafant amb el peu dret la **1ª calça**, seguit el peu esquerre amb la **4ª calça,** altra vegada el peu dret a la **2ª calça** i seguit el peu esquerre a la**3º calça,** al mateix temps la mà dreta fa passar la **llançadora,** i la mà esquerra baixa la**pua** en cada moviment dels peus, i tornar a començar un altra vegada. És com un ball, és també, l’art de Teixir.
 
-*Paquita.*
+*Paquita*
 
 ![](img/image2.jpg)

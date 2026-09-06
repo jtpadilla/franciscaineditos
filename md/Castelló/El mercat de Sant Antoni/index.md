@@ -1,7 +1,7 @@
 ---
 id: "452"
 titulo: "El mercat de Sant Antoni"
-notas: "El mercat de Sant Antoni de Castelló: el mercat d'avui, el dels anys 60 amb els seus oficis, els noms de la gent de cada parada (amb la memòria de Maria Cinta Gozalbo), l'expedient municipal de construcció (1957-1960) i fotos, entre elles ella mateixa a la parada el 1967. Firmat Paquita, octubre 2010. Tres còpies del mateix text: 452 i 220 (nou fotos) i 178 (quatre fotos, tres que no eren a les altres, afegides ací). Sense els signes de cita de la conversió."
+notas: "El mercat de Sant Antoni de Castelló: el mercat d'avui, el dels anys 60 amb els seus oficis, els noms de la gent de cada parada (amb la memòria de Maria Cinta Gozalbo), l'expedient municipal de construcció (1957-1960) i fotos, entre elles ella mateixa a la parada el 1967. Firmat Paquita, octubre 2010. Tres còpies del mateix text: 452 i 220 (nou fotos) i 178 (quatre fotos, tres que no eren a les altres, afegides ací). Sense els signes de cita de la conversió. Firma original: «Octubre 2010. Paquita»."
 ---
 
 # El mercat de Sant Antoni
@@ -258,4 +258,4 @@ Hemos visto la reciente inaguración del Mercado de San Antonio, que no obstante
 
 ![](img/image12.jpeg)
 
-*Octubre 2010. Paquita*
+*Paquita, Octubre 2010*

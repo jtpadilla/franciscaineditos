@@ -26,4 +26,4 @@ Medianas: las que permiten refugiarse un grupo de personas, pueden estar integra
 
 Grandes: Aisladas en medio del campo, con capacidad para personas y animales. Están construidas con hileras de piedras planas unas encima de otras a pocos centímetros, cubierta de *falsa volta* y dintel alineado. Todas tienen técnica equilibrio y estética. Verdaderas obras maestras.
 
-*Francisca Julián Querol*
+*Paquita*

@@ -1,7 +1,7 @@
 ---
 id: "149"
 titulo: "Paviment ceràmic"
-notas: "El paviment de rajoles zoomòrfiques del saló de la casa palau dels Sanjoan i Sousa, les auques de Laborda i els òxids i colors de la ceràmica valenciana. Pot coincidir amb material del site Sant Joans."
+notas: "El paviment de rajoles zoomòrfiques del saló de la casa palau dels Sanjoan i Sousa, les auques de Laborda i els òxids i colors de la ceràmica valenciana. Pot coincidir amb material del site Sant Joans. Firma original: «dimarts, 6 / octubre / 2009. Paquita»."
 ---
 
 # Paviment ceràmic
@@ -51,4 +51,4 @@ Aquest colors s’utilitzaven en totes les manufactures i fabriques.
 
 Per aconseguir les diferents games de colors és, feien diferents mescles i pinzellades més o menys aiguades i la temperatura adequada del forn.
 
-*dimarts, 6 / octubre / 2009. Paquita*
+*Paquita, dimarts, 6 / octubre / 2009*

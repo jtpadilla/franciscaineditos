@@ -1,7 +1,7 @@
 ---
 id: "047"
 titulo: "La belleza, objetiva o subjetiva"
-notas: "Reflexión sobre la belleza del fuego del hogar. Firmada. Había una versión anterior sin la introducción ni la firma, eliminada."
+notas: "Reflexión sobre la belleza del fuego del hogar. Firmada. Había una versión anterior sin la introducción ni la firma, eliminada. Firma original: «Paquita Julián Querol.»."
 ---
 
 # La belleza, objetiva o subjetiva
@@ -18,4 +18,4 @@ Dicen que el fuego ahuyenta a las fieras, Pero también es peligroso, un incendi
 
 Así, que no sé, si el fuego es hermoso, o peligroso, creo más bien, que en el momento que vi en él su belleza, no era objetiva, la belleza que vi en ese momento de calma, era belleza subjetiva, y quizás en otro momento y circunstancia, lo vea de otra forma y cambie de opinión…
 
-*Paquita Julián Querol.*
+*Paquita*

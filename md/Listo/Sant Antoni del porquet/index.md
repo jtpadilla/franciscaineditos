@@ -32,6 +32,8 @@ Aquest any l’ama m’ha donat a tastar, un trosset del pastis, que bo!!!
 
 Tornem a estar a casa… a Castelló, anirem al poble a les vacances de Pasqua uns dies, i desprès a l’estiu.
 
-En un any, tornarà a ser Sant Antoni i la nostra festa, la dels animalets. I un altra vegada el mateix, gelat de fred, sense pastis i mullat. Listo
+En un any, tornarà a ser Sant Antoni i la nostra festa, la dels animalets. I un altra vegada el mateix, gelat de fred, sense pastis i mullat.
+
+*Listo*
 
 ![](img/image4.jpeg)
