@@ -1,15 +1,14 @@
 # Índice de inprocess/
 
-391 documentos en 73 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 391.
+383 documentos en 73 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 383.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 391 docs | | |  |
-| **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 4 docs | | |  |
+| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 383 docs | | |  |
+| **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 3 docs | | |  |
 | 175 | [Documents/2 tapas/LAS PALABRAS.](<Documents/2 tapas/LAS PALABRAS./index.md>) | LAS PALABRAS. | docx | 2167 | 1 |  |  |
-| 178 | [Documents/2 tapas/mercat de Sant Antoni](<Documents/2 tapas/mercat de Sant Antoni/index.md>) | mercat de Sant Antoni | docx | 8767 | 4 |  |  |
 | 176 | [Documents/2 tapas/TAPA DE 15](<Documents/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
 | 177 | [Documents/2 tapas/TAPA DE 6](<Documents/2 tapas/TAPA DE 6/index.md>) | TAPA DE 6 | docx | 88 | 8 |  |  |
 | **C30** | **[Documents/actes de naexemen caasa la Parra i avanpasats-nº 3/](<Documents/actes de naexemen caasa la Parra i avanpasats-nº 3/_carpeta.md>)** | **actes de naexemen caasa la Parra i avanpasats-nº 3** | carpeta | 0 docs | | |  |
@@ -102,8 +101,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 201 | [Documents/Cultura para la Paz](<Documents/Cultura para la Paz/index.md>) | Cultura para la Paz | docx | 2989 | 0 |  |  |
 | **C37** | **[Documents/Donde se hacian los mercados del lunes/](<Documents/Donde se hacian los mercados del lunes/_carpeta.md>)** | **Donde se hacian los mercados del lunes** | carpeta | 1 docs | | |  |
 | 203 | [Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes.](<Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes./index.md>) | Fereis y mercado del lunes. | docx | 1043 | 0 |  |  |
-| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 125 docs | | |  |
-| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 123 docs | | |  |
+| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 124 docs | | |  |
+| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 122 docs | | |  |
 | **C40** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/_carpeta.md>)** | **Biodiversidad 2 documentos** | carpeta | 4 docs | | |  |
 | **C41** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 2 docs | | |  |
 | 206 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -184,7 +183,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C47** | **[Documents/Dropbox copia/compartida/LISTO acabat/](<Documents/Dropbox copia/compartida/LISTO acabat/_carpeta.md>)** | **LISTO acabat** | carpeta | 2 docs | | |  |
 | 218 | [Documents/Dropbox copia/compartida/LISTO acabat/LIBRO](<Documents/Dropbox copia/compartida/LISTO acabat/LIBRO/index.md>) | LIBRO | docx | 31728 | 41 |  |  |
 | 219 | [Documents/Dropbox copia/compartida/LISTO acabat/TAPA](<Documents/Dropbox copia/compartida/LISTO acabat/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
-| 220 | [Documents/Dropbox copia/compartida/Llibret merct San Antoni](<Documents/Dropbox copia/compartida/Llibret merct San Antoni/index.md>) | Llibret merct San Antoni | doc | 8776 | 9 |  |  |
 | **C49** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 22 docs | | |  |
 | 223 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Clase Memoria - copia para mi.](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Clase Memoria - copia para mi./index.md>) | Clase Memoria - copia para mi. | docx | 85265 | 7 |  |  |
 | 224 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Festes de la magdalena](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Festes de la magdalena/index.md>) | Festes de la magdalena | docx | 26284 | 0 |  |  |
@@ -300,12 +298,9 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C71** | **[Documents/escrits . Les meues coses/](<Documents/escrits . Les meues coses/_carpeta.md>)** | **escrits . Les meues coses** | carpeta | 2 docs | | |  |
 | 656 | [Documents/escrits . Les meues coses/blog meues coses.](<Documents/escrits . Les meues coses/blog meues coses./index.md>) | blog meues coses. | docx | 452 | 0 |  |  |
 | 657 | [Documents/escrits . Les meues coses/pilota](<Documents/escrits . Les meues coses/pilota/index.md>) | pilota | docx | 2290 | 0 |  | PARECIDO (0.74) a md/Castelló/La pilota valenciana, ya publicado. |
-| **C72** | **[Documents/esglesia de Cinctorres 2 documments diferens/](<Documents/esglesia de Cinctorres 2 documments diferens/_carpeta.md>)** | **esglesia de Cinctorres 2 documments diferens** | carpeta | 3 docs | | |  |
-| 658 | [Documents/esglesia de Cinctorres 2 documments diferens/CINCTORRES ESGLESIA](<Documents/esglesia de Cinctorres 2 documments diferens/CINCTORRES ESGLESIA/index.md>) | CINCTORRES ESGLESIA | docx | 4326 | 1 |  |  |
-| 659 | [Documents/esglesia de Cinctorres 2 documments diferens/Cinctorrres esglesia](<Documents/esglesia de Cinctorres 2 documments diferens/Cinctorrres esglesia/index.md>) | Cinctorrres esglesia | docx | 3141 | 0 |  |  |
+| **C72** | **[Documents/esglesia de Cinctorres 2 documments diferens/](<Documents/esglesia de Cinctorres 2 documments diferens/_carpeta.md>)** | **esglesia de Cinctorres 2 documments diferens** | carpeta | 1 docs | | |  |
 | **C73** | **[Documents/esglesia de Cinctorres 2 documments diferens/escrits . Les meues coses/](<Documents/esglesia de Cinctorres 2 documments diferens/escrits . Les meues coses/_carpeta.md>)** | **escrits . Les meues coses** | carpeta | 1 docs | | |  |
 | 660 | [Documents/esglesia de Cinctorres 2 documments diferens/escrits . Les meues coses/pilota](<Documents/esglesia de Cinctorres 2 documments diferens/escrits . Les meues coses/pilota/index.md>) | pilota | docx | 2290 | 0 |  | PARECIDO (0.74) a md/Castelló/La pilota valenciana, ya publicado. |
-| 422 | [Documents/FAIXERO](<Documents/FAIXERO/index.md>) | FAIXERO | docx | 4088 | 2 |  |  |
 | **C74** | **[Documents/Fax/](<Documents/Fax/_carpeta.md>)** | **Fax** | carpeta | 13 docs | | |  |
 | **C75** | **[Documents/Fax/Inbox/](<Documents/Fax/Inbox/_carpeta.md>)** | **Inbox** | carpeta | 13 docs | | |  |
 | **C76** | **[Documents/Fax/Inbox/treball uji/](<Documents/Fax/Inbox/treball uji/_carpeta.md>)** | **treball uji** | carpeta | 13 docs | | |  |
@@ -343,7 +338,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 664 | [Documents/listo i mes coses/LIBRO](<Documents/listo i mes coses/LIBRO/index.md>) | LIBRO | docx | 31640 | 36 |  |  |
 | 665 | [Documents/listo i mes coses/TAPA](<Documents/listo i mes coses/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
 | 450 | [Documents/Listo, acabat](<Documents/Listo, acabat/index.md>) | Listo, acabat | docx | 31741 | 41 |  |  |
-| 452 | [Documents/Llibret merct San Antoni](<Documents/Llibret merct San Antoni/index.md>) | Llibret merct San Antoni | doc | 8776 | 9 |  |  |
 | 453 | [Documents/MANOLO CAPDEVILA  MOT BE.](<Documents/MANOLO CAPDEVILA  MOT BE./index.md>) | MANOLO CAPDEVILA  MOT BE. | odt | 3458 | 0 |  |  |
 | 455 | [Documents/Mare de Deu de la balma.](<Documents/Mare de Deu de la balma./index.md>) | Mare de Deu de la balma. | docx | 5715 | 4 |  |  |
 | **C88** | **[Documents/memoria varias/](<Documents/memoria varias/_carpeta.md>)** | **memoria varias** | carpeta | 2 docs | | |  |
@@ -374,11 +368,10 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 722 | [Documents/religión/Religion 2/religión/RELACIÓN DE HEREJÍAS POR SIGLOS](<Documents/religión/Religion 2/religión/RELACIÓN DE HEREJÍAS POR SIGLOS/index.md>) | RELACIÓN DE HEREJÍAS POR SIGLOS | docx | 2314 | 0 |  |  |
 | 715 | [Documents/religión/Religion 2/VISION FIN DEL MUNDO (1)](<Documents/religión/Religion 2/VISION FIN DEL MUNDO (1)/index.md>) | VISION FIN DEL MUNDO (1) | odt | 3458 | 0 |  |  |
 | 724 | [Documents/revista nit de Maitines](<Documents/revista nit de Maitines/index.md>) | revista nit de Maitines | docx | 4189 | 0 |  |  |
-| **C97** | **[Documents/Shrew Soft VPN/](<Documents/Shrew Soft VPN/_carpeta.md>)** | **Shrew Soft VPN** | carpeta | 4 docs | | |  |
+| **C97** | **[Documents/Shrew Soft VPN/](<Documents/Shrew Soft VPN/_carpeta.md>)** | **Shrew Soft VPN** | carpeta | 3 docs | | |  |
 | 477 | [Documents/Shrew Soft VPN/cançons](<Documents/Shrew Soft VPN/cançons/index.md>) | cançons | doc | 1668 | 0 |  |  |
 | 475 | [Documents/Shrew Soft VPN/Cultura para la Paz](<Documents/Shrew Soft VPN/Cultura para la Paz/index.md>) | Cultura para la Paz | docx | 2989 | 0 |  |  |
 | 479 | [Documents/Shrew Soft VPN/silenci](<Documents/Shrew Soft VPN/silenci/index.md>) | silenci | docx | 6689 | 1 |  |  |
-| 476 | [Documents/Shrew Soft VPN/Torres de Cinctorres](<Documents/Shrew Soft VPN/Torres de Cinctorres/index.md>) | Torres de Cinctorres | docx | 2500 | 1 |  |  |
 | **C98** | **[Documents/Soriano/](<Documents/Soriano/_carpeta.md>)** | **Soriano** | carpeta | 1 docs | | |  |
 | 483 | [Documents/Soriano/J. Soriano. Resumen Francisca Julián](<Documents/Soriano/J. Soriano. Resumen Francisca Julián/index.md>) | J. Soriano. Resumen Francisca Julián | docx | 2019 | 0 |  |  |
 | 513 | [Documents/Teatre. Rosa i Roseta.](<Documents/Teatre. Rosa i Roseta./index.md>) | Teatre. Rosa i Roseta. | doc | 14028 | 0 |  |  |
@@ -398,7 +391,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 733 | [Documents/todo listo/PPRESENTACIÓ LISTO](<Documents/todo listo/PPRESENTACIÓ LISTO/index.md>) | PPRESENTACIÓ LISTO | docx | 1592 | 0 |  | PARECIDO (0.64) a md/Listo/Em diuen Listo, ya publicado. |
 | 734 | [Documents/todo listo/SANT ANTONI DEL PORQUET LISTO](<Documents/todo listo/SANT ANTONI DEL PORQUET LISTO/index.md>) | SANT ANTONI DEL PORQUET LISTO | docx | 2594 | 1 |  |  |
 | 735 | [Documents/todo listo/TERTULIA ENTRE AMICS. LISTO](<Documents/todo listo/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
-| 518 | [Documents/Torres de Cinctorres (2)](<Documents/Torres de Cinctorres (2)/index.md>) | Torres de Cinctorres (2) | docx | 3380 | 1 |  |  |
 | **C101** | **[Documents/TOT TRUFA/](<Documents/TOT TRUFA/_carpeta.md>)** | **TOT TRUFA** | carpeta | 27 docs | | |  |
 | **C102** | **[Documents/TOT TRUFA/apuntes de la trufa/](<Documents/TOT TRUFA/apuntes de la trufa/_carpeta.md>)** | **apuntes de la trufa** | carpeta | 6 docs | | |  |
 | 492 | [Documents/TOT TRUFA/apuntes de la trufa/forcall](<Documents/TOT TRUFA/apuntes de la trufa/forcall/index.md>) | forcall | docx | 5421 | 0 |  |  |

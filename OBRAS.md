@@ -13,10 +13,10 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C19 | Familia Padilla Agut | 1 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
 | C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
-| C21 | Cinctorres | 13 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
+| C21 | Cinctorres | 16 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
 | C22 | Món rural i cuina | 10 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
-| C24 | Castelló | 9 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
+| C24 | Castelló | 10 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
 | C26 | Treballs i reflexions | 9 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
@@ -63,10 +63,14 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   quedarse con el más completo. «MEMORIA AGRICULTURA CLASE grupo» (149.000) es la versión de grupo.
   Todo `TOT TRUFA/` con «La trufa negra Paquita» (su versión). «pastel de salmón» y «recetas todas».
   La pedra en sec del blog de antropología (`blog uji/`, «Recopilando piedra en sec») y «els nostres jocs».
-- **C21 Cinctorres**: la iglesia de Sant Pere (`esglesia de Cinctorres 2 documments`, blog), «Torres de
-  Cinctorres» (toponimia), «Llibret mercat San Antoni», «Sant Antoni als Ports», las ermitas de `wiki/`
-  (Gràcia, Sant Pere, Sant Marc, rogatives), «cansalader», «FAIXERO(S)», «Mare de Deu de la Balma» (es de
-  Zorita: mejor en Viatges o Treballs).
+- **C21 Cinctorres**: hechos el 2026-09-06 «Església de Sant Pere» (658), «Toponimia de Cinctorres» (476) y
+  la fusión de «FAIXERO» (422, 2017) con «Faixero, faixes!» (160). Quedan a decisión del usuario: las cuatro
+  ermitas y rogatives de `wiki/` (352-355; sin indicio de copia en la web, irían con AUTORÍA A CONFIRMAR) y la
+  entrada del blog «Esglesia de Cinctorres» (586 y 289), versión corta de la de md (conservar en Les meues
+  coses o borrar). «Sant Antoni als Ports» es del blog. No van aquí: «Llibret mercat San Antoni» (es el
+  mercado de Castelló, ya en C24), «cansalader» (oficio: C22 o C19), «Mare de Deu de la Balma» (Zorita:
+  Viatges), los artículos del boletín (Natura). «Faixero Memoria» (231, 390, 358) ya está dentro de
+  «Agricultura y costumbres del mundo rural»: borrar.
 - **C24 Castelló**: hechos el 2026-09-06 «Cuartel de San Francisco», «Castellón» y «Partidas de Castellón».
   «Convento y cuartel» y «Castelló 1200-1900» son entradas del blog y van a Les meues coses. Quedan a decisión
   del usuario «Festes de la Magdalena» (26.000, cuatro copias: 224, 232, 383, 391) y «madalena - copia» (371):
@@ -118,6 +122,10 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 - 2026-09-06: Castelló recibe «Cuartel de San Francisco» (id 211), «Castellón» (id 473; copia 650 borrada) y
   «Partidas de Castellón» (id 238, la versión completa; borradas la copia 397 y las versiones cortas 363 y 645).
   La obra pasa de 6 a 9 documentos.
+- 2026-09-06: Cinctorres recibe «Església de Sant Pere» (id 658; borrada la versión corta 659), «Toponimia de
+  Cinctorres» (id 476; borrada la copia 518 con restos de web) y «Faixero, faixes!» reescrito como fusión de la
+  versión de 2017 con fotos (id 422, borrado) y la anterior de md (id 160, que conserva). Castelló recibe «El
+  mercat de Sant Antoni» (id 452, con tres fotos más de 178; borrados 178, 220 y 452). C21 pasa a 16 y C24 a 10.
 
 ## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
 
