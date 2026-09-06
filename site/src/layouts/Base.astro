@@ -1,0 +1,63 @@
+---
+import '../styles/global.css';
+import { Font } from 'astro:assets';
+import { SITE, T, GERMANS, CODI_IDIOMA, url, type Lang } from '../site/config';
+interface Props { lang: Lang; title?: string; desc?: string; ruta?: string; actual?: 'obres' | 'fotografies' | 'cerca' | 'sobre'; }
+const { lang, title, desc, ruta = '', actual } = Astro.props;
+const altre: Lang = lang === 'ca' ? 'es' : 'ca';
+const titol = title ? `${title} · ${SITE.nom[lang]}` : `${SITE.nom[lang]} · ${SITE.autora}`;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<html lang={CODI_IDIOMA[lang]}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{titol}</title>
+  <meta name="description" content={desc ?? SITE.lema[lang]} />
+  <meta name="author" content={SITE.autora} />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+  <link rel="alternate" hreflang={CODI_IDIOMA[altre]} href={new URL(url(altre, ruta), Astro.site)} />
+  <link rel="canonical" href={new URL(url(lang, ruta), Astro.site)} />
+  <link rel="sitemap" href={`${base}/sitemap-index.xml`} />
+  <Font cssVariable="--f-lectura" preload /><Font cssVariable="--f-ui" />
+  <script is:inline>try { const t = localStorage.getItem('tema'); if (t) document.documentElement.dataset.theme = t; } catch {}</script>
+</head>
+<body>
+  <header class="capçalera"><div class="cap">
+    <a class="marca" href={url(lang)}>{SITE.nom[lang]}<small>{SITE.autora}</small></a>
+    <nav class="principal" aria-label="Principal">
+      <a href={url(lang)} aria-current={actual === 'obres' ? 'page' : undefined}>{T.obres[lang]}</a>
+      <a href={url(lang, 'fotografies')} aria-current={actual === 'fotografies' ? 'page' : undefined}>{T.fotografies[lang]}</a>
+      <a href={url(lang, 'cerca')} aria-current={actual === 'cerca' ? 'page' : undefined}>{T.cerca[lang]}</a>
+      <a href={url(lang, 'sobre')} aria-current={actual === 'sobre' ? 'page' : undefined}>{T.sobre[lang]}</a>
+      <a class="idioma" href={url(altre, ruta)} lang={CODI_IDIOMA[altre]} hreflang={CODI_IDIOMA[altre]}>{T.idiomaAlt[lang]}</a>
+      <button id="tema-boto" type="button" class="tema" aria-label={T.tema[lang]} title={T.tema[lang]}>◐</button>
+    </nav>
+  </div></header>
+  <main><div class="cap"><slot /></div></main>
+  <footer class="peu"><div class="cap">
+    <p class="avis-peu">{T.peu[lang]} <a href={SITE.repositori}>{T.repositori[lang]}</a>.</p>
+    <p class="lbl">{T.altresLlocs[lang]}</p>
+    <ul>{GERMANS.map((g) => <li><a href={g.url}>{g.nom}</a> <span>— {g.desc[lang]}</span></li>)}</ul>
+  </div></footer>
+  <dialog class="visor" aria-label="Imatge ampliada"><figure style="margin:0"><img alt="" /><figcaption></figcaption></figure><button type="button" aria-label="Tanca">×</button></dialog>
+  <script>
+    document.getElementById('tema-boto')?.addEventListener('click', () => {
+      const root = document.documentElement;
+      const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+      root.dataset.theme = dark ? 'light' : 'dark';
+      try { localStorage.setItem('tema', root.dataset.theme); } catch {}
+    });
+    const v = document.querySelector<HTMLDialogElement>('dialog.visor');
+    const g = v?.querySelector('img'); const c = v?.querySelector('figcaption');
+    if (v && g && c) {
+      document.querySelectorAll<HTMLImageElement>('.lectura img, .galeria img').forEach((img) => {
+        img.addEventListener('click', () => { g.src = img.dataset.gran || img.currentSrc || img.src; g.alt = img.alt; c.textContent = img.closest('figure')?.querySelector('figcaption')?.textContent ?? ''; v.showModal(); });
+      });
+      v.querySelector('button')?.addEventListener('click', () => v.close());
+      v.addEventListener('click', (e) => { if (e.target === v) v.close(); });
+    }
+  </script>
+</body>
+</html>

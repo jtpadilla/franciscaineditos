@@ -1,0 +1,241 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import Base from '../layouts/Base.astro';
+import { SITE, OBRES, T, url, type Lang } from '../site/config';
+import { llengua } from '../site/llengua';
+import { slug } from '../site/slug';
+interface Props { lang: Lang; tipus: string; obra?: string; id?: string; ruta?: string }
+const { lang, tipus, obra, id, ruta = '' } = Astro.props;
+
+// Els documents, amb el que es dedueix del cos: longitud, nombre d'imatges i llengua.
+const cos = (t: { body?: string }) => (t.body ?? '').replace(/!\[[^\]]*\]\([^)]*\)/g, '');
+const info = (t: { body?: string }) => ({ car: cos(t).length, img: ((t.body ?? '').match(/!\[/g) ?? []).length, lle: llengua(cos(t)) });
+const textos = (await getCollection('textos')).map((t) => ({ ...t, ...info(t), obra: t.id.split('/')[0] })).sort((a, b) => b.car - a.car);
+const obresMd = await getCollection('obres');
+const claus = [...Object.keys(OBRES), ...obresMd.map((o) => o.id).filter((k) => !(k in OBRES))];
+const perObra = (o: string) => textos.filter((t) => t.obra === o);
+const nomObra = (o: string) => OBRES[o]?.nom[lang] ?? obresMd.find((x) => x.id === o)?.data.titulo ?? o;
+const descObra = (o: string) => OBRES[o]?.desc[lang] ?? obresMd.find((x) => x.id === o)?.data.criterio ?? '';
+const tipusObra = (o: string) => OBRES[o]?.tipus ?? 'recull';
+const num = (n: number) => n.toLocaleString(lang === 'ca' ? 'ca-ES' : 'es-ES');
+const totalCar = textos.reduce((s, t) => s + t.car, 0);
+const totalImg = textos.reduce((s, t) => s + t.img, 0);
+
+// Imatges de tots els documents, per a la galeria (clau: ruta dins de md/)
+const imgs = import.meta.glob<ImageMetadata>('../../../md/*/*/img/*.{jpg,jpeg,JPG,JPEG,png,PNG,gif}', { eager: true, import: 'default' });
+const textDeImg = (k: string) => { const m = k.match(/\/md\/([^/]+)\/([^/]+)\/img\//); return m ? textos.find((t) => t.id === `${slug(m[1])}/${slug(m[2])}`) : undefined; };
+const esFoto = (k: string) => imgs[k].width * imgs[k].height >= 10000;
+const nGaleria = Object.keys(imgs).filter((k) => esFoto(k) && textDeImg(k)).length;
+
+let entrada: (typeof textos)[number] | undefined, Content: any = null, obraActual = obra, ant: typeof entrada, seg: typeof entrada;
+if (tipus === 'text' && id) {
+  entrada = textos.find((t) => t.id === id);
+  const e = await getEntry('textos', id);
+  if (entrada && e) { ({ Content } = await render(e)); obraActual = entrada.obra; const ll = perObra(obraActual); const i = ll.findIndex((t) => t.id === id); ant = ll[i - 1]; seg = ll[i + 1]; }
+}
+const titol = tipus === 'obra' ? nomObra(obra!) : tipus === 'text' ? entrada?.data.titulo : tipus === 'fotografies' ? T.fotografies[lang] : tipus === 'cerca' ? T.cerca[lang] : tipus === 'sobre' ? T.sobre[lang] : undefined;
+const actual = tipus === 'fotografies' ? 'fotografies' : tipus === 'cerca' ? 'cerca' : tipus === 'sobre' ? 'sobre' : 'obres';
+const bundle = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
+---
+<Base lang={lang} title={titol} ruta={ruta} actual={actual} desc={tipus === 'obra' ? descObra(obra!) : tipus === 'text' ? entrada?.data.notas : undefined}>
+
+{tipus === 'portada' && (
+  <>
+    <section class="hero">
+      <p class="lbl">{SITE.autora}</p>
+      <h1>{SITE.nom[lang]}</h1>
+      <p class="lede">{SITE.lema[lang]}</p>
+      <div class="xifres">
+        <div><b class="num">{textos.length}</b><span>{T.textos[lang]}</span></div>
+        <div><b class="num">{claus.filter((o) => perObra(o).length).length}</b><span>{T.obres[lang].toLowerCase()}</span></div>
+        <div><b class="num">{(totalCar / 1e6).toFixed(1).replace('.', ',')} M</b><span>{T.caracters[lang]}</span></div>
+        <div><b class="num">{totalImg}</b><span>{T.imatges[lang]}</span></div>
+      </div>
+    </section>
+    <ul class="obres">
+      {claus.filter((o) => perObra(o).length).map((o) => { const ts = perObra(o); const ni = ts.reduce((s, t) => s + t.img, 0); return (
+        <li class={tipusObra(o)}>
+          <span class="lbl">{T[tipusObra(o)][lang]}</span>
+          <h2><a href={url(lang, `obres/${o}`)}>{nomObra(o)}</a></h2>
+          <p>{descObra(o)}</p>
+          <div class="meta"><span><b class="num">{ts.length}</b> {T.textos[lang]}</span><span><b class="num">{num(ts.reduce((s, t) => s + t.car, 0))}</b> {T.caracters[lang]}</span>{ni > 0 && <span><b class="num">{ni}</b> {T.imatges[lang]}</span>}</div>
+        </li>); })}
+    </ul>
+  </>
+)}
+
+{tipus === 'obra' && obra && (
+  <>
+    <p class="miga"><a href={url(lang)}>{T.tornar[lang]}</a></p>
+    <p class="lbl">{T[tipusObra(obra)][lang]}</p>
+    <h1>{nomObra(obra)}</h1>
+    <p class="lede" style="color:var(--muted);margin-top:.8rem;max-width:44rem">{descObra(obra)}</p>
+    <ol class="llista">
+      {perObra(obra).map((t) => (
+        <li>
+          <a href={url(lang, `obres/${t.id}`)}>{t.data.titulo}</a>
+          <span class="num dret">{num(t.car)} {T.caracters[lang]}</span>
+          <span class="meta"><span class="chip">{T.llengues[lang][t.lle]}</span>{t.img > 0 && <span>{t.img} {T.imatges[lang]}</span>}</span>
+        </li>))}
+    </ol>
+  </>
+)}
+
+{tipus === 'text' && entrada && (
+  <article>
+    <p class="miga"><a href={url(lang)}>{T.obres[lang]}</a> · <a href={url(lang, `obres/${obraActual}`)}>{nomObra(obraActual!)}</a></p>
+    <h1>{entrada.data.titulo}</h1>
+    <div class="meta">
+      <span class="chip">{T.llengua[lang]}: {T.llengues[lang][entrada.lle]} <em style="font-style:normal;color:var(--faint)">({T.inferit[lang]})</em></span>
+      <span><b class="num">{num(entrada.car)}</b> {T.caracters[lang]}</span>
+      {entrada.img > 0 && <span><b class="num">{entrada.img}</b> {T.imatges[lang]}</span>}
+    </div>
+    <div class="lectura" style="margin-top:2rem" data-pagefind-body>
+      <meta data-pagefind-filter="obra[content]" data-pagefind-meta="obra[content]" content={nomObra(obraActual!)} />
+      <meta data-pagefind-filter="idioma[content]" data-pagefind-meta="idioma[content]" content={T.llengues[lang][entrada.lle]} />
+      <Content />
+    </div>
+    <aside class="notes">
+      <p class="lbl">{T.notes[lang]}</p>
+      <p>{entrada.data.notas}</p>
+    </aside>
+    {(ant || seg) && <nav class="veins" aria-label={nomObra(obraActual!)}>
+      <span>{ant && <><span class="lbl">← {T.anterior[lang]}</span><a href={url(lang, `obres/${ant.id}`)}>{ant.data.titulo}</a></>}</span>
+      <span style="text-align:right">{seg && <><span class="lbl">{T.seguent[lang]} →</span><a href={url(lang, `obres/${seg.id}`)}>{seg.data.titulo}</a></>}</span>
+    </nav>}
+  </article>
+)}
+
+{tipus === 'fotografies' && (
+  <>
+    <h1>{T.fotografies[lang]}</h1>
+    <p class="lede" style="color:var(--muted);margin:.8rem 0 1.8rem;max-width:44rem">{lang === 'ca' ? `Les ${nGaleria} imatges que van dins dels textos, ordenades per obra. Punxa una per ampliar-la; el peu porta al text on apareix.` : `Las ${nGaleria} imágenes que van dentro de los textos, ordenadas por obra. Pincha una para ampliarla; el pie lleva al texto donde aparece.`}</p>
+    <ul class="galeria">
+      {claus.flatMap((o) => Object.entries(imgs).filter(([k]) => esFoto(k) && textDeImg(k)?.obra === o)).map(([k, im]) => { const t = textDeImg(k)!; return (
+        <li><figure>
+          <Image src={im} alt={t.data.titulo} widths={[360, 640]} sizes="(max-width: 40rem) 50vw, 16rem" loading="lazy" data-gran={im.src} />
+          <figcaption><span class="lbl">{nomObra(t.obra)}</span><br /><a href={url(lang, `obres/${t.id}`)}>{t.data.titulo}</a></figcaption>
+        </figure></li>); })}
+    </ul>
+  </>
+)}
+
+{tipus === 'cerca' && (
+  <>
+    <h1>{T.cerca[lang]}</h1>
+    <p class="lede" style="color:var(--muted);margin-top:.8rem;max-width:44rem">{lang === 'ca' ? 'Escriu qualsevol paraula, o deixa-ho en blanc i tria només filtres per a veure, per exemple, tot el que hi ha en valencià d’una obra.' : 'Escribe cualquier palabra, o déjalo en blanco y elige solo filtros para ver, por ejemplo, todo lo que hay en valenciano de una obra.'}</p>
+    <form class="cerca" id="cerca" role="search" autocomplete="off">
+      <label class="cerca-camp">
+        <span class="visually-hidden">{lang === 'ca' ? 'Paraula o expressió' : 'Palabra o expresión'}</span>
+        <input type="search" id="q" placeholder={lang === 'ca' ? 'Cerca en els textos…' : 'Busca en los textos…'} autofocus />
+        <button type="button" id="neteja" aria-label={lang === 'ca' ? 'Neteja la cerca' : 'Limpia la búsqueda'} hidden>×</button>
+      </label>
+      <div class="filtres" id="filtres" hidden></div>
+      <p class="cerca-resum" id="resum" aria-live="polite"></p>
+      <ol class="resultats" id="resultats"></ol>
+      <p class="cerca-mes"><button type="button" id="mes" hidden>{lang === 'ca' ? 'Més resultats' : 'Más resultados'}</button></p>
+    </form>
+    <p class="avis" id="avis" hidden>{lang === 'ca' ? 'L’índex de cerca es genera en construir el lloc (npm run build); no està disponible en el servidor de desenvolupament.' : 'El índice de búsqueda se genera al construir el sitio (npm run build); no está disponible en el servidor de desarrollo.'}</p>
+    <script is:inline define:vars={{ bundle, lang }}>
+      // Cerca amb l'API de Pagefind (100 % estàtica), com al blog Les meues coses. Filtres: obra i idioma.
+      // L'índex va separat per llengua de pàgina: des de /es/ es busca en les pàgines en castellà.
+      const S = lang === 'ca'
+        ? { obra: 'Obra', idioma: 'Llengua', un: 'text', molts: 'textos', amb: 'amb', cap: 'Cap text amb', filtres: 'amb estos filtres', tots: 'de més llarg a més curt' }
+        : { obra: 'Obra', idioma: 'Lengua', un: 'texto', molts: 'textos', amb: 'con', cap: 'Ningún texto con', filtres: 'con estos filtros', tots: 'de más largo a más corto' };
+      const $ = (id) => document.getElementById(id);
+      const q = $('q'), filtres = $('filtres'), resum = $('resum'), llista = $('resultats'), mes = $('mes'), neteja = $('neteja');
+      let pagefind, actius = { obra: [], idioma: [] }, pendents = [], mostrats = 0, temps;
+      const PAS = 20;
+      async function inicia() {
+        try { pagefind = await import(`${bundle}pagefind.js`); await pagefind.options({ excerptLength: 40 }); await pagefind.init(); }
+        catch (e) { $('avis').hidden = false; return; }
+        const params = new URLSearchParams(location.search);
+        q.value = params.get('q') ?? '';
+        for (const k of Object.keys(actius)) actius[k] = params.getAll(k);
+        await pintaFiltres(await pagefind.filters());
+        filtres.hidden = false;
+        cerca();
+      }
+      async function pintaFiltres(disponibles) {
+        filtres.innerHTML = '';
+        for (const clau of Object.keys(actius)) {
+          const valors = disponibles[clau] ?? {};
+          const claus = Object.keys(valors).sort((a, b) => a.localeCompare(b, lang));
+          if (!claus.length) continue;
+          const grup = document.createElement('fieldset');
+          grup.innerHTML = `<legend>${S[clau]}</legend>`;
+          for (const v of claus) {
+            const lab = document.createElement('label');
+            lab.dataset.opcio = `${clau}:${v}`;
+            lab.innerHTML = `<input type="checkbox" data-clau="${clau}" value="${v}"${actius[clau].includes(v) ? ' checked' : ''}> <span>${v}</span> <small data-n="${clau}:${v}">${valors[v]}</small>`;
+            grup.append(lab);
+          }
+          filtres.append(grup);
+        }
+      }
+      function llig() { for (const k of Object.keys(actius)) actius[k] = [...filtres.querySelectorAll(`input[data-clau="${k}"]:checked`)].map((i) => i.value); }
+      async function cerca() {
+        llig();
+        const terme = q.value.trim();
+        neteja.hidden = !terme;
+        const filters = {};
+        for (const [k, v] of Object.entries(actius)) if (v.length) filters[k] = { any: v };
+        const r = await pagefind.search(terme || null, { filters });
+        for (const [k, vals] of Object.entries(r.filters ?? {})) for (const [v, n] of Object.entries(vals)) {
+          const el = filtres.querySelector(`[data-n="${k}:${v}"]`); if (el) el.textContent = n;
+          const opcio = filtres.querySelector(`[data-opcio="${k}:${v}"]`); if (opcio) opcio.hidden = n === 0 && !actius[k].includes(v);
+        }
+        pendents = r.results; mostrats = 0; llista.innerHTML = '';
+        const n = r.results.length;
+        resum.textContent = terme ? (n ? `${n} ${n === 1 ? S.un : S.molts} ${S.amb} «${terme}»` : `${S.cap} «${terme}»`) : `${n} ${n === 1 ? S.un : S.molts}${Object.keys(filters).length ? ' ' + S.filtres : ''}`;
+        const u = new URL(location.href); u.search = '';
+        if (terme) u.searchParams.set('q', terme);
+        for (const [k, v] of Object.entries(actius)) for (const x of v) u.searchParams.append(k, x);
+        history.replaceState(null, '', u);
+        await mostraMes();
+      }
+      async function mostraMes() {
+        const tros = pendents.slice(mostrats, mostrats + PAS);
+        const dades = await Promise.all(tros.map((r) => r.data()));
+        for (const d of dades) {
+          const li = document.createElement('li'); const m = d.meta;
+          li.innerHTML = `<p class="ante">${m.obra ?? ''}${m.idioma ? ' · ' + m.idioma : ''}</p><h3><a href="${d.url}">${m.title}</a></h3><p class="fragment">${d.excerpt}</p>`;
+          llista.append(li);
+        }
+        mostrats += tros.length; mes.hidden = mostrats >= pendents.length;
+      }
+      q.addEventListener('input', () => { clearTimeout(temps); temps = setTimeout(cerca, 200); });
+      filtres.addEventListener('change', cerca);
+      mes.addEventListener('click', mostraMes);
+      neteja.addEventListener('click', () => { q.value = ''; q.focus(); cerca(); });
+      $('cerca').addEventListener('submit', (e) => e.preventDefault());
+      inicia();
+    </script>
+  </>
+)}
+
+{tipus === 'sobre' && (
+  <article class="lectura">
+    <h1>{T.sobre[lang]}</h1>
+    {lang === 'ca' ? (<>
+      <p style="margin-top:1.4rem">Francisca Julián Querol (Cinctorres, 1945) va escriure durant més de quinze anys: un blog, un llibre sobre els masos de Morella, un treball de biodiversitat, la història d’una casa. Tot això té lloc web propi. Però a l’ordinador quedaven molts més textos que no havien eixit mai: les memòries, el gran treball sobre l’agricultura i els costums del món rural, els relats i poemes, els treballs dels cursos de la Universitat per a Majors, la genealogia dels Polo de Bernabé. Este lloc els recull: {textos.length} textos en {claus.filter((o) => perObra(o).length).length} obres.</p>
+      <h2>Com s’ha fet</h2>
+      <p>El material s’ha revisat per tandes i a mà, document a document, llegint-los sencers. De cada text s’ha triat la versió més completa; s’han deixat fora les còpies, els esborranys superats, els textos d’altres persones (companys de curs, articles copiats) i tot el que ja està publicat al blog «Les meues coses», que continua en línia. Els dubtes d’autoria es diuen en la nota de cada text.</p>
+      <h2>Com es presenta</h2>
+      <p>Els textos es publiquen tal com ella els va escriure, en valencià o en castellà, sense corregir-los: només se’ls ha donat format (títols, paràgrafs, versos, fotos al seu lloc) i s’han unificat detalls tipogràfics com els apòstrofs, les cometes i la firma. Cada text porta una nota de l’edició amb el que és, la data i la firma originals, i les versions que n’hi havia. La llengua de cada text s’ha deduït del propi text.</p>
+      <h2>D’on ve</h2>
+      <p>De dos ordinadors antics i d’un Drive de l’autora, en dos lliuraments (2026). El fons complet, amb les fotografies i el que s’ha apartat, es conserva fora d’este lloc. El repositori amb els textos en Markdown i les eines de comprovació és públic.</p>
+    </>) : (<>
+      <p style="margin-top:1.4rem">Francisca Julián Querol (Cinctorres, 1945) escribió durante más de quince años: un blog, un libro sobre los masos de Morella, un trabajo de biodiversidad, la historia de una casa. Todo eso tiene sitio web propio. Pero en el ordenador quedaban muchos más textos que nunca habían salido: las memorias, el gran trabajo sobre la agricultura y las costumbres del mundo rural, los relatos y poemas, los trabajos de los cursos de la Universitat per a Majors, la genealogía de los Polo de Bernabé. Este sitio los recoge: {textos.length} textos en {claus.filter((o) => perObra(o).length).length} obras.</p>
+      <h2>Cómo se ha hecho</h2>
+      <p>El material se ha revisado por tandas y a mano, documento a documento, leyéndolos enteros. De cada texto se ha elegido la versión más completa; se han dejado fuera las copias, los borradores superados, los textos de otras personas (compañeros de curso, artículos copiados) y todo lo que ya está publicado en el blog «Les meues coses», que sigue en línea. Las dudas de autoría se dicen en la nota de cada texto.</p>
+      <h2>Cómo se presenta</h2>
+      <p>Los textos se publican tal como ella los escribió, en valenciano o en castellano, sin corregirlos: solo se les ha dado formato (títulos, párrafos, versos, fotos en su sitio) y se han unificado detalles tipográficos como los apóstrofos, las comillas y la firma. Cada texto lleva una nota de la edición con lo que es, la fecha y la firma originales, y las versiones que había. La lengua de cada texto se ha deducido del propio texto.</p>
+      <h2>De dónde viene</h2>
+      <p>De dos ordenadores antiguos y de un Drive de la autora, en dos entregas (2026). El fondo completo, con las fotografías y lo que se ha apartado, se conserva fuera de este sitio. El repositorio con los textos en Markdown y las herramientas de comprobación es público.</p>
+    </>)}
+  </article>
+)}
+</Base>

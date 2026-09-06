@@ -29,6 +29,23 @@ Dos comprobaciones que dieron buen resultado en la segunda tanda y conviene repe
 (`paquitajulian.blogspot.com/feeds/posts/default?max-results=500`) y comparar cada fichero con las entradas antes
 de dar nada por inédito; y comparar párrafo a párrafo cada documento con `md/` antes de proponerlo.
 
+## El site (2026-09-06)
+
+`site/` es el site «Escrits inèdits»: Astro 7, la misma base que `../franciscapublicaciones/site` (valencià en
+raíz, castellano en `/es/`, fuentes propias, galería, visor) más el buscador con filtros de `../lesmeuescoses`
+(Pagefind, filtros obra y lengua, un índice por idioma) y el tema claro/oscuro. **Lee `md/` directamente**: las
+obras salen de `md/*/_carpeta.md` y los documentos de `md/*/*/index.md`; los nombres y descripciones de obra en
+las dos lenguas están en `site/src/site/config.ts` (clave: nombre de carpeta pasado a slug), y la lengua, la
+longitud y las imágenes de cada texto se calculan al construir. Se publica en
+<https://jtpadilla.github.io/franciscaineditos/> con cada push a `main` (`.github/workflows/deploy.yml`, que
+antes ejecuta `comprueba.py`). Si se crea una obra nueva en `md/`, añadir su entrada a `OBRES` en `config.ts`;
+si no, el site la muestra con el título y el criterio de `_carpeta.md`.
+
+```
+cd site && npm install && npm run build   # dist/, 321 páginas + índice de búsqueda
+cd site && npx astro preview              # http://127.0.0.1:4321/franciscaineditos/
+```
+
 ## El ciclo completo de una tanda
 
 ### 1. Entrada: raw/ → inprocess/

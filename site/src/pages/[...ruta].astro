@@ -1,0 +1,7 @@
+---
+import Pagina from '../vistas/Pagina.astro';
+import { rutes } from '../vistas/rutes';
+export const getStaticPaths = rutes;
+const { ruta } = Astro.params;
+---
+<Pagina lang="ca" ruta={ruta ?? ''} {...Astro.props} />

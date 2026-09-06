@@ -58,6 +58,13 @@ Cada documento de `md/` empieza con una cabecera YAML de tres campos: `id` (fijo
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia |
 | C29 | Natura | 6 | el trabajo de biodiversidad de la Rambla Celumbres, los artículos del boletín y las estaciones |
 
+## El site
+
+`site/` es el site «Escrits inèdits» (Astro 7, GitHub Pages, valencià en raíz y castellano en `/es/`), que lee
+`md/` directamente y se publica en <https://jtpadilla.github.io/franciscaineditos/> con cada push a `main`
+(`.github/workflows/deploy.yml`: `comprueba.py` → `npm ci` → `npm run build` → Pages). Lleva buscador con
+filtros por obra y lengua (Pagefind), galería de fotos, tema claro y oscuro. README propio en `site/`.
+
 ## Estado
 
 - 2026-09-05, primera tanda: 449 ficheros en `raw/`. Descartados multimedia, PDF, hojas de cálculo y

@@ -15,3 +15,8 @@ __pycache__/
 raw/*
 !raw/.gitkeep
 /raw/
+
+# Astro (site/): derivados regenerables con npm install / npm run build
+site/node_modules/
+site/dist/
+site/.astro/
