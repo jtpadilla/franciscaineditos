@@ -29,6 +29,11 @@ const imgs = import.meta.glob<ImageMetadata>('../../../md/*/*/img/*.{jpg,jpeg,JP
 const textDeImg = (k: string) => { const m = k.match(/\/md\/([^/]+)\/([^/]+)\/img\//); return m ? textos.find((t) => t.id === `${slug(m[1])}/${slug(m[2])}`) : undefined; };
 const esFoto = (k: string) => imgs[k].width * imgs[k].height >= 10000;
 const nGaleria = Object.keys(imgs).filter((k) => esFoto(k) && textDeImg(k)).length;
+// La foto de la portada: la boda de cap a 1940 davant de la casa Santjoans, la més antiga del fons (la
+// mateixa que fa de coberta d'este projecte a l'índex franciscajulianquerol). Va en un marge de la
+// capçalera, retallada en vertical, i porta al text on l'autora l'explica.
+const fotoPortada = imgs['../../../md/Memoria familiar/Fotos antiguas/img/boda.jpeg'];
+const textFotoPortada = textos.find((t) => t.id === 'memoria-familiar/fotos-antiguas');
 
 let entrada: (typeof textos)[number] | undefined, Content: any = null, obraActual = obra, ant: typeof entrada, seg: typeof entrada;
 if (tipus === 'text' && id) {
@@ -45,15 +50,22 @@ const bundle = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
 {tipus === 'portada' && (
   <>
     <section class="hero">
-      <p class="lbl">{SITE.autora}</p>
-      <h1>{SITE.nom[lang]}</h1>
-      <p class="lede">{SITE.lema[lang]}</p>
-      <div class="xifres">
-        <div><b class="num">{textos.length}</b><span>{T.textos[lang]}</span></div>
-        <div><b class="num">{claus.filter((o) => perObra(o).length).length}</b><span>{T.obres[lang].toLowerCase()}</span></div>
-        <div><b class="num">{(totalCar / 1e6).toFixed(1).replace('.', ',')} M</b><span>{T.caracters[lang]}</span></div>
-        <div><b class="num">{totalImg}</b><span>{T.imatges[lang]}</span></div>
+      <div>
+        <p class="lbl">{SITE.autora}</p>
+        <h1>{SITE.nom[lang]}</h1>
+        <p class="lede">{SITE.lema[lang]}</p>
+        <div class="xifres">
+          <div><b class="num">{textos.length}</b><span>{T.textos[lang]}</span></div>
+          <div><b class="num">{claus.filter((o) => perObra(o).length).length}</b><span>{T.obres[lang].toLowerCase()}</span></div>
+          <div><b class="num">{(totalCar / 1e6).toFixed(1).replace('.', ',')} M</b><span>{T.caracters[lang]}</span></div>
+          <div><b class="num">{totalImg}</b><span>{T.imatges[lang]}</span></div>
+        </div>
       </div>
+      {fotoPortada && textFotoPortada && (
+        <a class="hero-foto" href={url(lang, `obres/${textFotoPortada.id}`)} title={textFotoPortada.data.titulo}>
+          <Image src={fotoPortada} alt={lang === 'ca' ? 'Una boda a Cinctorres cap a 1940, davant de la casa Santjoans' : 'Una boda en Cinctorres hacia 1940, delante de la casa Santjoans'} widths={[480, 900]} sizes="15rem" loading="eager" />
+        </a>
+      )}
     </section>
     <ul class="obres">
       {claus.filter((o) => perObra(o).length).map((o) => { const ts = perObra(o); const ni = ts.reduce((s, t) => s + t.img, 0); return (
