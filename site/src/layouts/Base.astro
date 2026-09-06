@@ -42,7 +42,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     <p class="lbl">{T.altresLlocs[lang]}</p>
     <ul>{GERMANS.map((g) => <li><a href={g.url}>{g.nom}</a> <span>— {g.desc[lang]}</span></li>)}</ul>
   </div></footer>
-  <dialog class="visor" aria-label="Imatge ampliada"><figure style="margin:0"><img alt="" /><figcaption></figcaption></figure><button type="button" aria-label="Tanca">×</button></dialog>
+  <dialog class="visor" aria-label="Imatge ampliada">
+    <figure style="margin:0"><img alt="" /><figcaption></figcaption></figure>
+    <button class="anterior" type="button" aria-label="Anterior" hidden>‹</button>
+    <button class="seguent" type="button" aria-label="Següent" hidden>›</button>
+    <button class="tancar" type="button" aria-label="Tanca">×</button>
+  </dialog>
   <script>
     document.getElementById('tema-boto')?.addEventListener('click', () => {
       const root = document.documentElement;
@@ -50,14 +55,39 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       root.dataset.theme = dark ? 'light' : 'dark';
       try { localStorage.setItem('tema', root.dataset.theme); } catch {}
     });
+    // Visor: el mateix que el de «Les meues coses». El peu es copia amb el seu HTML, així que a la
+    // galeria l'enllaç al text on apareix la foto continua funcionant dins de la imatge ampliada; i es
+    // pot passar a la foto següent amb les fletxes, el teclat o lliscant amb el dit.
     const v = document.querySelector<HTMLDialogElement>('dialog.visor');
     const g = v?.querySelector('img'); const c = v?.querySelector('figcaption');
-    if (v && g && c) {
-      document.querySelectorAll<HTMLImageElement>('.lectura img, .galeria img').forEach((img) => {
-        img.addEventListener('click', () => { g.src = img.dataset.gran || img.currentSrc || img.src; g.alt = img.alt; c.textContent = img.closest('figure')?.querySelector('figcaption')?.textContent ?? ''; v.showModal(); });
+    const anterior = v?.querySelector<HTMLButtonElement>('.anterior'); const seguent = v?.querySelector<HTMLButtonElement>('.seguent');
+    if (v && g && c && anterior && seguent) {
+      const fotos = [...document.querySelectorAll<HTMLImageElement>('.lectura img, .galeria img')];
+      let actual = 0;
+      const mostra = (i: number) => {
+        actual = (i + fotos.length) % fotos.length;
+        const img = fotos[actual];
+        g.src = img.dataset.gran || img.currentSrc || img.src; g.alt = img.alt;
+        c.innerHTML = img.closest('figure')?.querySelector('figcaption')?.innerHTML ?? '';
+        anterior.hidden = seguent.hidden = fotos.length < 2;
+      };
+      fotos.forEach((img, i) => { img.style.cursor = 'zoom-in'; img.addEventListener('click', () => { mostra(i); v.showModal(); }); });
+      anterior.addEventListener('click', (e) => { e.stopPropagation(); mostra(actual - 1); });
+      seguent.addEventListener('click', (e) => { e.stopPropagation(); mostra(actual + 1); });
+      v.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowLeft') { e.preventDefault(); mostra(actual - 1); }
+        if (e.key === 'ArrowRight') { e.preventDefault(); mostra(actual + 1); }
       });
-      v.querySelector('button')?.addEventListener('click', () => v.close());
-      v.addEventListener('click', (e) => { if (e.target === v) v.close(); });
+      // Lliscar amb el dit: només si el gest és clarament horitzontal, per a no robar-li l'scroll.
+      let x0 = 0, y0 = 0;
+      v.addEventListener('touchstart', (e) => { x0 = e.changedTouches[0].clientX; y0 = e.changedTouches[0].clientY; }, { passive: true });
+      v.addEventListener('touchend', (e) => {
+        const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;
+        if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) mostra(actual + (dx < 0 ? 1 : -1));
+      }, { passive: true });
+      v.querySelector('.tancar')?.addEventListener('click', () => v.close());
+      v.addEventListener('click', (e) => { const t = e.target as HTMLElement; if (t === v || t.tagName === 'FIGURE') v.close(); });
+      v.addEventListener('close', () => g.removeAttribute('src'));
     }
   </script>
 </body>

@@ -33,7 +33,9 @@ de dar nada por inédito; y comparar párrafo a párrafo cada documento con `md/
 
 `site/` es el site «Escrits inèdits»: Astro 7, la misma base que `../franciscapublicaciones/site` (valencià en
 raíz, castellano en `/es/`, fuentes propias, galería, visor) más el buscador con filtros de `../lesmeuescoses`
-(Pagefind, filtros obra y lengua, un índice por idioma) y el tema claro/oscuro. **Lee `md/` directamente**: las
+(Pagefind, filtros obra y lengua, un índice por idioma) y el tema claro/oscuro. El visor de imágenes
+(`site/src/layouts/Base.astro`) es el de lesmeuescoses: copia el pie con su HTML, así que desde la foto ampliada
+de la galería se llega al texto donde aparece, y pasa de foto con flechas, teclado o deslizando el dedo. **Lee `md/` directamente**: las
 obras salen de `md/*/_carpeta.md` y los documentos de `md/*/*/index.md`; los nombres y descripciones de obra en
 las dos lenguas están en `site/src/site/config.ts` (clave: nombre de carpeta pasado a slug), y la lengua, la
 longitud y las imágenes de cada texto se calculan al construir. Se publica en
