@@ -63,7 +63,8 @@ Cada documento de `md/` empieza con una cabecera YAML de tres campos: `id` (fijo
 `site/` es el site «Escrits inèdits» (Astro 7, GitHub Pages, valencià en raíz y castellano en `/es/`), que lee
 `md/` directamente y se publica en <https://jtpadilla.github.io/franciscaineditos/> con cada push a `main`
 (`.github/workflows/deploy.yml`: `comprueba.py` → `npm ci` → `npm run build` → Pages). Lleva buscador con
-filtros por obra y lengua (Pagefind), galería de fotos, tema claro y oscuro. README propio en `site/`.
+filtros por obra y lengua (Pagefind), galería de fotos, una página breve sobre la autora con su retrato (resumen
+de la biografía del site índice franciscajulianquerol, que enlaza), tema claro y oscuro. README propio en `site/`.
 
 ## Estado
 

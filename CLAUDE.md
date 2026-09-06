@@ -39,10 +39,13 @@ las dos lenguas están en `site/src/site/config.ts` (clave: nombre de carpeta pa
 longitud y las imágenes de cada texto se calculan al construir. Se publica en
 <https://jtpadilla.github.io/franciscaineditos/> con cada push a `main` (`.github/workflows/deploy.yml`, que
 antes ejecuta `comprueba.py`). Si se crea una obra nueva en `md/`, añadir su entrada a `OBRES` en `config.ts`;
-si no, el site la muestra con el título y el criterio de `_carpeta.md`.
+si no, el site la muestra con el título y el criterio de `_carpeta.md`. Las páginas fijas (portada, Fotografies,
+Cerca, L’autora, Sobre este fons) están como vistas en `site/src/vistas/Pagina.astro` y sus rutas en `rutes.ts`; el
+texto de «L’autora» es un resumen de `../franciscajulianquerol/content/autora.{ca,es}.md`, con el retrato copiado a
+`site/src/imatges/`; si esa biografía cambia, resumirla de nuevo aquí.
 
 ```
-cd site && npm install && npm run build   # dist/, 321 páginas + índice de búsqueda
+cd site && npm install && npm run build   # dist/, 323 páginas + índice de búsqueda
 cd site && npx astro preview              # http://127.0.0.1:4321/franciscaineditos/
 ```
 

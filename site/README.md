@@ -24,7 +24,8 @@ Abans de construir, el workflow executa `python3 tools/comprueba.py`.
 |---|---|
 | `astro.config.mjs` | `base: /franciscaineditos`, fonts Literata i Source Sans 3 servides des del propi lloc, imatges `constrained` |
 | `src/site/config.ts` | noms i descripcions de les obres en les dues llengües, cadenes de la interfície, llocs germans |
-| `src/vistas/Pagina.astro` | totes les vistes: portada, obra, text, fotografies, cerca, sobre |
+| `src/vistas/Pagina.astro` | totes les vistes: portada, obra, text, fotografies, cerca, autora, sobre |
+| `src/imatges/` | el retrat de l’autora (còpia del de franciscajulianquerol) |
 | `src/vistas/rutes.ts` | les rutes, compartides pels dos idiomes |
 | `src/pages/[...ruta].astro`, `src/pages/es/[...ruta].astro` | la mateixa vista en `ca` i `es` |
 | `src/layouts/Base.astro` | capçalera, tema clar o fosc, visor d’imatges, peu |
@@ -34,6 +35,6 @@ consulta al navegador, sense servidor; els filtres són l’obra i la llengua, i
 les seues pàgines.
 
 ```
-npm install && npm run build   # dist/, 321 pàgines + índex de cerca, ~185 MB
+npm install && npm run build   # dist/, 323 pàgines + índex de cerca, ~185 MB
 npx astro preview              # http://127.0.0.1:4321/franciscaineditos/
 ```
