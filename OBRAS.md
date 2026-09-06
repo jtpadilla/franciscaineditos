@@ -16,7 +16,7 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C21 | Cinctorres | 17 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
 | C22 | Món rural i cuina | 21 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
-| C24 | Castelló | 11 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
+| C24 | Castelló | 9 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 17 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
 | C26 | Treballs i reflexions | 20 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
@@ -176,6 +176,9 @@ borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no ex
   526, sexeni mitad 246 y 405, resumen J. Soriano 183 y 483, Aprender nuevas tecnologías 2006 637, cançons 337 y 477)
   y los ajenos o restos (Punset 465, Mona Lisa 639, Pintura géneros 461, correos del curso 413, guías de Dropbox 204 y
   205, Sexenni. 367), con las carpetas que quedaron vacías.
+- 2026-09-06: borrados de Castelló «Ermitas en las partidas de Castellón» (primera tanda) y «Partidas de Castellón» (238):
+  eran el capítulo 5 y el borrador de los capítulos 2 a 5 del libro de agricultura, ya en Món rural i cuina. El criterio
+  de Castelló remite a esos capítulos. C24 pasa a 9.
 - 2026-09-06: creada Natura (C29) con seis documentos y Treballs recibe la Conferència sobre els masos de Morella (209).
   Borrado todo lo que quedaba en inprocess/: **la segunda tanda queda cerrada** con inprocess/ vacío.
 - 2026-09-06: descartada Les meues coses tras comparar los 109 ficheros con el blog en línea. Entran Adéu al blog (562,
