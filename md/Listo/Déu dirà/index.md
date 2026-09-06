@@ -1,7 +1,7 @@
 ---
 id: "125"
 titulo: "Déu dirà"
-notas: "Entrada 6 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior titulada 'Ja vorem', eliminada."
+notas: "Entrada 6 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior titulada 'Ja vorem', eliminada. Foto del gatet substituïda el 2026-09-06 per la de l'entrada del blog, en alta resolució."
 ---
 
 # Déu dirà

@@ -1,7 +1,7 @@
 ---
 id: "091"
 titulo: "Nit de Maitines"
-notas: "Entrada 12 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('revista nit de Maitines'), eliminada. Fotos en alta resolució recuperades de la còpia del blog de la segona tanda. La foto de la compilació era un retall; ara va sencera i amb dues fotos més del sopar."
+notas: "Entrada 12 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('revista nit de Maitines'), eliminada. Fotos en alta resolució recuperades de la còpia del blog de la segona tanda. La foto de la compilació era un retall; ara va sencera i amb dues fotos més del sopar. Foto del Naixement afegida el 2026-09-06 des de la còpia del llibre 'LISTO acabat'."
 ---
 
 # Nit de Maitines
@@ -9,6 +9,8 @@ notas: "Entrada 12 de 14 del blog de Listo, en la versió polida de la compilaci
 Quan escolto dir *«sopar de Maitines*» ja sé el que vol dir. He après el significat d’aquesta paraula. La meua ama estarà uns dies abans, preparant les pilotes de Nadal i altres coses.
 
 Ella trau d’una caixa de cartó figuretes del Naixement de fang cuit de quan era xiqueta que s’estima molt, i les col·loca damunt d’un prestatge del moble del menjador. Ha escarmentat, doncs quan el Betlem estava tot muntat damunt d’una tauleta i arribaven els néts, era un joguet per a ells. El mateix ficaven l’estel damunt del pou, als Reis d’Orient dins del portal amb la mula i el bou, que a la Mare de Déu amb Jesuset al costat del riu de paper d’estany amb la bugadera, i Sant Josep per allí perdut. La rabera de corderets amb el pastor, on volien, així com els porcellets amb sa mare tots escampats: gallines, pollets, ànecs i tota mena d’animalets cada vegada d’una manera diferent, i tota mena de casetes i muntanyes de suro plenes de farina o sucre, el que venia bé.
+
+![](img/naixement.jpeg)
 
 Cada dia quan els néts se'n anaven a la seua casa tornava a recompondre el Naixement.
 

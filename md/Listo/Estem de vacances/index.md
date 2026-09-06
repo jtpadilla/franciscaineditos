@@ -1,7 +1,7 @@
 ---
 id: "167"
 titulo: "Estem de vacances"
-notas: "Entrada 3 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens')."
+notas: "Entrada 3 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Foto de la platja de la Torre Sant Vicent afegida el 2026-09-06 des de la còpia del llibre 'LISTO acabat'."
 ---
 
 # Estem de vacances
@@ -17,6 +17,8 @@ Està molt espantada doncs a la planta baixa, viu una família nova i m’ha dit
 -No serà tant!! Li he dit jo, un gat és un gat. I recorda que nosaltres som els millors amics de les persones i ens estimen molt.
 
 ![](img/image13.jpeg)
+
+![](img/platja-torre-sant-vicent.jpeg)
 
 Huí de matí hem fet el passeig pel voltant de la Torre Sant Vicent, on anem tots els dies. Al arribar al jardí del nostre apartament, la meua ama sempre em lleva la corretja i em deixa que em rebolco per l'herba i he vist al gat que tenim com a veí. Clar que la Babsy està espantada com que és més gran que ella!! Em mirava i m’ha fet un bufit, quina poca vergonya!! Com si sols ell tinguera dret a estar al jardí i jo fora el foraster!. He corregut darrere d'ell, hem fet una bona cursa i li he donat un bon esglai. Quasi el tenia agafat quan s’ amagat per una gatera que té al costat de la porta de sa casa. Fins i tot estaré vigilant que no s’acoste a la Babsy
 

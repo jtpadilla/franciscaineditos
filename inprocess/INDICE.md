@@ -1,12 +1,12 @@
 # Índice de inprocess/
 
-220 documentos en 33 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 220.
+174 documentos en 26 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 174.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 220 docs | | |  |
+| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 174 docs | | |  |
 | **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 3 docs | | |  |
 | 175 | [Documents/2 tapas/LAS PALABRAS.](<Documents/2 tapas/LAS PALABRAS./index.md>) | LAS PALABRAS. | docx | 2167 | 1 |  |  |
 | 176 | [Documents/2 tapas/TAPA DE 15](<Documents/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -17,7 +17,7 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C35** | **[Documents/BLOG  CELUMBRES/](<Documents/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 2 docs | | |  |
 | 189 | [Documents/BLOG  CELUMBRES/guardar primavera.](<Documents/BLOG  CELUMBRES/guardar primavera./index.md>) | guardar primavera. | docx | 8531 | 1 |  |  |
 | 191 | [Documents/BLOG  CELUMBRES/otoño](<Documents/BLOG  CELUMBRES/otoño/index.md>) | otoño | docx | 1739 | 0 |  |  |
-| **C36** | **[Documents/blog meu/](<Documents/blog meu/_carpeta.md>)** | **blog meu** | carpeta | 63 docs | | |  |
+| **C36** | **[Documents/blog meu/](<Documents/blog meu/_carpeta.md>)** | **blog meu** | carpeta | 53 docs | | |  |
 | 562 | [Documents/blog meu/A .A. A](<Documents/blog meu/A .A. A/index.md>) | A .A. A | docx | 678 | 0 |  |  |
 | 563 | [Documents/blog meu/ANEM A LA MADALENA 2011](<Documents/blog meu/ANEM A LA MADALENA 2011/index.md>) | ANEM A LA MADALENA 2011 | docx | 1213 | 0 |  |  |
 | 564 | [Documents/blog meu/APRENDER NUEVAS TECNOLOGUIAS 2010.](<Documents/blog meu/APRENDER NUEVAS TECNOLOGUIAS 2010./index.md>) | APRENDER NUEVAS TECNOLOGUIAS 2010. | docx | 1715 | 0 |  |  |
@@ -31,17 +31,12 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 573 | [Documents/blog meu/DE LA FESTA LA VESPRA.](<Documents/blog meu/DE LA FESTA LA VESPRA./index.md>) | DE LA FESTA LA VESPRA. | docx | 2019 | 3 |  |  |
 | 574 | [Documents/blog meu/DIA DE CAMP](<Documents/blog meu/DIA DE CAMP/index.md>) | DIA DE CAMP | docx | 2514 | 0 |  |  |
 | 575 | [Documents/blog meu/DINAR 2011](<Documents/blog meu/DINAR 2011/index.md>) | DINAR 2011 | docx | 1760 | 2 |  |  |
-| 576 | [Documents/blog meu/DÉU DIRÀ.  LISTO](<Documents/blog meu/DÉU DIRÀ.  LISTO/index.md>) | DÉU DIRÀ.  LISTO | docx | 2328 | 1 |  |  |
-| 577 | [Documents/blog meu/EL CARRERO DE LA PLACETA...LISTO](<Documents/blog meu/EL CARRERO DE LA PLACETA...LISTO/index.md>) | EL CARRERO DE LA PLACETA...LISTO | docx | 2193 | 3 |  |  |
-| 578 | [Documents/blog meu/EL CORDERET 2011.  LISTO.](<Documents/blog meu/EL CORDERET 2011.  LISTO./index.md>) | EL CORDERET 2011.  LISTO. | docx | 2286 | 3 |  |  |
-| 579 | [Documents/blog meu/EL GRAN PI.  LISTO](<Documents/blog meu/EL GRAN PI.  LISTO/index.md>) | EL GRAN PI.  LISTO | docx | 1768 | 5 |  | PARECIDO (0.85) a md/Listo/El gran pi, ya publicado. |
 | 580 | [Documents/blog meu/EL GRAN SILENCIO](<Documents/blog meu/EL GRAN SILENCIO/index.md>) | EL GRAN SILENCIO | docx | 2165 | 0 |  |  |
 | 581 | [Documents/blog meu/EL GRAN VIATGE.](<Documents/blog meu/EL GRAN VIATGE./index.md>) | EL GRAN VIATGE. | docx | 4023 | 0 |  |  |
 | 583 | [Documents/blog meu/EL SECRETO DE MEISSEN](<Documents/blog meu/EL SECRETO DE MEISSEN/index.md>) | EL SECRETO DE MEISSEN | docx | 2024 | 0 |  |  |
 | 584 | [Documents/blog meu/ELS CINC SENTITS](<Documents/blog meu/ELS CINC SENTITS/index.md>) | ELS CINC SENTITS | doc | 2076 | 0 |  |  |
 | 585 | [Documents/blog meu/ELS MES TRESORS  1º](<Documents/blog meu/ELS MES TRESORS  1º/index.md>) | ELS MES TRESORS  1º | doc | 2549 | 0 |  | PARECIDO (0.79) a md/Memoria familiar/Els meus tresors, ya publicado. |
 | 588 | [Documents/blog meu/Els reis d_Orient](<Documents/blog meu/Els reis d_Orient/index.md>) | Els reis d_Orient | doc | 8642 | 0 |  |  |
-| 587 | [Documents/blog meu/ESTEM DE VACANSES.   LISTO](<Documents/blog meu/ESTEM DE VACANSES.   LISTO/index.md>) | ESTEM DE VACANSES.   LISTO | docx | 2235 | 2 |  |  |
 | 591 | [Documents/blog meu/Faixero faixes](<Documents/blog meu/Faixero faixes/index.md>) | Faixero faixes | doc | 4532 | 0 |  | PARECIDO (0.77) a md/Cinctorres/Faixero, faixes, ya publicado. |
 | 590 | [Documents/blog meu/FAIXERO FAIXES. MAIG 2010.2º](<Documents/blog meu/FAIXERO FAIXES. MAIG 2010.2º/index.md>) | FAIXERO FAIXES. MAIG 2010.2º | docx | 4409 | 0 |  | PARECIDO (0.71) a md/Cinctorres/Faixero, faixes, ya publicado. |
 | 594 | [Documents/blog meu/HA COMPLIT CINQUANTA ANYS](<Documents/blog meu/HA COMPLIT CINQUANTA ANYS/index.md>) | HA COMPLIT CINQUANTA ANYS | docx | 2979 | 3 |  |  |
@@ -55,7 +50,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 600 | [Documents/blog meu/LA FELICIDAD DE VIVIR EN LA NAATURALEZA](<Documents/blog meu/LA FELICIDAD DE VIVIR EN LA NAATURALEZA/index.md>) | LA FELICIDAD DE VIVIR EN LA NAATURALEZA | docx | 2378 | 0 |  |  |
 | 611 | [Documents/blog meu/La festa del foc](<Documents/blog meu/La festa del foc/index.md>) | La festa del foc | doc | 3182 | 0 |  | PARECIDO (0.60) a md/Cinctorres/La festa del foc, ya publicado. |
 | 601 | [Documents/blog meu/LA HISTORIA](<Documents/blog meu/LA HISTORIA/index.md>) | LA HISTORIA | docx | 1590 | 0 |  |  |
-| 602 | [Documents/blog meu/LA MEDICASIÓ   LISTO](<Documents/blog meu/LA MEDICASIÓ   LISTO/index.md>) | LA MEDICASIÓ   LISTO | docx | 1858 | 0 |  | PARECIDO (0.67) a md/Listo/La medicació, ya publicado. |
 | 603 | [Documents/blog meu/LA PERLA DE LA MONTAÑA. LLUCENA.](<Documents/blog meu/LA PERLA DE LA MONTAÑA. LLUCENA./index.md>) | LA PERLA DE LA MONTAÑA. LLUCENA. | docx | 5652 | 0 |  |  |
 | 604 | [Documents/blog meu/LA QUINTA DEL 66. CINCTORRES.](<Documents/blog meu/LA QUINTA DEL 66. CINCTORRES./index.md>) | LA QUINTA DEL 66. CINCTORRES. | doc | 3324 | 0 |  |  |
 | 605 | [Documents/blog meu/LA TORNADA](<Documents/blog meu/LA TORNADA/index.md>) | LA TORNADA | docx | 2275 | 0 |  |  |
@@ -66,30 +60,26 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 613 | [Documents/blog meu/MISERICORDIA](<Documents/blog meu/MISERICORDIA/index.md>) | MISERICORDIA | docx | 1607 | 2 |  |  |
 | 614 | [Documents/blog meu/NADAL I  ANY NOU 2012](<Documents/blog meu/NADAL I  ANY NOU 2012/index.md>) | NADAL I  ANY NOU 2012 | docx | 2122 | 3 |  |  |
 | 615 | [Documents/blog meu/NIT DIFERENT 2011.](<Documents/blog meu/NIT DIFERENT 2011./index.md>) | NIT DIFERENT 2011. | docx | 2168 | 1 |  |  |
-| 616 | [Documents/blog meu/NO ÉS EL QUE ERA LISTO](<Documents/blog meu/NO ÉS EL QUE ERA LISTO/index.md>) | NO ÉS EL QUE ERA LISTO | docx | 1882 | 3 |  |  |
 | 617 | [Documents/blog meu/PALABRAS](<Documents/blog meu/PALABRAS/index.md>) | PALABRAS | docx | 2071 | 0 |  |  |
 | 618 | [Documents/blog meu/PEDRES DE RIU](<Documents/blog meu/PEDRES DE RIU/index.md>) | PEDRES DE RIU | doc | 1501 | 0 |  |  |
 | 619 | [Documents/blog meu/PISCINA GENER.](<Documents/blog meu/PISCINA GENER./index.md>) | PISCINA GENER. | docx | 1621 | 0 |  |  |
-| 620 | [Documents/blog meu/PPRESENTACIÓ LISTO](<Documents/blog meu/PPRESENTACIÓ LISTO/index.md>) | PPRESENTACIÓ LISTO | docx | 1497 | 0 |  |  |
 | 621 | [Documents/blog meu/PRIMAVERA](<Documents/blog meu/PRIMAVERA/index.md>) | PRIMAVERA | docx | 1338 | 0 |  |  |
 | 622 | [Documents/blog meu/QUAN VAAREM XALAR](<Documents/blog meu/QUAN VAAREM XALAR/index.md>) | QUAN VAAREM XALAR | docx | 1459 | 2 |  |  |
 | 623 | [Documents/blog meu/Revista Mercat dilluns](<Documents/blog meu/Revista Mercat dilluns/index.md>) | Revista Mercat dilluns | doc | 3095 | 0 |  |  |
 | 626 | [Documents/blog meu/Sant antoni als Ports](<Documents/blog meu/Sant antoni als Ports/index.md>) | Sant antoni als Ports | doc | 4284 | 0 |  |  |
-| 624 | [Documents/blog meu/SANT ANTONI DEL PORQUET LISTO](<Documents/blog meu/SANT ANTONI DEL PORQUET LISTO/index.md>) | SANT ANTONI DEL PORQUET LISTO | docx | 2594 | 1 |  |  |
 | 625 | [Documents/blog meu/SANT LLÚCIA](<Documents/blog meu/SANT LLÚCIA/index.md>) | SANT LLÚCIA | docx | 1604 | 0 |  |  |
 | 627 | [Documents/blog meu/TEMPS DE ROGATIVES abril 2014](<Documents/blog meu/TEMPS DE ROGATIVES abril 2014/index.md>) | TEMPS DE ROGATIVES abril 2014 | docx | 1724 | 0 |  |  |
 | 628 | [Documents/blog meu/TERRA MATRIA](<Documents/blog meu/TERRA MATRIA/index.md>) | TERRA MATRIA | docx | 2057 | 1 |  |  |
-| 629 | [Documents/blog meu/TERTULIA ENTRE AMICS. LISTO](<Documents/blog meu/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
 | 630 | [Documents/blog meu/TOMBATOSALS](<Documents/blog meu/TOMBATOSALS/index.md>) | TOMBATOSALS | doc | 1488 | 0 |  |  |
-| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 72 docs | | |  |
-| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 72 docs | | |  |
+| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 57 docs | | |  |
+| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 57 docs | | |  |
 | **C40** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/_carpeta.md>)** | **Biodiversidad 2 documentos** | carpeta | 4 docs | | |  |
 | **C41** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 2 docs | | |  |
 | 206 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
 | 207 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 6](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 6/index.md>) | TAPA DE 6 | docx | 139 | 8 |  |  |
 | 208 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/BIODIVERSIDAD](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/BIODIVERSIDAD/index.md>) | BIODIVERSIDAD | docx | 62754 | 111 |  |  |
 | 209 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/CONFERENCIA. del LLibre Morella excursionistes.](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/CONFERENCIA. del LLibre Morella excursionistes./index.md>) | CONFERENCIA. del LLibre Morella excursionistes. | docx | 5317 | 0 |  |  |
-| **C42** | **[Documents/Dropbox copia/compartida/blog LES MEUES COSES/](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/_carpeta.md>)** | **blog LES MEUES COSES** | carpeta | 57 docs | | |  |
+| **C42** | **[Documents/Dropbox copia/compartida/blog LES MEUES COSES/](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/_carpeta.md>)** | **blog LES MEUES COSES** | carpeta | 46 docs | | |  |
 | 261 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/A .A. A](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/A .A. A/index.md>) | A .A. A | docx | 695 | 0 |  |  |
 | 262 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ANEM A LA MADALENA 2011](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ANEM A LA MADALENA 2011/index.md>) | ANEM A LA MADALENA 2011 | docx | 1213 | 0 |  |  |
 | 263 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/APRENDER NUEVAS TECNOLOGUIAS 2010.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/APRENDER NUEVAS TECNOLOGUIAS 2010./index.md>) | APRENDER NUEVAS TECNOLOGUIAS 2010. | docx | 1830 | 0 |  |  |
@@ -103,17 +93,11 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 272 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/DE LA FESTA LA VESPRA.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/DE LA FESTA LA VESPRA./index.md>) | DE LA FESTA LA VESPRA. | docx | 2019 | 3 |  |  |
 | 273 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/DIA DE CAMP](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/DIA DE CAMP/index.md>) | DIA DE CAMP | docx | 2514 | 0 |  |  |
 | 274 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/DINAR 2011](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/DINAR 2011/index.md>) | DINAR 2011 | docx | 1760 | 2 |  |  |
-| 276 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/DÉU DIRÀ.  LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/DÉU DIRÀ.  LISTO/index.md>) | DÉU DIRÀ.  LISTO | docx | 2328 | 1 |  |  |
-| 278 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL CARRERO DE LA PLACETA...LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL CARRERO DE LA PLACETA...LISTO/index.md>) | EL CARRERO DE LA PLACETA...LISTO | docx | 2193 | 3 |  |  |
-| 279 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL CORDERET  Nº 5](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL CORDERET  Nº 5/index.md>) | EL CORDERET  Nº 5 | doc | 2287 | 4 |  |  |
-| 280 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL CORDERET 2011.  LISTO.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL CORDERET 2011.  LISTO./index.md>) | EL CORDERET 2011.  LISTO. | docx | 2286 | 3 |  |  |
-| 282 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL GRAN PI.  LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL GRAN PI.  LISTO/index.md>) | EL GRAN PI.  LISTO | docx | 1768 | 5 |  | PARECIDO (0.85) a md/Listo/El gran pi, ya publicado. |
 | 283 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL GRAN SILENCIO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL GRAN SILENCIO/index.md>) | EL GRAN SILENCIO | docx | 2165 | 0 |  |  |
 | 284 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL GRAN VIATGE.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL GRAN VIATGE./index.md>) | EL GRAN VIATGE. | docx | 4023 | 0 |  |  |
 | 286 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL SECRETO DE MEISSEN](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL SECRETO DE MEISSEN/index.md>) | EL SECRETO DE MEISSEN | docx | 2024 | 0 |  |  |
 | 287 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS CINC SENTITS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS CINC SENTITS/index.md>) | ELS CINC SENTITS | doc | 2076 | 0 |  |  |
 | 288 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS MES TRESORS  1º](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS MES TRESORS  1º/index.md>) | ELS MES TRESORS  1º | doc | 2549 | 0 |  | PARECIDO (0.79) a md/Memoria familiar/Els meus tresors, ya publicado. |
-| 290 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ESTEM DE VACANSES.   LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ESTEM DE VACANSES.   LISTO/index.md>) | ESTEM DE VACANSES.   LISTO | docx | 2235 | 2 |  |  |
 | 292 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/FAIXERO FAIXES. MAIG 2010.2º](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/FAIXERO FAIXES. MAIG 2010.2º/index.md>) | FAIXERO FAIXES. MAIG 2010.2º | docx | 4465 | 0 |  |  |
 | 295 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/HA COMPLIT CINQUANTA ANYS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/HA COMPLIT CINQUANTA ANYS/index.md>) | HA COMPLIT CINQUANTA ANYS | docx | 2979 | 3 |  |  |
 | 296 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/HAN VINGUT ELS REIS  2011](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/HAN VINGUT ELS REIS  2011/index.md>) | HAN VINGUT ELS REIS  2011 | docx | 2671 | 0 |  |  |
@@ -124,7 +108,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 300 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA CASA SANT JOANS 2010. 3º](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA CASA SANT JOANS 2010. 3º/index.md>) | LA CASA SANT JOANS 2010. 3º | docx | 1745 | 2 |  |  |
 | 301 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA FELICIDAD DE VIVIR EN LA NAATURALEZA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA FELICIDAD DE VIVIR EN LA NAATURALEZA/index.md>) | LA FELICIDAD DE VIVIR EN LA NAATURALEZA | docx | 2378 | 0 |  |  |
 | 302 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA HISTORIA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA HISTORIA/index.md>) | LA HISTORIA | docx | 1590 | 0 |  |  |
-| 303 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA MEDICASIÓ   LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA MEDICASIÓ   LISTO/index.md>) | LA MEDICASIÓ   LISTO | docx | 1858 | 0 |  | PARECIDO (0.67) a md/Listo/La medicació, ya publicado. |
 | 304 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA PERLA DE LA MONTAÑA. LLUCENA.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA PERLA DE LA MONTAÑA. LLUCENA./index.md>) | LA PERLA DE LA MONTAÑA. LLUCENA. | docx | 5652 | 0 |  |  |
 | 305 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA QUINTA DEL 66. CINCTORRES.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA QUINTA DEL 66. CINCTORRES./index.md>) | LA QUINTA DEL 66. CINCTORRES. | doc | 3324 | 0 |  |  |
 | 306 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA TORNADA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/LA TORNADA/index.md>) | LA TORNADA | docx | 2275 | 0 |  |  |
@@ -134,25 +117,15 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 315 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/MISERICORDIA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/MISERICORDIA/index.md>) | MISERICORDIA | docx | 1607 | 2 |  |  |
 | 316 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/NADAL I  ANY NOU 2012](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/NADAL I  ANY NOU 2012/index.md>) | NADAL I  ANY NOU 2012 | docx | 2122 | 3 |  |  |
 | 317 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/NIT DIFERENT 2011.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/NIT DIFERENT 2011./index.md>) | NIT DIFERENT 2011. | docx | 2168 | 1 |  |  |
-| 319 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/NO ÉS EL QUE ERA LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/NO ÉS EL QUE ERA LISTO/index.md>) | NO ÉS EL QUE ERA LISTO | docx | 1882 | 3 |  |  |
 | 320 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/PALABRAS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/PALABRAS/index.md>) | PALABRAS | docx | 2071 | 0 |  |  |
 | 321 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/PEDRES DE RIU](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/PEDRES DE RIU/index.md>) | PEDRES DE RIU | doc | 1501 | 0 |  |  |
 | 322 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/PISCINA GENER.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/PISCINA GENER./index.md>) | PISCINA GENER. | docx | 1621 | 0 |  |  |
-| 324 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/PPRESENTACIÓ LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/PPRESENTACIÓ LISTO/index.md>) | PPRESENTACIÓ LISTO | docx | 1541 | 0 |  |  |
 | 325 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/PRIMAVERA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/PRIMAVERA/index.md>) | PRIMAVERA | docx | 1338 | 0 |  |  |
 | 326 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/QUAN VAAREM XALAR](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/QUAN VAAREM XALAR/index.md>) | QUAN VAAREM XALAR | docx | 1459 | 2 |  |  |
-| 328 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/Sant Antoni del porquet Nº 13](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/Sant Antoni del porquet Nº 13/index.md>) | Sant Antoni del porquet Nº 13 | docx | 2664 | 4 |  | PARECIDO (0.60) a md/Listo/Sant Antoni del porquet, ya publicado. |
 | 327 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/SANT LLÚCIA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/SANT LLÚCIA/index.md>) | SANT LLÚCIA | docx | 1604 | 0 |  |  |
 | 329 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TEMPS DE ROGATIVES abril 2014](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TEMPS DE ROGATIVES abril 2014/index.md>) | TEMPS DE ROGATIVES abril 2014 | docx | 1724 | 0 |  |  |
 | 330 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERRA MATRIA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERRA MATRIA/index.md>) | TERRA MATRIA | docx | 2057 | 1 |  |  |
-| 331 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERTULIA ENTRE AMICS. LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
 | 332 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TOMBATOSALS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TOMBATOSALS/index.md>) | TOMBATOSALS | doc | 1488 | 0 |  |  |
-| **C46** | **[Documents/Dropbox copia/compartida/LIBRO lISTO/](<Documents/Dropbox copia/compartida/LIBRO lISTO/_carpeta.md>)** | **LIBRO lISTO** | carpeta | 2 docs | | |  |
-| 216 | [Documents/Dropbox copia/compartida/LIBRO lISTO/LIBRO](<Documents/Dropbox copia/compartida/LIBRO lISTO/LIBRO/index.md>) | LIBRO | docx | 31473 | 39 |  |  |
-| 217 | [Documents/Dropbox copia/compartida/LIBRO lISTO/TAPA](<Documents/Dropbox copia/compartida/LIBRO lISTO/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
-| **C47** | **[Documents/Dropbox copia/compartida/LISTO acabat/](<Documents/Dropbox copia/compartida/LISTO acabat/_carpeta.md>)** | **LISTO acabat** | carpeta | 2 docs | | |  |
-| 218 | [Documents/Dropbox copia/compartida/LISTO acabat/LIBRO](<Documents/Dropbox copia/compartida/LISTO acabat/LIBRO/index.md>) | LIBRO | docx | 31728 | 41 |  |  |
-| 219 | [Documents/Dropbox copia/compartida/LISTO acabat/TAPA](<Documents/Dropbox copia/compartida/LISTO acabat/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
 | **C53** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/_carpeta.md>)** | **memoria familiar y dos tapas** | carpeta | 2 docs | | |  |
 | **C54** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 2 docs | | |  |
 | 344 | [Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/guardar primavera.](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/guardar primavera./index.md>) | guardar primavera. | docx | 8531 | 1 |  |  |
@@ -190,39 +163,13 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 435 | [Documents/Fax/Inbox/treball uji/insectos-mariposas](<Documents/Fax/Inbox/treball uji/insectos-mariposas/index.md>) | insectos-mariposas | docx | 1798 | 0 |  |  |
 | 433 | [Documents/Fax/Inbox/treball uji/INVERTEBRADOS  ANTROPODOS.](<Documents/Fax/Inbox/treball uji/INVERTEBRADOS  ANTROPODOS./index.md>) | INVERTEBRADOS  ANTROPODOS. | docx | 12737 | 0 |  |  |
 | 661 | [Documents/foroPeñagolosa y Calderona](<Documents/foroPeñagolosa y Calderona/index.md>) | foroPeñagolosa y Calderona | docx | 975 | 0 |  |  |
-| **C84** | **[Documents/LIBRO lISTO/](<Documents/LIBRO lISTO/_carpeta.md>)** | **LIBRO lISTO** | carpeta | 2 docs | | |  |
-| 442 | [Documents/LIBRO lISTO/LIBRO](<Documents/LIBRO lISTO/LIBRO/index.md>) | LIBRO | docx | 31473 | 39 |  |  |
-| 443 | [Documents/LIBRO lISTO/TAPA](<Documents/LIBRO lISTO/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
-| **C85** | **[Documents/LIBRO lISTO - copia/](<Documents/LIBRO lISTO - copia/_carpeta.md>)** | **LIBRO lISTO - copia** | carpeta | 2 docs | | |  |
-| 444 | [Documents/LIBRO lISTO - copia/LIBRO](<Documents/LIBRO lISTO - copia/LIBRO/index.md>) | LIBRO | docx | 31470 | 38 |  |  |
-| 445 | [Documents/LIBRO lISTO - copia/TAPA](<Documents/LIBRO lISTO - copia/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
 | 451 | [Documents/Listo](<Documents/Listo/index.md>) | Listo | docx | 31788 | 43 |  |  |
-| **C86** | **[Documents/listo i mes coses/](<Documents/listo i mes coses/_carpeta.md>)** | **listo i mes coses** | carpeta | 2 docs | | |  |
-| 664 | [Documents/listo i mes coses/LIBRO](<Documents/listo i mes coses/LIBRO/index.md>) | LIBRO | docx | 31640 | 36 |  |  |
-| 665 | [Documents/listo i mes coses/TAPA](<Documents/listo i mes coses/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
-| 450 | [Documents/Listo, acabat](<Documents/Listo, acabat/index.md>) | Listo, acabat | docx | 31741 | 41 |  |  |
 | 455 | [Documents/Mare de Deu de la balma.](<Documents/Mare de Deu de la balma./index.md>) | Mare de Deu de la balma. | docx | 5715 | 4 |  |  |
 | 457 | [Documents/Nuevo Roquetas.](<Documents/Nuevo Roquetas./index.md>) | Nuevo Roquetas. | docx | 3967 | 10 |  |  |
 | 460 | [Documents/Otoño](<Documents/Otoño/index.md>) | Otoño | docx | 934 | 0 |  |  |
-| **C92** | **[Documents/poner foto/](<Documents/poner foto/_carpeta.md>)** | **poner foto** | carpeta | 2 docs | | |  |
-| 680 | [Documents/poner foto/EL CORDERET  Nº 5](<Documents/poner foto/EL CORDERET  Nº 5/index.md>) | EL CORDERET  Nº 5 | doc | 2287 | 4 |  |  |
-| 690 | [Documents/poner foto/Sant Antoni del porquet Nº 13](<Documents/poner foto/Sant Antoni del porquet Nº 13/index.md>) | Sant Antoni del porquet Nº 13 | docx | 2664 | 4 |  | PARECIDO (0.60) a md/Listo/Sant Antoni del porquet, ya publicado. |
-| 724 | [Documents/revista nit de Maitines](<Documents/revista nit de Maitines/index.md>) | revista nit de Maitines | docx | 4189 | 0 |  |  |
-| 514 | [Documents/Tertulia entre amics](<Documents/Tertulia entre amics/index.md>) | Tertulia entre amics | docx | 2317 | 0 |  |  |
 | **C99** | **[Documents/Todo bulleti Cinctorres/](<Documents/Todo bulleti Cinctorres/_carpeta.md>)** | **Todo bulleti Cinctorres** | carpeta | 2 docs | | |  |
 | 515 | [Documents/Todo bulleti Cinctorres/BIODIVERSITAT.](<Documents/Todo bulleti Cinctorres/BIODIVERSITAT./index.md>) | BIODIVERSITAT. | docx | 2378 | 0 |  |  |
 | 517 | [Documents/Todo bulleti Cinctorres/boletin de Cinctorres Liquens](<Documents/Todo bulleti Cinctorres/boletin de Cinctorres Liquens/index.md>) | boletin de Cinctorres Liquens | docx | 1742 | 0 |  |  |
-| **C100** | **[Documents/todo listo/](<Documents/todo listo/_carpeta.md>)** | **todo listo** | carpeta | 10 docs | | |  |
-| 725 | [Documents/todo listo/DÉU DIRÀ.  LISTO](<Documents/todo listo/DÉU DIRÀ.  LISTO/index.md>) | DÉU DIRÀ.  LISTO | docx | 2328 | 1 |  |  |
-| 726 | [Documents/todo listo/EL CARRERO DE LA PLACETA...LISTO](<Documents/todo listo/EL CARRERO DE LA PLACETA...LISTO/index.md>) | EL CARRERO DE LA PLACETA...LISTO | docx | 2193 | 3 |  |  |
-| 727 | [Documents/todo listo/EL CORDERET 2011.  LISTO.](<Documents/todo listo/EL CORDERET 2011.  LISTO./index.md>) | EL CORDERET 2011.  LISTO. | docx | 2286 | 3 |  |  |
-| 728 | [Documents/todo listo/EL GRAN PI.  LISTO](<Documents/todo listo/EL GRAN PI.  LISTO/index.md>) | EL GRAN PI.  LISTO | docx | 1768 | 5 |  | PARECIDO (0.85) a md/Listo/El gran pi, ya publicado. |
-| 729 | [Documents/todo listo/ESTEM DE VACANSES.   LISTO](<Documents/todo listo/ESTEM DE VACANSES.   LISTO/index.md>) | ESTEM DE VACANSES.   LISTO | docx | 2235 | 2 |  |  |
-| 731 | [Documents/todo listo/LA MEDICASIÓ   LISTO](<Documents/todo listo/LA MEDICASIÓ   LISTO/index.md>) | LA MEDICASIÓ   LISTO | docx | 1858 | 0 |  | PARECIDO (0.67) a md/Listo/La medicació, ya publicado. |
-| 732 | [Documents/todo listo/NO ÉS EL QUE ERA LISTO](<Documents/todo listo/NO ÉS EL QUE ERA LISTO/index.md>) | NO ÉS EL QUE ERA LISTO | docx | 1882 | 3 |  |  |
-| 733 | [Documents/todo listo/PPRESENTACIÓ LISTO](<Documents/todo listo/PPRESENTACIÓ LISTO/index.md>) | PPRESENTACIÓ LISTO | docx | 1592 | 0 |  | PARECIDO (0.64) a md/Listo/Em diuen Listo, ya publicado. |
-| 734 | [Documents/todo listo/SANT ANTONI DEL PORQUET LISTO](<Documents/todo listo/SANT ANTONI DEL PORQUET LISTO/index.md>) | SANT ANTONI DEL PORQUET LISTO | docx | 2594 | 1 |  |  |
-| 735 | [Documents/todo listo/TERTULIA ENTRE AMICS. LISTO](<Documents/todo listo/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
 | **C108** | **[Documents/treball uji CELUMBRES/](<Documents/treball uji CELUMBRES/_carpeta.md>)** | **treball uji CELUMBRES** | carpeta | 17 docs | | |  |
 | 737 | [Documents/treball uji CELUMBRES/ANIMALES TERRESTRES](<Documents/treball uji CELUMBRES/ANIMALES TERRESTRES/index.md>) | ANIMALES TERRESTRES | docx | 3888 | 0 |  |  |
 | 738 | [Documents/treball uji CELUMBRES/ARAÑAS IN  acabat](<Documents/treball uji CELUMBRES/ARAÑAS IN  acabat/index.md>) | ARAÑAS IN  acabat | docx | 2371 | 6 |  |  |

@@ -1,10 +1,12 @@
 ---
 id: "170"
 titulo: "La medicació"
-notas: "Entrada 8 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens')."
+notas: "Entrada 8 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Foto de Listo a la taula amb un net afegida el 2026-09-06 des de la còpia del llibre 'LISTO acabat'."
 ---
 
 # La medicació
+
+![](img/listo-a-la-taula.jpeg)
 
 ![](img/image27.jpeg)
 

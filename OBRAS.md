@@ -17,7 +17,7 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C22 | Món rural i cuina | 21 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 11 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
-| C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
+| C25 | Listo | 16 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
 | C26 | Treballs i reflexions | 17 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
 
@@ -87,9 +87,12 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   (VIVIR) se ha pasado a C12 como recuerdo en primera persona. No queda nada pendiente para C12.
 - **C19 Familia Padilla Agut**: «Canción del agüelo Padilla» hecha el 2026-09-06 (AUTORÍA A CONFIRMAR). El fragmento
   propio de «pueblo Padilla» (692) es «El pueblo de Padilla», hecho el 2026-09-06.
-- **C25 Listo**: «LIBRO LISTO» (31.000, tres copias: `LIBRO lISTO/`, `LIBRO lISTO - copia/`, `Dropbox
-  copia/compartida/LIBRO lISTO/`, «Listo, acabat»): el blog compilado como libro; comparar con las 14
-  entradas de md/ y añadir lo que falte o sustituir por la versión del libro si es más completa.
+- **C25 Listo**: revisado el 2026-09-06. Las siete copias del libro compilado eran el mismo texto que las 14 entradas
+  de md/; se han aprovechado cuatro fotos nuevas (platja, Listo a la taula, el Naixement, Maitines 2013) y el gatet en
+  alta resolución, y se han creado «Nit de Maitines (revista)» (724) y «Tapa del llibre» (217). Las versiones del blog
+  (todo listo y las dos carpetas del blog) tenían pasajes que la versión pulida acortó; el usuario decidió no añadirlos
+  y borrarlas. Queda el libro 451 («Listo») solo por las siete fotos de líquenes con nombre que lleva al principio,
+  para Natura.
 - **C26 Treballs i reflexions**: hecho el 2026-09-06 todo lo que era suyo (El gran silencio, Cultura para la Paz,
   La arquitectura, La belleza en la música, Don Quijote, Lucerna, Presentació de la trufa negra, El progreso). Borrados
   Guerra del Rif (no es suyo), Punset y la Mona Lisa (copias de web), y las versiones repetidas de Sexenni, Belleza,
@@ -172,6 +175,9 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   526, sexeni mitad 246 y 405, resumen J. Soriano 183 y 483, Aprender nuevas tecnologías 2006 637, cançons 337 y 477)
   y los ajenos o restos (Punset 465, Mona Lisa 639, Pintura géneros 461, correos del curso 413, guías de Dropbox 204 y
   205, Sexenni. 367), con las carpetas que quedaron vacías.
+- 2026-09-06: Listo recibe «Nit de Maitines (revista)» (724) y «Tapa del llibre» (217), cuatro fotos nuevas y el gatet
+  en alta resolución; borrados los seis libros compilados (216, 218, 442, 444, 450, 664) con sus tapas, todo listo (10),
+  las 22 copias del blog, poner foto (680, 690) y «Tertulia entre amics» (514): 44 documentos. C25 pasa a 16.
 - 2026-09-06: Treballs i reflexions recibe El gran silencio (373; copia 479), Cultura para la Paz (201; copias 475,
   651), La arquitectura (654), La belleza en la música (446), Don Quijote (378 + 379, sin el soneto de Cervantes) y
   Lucerna (419). C26 pasa a 17.
