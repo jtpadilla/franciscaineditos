@@ -10,18 +10,18 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | Id | Obra | Docs | Qué va | Qué NO va |
 |---|---|---|---|---|
 | C12 | Memoria familiar | 14 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
-| C19 | Familia Padilla Agut | 1 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
+| C19 | Familia Padilla Agut | 3 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
 | C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
-| C21 | Cinctorres | 16 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
-| C22 | Món rural i cuina | 16 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
+| C21 | Cinctorres | 17 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
+| C22 | Món rural i cuina | 20 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 10 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
-| C26 | Treballs i reflexions | 9 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
+| C26 | Treballs i reflexions | 10 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
 
-Ids de documento usados hasta el 754; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
+Ids de documento usados hasta el 756; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
 
 ## Obras nuevas pendientes de crear (propuestas el 2026-09-05 tras la segunda tanda)
 
@@ -59,20 +59,19 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 
 - **C22 Món rural i cuina**: revisado el 2026-09-06 con comparación párrafo a párrafo contra md/. Hechos: Mostillo,
   La utilitat de la pedra en sec (blog UJI 2012), Els nostres jocs, La dula (fusión), Recetas sencillas, San Antonio,
-  Instrumentos de caña. **Pendiente de decisión**: «Principio memoria» (239, 364, 398: borrador de introducción del
-  taller, AUTORÍA A CONFIRMAR), «Historia de la tòfona» (198, 516: boletín de Cinctorres; aquí o en Natura), «Lllegir
-  trufa negra» (488: texto de la presentación; aquí o en C26), «pastel de salmon» (675: receta y resumen de bufadors
-  y barraques para aquí, reflexión sobre las máquinas para C26, el resto restos), (el borrador 336 de la pedra en sec, con 14 fotos grandes, se volcó en md/ el 2026-09-06 y se borró). **Borrado el 2026-09-06** todo lo que era copia o borrador de lo ya publicado (70 documentos: el libro idéntico 179,
+  Instrumentos de caña. «Principio memoria» (239, 364, 398) es «Costumbres del campo y del mundo
+  rural», con AUTORÍA A CONFIRMAR, hecho el 2026-09-06. **Pendiente de decisión**: «Historia de la tòfona» (198, 516: boletín de Cinctorres; aquí o en Natura), «Lllegir
+  trufa negra» (488: texto de la presentación; aquí o en C26), «pastel de salmon» (675: troceado el 2026-09-06 en «Pastel de salmón» y
+  «Bufadors y barraques» aquí y «El progreso» en C26; el resto descartado), (el borrador 336 de la pedra en sec, con 14 fotos grandes, se volcó en md/ el 2026-09-06 y se borró). **Borrado el 2026-09-06** todo lo que era copia o borrador de lo ya publicado (70 documentos: el libro idéntico 179,
   las diez memorias de clase, los capítulos sueltos borrador, curiosidades, Nuevo Documento, las copias de La trufa
   negra y de introduccion 1, los apuntes de la trufa y l'ar de teixir). Borrado también «Faixero Memoria» (231, 390, 358, ya
   dentro del libro), «Garrofin» (233, 392) y «Portada, indice» (489).
   Sexenni (367, 246, 405) es de C26.
 - **C21 Cinctorres**: hechos el 2026-09-06 «Església de Sant Pere» (658), «Toponimia de Cinctorres» (476) y
-  la fusión de «FAIXERO» (422, 2017) con «Faixero, faixes!» (160). Quedan a decisión del usuario: las cuatro
-  ermitas y rogatives de `wiki/` (352-355; sin indicio de copia en la web, irían con AUTORÍA A CONFIRMAR) y la
-  entrada del blog «Esglesia de Cinctorres» (586 y 289), versión corta de la de md (conservar en Les meues
-  coses o borrar: **borrada el 2026-09-06**). «Sant Antoni als Ports» es del blog. No van aquí: «Llibret mercat San Antoni» (es el
-  mercado de Castelló, ya en C24), «cansalader» (oficio: C22 o C19), «Mare de Deu de la Balma» (Zorita:
+  la fusión de «FAIXERO» (422, 2017) con «Faixero, faixes!» (160). Las cuatro ermitas y rogatives de `wiki/`
+  (352-355) son «Ermites i rogatives», un solo documento con AUTORÍA A CONFIRMAR, hecho el 2026-09-06. La
+  entrada del blog «Esglesia de Cinctorres» (586 y 289), versión corta de la de md, se borró el 2026-09-06. «Sant Antoni als Ports» es del blog. No van aquí: «Llibret mercat San Antoni» (es el
+  mercado de Castelló, ya en C24), «cansalader» (hecho en C22 el 2026-09-06), «Mare de Deu de la Balma» (Zorita:
   Viatges), los artículos del boletín (Natura). «Faixero Memoria» (231, 390, 358) ya está dentro de
   «Agricultura y costumbres del mundo rural»: borrar.
 - **C24 Castelló**: hechos el 2026-09-06 «Cuartel de San Francisco», «Castellón» y «Partidas de Castellón».
@@ -86,7 +85,8 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   contenido nuevo) y las tapas (348, 349, 667, 668) son las mismas imágenes que la Tapa de md/ en menor
   resolución: borrado todo el 2026-09-06. «Antepasados» y «fotos libro» ya están en md/. «Lugar de nacimiento»
   (VIVIR) se ha pasado a C12 como recuerdo en primera persona. No queda nada pendiente para C12.
-- **C19 Familia Padilla Agut**: «Canción del agüelo Padilla», «pueblo Padilla» (si no va a Cartes a Vicente).
+- **C19 Familia Padilla Agut**: «Canción del agüelo Padilla» hecha el 2026-09-06 (AUTORÍA A CONFIRMAR). El fragmento
+  propio de «pueblo Padilla» (692) es «El pueblo de Padilla», hecho el 2026-09-06.
 - **C25 Listo**: «LIBRO LISTO» (31.000, tres copias: `LIBRO lISTO/`, `LIBRO lISTO - copia/`, `Dropbox
   copia/compartida/LIBRO lISTO/`, «Listo, acabat»): el blog compilado como libro; comparar con las 14
   entradas de md/ y añadir lo que falte o sustituir por la versión del libro si es más completa.
@@ -142,6 +142,18 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   Cinctorres, y las tres copias de «Faixero Memoria» (231, 390, 358), ya dentro del libro de agricultura.
 - 2026-09-06: borrados «Festes de la Magdalena» (224, 232, 383, 391) y «madalena - copia» (371), transcripción de
   Calduch (1940) con dos párrafos propios sobre Bernat Artola que no se conservan.
+- 2026-09-06: Familia Padilla Agut recibe «Canción del agüelo Padilla» (id 196; copia 210 borrada), con AUTORÍA A
+  CONFIRMAR. C19 pasa a 2.
+- 2026-09-06: Familia Padilla Agut recibe «El pueblo de Padilla» (id 692), el fragmento propio de «pueblo Padilla»;
+  el resto del fichero (equinoccio copiado de webs, pregón de Vicente) se ha descartado. C19 pasa a 3.
+- 2026-09-06: Cinctorres recibe «Ermites i rogatives» (id 352), los cuatro textos de `wiki/` (352-355) en un
+  documento con AUTORÍA A CONFIRMAR. C21 pasa a 17.
+- 2026-09-06: Món rural i cuina recibe «Costumbres del campo y del mundo rural» (id 239, «Principio memoria»; copias
+  364 y 398 borradas), con AUTORÍA A CONFIRMAR. C22 pasa a 17.
+- 2026-09-06: Món rural i cuina recibe «Cansalader» (id 633), sin la cola de diccionario copiada. C22 pasa a 18.
+- 2026-09-06: «pastel de salmon» (675) troceado: «Pastel de salmón» (675) y «Bufadors y barraques» (755) en Món rural
+  i cuina, «El progreso» (756) en Treballs i reflexions; descartados el borrador de La belleza (ya en md), el corcho,
+  el reglamento de vías pecuarias y los restos de web. C22 pasa a 20 y C26 a 10. Ids usados hasta el 756.
 
 ## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
 

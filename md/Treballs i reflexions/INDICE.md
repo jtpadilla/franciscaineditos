@@ -9,6 +9,7 @@ Id **C26**.
 | Id | Documento | Título | Notas |
 |---|---|---|---|
 | 034 | [De los Ports al mar](<De los Ports al mar/index.md>) | De los Ports al mar | Reflexión escrita el 22 de septiembre de 2015 en un viaje de Morella a Vinaròs: la diversidad de paisajes de Castellón. El fichero se llamaba 'diversidad Paquita' y el texto 'Reflexión'. |
+| 756 | [El progreso](<El progreso/index.md>) | El progreso | Respuesta a un compañero que sostenía que las máquinas solo aumentan la diferencia entre privilegiados y obreros: el progreso, incluidas las máquinas y las tecnologías, es necesario, sobre todo para el campo y para las mujeres. Sin fecha ni firma. Sacado del fichero 'pastel de salmon'; el texto del compañero al que responde no se ha incluido. |
 | 030 | [La belleza](<La belleza/index.md>) | La belleza | Trabajo de curso sobre la belleza por apartados (subjetiva, objetiva, absoluta, moral, estética, la proporción áurea...) con conclusiones. Se ha quitado el índice de apartados que encabezaba el fichero ('clases de belleza'). |
 | 047 | [La belleza, objetiva o subjetiva](<La belleza, objetiva o subjetiva/index.md>) | La belleza, objetiva o subjetiva | Reflexión sobre la belleza del fuego del hogar. Firmada. Había una versión anterior sin la introducción ni la firma, eliminada. |
 | 012 | [La felicidad](<La felicidad/index.md>) | La felicidad | Reflexión para CEVA. |

@@ -1,12 +1,12 @@
 # Índice de inprocess/
 
-280 documentos en 60 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 280.
+268 documentos en 59 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 268.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 280 docs | | |  |
+| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 268 docs | | |  |
 | **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 3 docs | | |  |
 | 175 | [Documents/2 tapas/LAS PALABRAS.](<Documents/2 tapas/LAS PALABRAS./index.md>) | LAS PALABRAS. | docx | 2167 | 1 |  |  |
 | 176 | [Documents/2 tapas/TAPA DE 15](<Documents/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -85,14 +85,12 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 628 | [Documents/blog meu/TERRA MATRIA](<Documents/blog meu/TERRA MATRIA/index.md>) | TERRA MATRIA | docx | 2057 | 1 |  |  |
 | 629 | [Documents/blog meu/TERTULIA ENTRE AMICS. LISTO](<Documents/blog meu/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
 | 630 | [Documents/blog meu/TOMBATOSALS](<Documents/blog meu/TOMBATOSALS/index.md>) | TOMBATOSALS | doc | 1488 | 0 |  |  |
-| 196 | [Documents/Canción del agüelo Padilla.](<Documents/Canción del agüelo Padilla./index.md>) | Canción del agüelo Padilla. | docx | 482 | 0 |  |  |
-| 633 | [Documents/cansalader.](<Documents/cansalader./index.md>) | cansalader. | docx | 3808 | 0 |  |  |
 | 198 | [Documents/Cinctorresbolleti trufa.](<Documents/Cinctorresbolleti trufa./index.md>) | Cinctorresbolleti trufa. | docx | 3011 | 0 |  |  |
 | 201 | [Documents/Cultura para la Paz](<Documents/Cultura para la Paz/index.md>) | Cultura para la Paz | docx | 2989 | 0 |  |  |
 | **C37** | **[Documents/Donde se hacian los mercados del lunes/](<Documents/Donde se hacian los mercados del lunes/_carpeta.md>)** | **Donde se hacian los mercados del lunes** | carpeta | 1 docs | | |  |
 | 203 | [Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes.](<Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes./index.md>) | Fereis y mercado del lunes. | docx | 1043 | 0 |  |  |
-| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 86 docs | | |  |
-| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 84 docs | | |  |
+| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 79 docs | | |  |
+| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 77 docs | | |  |
 | **C40** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/_carpeta.md>)** | **Biodiversidad 2 documentos** | carpeta | 4 docs | | |  |
 | **C41** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 2 docs | | |  |
 | 206 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -159,7 +157,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 332 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TOMBATOSALS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TOMBATOSALS/index.md>) | TOMBATOSALS | doc | 1488 | 0 |  |  |
 | **C43** | **[Documents/Dropbox copia/compartida/blog uji/](<Documents/Dropbox copia/compartida/blog uji/_carpeta.md>)** | **blog uji** | carpeta | 1 docs | | |  |
 | 337 | [Documents/Dropbox copia/compartida/blog uji/cançons](<Documents/Dropbox copia/compartida/blog uji/cançons/index.md>) | cançons | doc | 1668 | 0 |  |  |
-| 210 | [Documents/Dropbox copia/compartida/Canción del agüelo Padilla.](<Documents/Dropbox copia/compartida/Canción del agüelo Padilla./index.md>) | Canción del agüelo Padilla. | docx | 482 | 0 |  |  |
 | 215 | [Documents/Dropbox copia/compartida/Guerra del Rif - corregido](<Documents/Dropbox copia/compartida/Guerra del Rif - corregido/index.md>) | Guerra del Rif - corregido | docx | 33704 | 17 |  |  |
 | **C46** | **[Documents/Dropbox copia/compartida/LIBRO lISTO/](<Documents/Dropbox copia/compartida/LIBRO lISTO/_carpeta.md>)** | **LIBRO lISTO** | carpeta | 2 docs | | |  |
 | 216 | [Documents/Dropbox copia/compartida/LIBRO lISTO/LIBRO](<Documents/Dropbox copia/compartida/LIBRO lISTO/LIBRO/index.md>) | LIBRO | docx | 31473 | 39 |  |  |
@@ -167,9 +164,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C47** | **[Documents/Dropbox copia/compartida/LISTO acabat/](<Documents/Dropbox copia/compartida/LISTO acabat/_carpeta.md>)** | **LISTO acabat** | carpeta | 2 docs | | |  |
 | 218 | [Documents/Dropbox copia/compartida/LISTO acabat/LIBRO](<Documents/Dropbox copia/compartida/LISTO acabat/LIBRO/index.md>) | LIBRO | docx | 31728 | 41 |  |  |
 | 219 | [Documents/Dropbox copia/compartida/LISTO acabat/TAPA](<Documents/Dropbox copia/compartida/LISTO acabat/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
-| **C49** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 2 docs | | |  |
-| **C52** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 2 docs | | |  |
-| 239 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria.](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria./index.md>) | Principio memoria. | docx | 5526 | 0 |  |  |
+| **C49** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 1 docs | | |  |
+| **C52** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 1 docs | | |  |
 | 246 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad/index.md>) | sexeni mitad | docx | 8671 | 0 |  | PARECIDO (0.75) a md/Treballs i reflexions/Sexenni, ya publicado. |
 | **C53** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/_carpeta.md>)** | **memoria familiar y dos tapas** | carpeta | 2 docs | | |  |
 | **C54** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 2 docs | | |  |
@@ -182,13 +178,7 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 254 | [Documents/Dropbox copia/compartida/Revista UJI/LES CLASES DE VALEN CIÀ](<Documents/Dropbox copia/compartida/Revista UJI/LES CLASES DE VALEN CIÀ/index.md>) | LES CLASES DE VALEN CIÀ | doc | 3992 | 0 |  | PARECIDO (0.72) a md/Treballs i reflexions/Les classes de valencià, ya publicado. |
 | 257 | [Documents/Dropbox copia/compartida/Revista UJI/Sant antoni als Ports](<Documents/Dropbox copia/compartida/Revista UJI/Sant antoni als Ports/index.md>) | Sant antoni als Ports | doc | 4284 | 0 |  |  |
 | 260 | [Documents/Dropbox copia/compartida/SEXENNI 1922](<Documents/Dropbox copia/compartida/SEXENNI 1922/index.md>) | SEXENNI 1922 | docx | 448 | 1 |  |  |
-| **C56** | **[Documents/Dropbox copia/compartida/wiki/](<Documents/Dropbox copia/compartida/wiki/_carpeta.md>)** | **wiki** | carpeta | 4 docs | | |  |
-| 352 | [Documents/Dropbox copia/compartida/wiki/Mare de Deude Gracia](<Documents/Dropbox copia/compartida/wiki/Mare de Deude Gracia/index.md>) | Mare de Deude Gracia | doc | 918 | 0 |  |  |
-| 353 | [Documents/Dropbox copia/compartida/wiki/san pere](<Documents/Dropbox copia/compartida/wiki/san pere/index.md>) | san pere | doc | 1028 | 0 |  |  |
-| 354 | [Documents/Dropbox copia/compartida/wiki/sanmarc](<Documents/Dropbox copia/compartida/wiki/sanmarc/index.md>) | sanmarc | doc | 761 | 0 |  |  |
-| 355 | [Documents/Dropbox copia/compartida/wiki/wiki](<Documents/Dropbox copia/compartida/wiki/wiki/index.md>) | wiki | doc | 1258 | 0 |  |  |
-| **C57** | **[Documents/Dropbox copia/compartida/¡Todo Memoria/](<Documents/Dropbox copia/compartida/¡Todo Memoria/_carpeta.md>)** | **¡Todo Memoria** | carpeta | 2 docs | | |  |
-| 364 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Principio memoria.](<Documents/Dropbox copia/compartida/¡Todo Memoria/Principio memoria./index.md>) | Principio memoria. | docx | 5526 | 0 |  |  |
+| **C57** | **[Documents/Dropbox copia/compartida/¡Todo Memoria/](<Documents/Dropbox copia/compartida/¡Todo Memoria/_carpeta.md>)** | **¡Todo Memoria** | carpeta | 1 docs | | |  |
 | 367 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Sexenni.](<Documents/Dropbox copia/compartida/¡Todo Memoria/Sexenni./index.md>) | Sexenni. | docx | 1525 | 0 |  |  |
 | **C58** | **[Documents/Dropbox copia/Photos/](<Documents/Dropbox copia/Photos/_carpeta.md>)** | **Photos** | carpeta | 1 docs | | |  |
 | 204 | [Documents/Dropbox copia/Photos/Cómo usar la carpeta de fotos](<Documents/Dropbox copia/Photos/Cómo usar la carpeta de fotos/index.md>) | Cómo usar la carpeta de fotos | txt | 462 | 0 |  |  |
@@ -200,13 +190,12 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 637 | [Documents/els cinc sentits 2/APRENDER NUEVAS TECNOLOGUIAS 2006.](<Documents/els cinc sentits 2/APRENDER NUEVAS TECNOLOGUIAS 2006./index.md>) | APRENDER NUEVAS TECNOLOGUIAS 2006. | docx | 1830 | 0 |  |  |
 | 639 | [Documents/els cinc sentits 2/¡Mona Lisa](<Documents/els cinc sentits 2/¡Mona Lisa/index.md>) | ¡Mona Lisa | doc | 24923 | 0 |  |  |
 | 640 | [Documents/entrevistas de ttrabajo.](<Documents/entrevistas de ttrabajo./index.md>) | entrevistas de ttrabajo. | doc | 5062 | 0 |  |  |
-| **C61** | **[Documents/Escritorio anterior/](<Documents/Escritorio anterior/_carpeta.md>)** | **Escritorio anterior** | carpeta | 7 docs | | |  |
+| **C61** | **[Documents/Escritorio anterior/](<Documents/Escritorio anterior/_carpeta.md>)** | **Escritorio anterior** | carpeta | 6 docs | | |  |
 | **C62** | **[Documents/Escritorio anterior/Don Quijote/](<Documents/Escritorio anterior/Don Quijote/_carpeta.md>)** | **Don Quijote** | carpeta | 2 docs | | |  |
 | 378 | [Documents/Escritorio anterior/Don Quijote/Don Quijote 1-2-3-4 capitulo](<Documents/Escritorio anterior/Don Quijote/Don Quijote 1-2-3-4 capitulo/index.md>) | Don Quijote 1-2-3-4 capitulo | docx | 6526 | 0 |  |  |
 | 379 | [Documents/Escritorio anterior/Don Quijote/Don quijote capitulo V-VI](<Documents/Escritorio anterior/Don Quijote/Don quijote capitulo V-VI/index.md>) | Don quijote capitulo V-VI | docx | 2823 | 0 |  |  |
-| **C63** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 2 docs | | |  |
-| **C66** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 2 docs | | |  |
-| 398 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria.](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria./index.md>) | Principio memoria. | docx | 5526 | 0 |  |  |
+| **C63** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 1 docs | | |  |
+| **C66** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 1 docs | | |  |
 | 405 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad/index.md>) | sexeni mitad | docx | 8671 | 0 |  | PARECIDO (0.75) a md/Treballs i reflexions/Sexenni, ya publicado. |
 | **C67** | **[Documents/Escritorio anterior/suspense y lucerna/](<Documents/Escritorio anterior/suspense y lucerna/_carpeta.md>)** | **suspense y lucerna** | carpeta | 1 docs | | |  |
 | 419 | [Documents/Escritorio anterior/suspense y lucerna/Lucerna.](<Documents/Escritorio anterior/suspense y lucerna/Lucerna./index.md>) | Lucerna. | docx | 1000 | 0 |  |  |
@@ -264,13 +253,11 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 455 | [Documents/Mare de Deu de la balma.](<Documents/Mare de Deu de la balma./index.md>) | Mare de Deu de la balma. | docx | 5715 | 4 |  |  |
 | 457 | [Documents/Nuevo Roquetas.](<Documents/Nuevo Roquetas./index.md>) | Nuevo Roquetas. | docx | 3967 | 10 |  |  |
 | 460 | [Documents/Otoño](<Documents/Otoño/index.md>) | Otoño | docx | 934 | 0 |  |  |
-| 675 | [Documents/pastel de salmon](<Documents/pastel de salmon/index.md>) | pastel de salmon | docx | 9263 | 2 |  |  |
 | 461 | [Documents/PINTURA.Generos.](<Documents/PINTURA.Generos./index.md>) | PINTURA.Generos. | docx | 387 | 0 |  |  |
 | 465 | [Documents/Pnset](<Documents/Pnset/index.md>) | Pnset | docx | 2902 | 1 |  |  |
 | **C92** | **[Documents/poner foto/](<Documents/poner foto/_carpeta.md>)** | **poner foto** | carpeta | 2 docs | | |  |
 | 680 | [Documents/poner foto/EL CORDERET  Nº 5](<Documents/poner foto/EL CORDERET  Nº 5/index.md>) | EL CORDERET  Nº 5 | doc | 2287 | 4 |  |  |
 | 690 | [Documents/poner foto/Sant Antoni del porquet Nº 13](<Documents/poner foto/Sant Antoni del porquet Nº 13/index.md>) | Sant Antoni del porquet Nº 13 | docx | 2664 | 4 |  | PARECIDO (0.60) a md/Listo/Sant Antoni del porquet, ya publicado. |
-| 692 | [Documents/pueblo Padilla.](<Documents/pueblo Padilla./index.md>) | pueblo Padilla. | docx | 5679 | 0 |  |  |
 | **C94** | **[Documents/religión/](<Documents/religión/_carpeta.md>)** | **religión** | carpeta | 9 docs | | |  |
 | **C95** | **[Documents/religión/Religion 2/](<Documents/religión/Religion 2/_carpeta.md>)** | **Religion 2** | carpeta | 9 docs | | |  |
 | 696 | [Documents/religión/Religion 2/Beato_Facundo](<Documents/religión/Religion 2/Beato_Facundo/index.md>) | Beato_Facundo | doc | 2902 | 0 |  |  |
