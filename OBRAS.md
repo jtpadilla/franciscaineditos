@@ -18,10 +18,11 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 11 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 17 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
-| C26 | Treballs i reflexions | 19 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
+| C26 | Treballs i reflexions | 20 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
+| C29 | Natura | 6 | la natura de la Rambla Celumbres y dels Ports como estudio: el trabajo de biodiversidad, los artículos del boletín, las estaciones, los parajes | el pueblo (C21), la agricultura (C22) |
 
-Ids de documento usados hasta el 756; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
+Ids de documento usados hasta el 756; siguiente obra: C30 (C28 es la carpeta `inprocess/Documents`, C29 es Natura).
 
 ## Obras nuevas pendientes de crear (propuestas el 2026-09-05 tras la segunda tanda)
 
@@ -35,12 +36,12 @@ procedimiento de CLAUDE.md. Orden sugerido: 1, 3, 2.
    d'Orient (588) a Memoria familiar, Sant Antoni als Ports (626) a Cinctorres, Bolangera de dimonis (565) a Treballs,
    y dos párrafos de la versión para revista del mercat del dilluns (623) fusionados en Castelló. Borrados también La
    quinta del 66, Convento y cuartel y Temps de rogatives, ya publicados.
-2. **Natura**. El trabajo de biodiversidad de la Rambla Celumbres y los textos de naturaleza:
-   `Dropbox copia/compartida/BIODIVERSIDAD` (63.000 caracteres con índice), los capítulos de `treball uji
-   CELUMBRES/` y `Fax/Inbox/treball uji/` (animales, arañas, árboles y frutos, aves, flora, flores, orquídeas,
-   hongos, insectos, invertebrados, líquenes), los artículos del boletín de Cinctorres sobre trufa y líquenes
-   (`Todo bulleti Cinctorres/`), «entrevistas de trabajo» (el quejigo), «Líquens». **Aviso**: es la base del
-   site ramblacelumbres. Criterio: flora, fauna, hongos, líquenes y paisaje natural, descritos como estudio.
+2. ~~**Natura**~~. **Creada el 2026-09-06 (C29)** con seis documentos: el trabajo de biodiversidad (185), su tapa
+   (176), los dos artículos del boletín (188, 517), Otoño (460) y Peñagolosa i Calderona (661). La conferencia sobre
+   los masos de Morella (209) fue a Treballs. Borrados los 26 capítulos borrador de `treball uji CELUMBRES` y
+   `Fax/Inbox/treball uji`, BLOG CELUMBRES (copias de web), el párrafo del quejigo (640) y el libro 451 (sus siete
+   fotos de líquenes eran las mismas del trabajo). El site ramblacelumbres.org reescribe estos textos; solo «Otoño»
+   está allí íntegro.
 3. ~~**Viatges**~~. **Descartada el 2026-09-06**: de los candidatos, «DUERO Tónica» era de Tónica, «Al Oeste del
    Maestrazgo» de Vicente y «Nuevo Roquetas» de Enrique Porcar (borrados); «foro Peñagolosa y Calderona» va a Natura;
    «Mare de Déu de la Balma» (455) se ha pasado a Treballs i reflexions; Els meus viatges a Galícia se queda en Memoria
@@ -175,6 +176,8 @@ borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no ex
   526, sexeni mitad 246 y 405, resumen J. Soriano 183 y 483, Aprender nuevas tecnologías 2006 637, cançons 337 y 477)
   y los ajenos o restos (Punset 465, Mona Lisa 639, Pintura géneros 461, correos del curso 413, guías de Dropbox 204 y
   205, Sexenni. 367), con las carpetas que quedaron vacías.
+- 2026-09-06: creada Natura (C29) con seis documentos y Treballs recibe la Conferència sobre els masos de Morella (209).
+  Borrado todo lo que quedaba en inprocess/: **la segunda tanda queda cerrada** con inprocess/ vacío.
 - 2026-09-06: descartada Les meues coses tras comparar los 109 ficheros con el blog en línea. Entran Adéu al blog (562,
   Listo), Els reis d'Orient (588, Memoria familiar), Sant Antoni als Ports (626, Cinctorres), Bolangera de dimonis
   (565, Treballs) y dos párrafos en El mercat del dilluns (623, Castelló). Borrados 101 documentos del blog y las
