@@ -8,6 +8,7 @@ Id **C25**. Ordre de les entrades a la compilació: 1. Em diuen Listo; 2. Tertú
 
 | Id | Documento | Título | Notas |
 |---|---|---|---|
+| 562 | [Adéu al blog](<Adéu al blog/index.md>) | Adéu al blog | Nota de comiat del blog Les meues coses, 2015: per què va començar a escriure, per què ho contava Listo i per què ho deixa després de la seua pèrdua. No es va publicar al blog. El fitxer es deia 'A .A. A'; el títol és nou. Dues còpies idèntiques (562 i 261). |
 | 125 | [Déu dirà](<Déu dirà/index.md>) | Déu dirà | Entrada 6 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior titulada 'Ja vorem', eliminada. Foto del gatet substituïda el 2026-09-06 per la de l'entrada del blog, en alta resolució. |
 | 169 | [El carreró de la Placeta](<El carreró de la Placeta/index.md>) | El carreró de la Placeta | Entrada 7 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Fotos en alta resolució recuperades de la còpia del blog de la segona tanda. Dues fotos més (el net donant aigua a Listo, i els dos nets amb Listo amb capa) que la compilació no tenia. |
 | 035 | [El corderet](<El corderet/index.md>) | El corderet | Entrada 5 de 14 del blog de Listo, en la versió polida de la compilació ('listo presentacio i liquens'). Hi havia una versió anterior ('El corderet 2011'), eliminada. Fotos en alta resolució recuperades de la còpia del blog de la segona tanda. |

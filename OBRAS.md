@@ -9,15 +9,15 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 
 | Id | Obra | Docs | Qué va | Qué NO va |
 |---|---|---|---|---|
-| C12 | Memoria familiar | 15 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
+| C12 | Memoria familiar | 16 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
 | C19 | Familia Padilla Agut | 3 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
 | C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
-| C21 | Cinctorres | 16 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
+| C21 | Cinctorres | 17 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
 | C22 | Món rural i cuina | 21 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 11 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
-| C25 | Listo | 16 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
+| C25 | Listo | 17 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
 | C26 | Treballs i reflexions | 19 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
 
@@ -28,15 +28,13 @@ Ids de documento usados hasta el 756; siguiente obra: C29 (C28 es la carpeta `in
 Crear cada una cuando el usuario diga "crea la publicación X y pásale los documentos", con el
 procedimiento de CLAUDE.md. Orden sugerido: 1, 3, 2.
 
-1. **Les meues coses (blog)**. Las entradas del blog «Les meues coses» de 2010 a 2014 que no están
-   narradas por Listo: unas 50, en tres o cuatro copias cada una (`blog meu/`, `Dropbox copia/compartida/
-   blog LES MEUES COSES/`, `Dropbox copia/compartida/Revista UJI/`, `poner foto/`). Ejemplos: Anem a la
-   Madalena, Bolangera de dimonis, Cine Oeste, Dia de camp, Els reis d'Orient, La Balma, La biblioteca del
-   mar, La casa Sant Joans, Las palabras, L'assut, Pedres de riu, Temps de rogatives, Tombatosals, Santa
-   Llúcia, La quinta del 66, Esglesia de Cinctorres. **Aviso**: se publicaron en el blog y probablemente
-   están en el site lesmeuescoses; el usuario decide si cuentan como inéditas. Criterio: texto del blog,
-   fechado 2010-2014, no narrado por Listo. Las entradas que hablan de Cinctorres o de Castelló se
-   quedan aquí, no en C21 ni C24, porque su unidad es el blog.
+1. ~~**Les meues coses (blog)**~~. **Descartada el 2026-09-06.** Se comprobó contra el blog en línea
+   (paquitajulian.blogspot.com, 75 entradas, activo: las de 2026 son documentos de md/): 90 de los 109 ficheros
+   locales eran los borradores de entradas publicadas en 2010-2014, con el blog como versión corregida. Se borraron
+   todos salvo lo no publicado o mucho más largo, que fue a las obras por tema: Adéu al blog (562) a Listo, Els reis
+   d'Orient (588) a Memoria familiar, Sant Antoni als Ports (626) a Cinctorres, Bolangera de dimonis (565) a Treballs,
+   y dos párrafos de la versión para revista del mercat del dilluns (623) fusionados en Castelló. Borrados también La
+   quinta del 66, Convento y cuartel y Temps de rogatives, ya publicados.
 2. **Natura**. El trabajo de biodiversidad de la Rambla Celumbres y los textos de naturaleza:
    `Dropbox copia/compartida/BIODIVERSIDAD` (63.000 caracteres con índice), los capítulos de `treball uji
    CELUMBRES/` y `Fax/Inbox/treball uji/` (animales, arañas, árboles y frutos, aves, flora, flores, orquídeas,
@@ -52,7 +50,7 @@ procedimiento de CLAUDE.md. Orden sugerido: 1, 3, 2.
 **Cartes a Vicente**: descartada el 2026-09-06. Las ocho respuestas suyas a Vicente Vicente Rodríguez (carpeta `VIVIR/`)
 eran correspondencia privada de carácter afectivo, y el usuario decidió borrarlas junto con los cuatro escritos de él.
 De esa carpeta ya habían salido «Lugar de nacimiento» (C12) y «El pueblo de Padilla» (C19). «Salud en la piel» (537; copia 544), un texto
-sobre el melanoma, ha ido a Treballs i reflexions. «Reflexió» (653), que había entrado en Poemes i reflexions, se ha
+sobre el melanoma, entró en Treballs i reflexions y el usuario lo borró después. «Reflexió» (653), que había entrado en Poemes i reflexions, se ha
 borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no existe.
 
 ## Dónde va el material de la segunda tanda que encaja en obras existentes
@@ -108,7 +106,8 @@ borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no ex
 ## Reglas de asignación cuando un documento encaja en dos obras
 
 - Lo narrado por Listo va a C25 aunque hable de Cinctorres o de fiestas.
-- Una entrada del blog «Les meues coses» va a la obra del blog aunque hable de Cinctorres o Castelló.
+- Las entradas del blog «Les meues coses» ya están publicadas en el blog y no se repiten en md/; solo entra lo que
+  el blog no tiene, a la obra que le toque por tema.
 - Un recuerdo en primera persona va a C12; un texto sobre el pueblo en tercera persona, a C21.
 - Un viaje va a la obra que le toque por su forma: recuerdo familiar (C12), reflexión o descripción (C26), entrada del blog
   (Les meues coses). No hay obra Viatges.
@@ -176,8 +175,13 @@ borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no ex
   526, sexeni mitad 246 y 405, resumen J. Soriano 183 y 483, Aprender nuevas tecnologías 2006 637, cançons 337 y 477)
   y los ajenos o restos (Punset 465, Mona Lisa 639, Pintura géneros 461, correos del curso 413, guías de Dropbox 204 y
   205, Sexenni. 367), con las carpetas que quedaron vacías.
-- 2026-09-06: Treballs i reflexions recibe «Salud en la piel» (537; copia 544 borrada); «Reflexió» (653) sale de Poemes
-  i reflexions. C26 pasa a 19 y C20 vuelve a 16.
+- 2026-09-06: descartada Les meues coses tras comparar los 109 ficheros con el blog en línea. Entran Adéu al blog (562,
+  Listo), Els reis d'Orient (588, Memoria familiar), Sant Antoni als Ports (626, Cinctorres), Bolangera de dimonis
+  (565, Treballs) y dos párrafos en El mercat del dilluns (623, Castelló). Borrados 101 documentos del blog y las
+  carpetas blog meu, blog LES MEUES COSES, Revista UJI, escrits . Les meues coses y esglesia de Cinctorres 2 documments.
+  C25 pasa a 17, C12 a 16, C21 a 17, C26 a 19.
+- 2026-09-06: «Salud en la piel» (537, 544) borrado tras entrar en Treballs; «Reflexió» (653) sale de Poemes i
+  reflexions. C26 queda en 18 y C20 vuelve a 16.
 - 2026-09-06: descartada Cartes a Vicente; borradas las doce cartas de `VIVIR/` (521, 523, 527, 528, 529, 533, 534,
   539, 541, 543, 546, 547).
 - 2026-09-06: descartada la obra Viatges. Treballs i reflexions recibe «Mare de Déu de la Balma» (455; copia 255
@@ -189,7 +193,10 @@ borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no ex
   651), La arquitectura (654), La belleza en la música (446), Don Quijote (378 + 379, sin el soneto de Cervantes) y
   Lucerna (419). C26 pasa a 17.
 
-## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
+## Les meues coses: agrupamiento previo (2026-09-05), superado
+
+La obra se descartó el 2026-09-06 (ver arriba). Se conserva el agrupamiento por si hiciera falta:
+
 
 El usuario ha decidido crear la obra **Les meues coses** (C29) con las entradas del blog 2010-2014 aunque
 estén publicadas en el blog, por coherencia con Listo. Estado al interrumpir: hecho el agrupamiento de las
