@@ -14,11 +14,11 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
 | C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
 | C21 | Cinctorres | 17 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
-| C22 | Món rural i cuina | 20 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
+| C22 | Món rural i cuina | 21 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 10 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
-| C26 | Treballs i reflexions | 10 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
+| C26 | Treballs i reflexions | 11 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
 
 Ids de documento usados hasta el 756; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
@@ -60,8 +60,8 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 - **C22 Món rural i cuina**: revisado el 2026-09-06 con comparación párrafo a párrafo contra md/. Hechos: Mostillo,
   La utilitat de la pedra en sec (blog UJI 2012), Els nostres jocs, La dula (fusión), Recetas sencillas, San Antonio,
   Instrumentos de caña. «Principio memoria» (239, 364, 398) es «Costumbres del campo y del mundo
-  rural», con AUTORÍA A CONFIRMAR, hecho el 2026-09-06. **Pendiente de decisión**: «Historia de la tòfona» (198, 516: boletín de Cinctorres; aquí o en Natura), «Lllegir
-  trufa negra» (488: texto de la presentación; aquí o en C26), «pastel de salmon» (675: troceado el 2026-09-06 en «Pastel de salmón» y
+  rural», con AUTORÍA A CONFIRMAR, hecho el 2026-09-06. **Pendiente de decisión**: «Història de la tòfona» (198, 516: hecha aquí el 2026-09-06), «Lllegir
+  trufa negra» (488: «Presentació de la trufa negra», hecha en C26 el 2026-09-06), «pastel de salmon» (675: troceado el 2026-09-06 en «Pastel de salmón» y
   «Bufadors y barraques» aquí y «El progreso» en C26; el resto descartado), (el borrador 336 de la pedra en sec, con 14 fotos grandes, se volcó en md/ el 2026-09-06 y se borró). **Borrado el 2026-09-06** todo lo que era copia o borrador de lo ya publicado (70 documentos: el libro idéntico 179,
   las diez memorias de clase, los capítulos sueltos borrador, curiosidades, Nuevo Documento, las copias de La trufa
   negra y de introduccion 1, los apuntes de la trufa y l'ar de teixir). Borrado también «Faixero Memoria» (231, 390, 358, ya
@@ -154,6 +154,10 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 - 2026-09-06: «pastel de salmon» (675) troceado: «Pastel de salmón» (675) y «Bufadors y barraques» (755) en Món rural
   i cuina, «El progreso» (756) en Treballs i reflexions; descartados el borrador de La belleza (ya en md), el corcho,
   el reglamento de vías pecuarias y los restos de web. C22 pasa a 20 y C26 a 10. Ids usados hasta el 756.
+- 2026-09-06: Món rural i cuina recibe «Història de la tòfona» (id 198; copia 516 borrada). C22 pasa a 21. Del boletín
+  de Cinctorres quedan para Natura «BIODIVERSITAT» (515) y «Liquens» (517).
+- 2026-09-06: Treballs i reflexions recibe «Presentació de la trufa negra» (id 488); la carpeta TOT TRUFA queda vacía
+  y se borra. C26 pasa a 11.
 
 ## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
 

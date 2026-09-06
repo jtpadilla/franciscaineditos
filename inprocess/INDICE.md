@@ -1,12 +1,12 @@
 # Índice de inprocess/
 
-268 documentos en 59 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 268.
+265 documentos en 58 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 265.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 268 docs | | |  |
+| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 265 docs | | |  |
 | **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 3 docs | | |  |
 | 175 | [Documents/2 tapas/LAS PALABRAS.](<Documents/2 tapas/LAS PALABRAS./index.md>) | LAS PALABRAS. | docx | 2167 | 1 |  |  |
 | 176 | [Documents/2 tapas/TAPA DE 15](<Documents/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -85,7 +85,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 628 | [Documents/blog meu/TERRA MATRIA](<Documents/blog meu/TERRA MATRIA/index.md>) | TERRA MATRIA | docx | 2057 | 1 |  |  |
 | 629 | [Documents/blog meu/TERTULIA ENTRE AMICS. LISTO](<Documents/blog meu/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
 | 630 | [Documents/blog meu/TOMBATOSALS](<Documents/blog meu/TOMBATOSALS/index.md>) | TOMBATOSALS | doc | 1488 | 0 |  |  |
-| 198 | [Documents/Cinctorresbolleti trufa.](<Documents/Cinctorresbolleti trufa./index.md>) | Cinctorresbolleti trufa. | docx | 3011 | 0 |  |  |
 | 201 | [Documents/Cultura para la Paz](<Documents/Cultura para la Paz/index.md>) | Cultura para la Paz | docx | 2989 | 0 |  |  |
 | **C37** | **[Documents/Donde se hacian los mercados del lunes/](<Documents/Donde se hacian los mercados del lunes/_carpeta.md>)** | **Donde se hacian los mercados del lunes** | carpeta | 1 docs | | |  |
 | 203 | [Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes.](<Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes./index.md>) | Fereis y mercado del lunes. | docx | 1043 | 0 |  |  |
@@ -279,10 +278,9 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 483 | [Documents/Soriano/J. Soriano. Resumen Francisca Julián](<Documents/Soriano/J. Soriano. Resumen Francisca Julián/index.md>) | J. Soriano. Resumen Francisca Julián | docx | 2019 | 0 |  |  |
 | 513 | [Documents/Teatre. Rosa i Roseta.](<Documents/Teatre. Rosa i Roseta./index.md>) | Teatre. Rosa i Roseta. | doc | 14028 | 0 |  |  |
 | 514 | [Documents/Tertulia entre amics](<Documents/Tertulia entre amics/index.md>) | Tertulia entre amics | docx | 2317 | 0 |  |  |
-| **C99** | **[Documents/Todo bulleti Cinctorres/](<Documents/Todo bulleti Cinctorres/_carpeta.md>)** | **Todo bulleti Cinctorres** | carpeta | 3 docs | | |  |
+| **C99** | **[Documents/Todo bulleti Cinctorres/](<Documents/Todo bulleti Cinctorres/_carpeta.md>)** | **Todo bulleti Cinctorres** | carpeta | 2 docs | | |  |
 | 515 | [Documents/Todo bulleti Cinctorres/BIODIVERSITAT.](<Documents/Todo bulleti Cinctorres/BIODIVERSITAT./index.md>) | BIODIVERSITAT. | docx | 2378 | 0 |  |  |
 | 517 | [Documents/Todo bulleti Cinctorres/boletin de Cinctorres Liquens](<Documents/Todo bulleti Cinctorres/boletin de Cinctorres Liquens/index.md>) | boletin de Cinctorres Liquens | docx | 1742 | 0 |  |  |
-| 516 | [Documents/Todo bulleti Cinctorres/Cinctorres boletíTRUFA](<Documents/Todo bulleti Cinctorres/Cinctorres boletíTRUFA/index.md>) | Cinctorres boletíTRUFA | docx | 3009 | 0 |  |  |
 | **C100** | **[Documents/todo listo/](<Documents/todo listo/_carpeta.md>)** | **todo listo** | carpeta | 10 docs | | |  |
 | 725 | [Documents/todo listo/DÉU DIRÀ.  LISTO](<Documents/todo listo/DÉU DIRÀ.  LISTO/index.md>) | DÉU DIRÀ.  LISTO | docx | 2328 | 1 |  |  |
 | 726 | [Documents/todo listo/EL CARRERO DE LA PLACETA...LISTO](<Documents/todo listo/EL CARRERO DE LA PLACETA...LISTO/index.md>) | EL CARRERO DE LA PLACETA...LISTO | docx | 2193 | 3 |  |  |
@@ -294,8 +292,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 733 | [Documents/todo listo/PPRESENTACIÓ LISTO](<Documents/todo listo/PPRESENTACIÓ LISTO/index.md>) | PPRESENTACIÓ LISTO | docx | 1592 | 0 |  | PARECIDO (0.64) a md/Listo/Em diuen Listo, ya publicado. |
 | 734 | [Documents/todo listo/SANT ANTONI DEL PORQUET LISTO](<Documents/todo listo/SANT ANTONI DEL PORQUET LISTO/index.md>) | SANT ANTONI DEL PORQUET LISTO | docx | 2594 | 1 |  |  |
 | 735 | [Documents/todo listo/TERTULIA ENTRE AMICS. LISTO](<Documents/todo listo/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
-| **C101** | **[Documents/TOT TRUFA/](<Documents/TOT TRUFA/_carpeta.md>)** | **TOT TRUFA** | carpeta | 1 docs | | |  |
-| 488 | [Documents/TOT TRUFA/Lllegir trufa negra.](<Documents/TOT TRUFA/Lllegir trufa negra./index.md>) | Lllegir trufa negra. | docx | 3643 | 5 |  |  |
 | **C108** | **[Documents/treball uji CELUMBRES/](<Documents/treball uji CELUMBRES/_carpeta.md>)** | **treball uji CELUMBRES** | carpeta | 17 docs | | |  |
 | 737 | [Documents/treball uji CELUMBRES/ANIMALES TERRESTRES](<Documents/treball uji CELUMBRES/ANIMALES TERRESTRES/index.md>) | ANIMALES TERRESTRES | docx | 3888 | 0 |  |  |
 | 738 | [Documents/treball uji CELUMBRES/ARAÑAS IN  acabat](<Documents/treball uji CELUMBRES/ARAÑAS IN  acabat/index.md>) | ARAÑAS IN  acabat | docx | 2371 | 6 |  |  |
