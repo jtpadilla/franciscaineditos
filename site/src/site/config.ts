@@ -92,7 +92,7 @@ export const T = {
 };
 
 export const GERMANS = [
-  { nom: 'Francisca Julián Querol', url: 'https://jtpadilla.github.io/franciscajulianquerol/', desc: { ca: 'l’índex de tots els llocs', es: 'el índice de todos los sitios' } },
+  { nom: 'Francisca Julián Querol', url: 'https://franciscajulianquerol.es/', desc: { ca: 'l’índex de tots els llocs', es: 'el índice de todos los sitios' } },
   { nom: 'Les meues coses', url: 'https://jtpadilla.github.io/lesmeuescoses/', desc: { ca: 'el blog, 2010–2026', es: 'el blog, 2010–2026' } },
   { nom: 'Masos de Morella', url: 'https://jtpadilla.github.io/masosdemorella/', desc: { ca: 'el llibre dels Llivis', es: 'el libro dels Llivis' } },
   { nom: 'Rambla Celumbres', url: 'https://ramblacelumbres.org/', desc: { ca: 'la biodiversitat de la rambla', es: 'la biodiversidad de la rambla' } },
