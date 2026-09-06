@@ -14,7 +14,7 @@ Un papel muy importante lo juega la meteorología
 
 En tierra de secano, los cultivos son distintos, legumbres, viña, cereales, olivos, los huertos son mínimos y siempre con la ayuda de las norias para la extracción del agua con la que regar. Los animales de carga son generalmente mulos por su resistencia para el distinto trabajo de cada época del año.
 
-Cómo preparar la tierra, adobarla, sembrar, labrar la tierra y todas las tareas relacionadas con la recolección, siega,,la recogida de la cosecha, la trilla el transporte a los graneros, o lugares donde se guardan todo el año. las herramientas manuales son parecidas, las azadas en tierra de secano son estrechas y para los huertos más anchas. El gancho es necesario para remover la tierra de secano………..
+Cómo preparar la tierra, adobarla, sembrar, labrar la tierra y todas las tareas relacionadas con la recolección, siega,la recogida de la cosecha, la trilla el transporte a los graneros, o lugares donde se guardan todo el año. las herramientas manuales son parecidas, las azadas en tierra de secano son estrechas y para los huertos más anchas. El gancho es necesario para remover la tierra de secano………..
 
 ## Ritmos de trabajo
 
@@ -32,7 +32,7 @@ Los aspectos sociales de la vida en el campo también son diferente según el lu
 
 El ocio en el mundo rural está relacionado con la cosecha. Todas las fiestas patronales son siempre cuando o bien está recogida la cosecha o aún no ha empezado.
 
-Las fiestas en los pueblos siempre son en septiembre cuando se ha terminado con lo recogida de los cereales y aun no ha empezado la vendimia, en Navidad, matanzas, en pueblos y masías, bureos,,San Antonio, rogativas en la primavera, celebraciones familiares.
+Las fiestas en los pueblos siempre son en septiembre cuando se ha terminado con lo recogida de los cereales y aun no ha empezado la vendimia, en Navidad, matanzas, en pueblos y masías, bureos,San Antonio, rogativas en la primavera, celebraciones familiares.
 
 Musica. la dolçaina i tabal se conocen en todos los lugares aunque la música es parecida, pero particular de cada lugar, bandurria, guitarra, acordeón. No hay Bureo que se oiga alguno de estos instrumentos……………..
 

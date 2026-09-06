@@ -10,7 +10,7 @@ La meua Paquita quan se'n va de casa, sempre tanca la porta de la seua habitaci�
 
 Jo, sempre faig una ullada a veure si s’ha quedat la porta oberta (a vegades amb les presses no se’n recorda de tancar-la.) Com que ja fa fresqueta i el sol entra per les dos finestres del xamfrà, damunt del llit es dorm molt bé, recolzat amb dos coixins grans que fica damunt d’un altre allargat.
 
-Estava jo donant voltes i rebolcant-me per tot el llit i gojant amb els coixins, quan de moment em sent: LISTOOO...T’HE PILLAT!! quin esglai, per on ha vingut? no he oït res!. Vist i no vist m’he amagat baix del llit. Paquita portava una granera i un bon empipament... Surt de baix del llit, pocavergonya!!!.
+Estava jo donant voltes i rebolcant-me per tot el llit i gojant amb els coixins, quan de moment em sent: LISTOOO...T’HE PILLAT!! quin esglai, per on ha vingut? no he oït res! Vist i no vist m’he amagat baix del llit. Paquita portava una granera i un bon empipament... Surt de baix del llit, pocavergonya!!!
 
 ![](img/image32.jpeg)
 

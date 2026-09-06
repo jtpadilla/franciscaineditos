@@ -32,7 +32,7 @@ Son sus sobrinas, hijas de una de sus hermanas que vivían en la Fresneda provin
 
 ![](img/manolo-el-baixo.jpeg)
 
-La fecha de esta foto es 1922. Este joven era conocido como *Manolo el Bàixo*, apodo heredado de su madre *cansaladera* *Agedeta la Bàixa* en la calle Zaragoza. Que después regento él en distintos lugares de Castellón.
+La fecha de esta foto es 1922. Este joven era conocido como *Manolo el Bàixo*, apodo heredado de su madre *cansaladera Agedeta la Bàixa* en la calle Zaragoza. Que después regento él en distintos lugares de Castellón.
 
 Su nombre es Manuel Padilla Calatayud, bisabuelo de mis nietos.
 

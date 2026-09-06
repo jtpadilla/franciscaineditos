@@ -41,6 +41,6 @@ A primer de marc començava a treballar la construcció es fa fer amb jornals de
 
 una família cinctorrana va construir i regalar al poble dos forns de calç
 
-Els petits fabricants de faixes varen regalar una faixa a cada home que treballava en la construcció de la ermita. Les dones anàvem a cuinar i a portar l’aigua per a beure i treballar,. La rondalla cinctorrana tots els mesos pesàvem per cada casa a recaptar, majoritàriament recollien ou, farina animalets de corral per ha el menjar del treballadors, els forners donaven el pa, carreges de llenya, tot hom col·laborava en lo que podia.
+Els petits fabricants de faixes varen regalar una faixa a cada home que treballava en la construcció de la ermita. Les dones anàvem a cuinar i a portar l’aigua per a beure i treballar. La rondalla cinctorrana tots els mesos pesàvem per cada casa a recaptar, majoritàriament recollien ou, farina animalets de corral per ha el menjar del treballadors, els forners donaven el pa, carreges de llenya, tot hom col·laborava en lo que podia.
 
 Sols van cobrar 3 persones l’arquitecte, el mestre d’obres, i el pintor Ramon Segura Cardona, que va fer els quadres bíblics, i àbside en 1873. Aquest era manco de la ma dreta, pintaba en la ma esquerra, estava allotjat en casa Pio, Garcia Segurra que era parent seu. Ramon Segura Cardona, era alumne aventajat dels germans Cruella de Morella

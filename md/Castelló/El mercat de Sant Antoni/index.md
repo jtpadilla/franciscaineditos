@@ -28,7 +28,7 @@ ELS OLIVEROS. Amb grans perols plens de llegums cuits, dels que encara sortia el
 
 LES PESCATERES. Amb les caixes de peix, que es pescava al Grau, espècies, que avui és molt difícil de veure pels mercats, doncs moltes vegades, ni els pescadors les agarren degut al vaix valor comercial que tenen, com: Sorell, sucla, boga, cavalla, sardina, anxova, mollets, galeres, musclos, mare del lluç,
 
-palades, ànguila, pagell, gallineta, marbra,.mussola, cabut, morralla etc. Sempre recordo, quan de bon matí, animaven a la gent amb els seus crits pregonant la mercaderia (xiquetes ...qui menja sorell no és fa vell) esta dita, és la que més recordo entre un munt de les que deien.
+palades, ànguila, pagell, gallineta, marbra, mussola, cabut, morralla etc. Sempre recordo, quan de bon matí, animaven a la gent amb els seus crits pregonant la mercaderia (xiquetes ...qui menja sorell no és fa vell) esta dita, és la que més recordo entre un munt de les que deien.
 
 PARADES DE VERDURA. Llauradors dels voltants, que portaven a vendre el que es collia de temporada. També hi havia productes del mercat d’Abastos.
 

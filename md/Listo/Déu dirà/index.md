@@ -24,7 +24,7 @@ Encara recordo a Sara, un pardal anomenat ninfa que ja estava a casa quan jo vai
 
 Aquest, és menut, arguellat sols té ulls i orelles i a més a més tampoc té cap nom!, i l'ama m’ha dit: «*el gatet està a casa seua, el foraster eres tu, així que vorem que fas»*.
 
-El que menys m’agrada és que roda pel meu costat, i quan jo fart d’ell, me'n vaig a un altre lloc, es fica a miolar amb totes les ganes, i al moment se sent: Listo!!! Que li has fet!!!.
+El que menys m’agrada és que roda pel meu costat, i quan jo fart d’ell, me'n vaig a un altre lloc, es fica a miolar amb totes les ganes, i al moment se sent: Listo!!! Que li has fet!!!
 
 No sé com acabarem quan a l’estiu vindrem un dies de visita. Potser que córrega un miracle i el gat no estiga. Com diu la meua ama, Déu dirà.
 

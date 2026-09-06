@@ -6,7 +6,7 @@ notas: "Entrada 7 de 14 del blog de Listo, en la versió polida de la compilaci�
 
 # El carreró de la Placeta
 
-Ja estem a l’agost i el millor, la meua ama Paquita i jo hem arribat a Cinctorres, que ganes tenia!!.
+Ja estem a l’agost i el millor, la meua ama Paquita i jo hem arribat a Cinctorres, que ganes tenia!!
 
 ![](img/image24.jpeg)
 
@@ -26,7 +26,7 @@ Ell i el Ferran (doncs volien ficar-me dins de la seua samarreta). Primer me les
 
 L’estiuejar està molt bé però quan hi ha xiquets al voltant i dos mesos seguits és esgotador.
 
-Dels quatre néts de la meua ama, els majors no em fan patir gens. Joan em demostra els seu afecte d’un altra manera: m’acarona, m’abraça i juga amb mi sense atorrollar-me. Però quan s’acosta el menut, tinc que anar amb quatre ulls. L’any passat, la setmana de festes a Cinctorres, els dos menuts i més xiquets del carreró de la Placeta, no sé d’on van traure unes banyes de bou. Jugaven a bous tot els dies, a mi em tenien més que fart, no podia eixir de baix del sofà, al moment quan em veien preferien torejar-me a mi. Entre tots em marejàvem. Ehhh toro!!!. Quina afició! vorem aquest any que tocarà
+Dels quatre néts de la meua ama, els majors no em fan patir gens. Joan em demostra els seu afecte d’un altra manera: m’acarona, m’abraça i juga amb mi sense atorrollar-me. Però quan s’acosta el menut, tinc que anar amb quatre ulls. L’any passat, la setmana de festes a Cinctorres, els dos menuts i més xiquets del carreró de la Placeta, no sé d’on van traure unes banyes de bou. Jugaven a bous tot els dies, a mi em tenien més que fart, no podia eixir de baix del sofà, al moment quan em veien preferien torejar-me a mi. Entre tots em marejàvem. Ehhh toro!!! Quina afició! vorem aquest any que tocarà
 
 ![](img/image26.jpeg)
 

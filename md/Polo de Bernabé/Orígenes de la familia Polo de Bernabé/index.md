@@ -80,7 +80,7 @@ María Luisa Lequerica Bernabé.
 
 **Araceli Polo de Bernabé y Almunia** fue la heredera todos sus cuantiosos bienes. Conocida en valencia como **La Pola**, Murio arruinada en 1934 en Burgassot.
 
-Hasta aquí, todo lo que he encontrado sobre el linaje Polo de Bernabé, que en la tercera generación empezó su andadura en Cinctorres.(*seguiré* *investigando en su archivo municipal*) El apellido Polo aún perdura en familias cinctorrana, en otras se ha perdido como ha ocurrido por parte de mi familia materna. El motivo de esta investigación ha sido debido al trabajo que he hecho sobre la historia de la Casa Santjoans, que termino, con la publicación de mi libro Paviment Ceràmic de la casa Santjoans, publicado por La Diputación Provincial de Castellón en 2012.
+Hasta aquí, todo lo que he encontrado sobre el linaje Polo de Bernabé, que en la tercera generación empezó su andadura en Cinctorres.(*seguiré investigando en su archivo municipal*) El apellido Polo aún perdura en familias cinctorrana, en otras se ha perdido como ha ocurrido por parte de mi familia materna. El motivo de esta investigación ha sido debido al trabajo que he hecho sobre la historia de la Casa Santjoans, que termino, con la publicación de mi libro Paviment Ceràmic de la casa Santjoans, publicado por La Diputación Provincial de Castellón en 2012.
 
 *Francisca Julián Querol. Otoño 2018*
 

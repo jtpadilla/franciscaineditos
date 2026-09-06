@@ -250,7 +250,7 @@ Pelamos y picamos la cebolla y la colocamos en una olla con un poco de aceite de
 
 ### TERNERA CON SALSA DE TRUFAS
 
-½ kg. de filetes de ternera, 1 trufa negra, 2 cebollas, 1 zanahoria,, ½ diente de ajo, tomillo, 200 ml. de vino blanco, aceite de oliva, sal y pimienta.
+½ kg. de filetes de ternera, 1 trufa negra, 2 cebollas, 1 zanahoria, ½ diente de ajo, tomillo, 200 ml. de vino blanco, aceite de oliva, sal y pimienta.
 
 Preparamos las verduras lavando, pelando y cortando las zanahorias, la cebolla y el ajo.
 

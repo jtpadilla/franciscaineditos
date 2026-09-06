@@ -24,26 +24,26 @@ por Pedro Benito Cantavella **Escribano** de Vistabella a saber en 7 de Febrero,
 
 En el saguan, eo entrada mayor de dicha casa:
 
-1.  Primeramente; manifestó la declarante y otorgante una auca grande de pino para tener paxa; y se estimó en tres libras.
+1. Primeramente; manifestó la declarante y otorgante una auca grande de pino para tener paxa; y se estimó en tres libras.
 
-2.  Otrosí: una escalera suelta de madera en una libra.
+2. Otrosí: una escalera suelta de madera en una libra.
 
 En el intermedio de las dos entradas es saguanes (¿):
 
-3.  Un armario grande de pino a [f. 5r] dos puertas en ocho libras.
+3. Un armario grande de pino a [f. 5r] dos puertas en ocho libras.
 
-4.  Otrosí: una auca grande con serraja y llave en tres libras.
+4. Otrosí: una auca grande con serraja y llave en tres libras.
 
 **En el entresuelo:**
-5.  Quatro sillas de pino, una de ellas de nogal con cuerdas de esparto muy usadas en una libra.
+5. Quatro sillas de pino, una de ellas de nogal con cuerdas de esparto muy usadas en una libra.
 
-6.  Otrosí: una mesa de pino con dos caxones sin llave en diez y seys sueldos.
+6. Otrosí: una mesa de pino con dos caxones sin llave en diez y seys sueldos.
 
-7.  Otrosí: un guardarropa de pino, con quatro caxones con sus serraxas y llave en diez libras.
+7. Otrosí: un guardarropa de pino, con quatro caxones con sus serraxas y llave en diez libras.
 
-8.  Otrosí: una mesa suelta sin pies en quatro sueldos.
+8. Otrosí: una mesa suelta sin pies en quatro sueldos.
 
-9.  Otrosí: Dos armarios de pino nuevos con guarniciones, el uno mayor que el otro, estimados los dos en tres libras por tener serrajas y llaves.
+9. Otrosí: Dos armarios de pino nuevos con guarniciones, el uno mayor que el otro, estimados los dos en tres libras por tener serrajas y llaves.
 
 10. Otrosí: una auca menor que de costal, de pino con serraxa y llave en catorze sueldos. [f. 5v]
 
@@ -2813,25 +2813,25 @@ Manifiesto de deudas contra la presente herencia, divididas en las clases y por 
 
 1ª Clase- Primera clase de deudas afectas a [f. 136v] los bienes patrimoniales eo parafernales del difunto Doctor Don Joseph Joaquín Polo de bernabé y Arahuete, que este adquirió de Dona Rosa Polo su hermana, en fuerza de la escritura de partición y concordia, otorgada por dichos dos hermanos y Doña Mariana Polo viuda de Monserrat, todos tres, hijos y herederos de Don Joseph Polo, y Doña María Arahuete sus padres, authorizada por Francisco Roda escrivano en veynte y ocho de abril de mil setecientos y cinquenta y nueve.
 
-1.  Primeramente todas aquellas mil sesenta y cinco libras y diez sueldos que se rebaxaron en dicha citada escritura de divición, las quales recibieron en cargo de pagar y satisfacen el dicho difunto y su hermana Doña Rosa Polo y Arahuete, por los [f. 137r] censos y créditos siguientes = Por el de diez libras de capital con su pensión correspondiente, impuesto por Francisco Bovil, a favor del reverendo clero de la villa de cinch=torres por escritura ante Jyame Roselló escrivano en nueve e enero de mil quinientos noventa y ocho = Otrosí: por el de quinze libras de capital, impuesto por dicho Francisco Bovil a favor de dicho clero, según escritura ante Thomas Juan Guardiola escrivano en veynte y ocho de febrero de mil quinientos noventa y siete = otrosí: otro de propriedad de cinquenta y seys libras, que Joseph Polo Bayle, se impuso en favor del mismo reverendo clero, según escritura ante Joseph Sorolla escrivano, en veynte y cinco de febrero del año mil seyscientos y ochenta = otrosí: otro de ca[f. 137v]pital de treynta libras, cargado por Gabriel Peñarroja, a favor de dicho clero, mediante escritura ante dicho Thomas Juan Guardiola notario en dos de marzo del año milquinentos noventa y seys = Otrosí: otro de capital de cinco libras impuesto por Juan Bovil en favor de dicho reverendo clero según escritura ante Thomas Juan Guardiola notario en quatro de abril de mil quinientos noventa y tres = otrosí: otro de capital de quinze libras, metad del de treynta que Pedro Bort se impuso en favor de dicho clero, mediante escritura ante Augustín Sorolla notario, en diez y ocho de abril de mil seyscientos y diez; Y perteneció el pago de las restantes quinze libras a los herederos de bautista Antoli. Otrosí: otro de propriedad de dez libras, impuesto por Pedro Guardiola [f. 138r] en favor de dicho clero según escritura ante dicho Thomas Juan Guardiola notario en doze de junio del año mil seyscientos y ochenta y dos = Otrosí: Otro de capital de cinquenta libras, con su pensión correspondiente y es parte menor de ciento sesenta y cinco libras que a favor de dicho clero de Cinch=torres se impusieron se impusieron Jayme y Joseph Polo, con escritura ante Joseph Sorolla escrivano en treynta de junio de mil seyscientos y sesenta y seys, quedando ya luhidas las restantes ciento y quinze = Otrosí: Otro de propriedad de ciento y cinquenta libras, impuesto por Joseph Polo y Bartholomé Monserrat, mediante escritura ante el dicho Joseph Polo escrivano en dos de junio de mil setecientosveynte y dos = Otrosí: otro de capital de cinco libras, que por escritura ante [f. 138v] Augustín Sorolla notario en treynta de agosto de mil quinientos ochenta y quatro, se impuso a favor del mismo reverendo clero, Francisco Bovil = otrosí: otro de propriedad de dos libras diez sueldos, parte menor del de cinquenta libras que a favor de dicho clero fue impuesto por Christobal Royo, mediante escritura ante Thomas Juan Guardiola notario en veynte y quatro de octubre de mil seyscientos y diez; y pagan ahora las restantes quarenta y siete libras diez sueldos, los herederos de Bautista Antolí = Otrosí: Otro de capital de setenta libras que a favor del mismo reverendo clero se impusieron Pedro Artola y Pedro Cantavella, según escritura ante Joseph Sorolla notario, en veynte y tres de octubre de mil seyscientos y noventa y siete = Otrosí: [f. 139r]
+1. Primeramente todas aquellas mil sesenta y cinco libras y diez sueldos que se rebaxaron en dicha citada escritura de divición, las quales recibieron en cargo de pagar y satisfacen el dicho difunto y su hermana Doña Rosa Polo y Arahuete, por los [f. 137r] censos y créditos siguientes = Por el de diez libras de capital con su pensión correspondiente, impuesto por Francisco Bovil, a favor del reverendo clero de la villa de cinch=torres por escritura ante Jyame Roselló escrivano en nueve e enero de mil quinientos noventa y ocho = Otrosí: por el de quinze libras de capital, impuesto por dicho Francisco Bovil a favor de dicho clero, según escritura ante Thomas Juan Guardiola escrivano en veynte y ocho de febrero de mil quinientos noventa y siete = otrosí: otro de propriedad de cinquenta y seys libras, que Joseph Polo Bayle, se impuso en favor del mismo reverendo clero, según escritura ante Joseph Sorolla escrivano, en veynte y cinco de febrero del año mil seyscientos y ochenta = otrosí: otro de ca[f. 137v]pital de treynta libras, cargado por Gabriel Peñarroja, a favor de dicho clero, mediante escritura ante dicho Thomas Juan Guardiola notario en dos de marzo del año milquinentos noventa y seys = Otrosí: otro de capital de cinco libras impuesto por Juan Bovil en favor de dicho reverendo clero según escritura ante Thomas Juan Guardiola notario en quatro de abril de mil quinientos noventa y tres = otrosí: otro de capital de quinze libras, metad del de treynta que Pedro Bort se impuso en favor de dicho clero, mediante escritura ante Augustín Sorolla notario, en diez y ocho de abril de mil seyscientos y diez; Y perteneció el pago de las restantes quinze libras a los herederos de bautista Antoli. Otrosí: otro de propriedad de dez libras, impuesto por Pedro Guardiola [f. 138r] en favor de dicho clero según escritura ante dicho Thomas Juan Guardiola notario en doze de junio del año mil seyscientos y ochenta y dos = Otrosí: Otro de capital de cinquenta libras, con su pensión correspondiente y es parte menor de ciento sesenta y cinco libras que a favor de dicho clero de Cinch=torres se impusieron se impusieron Jayme y Joseph Polo, con escritura ante Joseph Sorolla escrivano en treynta de junio de mil seyscientos y sesenta y seys, quedando ya luhidas las restantes ciento y quinze = Otrosí: Otro de propriedad de ciento y cinquenta libras, impuesto por Joseph Polo y Bartholomé Monserrat, mediante escritura ante el dicho Joseph Polo escrivano en dos de junio de mil setecientosveynte y dos = Otrosí: otro de capital de cinco libras, que por escritura ante [f. 138v] Augustín Sorolla notario en treynta de agosto de mil quinientos ochenta y quatro, se impuso a favor del mismo reverendo clero, Francisco Bovil = otrosí: otro de propriedad de dos libras diez sueldos, parte menor del de cinquenta libras que a favor de dicho clero fue impuesto por Christobal Royo, mediante escritura ante Thomas Juan Guardiola notario en veynte y quatro de octubre de mil seyscientos y diez; y pagan ahora las restantes quarenta y siete libras diez sueldos, los herederos de Bautista Antolí = Otrosí: Otro de capital de setenta libras que a favor del mismo reverendo clero se impusieron Pedro Artola y Pedro Cantavella, según escritura ante Joseph Sorolla notario, en veynte y tres de octubre de mil seyscientos y noventa y siete = Otrosí: [f. 139r]
 
 Otro de propriedad de ciento treynta y tres libras que por el testamento de Joseph Polo, authorizado por Francisco Lericha notario en veynte y ocho de octubre de mil setecientos y onze, perteneció al mismo reverendo clero su cobro y a pagar al referido Joseph Polo escrivano = Otrosí: otro capital de ochenta libras; y es metad del ciento y sesenta libras, que con escritura ante Miguel Polo notario en veynte y tres de octubre de mil seyscientos noventa y tres; se impuso Mosen Jayme Polo Presbitero en favor de dicho clero; haviendo ya luhido las restantes ochenta libras = Otrosí: por el testamento que otrogó mosen Juan Guardiola ante Pedro Augustín Sorolla notario, en veynte y uno de agosto de mil seyscientos sesenta y tres; los herederos de Joseph Polo como poseedores de [f. 139v] la heredad nombrada La Font den Prat, heñada y granero que todo era del dicho mosen Guardiola quedaron obligados a pagar a dicho reverendo clero de Cinchtorres, veynte y quatro sueldos annuales de censo perpetuo que se hallan impuestos sobre los antedichos sitios, valorados en la capitalidad de veynte y quatro libras = Otrosí= Otro de propriedad de cinquenta libras impuesto por Pedro Guardiola y Gerónima Eximeno, con escritura ante gerónimo Peñarroja notario en uno de deciembre de mil seyscientos y treze; el qual perteneció a dicho reverendo clero por escritura ante Joseph Sorolla notario en veynte y quatro de enero de mil seyscientos y noventa y seys = Otrosí: el expresado Joseph Polo escrivano mediante escritura ante Isidoro [f. 140r] Casanova escrivano en dos de agosto de mil setecientos veynte y siete; vendió a carta de gracia al expresado reverendo clero, seys cahizes de trigo de renta annual, por precioo de quatrocientas ochenta libras valencianas; y en onze de febrero del año mil setecientos treynta y nueve, por otra escritura que authorizó el mismo Casanova; el expresado reverendo clero, otorgó en favor del dicho Joseph Polo retro=venta de quatro cahizes de trigo, parte mayor de los antedichos seys cahizes de trigo vendidos; quedando en razón de los dichos, existentes, en favor de dicho clero, y de cargo contra la herencia ciento y sesenta libras de dicha moneda = Otrosí: otro censo de capital de cien libras, con su conrrespondiente rédito, que se corresponde a Mosen Joseph Gil presbitero de la [f. 140v] villa del Forcall, y es el mismo que se impuso Joseph Polo escrivano arriba nombrado a favor de Lorenzo Gil por escritura ante el mismo Polo en veynte y dos de junio del año mil setecientos diez y nueve = Otrosí: otro de capital de cien libras a dicho mosen Gil, y es el mismo que el contenido Polo escrivano se impuso en favor de Lorenzo Gil, con escritura ante el mencionado Polo cargador en diez y nueve de Mayo de mil setecientos y veynte. Cuyas partidas unidas, toman la suma de dichas... 1065£ 10s
 
-2.  Otrosí. Cien libras que en virtud del último otrosí de dicha partición, y concordia se obligó el difunto Doctor Don Joseph Joaquín Polo a satisfacer y pagar a la expresada Doña Mariana su hermana quando casaren sus hijas de esta Doña Joaquina, y Augus[f. 141r]tina, a interin corresponden a aquella la annua pensión y rédito de tres libras – 100 £.
+2. Otrosí. Cien libras que en virtud del último otrosí de dicha partición, y concordia se obligó el difunto Doctor Don Joseph Joaquín Polo a satisfacer y pagar a la expresada Doña Mariana su hermana quando casaren sus hijas de esta Doña Joaquina, y Augus[f. 141r]tina, a interin corresponden a aquella la annua pensión y rédito de tres libras – 100 £.
 
-3.  Otrosí: A Doña Mariana Polo viuda de Monserrat arriba nombrada, todas aquellas mil ciento sesenta y ocho libras y diez sueldos que se le adjudicaron en cumplido pago de us legitima de las quales se le corresponde el annuo rédito al tres por ciento, como así consta de dicha citada escritura de partición y concordia – 1168 £ 10s
+3. Otrosí: A Doña Mariana Polo viuda de Monserrat arriba nombrada, todas aquellas mil ciento sesenta y ocho libras y diez sueldos que se le adjudicaron en cumplido pago de us legitima de las quales se le corresponde el annuo rédito al tres por ciento, como así consta de dicha citada escritura de partición y concordia – 1168 £ 10s
 
-4.  Otrosí: ochocientas treynta y tres libras ocho sueldos y ocho dineros, con pensión a trigo de cinco cahizes que se pagan, y corresponden al Doctor Raymundo Dalpt abogado de los reales consejos en virtud de dicha escritura de partición, y de las [f. 141v] cartas de bodas del referido Doctor Raymundo, con Doña Joaquina Monserrat y Polo.
+4. Otrosí: ochocientas treynta y tres libras ocho sueldos y ocho dineros, con pensión a trigo de cinco cahizes que se pagan, y corresponden al Doctor Raymundo Dalpt abogado de los reales consejos en virtud de dicha escritura de partición, y de las [f. 141v] cartas de bodas del referido Doctor Raymundo, con Doña Joaquina Monserrat y Polo.
 
-5.  Otrosí: En virtud de la citada escritura de partición y concordia en que dicha Doña Rosa Polo se reservó, el poder disponer en quantía de mil y quinientas libras; y por su último testamento ante Isidoro Casanova en diez y ocho de deciembre del año mil setecientos y setenta, dispuso en favor de la dicha Doña Joaquina Monserrat a la qual se le han satisfecho en esta forma: doscientas y seys libras, que el difunto Doctor Don Joseph Joaquín Polo pagó en dos de febrero del año mil setecientos y setenta y uno = doscientas y cinquenta que la otorgante, en nombre de administradora de la presente he[f. 142r]rencia satisfizo a dicha Dona Joaquina en veynte de noviembre del año mil setecientos y setenta y dos = ciento, que la misma administradora satisfizo posteriormente = Y setecientas libras en la escritura de cessión ante Gaspar Querol escrivano, de dos censos transferidos a dicha Doña Joaquina; el primero de quatrocientas libras de capital, impuesto por Juliano Royo y Anna María Figuera consortes, en favor del mencionado Don Joseph Polo y Moserrat, mediante escritura ante Francisco Polo escrivano en onze de marzo del año mil setecientos y quarenta y siete; y el otro de trescientas de propriedad, impuesto por el citado Royo en su nombre, y apoderado de dicha consor[f. 142v]te, a favor del referido Don Joseph Polo y Moserrat según escritura ante dicho Roda escrivano baxo cierto chalendario. Cuyos dos censos se hallan adnotados al nº 600 del presente inventario al título chiva = doscientas quarenta y quatro a cumplimiento de dicha deuda, en dinero. De lo que es visto que a la muerte del difunto Doctor Don Joseph Joaquín Polo Y Arahuete se le restavan a dicha Doña Joaquina mil doscientas noventa y quatro libras – 1294 £.
+5. Otrosí: En virtud de la citada escritura de partición y concordia en que dicha Doña Rosa Polo se reservó, el poder disponer en quantía de mil y quinientas libras; y por su último testamento ante Isidoro Casanova en diez y ocho de deciembre del año mil setecientos y setenta, dispuso en favor de la dicha Doña Joaquina Monserrat a la qual se le han satisfecho en esta forma: doscientas y seys libras, que el difunto Doctor Don Joseph Joaquín Polo pagó en dos de febrero del año mil setecientos y setenta y uno = doscientas y cinquenta que la otorgante, en nombre de administradora de la presente he[f. 142r]rencia satisfizo a dicha Dona Joaquina en veynte de noviembre del año mil setecientos y setenta y dos = ciento, que la misma administradora satisfizo posteriormente = Y setecientas libras en la escritura de cessión ante Gaspar Querol escrivano, de dos censos transferidos a dicha Doña Joaquina; el primero de quatrocientas libras de capital, impuesto por Juliano Royo y Anna María Figuera consortes, en favor del mencionado Don Joseph Polo y Moserrat, mediante escritura ante Francisco Polo escrivano en onze de marzo del año mil setecientos y quarenta y siete; y el otro de trescientas de propriedad, impuesto por el citado Royo en su nombre, y apoderado de dicha consor[f. 142v]te, a favor del referido Don Joseph Polo y Moserrat según escritura ante dicho Roda escrivano baxo cierto chalendario. Cuyos dos censos se hallan adnotados al nº 600 del presente inventario al título chiva = doscientas quarenta y quatro a cumplimiento de dicha deuda, en dinero. De lo que es visto que a la muerte del difunto Doctor Don Joseph Joaquín Polo Y Arahuete se le restavan a dicha Doña Joaquina mil doscientas noventa y quatro libras – 1294 £.
 
-6.  Otrosí: Al clero de dicha villa de cinch=torres, tres libras annuales por quinze missas que fundó dicho Don Joseph Polo en su testamento ante Joseph Monserrat en veynte y seys de abril de mil setecientos y cinquenta. Cuyo capital importa cien libras 100 £. [f. 143r]
+6. Otrosí: Al clero de dicha villa de cinch=torres, tres libras annuales por quinze missas que fundó dicho Don Joseph Polo en su testamento ante Joseph Monserrat en veynte y seys de abril de mil setecientos y cinquenta. Cuyo capital importa cien libras 100 £. [f. 143r]
 
-7.  Otrosí: A la administración de la Mireta de dicha villa dos barchillas de trigo annuales y perpetuas, sobre la heredad dicha els tancats del nº 580 del presente inventario, estimadas al doble marco en treynta y tres libras seys sueldos y ocho- 33£ 6l 8
+7. Otrosí: A la administración de la Mireta de dicha villa dos barchillas de trigo annuales y perpetuas, sobre la heredad dicha els tancats del nº 580 del presente inventario, estimadas al doble marco en treynta y tres libras seys sueldos y ocho- 33£ 6l 8
 
-8.  otrosí: Al clero de la villa de Ares, quatro cahizes de trigo annuales y perpetuos, con luhizmo, fádiga y demás drechos emphiteuticos, sobre la masia del partido de solanelles del nº 596; estimados dichos quatro cahizes al doble marco en ocho cientas libras - 800£
+8. otrosí: Al clero de la villa de Ares, quatro cahizes de trigo annuales y perpetuos, con luhizmo, fádiga y demás drechos emphiteuticos, sobre la masia del partido de solanelles del nº 596; estimados dichos quatro cahizes al doble marco en ocho cientas libras - 800£
 
-9.  Otrosí. al hospital de dicha de Ares, un cahíz de trigo annual y perpetuo, con luysmo, fádiga y demás drechos sobre la referida masía de Solanelles, estima[f. 143v]do al doble marco en doscientas libras- 200£.
+9. Otrosí. al hospital de dicha de Ares, un cahíz de trigo annual y perpetuo, con luysmo, fádiga y demás drechos sobre la referida masía de Solanelles, estima[f. 143v]do al doble marco en doscientas libras- 200£.
 
 Segunda clase de deudas contra los bienes, y herencia del difunto Doctor Don Joseph Joaquín Polo de Bernabé y Arahuete.
 
@@ -2875,60 +2875,33 @@ Tercera clase de deudas afectas al difunto Polo eo a su herencia, y al a otorgan
 
 27. Otrosí: Los dos cahizes y siete barchillas de trigo de treudo[^64] perpetuo que se pagan al beneficio de San Antonio, y San Miguel, fundado en dicha iglesia de Mosqueruela; cuyo cargo tomó el difunto en la compra de las serradas dichas de San Antonio del término de Mosqueruela, expresadas al nº 605; authorizada por mi el presente escrivano en onze de mayo del año mil setecientos y cinquenta y uno, otorgada por Joseph Agut labrador de dicha villa; estimado dicho treudo al doble marco en capital de quinientas diez y seys libras, treze sueldos y quatro dineros. 516₤ 13s 4.
 
-1.    
-
-2.    
-
-3.    
-
-4.    
-
-5.    
-
-6.    
-
-7.    
-
-8.    
-
-9.    
-
-10. 
-
-11. 
-
-12. 
-
-13. 
-
-14. 
-
-15. 
-
-16. 
-
-17. 
-
-18. 
-
-19. 
-
-20. 
-
-21. 
-
-22. 
-
-23. 
-
-24. 
-
-25. 
-
-26. 
-
-27. 
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
 28. Otrosí: el censo de quarenta libras de las limosnas de esta de Vistabella que administran los [f. 150v] regidores de la mesma, que el difunto Polo tomó a su cargo en la escritura de venta del pario del nº 534, que a su favor ototrgó y authorizó Francisco Prats escrivano en veynte de marzo de mil setecientos y sesenta y cinco. 40₤.
 
 Deudas sueltas de esta clase.

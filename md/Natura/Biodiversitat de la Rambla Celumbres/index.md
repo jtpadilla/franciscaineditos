@@ -110,7 +110,7 @@ Los árboles son los seres vivos que alcanzan la edad más avanzada. Pueden ser 
 
 *Q. coccífera*. Coscoja. **Coscoll.** Tiene las hojas con el borde espinoso, verdes y lustrosas por ambas caras. Se ramifica desde la base y forma más o menos grande un arbusto. El nombre coccifera significa portador de quermes, un insecto homóptero de la familia de los coccidos, Kermes sp que vive sobre la coscoja y se alimenta a expensas de su jugo.
 
-*Quercus robur.* Roble*. **Roure.*** Sus hojas caducas son pequeñas y coriáceas, cubiertas de densos pelos estrellados por la parte inferior, y al margen con pequeños dientes regulares y agudos. Se caracterizan por sus flores amentos masculinos largos y péndulos y sus flores femeninas solitarias. Su fruto, es una bellota parecida a la de la encina pero con el cabillo que le une a la rama mucho más largo. El roble tiene mecanismos de defensa contra los parásitos. Las agallas o abogallas son estructura o crecimientos del tejido de tipo tumoral, que produce la planta ante un parásito aislándolo así del resto de la planta. Las agallas además suministran alimento y refugio a los parásitos, generalmente larvas de insectos a los que les permite vivir en los periodos de caída de las hojas en otoño e invierno.
+*Quercus robur.* Roble. **Roure.** Sus hojas caducas son pequeñas y coriáceas, cubiertas de densos pelos estrellados por la parte inferior, y al margen con pequeños dientes regulares y agudos. Se caracterizan por sus flores amentos masculinos largos y péndulos y sus flores femeninas solitarias. Su fruto, es una bellota parecida a la de la encina pero con el cabillo que le une a la rama mucho más largo. El roble tiene mecanismos de defensa contra los parásitos. Las agallas o abogallas son estructura o crecimientos del tejido de tipo tumoral, que produce la planta ante un parásito aislándolo así del resto de la planta. Las agallas además suministran alimento y refugio a los parásitos, generalmente larvas de insectos a los que les permite vivir en los periodos de caída de las hojas en otoño e invierno.
 
 Quercus humilis. Quejigo. Arbusto fagáceo de hojas duras algo vellosas por el envés.
 
@@ -120,13 +120,13 @@ Quercus humilis. Quejigo. Arbusto fagáceo de hojas duras algo vellosas por el e
 
 *Quercus ilex, rotundiffolia.* Carrasca. Tiene las hojas ovadas más anchas que la encina y las bellotas generalmente dulces.
 
-*Rosa canina.* Rosal silvestre. **Gavernera***.* Son matas o arbustos con la rama provista de aguijones y hojas compuestas. Las flores blancas o rosadas son grandes y aromáticas y persisten en invierno. Crece en los márgenes del bosque y en los claros. Especie protegida.
+*Rosa canina.* Rosal silvestre. **Gavernera.** Son matas o arbustos con la rama provista de aguijones y hojas compuestas. Las flores blancas o rosadas son grandes y aromáticas y persisten en invierno. Crece en los márgenes del bosque y en los claros. Especie protegida.
 
-*Rubus Ulmifora.* Zarzamora*. Mora.* **Romiguera***. Arbusto sarmentoso, familia de las rosáceas.* Las zarzas se caracterizan por su fruto colectivo, las moras, formados por numerosas frutitos carnosos, encerrados de forma conversa. Hacen de sus poblaciones zarzales, formaciones impenetrables. Es un género con muchas especies, difíciles de distinguir entre sí.
+*Rubus Ulmifora.* Zarzamora. Mora. **Romiguera.** Arbusto sarmentoso, familia de las rosáceas. Las zarzas se caracterizan por su fruto colectivo, las moras, formados por numerosas frutitos carnosos, encerrados de forma conversa. Hacen de sus poblaciones zarzales, formaciones impenetrables. Es un género con muchas especies, difíciles de distinguir entre sí.
 
 *Solanum*. Dulcarama. Planta, trepadora, leñosa por la parte inferior y herbácea por la superior, tallo flexionado que se extiende sobre los arbustos cercanos. Sus flores tienen forma de estrella violeta con corazón amarillo, las bayas verdes, al madurar son rojas de forma ovoide, son venenosas.
 
-*Sorbus acuparia.* Serbal. Azarollas. **Serves***.* El serbal tiene hojas dentadas, de elegante contorno, vive sobre todo en los robledales de la montaña media. Sus frutos son las serbas redondeadas, harinosas y muy ásperas pero comestibles si se dejan sobremadurar.
+*Sorbus acuparia.* Serbal. Azarollas. **Serves.** El serbal tiene hojas dentadas, de elegante contorno, vive sobre todo en los robledales de la montaña media. Sus frutos son las serbas redondeadas, harinosas y muy ásperas pero comestibles si se dejan sobremadurar.
 
 *Ulmus minor*. Olmo. **Om**. Es un árbol de hoja caduca, hojas relativamente pequeñas y recias y de color verde oscuras. Las flores son rojizas y están reunidas en pequeños grupos. Los frutos están constituidos por una semilla rodeada de un ala delgada y membranosa de color verde claro. El olmo depende del viento para la polinización y para la dispersión de los frutos.
 
@@ -648,7 +648,7 @@ En los cortados calcáreos de la Roca Parda en la Rambla Celumbres son comunes l
 
 **Córvidos.** Los córvidos han evolucionado dentro de las paseriformes es uno de los animales más inteligentes y de gran adaptabilidad. Los más conocidos son los siguientes aunque hay más de pequeño tamaño.
 
-*Corvux coracs.* Cuervo común. **Corb**. Esta especie es capaz de aprender y repetir palabras, es territorial, ocupa su nido año tras año, lo cual lo hace vulnerable a la presencia urbana, buscando hacer sus nidos prioritariamente en cortados, viven de 10 a 15 años su régimen es omnívoro y oportunista, juntándose muchos ejemplares en basureros, busca ganados muertos, residuos alimentarios, cereales, bayas frutas y pequeños animales. ** **
+*Corvux coracs.* Cuervo común. **Corb**. Esta especie es capaz de aprender y repetir palabras, es territorial, ocupa su nido año tras año, lo cual lo hace vulnerable a la presencia urbana, buscando hacer sus nidos prioritariamente en cortados, viven de 10 a 15 años su régimen es omnívoro y oportunista, juntándose muchos ejemplares en basureros, busca ganados muertos, residuos alimentarios, cereales, bayas frutas y pequeños animales.
 
 *Garrulus glandarius*. Arrendajo. **Gaig.** Su voz rampante es característica en los bosques tanto de coníferas como de encinares. Su grito de alarma a veces en coro, alerta de cualquier peligro, imita las voces de otros animales. Es un ave forestal por excelencia que se alimenta de vegetales (bellotas, hayucos), tiene por costumbre esconder en el suelo frutos como las bellotas, de esta manera ayuda a la dispersión de los arboles.
 

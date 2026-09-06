@@ -14,7 +14,7 @@ No es veu gent al carrer com abans, quan fent rogle amb una taula, els veïns, t
 
 ![](img/image30.jpeg)
 
-Aquest any, no he vist a Xarli el gosset de la Rosa, diu, que està al paradís dels animalets, el que aleshores ve, també li diuen Xarli i no té res que veure amb el meu amic de sempre. Aquest, és un cadell dos vegades més gran, amb una orella més baixa que l’altra i sols li agrada jugar, li faltava aixó a Yako l’altre gos de la família!!!. Abans, quan anava de passeig amb el primer Xarli pareixia un sinyoret, tot el pel blanc com un corderet i es comportava, aleshores està fent les mateixes tonteries que el nou Xarli, si no fos, perquè la meu ama Paquita em diu cuidadet de fer patir als veïns!!!els donaría un bon ensurt, no fan més que estossinar-me, jo vull estar a la meua porta mirant a les gossetes que passen per la Placeta del Cap de Vila.
+Aquest any, no he vist a Xarli el gosset de la Rosa, diu, que està al paradís dels animalets, el que aleshores ve, també li diuen Xarli i no té res que veure amb el meu amic de sempre. Aquest, és un cadell dos vegades més gran, amb una orella més baixa que l’altra i sols li agrada jugar, li faltava aixó a Yako l’altre gos de la família!!! Abans, quan anava de passeig amb el primer Xarli pareixia un sinyoret, tot el pel blanc com un corderet i es comportava, aleshores està fent les mateixes tonteries que el nou Xarli, si no fos, perquè la meu ama Paquita em diu cuidadet de fer patir als veïns!!!els donaría un bon ensurt, no fan més que estossinar-me, jo vull estar a la meua porta mirant a les gossetes que passen per la Placeta del Cap de Vila.
 
 ![](img/image31.jpeg)
 

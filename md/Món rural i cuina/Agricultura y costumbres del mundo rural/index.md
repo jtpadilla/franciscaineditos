@@ -426,9 +426,7 @@ Grupo navel
 
 - *Navel lanate*
 
--
-
-> ***Naranjo dulce***
+**Naranjo dulce**
 
 Comuna
 
@@ -470,7 +468,7 @@ Recolección
 
 cortan el pedúnculo del fruto o bien a mano (de tirón), aunque ésta es una técnica, que es más rápida, pero que reduce la presencia del fruto.*
 
-Los cítricos en la Comunidad Valenciana ***
+**Los cítricos en la Comunidad Valenciana**
 
 El momento de la recolección es un aspecto importante porque hay que determinar el momento más óptimo, siendo aquél en el que el fruto tiene una índice de azúcar adecuado, independiente del color de la piel. Además, es importante no recolectar el fruto si éste está húmedo, bien sea por el rocío, niebla o lluvia.
 
@@ -506,7 +504,7 @@ Los frutos recogidos se depositan en capazos de plástico flexibles (18kg) que c
 
 *Una vez el fruto llega al almacén de confección siguen los pasos del esquema del proceso de manipulado de frutos cítricos. Como curiosidad vemos fotos antiguas de la recolección de la naranja y la modernización del proceso en comparación con hoy en día.
 
-Desverdizado***
+**Desverdizado**
 
 Es una operación que se efectúa en los frutos recolectados al comenzar la variación de color y que son aptos para el consumo. La acción de las bajas temperaturas es sustituida por la mezcla de aire-gas de etileno que provoca el cambio de coloración del fruto.
 

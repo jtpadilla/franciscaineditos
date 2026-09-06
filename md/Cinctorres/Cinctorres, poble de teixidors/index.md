@@ -30,7 +30,7 @@ Els pares els xiquets i xiquetes cinctorrans, els pares i abuelos els porten a v
 
 A CINCTORRES I AVIEN VARIES FABRIQUES DE TEIXITS I DOS DE TOQUILLES.
 
-Les xiques de Cinctorres saben molt be fer toquilles, sentades a la sera de sacasa,, pa vore el novia pasar, sempre en el ganxo i el fil, a les mans.
+Les xiques de Cinctorres saben molt be fer toquilles, sentades a la sera de sacasa, pa vore el novia pasar, sempre en el ganxo i el fil, a les mans.
 
 Desde mitja nit teixo faixesi no me vull adormir, tinc que teixir molt apressa pa torna el roll, i cobra de bon mati.
 

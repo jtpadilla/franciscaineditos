@@ -10,7 +10,7 @@ He leído tu Pregón y la introducción al mismo.
 
 Tu proverbio muy oportuno. *“corazón alegre hace buen cuerpo; la tristeza seca los huesos”.*
 
-Y el Pregón en total entrañable, no creo que a nadie le fuera indiferente., pues había buenos deseos para todos.
+Y el Pregón en total entrañable, no creo que a nadie le fuera indiferente, pues había buenos deseos para todos.
 
 Lo que no sabía, es que hubiera un pueblo conocido por ti, que se llamara Padilla. Conozco la historia de los Comuneros de Castilla y que se celebre la efemérides en Villalar de los Comuneros, en nuestras vacaciones siempre quisimos ir a conocer ese pueblo, no se por que como nunca lo hicimos.
 

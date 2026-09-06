@@ -30,7 +30,7 @@ El faixero s’encarregava de la distribució i venda del producte pels mercats 
 
 La distribució del gènere era per ferrocarril des d’Alcanyis. Del poble amb mulos portaven els paquets de faixes a Morella i allí amb carros a l’estació del tren. Açò es feia al mes de juliol, cada faixero facturava els seus paquets a diferents pobles de la seua ruta separats entre si 50 o 60 Km. Després ell, tal com anava venen o reportava als hostals on li guardaven la seua mercaderia. En un mulo anava a peu pels pobles oferint els seus productes, cada dia recorria dos o tres pobles.
 
-als hostals on el guardaven. Quan s’acabava la temporada al mes de desembre invertia el camí tornava a casa a peu., sempre caminant amb el mulo i uns anys després com tots els faixeros amb bicicleta.
+als hostals on el guardaven. Quan s’acabava la temporada al mes de desembre invertia el camí tornava a casa a peu, sempre caminant amb el mulo i uns anys després com tots els faixeros amb bicicleta.
 
 ![](img/image2.jpeg)
 

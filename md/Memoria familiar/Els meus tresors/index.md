@@ -16,7 +16,7 @@ De la família materna (de Franxo) guarde un justillo de xiqueta teixit de seda 
 
 Un petit mantó de seda brocada també de xiqueta de color blau i fresa.
 
-.I dos més, grans, un color “oli “com dia ma mare, i un negre brodat.
+I dos més, grans, un color “oli “com dia ma mare, i un negre brodat.
 
 I també, un cobrellit de seda brocada.
 

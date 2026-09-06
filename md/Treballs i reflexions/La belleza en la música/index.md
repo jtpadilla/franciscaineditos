@@ -34,7 +34,7 @@ Y llega el Clasicismo: 1750-1827.es la Ilustración, con operas, sonatas oratori
 
 El Romanticismo, es la conciencia histórica y el culto a la nacionalidad, y también supo expresar el alma romántica. de los compositores, Fernando Sor, Schubert, Medelssohn, Chopin, Liszt. Wagner, Brahms, Verdi, Puccini Bizet, Dovrak, Sor Mussorgsky Tchaikowsky.
 
-Más cercano, el Postromanticismo y Strauss Tarrega, Albeniz Mahler, Ravel. Casal, Falla, Granados, Turina y tambien la popular Zarzuela, con pedrell, Oscar Espla, Guridi,. Halffter,
+Más cercano, el Postromanticismo y Strauss Tarrega, Albeniz Mahler, Ravel. Casal, Falla, Granados, Turina y tambien la popular Zarzuela, con pedrell, Oscar Espla, Guridi. Halffter,
 
 Y mas actual, los Compositores valencianos mas conocidos del siglo XX, Joaquin Rodrigo, Vicente Asencio, Matilde Salvador con música coral de camara, instrumental de orquesta, operas, todas relacionadas con su tierra como La filla del Rei Barbut, Vinatea, El Betlem de la Pigà, música incidental, etc, entre otros.
 

@@ -44,6 +44,6 @@ TULA: Ens anem a casa, segur que demà ja portaré la cinteta verda que m’agra
 
 GALA: Doncs la meua ama i jo, crec, que com tots els anys ens anirem a la platja fins que passen les festes, i els coets.
 
-LISTO: Que bé! a mi segur em donaran a tastar llonganissetes, botifarres seques i xorissets, com sempre, que bones estan!!!.
+LISTO: Que bé! a mi segur em donaran a tastar llonganissetes, botifarres seques i xorissets, com sempre, que bones estan!!!
 
 *Listo.*

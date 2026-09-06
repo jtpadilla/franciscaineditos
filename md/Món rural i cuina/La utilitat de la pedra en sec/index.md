@@ -88,7 +88,7 @@ Una paret de bancal es un mur de contenció de terra, i està sotmesa, a la pres
 
 ![](img/image34.jpeg)
 
-**Camins empedrats**.Em copiat les vies romanes?. Els camins empedrats, son camins molt transitats per cavalleries, a vegades per pendents pronunciades i que estan sotmesos a l’erosió provocada per les aigües fluvials, s’empedren per aconseguir una durabilitat quasi eterna.
+**Camins empedrats**.Em copiat les vies romanes? Els camins empedrats, son camins molt transitats per cavalleries, a vegades per pendents pronunciades i que estan sotmesos a l’erosió provocada per les aigües fluvials, s’empedren per aconseguir una durabilitat quasi eterna.
 
 **Entrades**. Quan la finca quedava a diferent nivell del camí calia adaptar fer un gran brancal de pedra, de la mesura necessària
 

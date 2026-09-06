@@ -12,6 +12,6 @@ Los momentos felices los sentimos en nuestro presente, a veces recordando el pas
 
 No siempre tenemos la misma actitud hacia las personas y cosas de nuestro entorno, simplemente buscando algo positivo lo vemos todo diferente y mejor.
 
-Me siento feliz recordando a los amigos de la infancia, cuando amamantaba a mis hijos, de mi vida familiar,. Me hace feliz un trabajo bien hecho, aprender cosas nuevas, sentirme útil.
+Me siento feliz recordando a los amigos de la infancia, cuando amamantaba a mis hijos, de mi vida familiar. Me hace feliz un trabajo bien hecho, aprender cosas nuevas, sentirme útil.
 
-Me siento feliz escuchando el silencio del campo, y las cosa sencillas me afectan los problemas cercanos y me siento impotente,.pero entonces recuerdo lo que decía mi madre hace muchos muchos años*.\<\< Demà serà un altre dia i també sortirà el sol\>\>*
+Me siento feliz escuchando el silencio del campo, y las cosa sencillas me afectan los problemas cercanos y me siento impotente, pero entonces recuerdo lo que decía mi madre hace muchos muchos años*.\<\< Demà serà un altre dia i també sortirà el sol\>\>*

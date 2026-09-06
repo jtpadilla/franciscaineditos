@@ -32,7 +32,7 @@ Sense dubte l’autor veia com en uns anys, la ciutat seria coneguda i visitada 
 
 ## 4. L’Argentera
 
-Angelina l’Argentera amava les flors, les estimava amb la passió de donzella de vint anys,.
+Angelina l’Argentera amava les flors, les estimava amb la passió de donzella de vint anys,
 
 Com en una lliço de botànica apresiarem la grogor d’una escampada de ginestra i d’argelaga, el blau dels lliris cap el cel, els baladres encesos amb la rojor de les seues flors.i olorarem les toves alfabegeres, els vellutats geranis, les sarmentoses clavellineres, les atractives roses, les humils floretes, la roja flama de la ronsella, el punxagut card, el blanc espinal florit, el moradenc i oloros espígol, els verds plomalls del romaní. Amb tot açó i més feia un manoll per portar-lo a casa seua fins el moment que davalla pel malaït cingle del diable
 
@@ -82,7 +82,7 @@ Bernat, orfe de pare i mare, és el caganiu de la família, el més argenllat i 
 
 Els tous bescuits, les mengívoles tortades, els rollets carats, les cruixidores cristines, i altres llepolies que li portaven al metge Favia. li les guardava per al seu nevot. També quan anaven al convent el xiquet i oncle verenaben sempre allí; els agradaven el dols sec de les taronges, carabassat, peres confitades, i sobre tot, el regal que feien les monjes al seu metge, les gerres d’Alcora plenes d’eixarop i tota mena de dolços,
 
-Lleguin aquesta història, asavorim tot tipus de postres casers llepolies i també escabex de caça, perdius, torts colomins i conill., que es feia la criada Catalina i també veurem com, a la casa que tots són goluts, sempre guanya la persona que és més pilla.
+Lleguin aquesta història, asavorim tot tipus de postres casers llepolies i també escabex de caça, perdius, torts colomins i conill, que es feia la criada Catalina i també veurem com, a la casa que tots són goluts, sempre guanya la persona que és més pilla.
 
 ## 9. L’ocell arqueòleg
 

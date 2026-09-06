@@ -26,11 +26,11 @@ Que te unes normes: Les normes de Castelló 1932.
 
 I també, que esta normalitzada amb tots els àmbits.
 
-I que direm de les paraules que sentim i no escoltem,?.
+I que direm de les paraules que sentim i no escoltem,?
 
 Una companya va dir: \< l’oratge\>que paraula mes bonica!! i tot seguit van sortir els noms dels Vents:Tramuntana, Gregal, Llevant, Xaloc, Migjorn, Garbí, Ponent Mestral.
 
-.I totes les classes així.
+I totes les classes així.
 
 Em llegit i mastegat els poemes d’Ausiàs March. Hem gaudit de Tombatosals de Pascual Tirado. De les obres de Salvador Guinot. També de La bolangera de Dimonis de Angel Sanchez Gozalbo i de tots els intel·lectuals d'aquests anys, llibres, que poques vegades n'havia sentit parlar.
 

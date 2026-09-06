@@ -9,7 +9,7 @@ notas: ""
 En la distancia, añoro mi mar.  
 Mediterráneo, la mar.  
 Y el corazón me dice,  
-¡Usa tus sentidos!.  
+¡Usa tus sentidos!  
 Oye, escucha las olas, que vienen y van.  
 Siente, huele la sal.  
 Saborea, sus frutos.  

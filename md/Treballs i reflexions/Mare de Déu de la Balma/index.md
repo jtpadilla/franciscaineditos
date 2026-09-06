@@ -38,7 +38,7 @@ En el fondo de la iglesia, en un espacio cerrado, en sus muros se podían ver gr
 
 ![](img/image4.jpeg)
 
-Actualmente, la fiesta en honor de la Virgen de la Balma se celebra el primer sábado de septiembre. El viernes los quintos de ese año recogen a la Virgen en el Ermitorio y la llevan a Zorita, le dan la bienvenida el *tabaleter i* *dolçainer* seguidos de las Danzas que la acompañan hasta la iglesia del pueblo donde la mañana del sábado en la puerta de la iglesia un pastor lee una loa formándose la procesión encabezándola *el dolçainer, el tabaleter* seguidos de las danzas *Els Negrets, Les llauradores, y Les Gitanetes,* autoridades y fieles.
+Actualmente, la fiesta en honor de la Virgen de la Balma se celebra el primer sábado de septiembre. El viernes los quintos de ese año recogen a la Virgen en el Ermitorio y la llevan a Zorita, le dan la bienvenida el *tabaleter i dolçainer* seguidos de las Danzas que la acompañan hasta la iglesia del pueblo donde la mañana del sábado en la puerta de la iglesia un pastor lee una loa formándose la procesión encabezándola *el dolçainer, el tabaleter* seguidos de las danzas *Els Negrets, Les llauradores, y Les Gitanetes,* autoridades y fieles.
 
 Al llegar a la magnífica *Creu Cuberta* con pinturas del pintor morellano *Cruella*, las Danzas bailan en honor a la Virgen. *El Demonio de La Balma* les impide seguir. El dialogo del Ángel y el Demonio tiene un texto antiquísimo, la lucha termina cuando el Ángel vence al Demonio poniendo el pie sobre su cabeza, que representa la victoria el Bien sobre el Mal.
 

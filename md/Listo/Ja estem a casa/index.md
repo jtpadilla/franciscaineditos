@@ -22,7 +22,7 @@ De bon matí, ens anem a passejar a la font del Bassí, està a les afores del p
 
 El camí de la font és un passeig on va la gent del poble i els forasters que estan estiuejant. A mi m’agrada anar pels bancals, córrer i botar, doncs la terra és molla i a les meues potetes no li fa mal.
 
-Quan arribem, tinc molta set i el primer que faig es beure al xorro, (que fresqueta esta l’aigua!.) La meua ama, desprès de guaitar que no hi ha ningú a prop, em deixa prendre el bany al bassiol, on beuen els animals de la rabera i els cavalls i desprès seguim caminant. Però aquest any, no hem pogut menjar mores dels esbarzers. Al Barranc de La Vila, que està prop, la sequera no ha deixat que maduren... l’any que ve, serà.
+Quan arribem, tinc molta set i el primer que faig es beure al xorro, (que fresqueta esta l’aigua!) La meua ama, desprès de guaitar que no hi ha ningú a prop, em deixa prendre el bany al bassiol, on beuen els animals de la rabera i els cavalls i desprès seguim caminant. Però aquest any, no hem pogut menjar mores dels esbarzers. Al Barranc de La Vila, que està prop, la sequera no ha deixat que maduren... l’any que ve, serà.
 
 *Listo*
 

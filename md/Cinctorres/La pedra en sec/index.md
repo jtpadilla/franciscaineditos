@@ -10,7 +10,7 @@ Pedra, sempre pedra, quantes pedres hi haurà pel poble, desde les senzilles cas
 
 Tot tipus de construccions de pedra en sec per senzilles que siguen, tenen la seua importància, estan construïdes al lloc que li pertany, els homes, ho han fet amb la saviesa que els dona el coneixement del terreny i les seues necessitats. És un model d’arquitectura pràctica, minimalista, integrada amb el ambient. Aleshores
 
-**Camins empedrats**.Em copiat les vies romanes?. Els camins empedrats, son camins molt transitats per cavalleries, a vegades per pendents pronunciades i que estan sotmesos a l’erosió provocada per les aigües fluvials, s'empren per aconseguir una durabilitat quasi eterna.
+**Camins empedrats**.Em copiat les vies romanes? Els camins empedrats, son camins molt transitats per cavalleries, a vegades per pendents pronunciades i que estan sotmesos a l’erosió provocada per les aigües fluvials, s'empren per aconseguir una durabilitat quasi eterna.
 
 La manera de viure del món rural, està condicionada pel territori, i l’aprofitament del recursos naturals geogràfics que determinen el seu desenvolupament. La modificació física del territori a segut obligat pel imperatiu de la pròpia supervivència.
 
