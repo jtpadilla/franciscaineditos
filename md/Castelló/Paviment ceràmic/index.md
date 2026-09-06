@@ -12,7 +12,7 @@ Hi ha notícies de documentes, on demostren, que les rajoles de sèrie des de el
 
 Tant les fàbriques catalanes com les valencianes dels segles XVII –XIX inclouen un ampli repertori de motius zoològic, tenien caràcter didàctic, acadèmic i van utilitzar-ne els rajolers valencians amb molta freqüència, com model de pintors ceràmics. No hi ha molta diferencia de les auques que s’editen en Italia amb les catalanes i valencianes. Tenen les mateixes característiques.
 
-Del auca del Sol i la Lluna editada en València per Agustín Laborda y Campos l’any 1752 es reprodueixen algun dels motius del paviment de la casa palau de Sanjoan i Sousa de Cinctorres com ara el Cuco, Pavo reial ...etc
+Del auca del Sol i la Lluna editada en València per Agustín Laborda y Campos l’any 1752 es reprodueixen algun dels motius del paviment de la casa palau de Sanjoan i Sousa de Cinctorres com ara el Cuco, Pavo reial …etc
 
 L’auca amb (Animales terrestres de Agustin Laborda y Campo) que es va editar més tard, l’any 1760 en València, va ser el repertori bàsic de la realització de la sèrie d’animals de dita casa palau de Cinctorres. Tots i cada un dels animals que figuren en les 48 vinyetes de dita auca, estan representats en el paviment. El pintor en aquest cas a millorat el tresat tosc i s’aprècia una gran seguritat amb els diferents dibuixos que no es donen en les rajoles de temes zoològic de les fabriques catalanes.
 

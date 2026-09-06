@@ -724,7 +724,7 @@ Más tarde se introdujo el cultivo de la caña de azúcar o ”*canyamel*” com
 
 ## 14. EL ALGODÓN
 
-En la partida de Entrilles en la parte alta junto a Taxida, Manuel Peris Escolar en los años 194.. hasta principios de 1960 tenía cultivadas tres hanegadas de algodón (*Gossypium herbaceum*).
+En la partida de Entrilles en la parte alta junto a Taxida, Manuel Peris Escolar en los años 194… hasta principios de 1960 tenía cultivadas tres hanegadas de algodón (*Gossypium herbaceum*).
 
 El clima era el adecuado, una temperatura no inferior a 14 ºC -20ºC para madurar y para abrir la cápsula con la flor de 27ºC a 30ºC. Era un cultivo que necesitaba mucho cuidado, la tierra tiene que estar bien abonada y sin ninguna mala hierba, necesita suelos profundos y bien aireados y mucha agua, si la tierra es arcillosa mejor así retiene la humedad. Se siembra en abril, y la recolección es en octubre. La planta es como un arbusto pequeño y las flores de color amarillo. Cuando las flores están maduras se abre la cápsula, que está dividida entre tres o cinco valvas que sostiene la semilla y la fibra sale al exterior, se recolecta arrancando una a una cada flor que es grande y solitaria. Las mujeres mayoritariamente hacían este trabajo, llevaban delantales con grandes bolsillos que una vez llenos depositaban en sacos. Este cultivo siempre fue minoritario, se veían fincas sueltas con algodón plantado por diversas partidas.
 
@@ -798,7 +798,7 @@ Herrería Emilio. Calle Papa Luna.
 
 Herrería Salvado.r Ronda Vinatea nº 9
 
-Herrero Angel, calle Historiador Escolano nº20. Herraba a los animales a domicilio..
+Herrero Angel, calle Historiador Escolano nº20. Herraba a los animales a domicilio…
 
 Herrería en la Plaza Escuelas Pías. Con la esquina calle del Canónigo Segarra.
 

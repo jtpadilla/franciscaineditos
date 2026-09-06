@@ -11,7 +11,7 @@ Registro del padrón de Cinctorres 1817. En aquella época cada generación eran
 Mas de Clara:  
 Apellidos: Segura Jordan.
 
-Rosaura Jordán viuda de ¿….Segura. Apellido oriundo de Castellfort
+Rosaura Jordán viuda de ¿…Segura. Apellido oriundo de Castellfort
 
 Apellidos: Segura Monserrat.
 
@@ -51,12 +51,12 @@ Aquí empieza los apellidos Julián Segura.
 186… Felipa Segura Mestre se casa con Ramón Julián de Morella.
 
 Hijos:  
-Antonio. Julián Segura casado con …………………  
+Antonio. Julián Segura casado con …  
 Hijos:  
 Ramona,  
 Pepet, (padre de Lucas)  
 Manuela  
-Manuela Julián……………. casada con ……………………………………………..Hijos:  
+Manuela Julián… casada con …Hijos:  
 Lázaro.  
 Enrique.  
 Leonila  
@@ -72,7 +72,7 @@ Rosario
 Josefina  
 Manuel.(Tio Fidel
 
-María. (Tia Maria de la Parra) Julián Segura casada con…Manuel Segura Martí………………..
+María. (Tia Maria de la Parra) Julián Segura casada con…Manuel Segura Martí…
 
 Hijos:  
 Manuela  

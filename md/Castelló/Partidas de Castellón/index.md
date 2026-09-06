@@ -40,7 +40,7 @@ Cap. Huerta de riego.
 
 Catalana. Marjal de sobras de riego y marjal de sazón.
 
-Censal. Huerta de riego..
+Censal. Huerta de riego…
 
 Coscollosa. Huerta de riego.
 

@@ -34,7 +34,7 @@ El conjunt de l’edificació mes que de ermita pareix d’església parroquial
 
 No de bades la imatge de la Verge de Gracia es la patrona del poble.
 
-Mesura 25,70 x 11,46 m. i 12 m d’alçada adossat a l’esquerra del temple hi ha una torre campana edificat fora del temple la torre mesura uns 20 m..
+Mesura 25,70 x 11,46 m. i 12 m d’alçada adossat a l’esquerra del temple hi ha una torre campana edificat fora del temple la torre mesura uns 20 m…
 
 Esta situada a 2 km del poble amb camí pla que mes pareix en passeig. La rogativa es celebra el dia 3 de maig. També es dona pel majoral el pa beneït als assistents en forma de prima.
 
@@ -62,4 +62,4 @@ Construïda per voluntat testamentaria dels cònjuges, Bernat Carbó i Ursola Ce
 
 L’interior mesura (20x8,83m.) recolzada sobre tres arcs de diafragma gòtics i amb l’accés lateral mitjans arc de mig punt i dos finestres de tronera al mateix costat.
 
-La festa sempre s’ha celebrat el dia 25 d’abril. Actualment es fa l’últim diumenge d’abril. Es va caminat des de el poble amb la bandera, el capella i fidels pels camins de ferradura. Hi ha persones, que ho fan en vehicles per la pista que creua, tor el terme..
+La festa sempre s’ha celebrat el dia 25 d’abril. Actualment es fa l’últim diumenge d’abril. Es va caminat des de el poble amb la bandera, el capella i fidels pels camins de ferradura. Hi ha persones, que ho fan en vehicles per la pista que creua, tor el terme…

@@ -806,7 +806,7 @@ La escasez de animales que consumen líquenes es posible que sea por la capacida
 
 ## Bibliografía
 
-Cinctorres volum I Introduccio a la Geologia del Terme. Cinctorres Club 1999..
+Cinctorres volum I Introduccio a la Geologia del Terme. Cinctorres Club 1999…
 
 Enciclopedia de Ciencias Naturales de Centrarquidos a Granados. Editorial Brugera S.A.
 

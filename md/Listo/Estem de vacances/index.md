@@ -6,7 +6,7 @@ notas: "Entrada 3 de 14 del blog de Listo, en la versió polida de la compilaci�
 
 # Estem de vacances
 
-Com tots els anys, quan arriba Sant Joan, ens preparem per anar de vacances a la platja, i una de les coses que sempre fa la meua ama és portar-me al veterinari. Em canvien el collaret per protegir-me de no sé quantes coses i em tallen el pèl. Aquesta vegada s’han passat i quassi m’he quedat calb, en tres i no res, m’han desaparegut totes les ones, amb el que jo lligava amb la meua melena... Però això sí, estic molt fresquet.
+Com tots els anys, quan arriba Sant Joan, ens preparem per anar de vacances a la platja, i una de les coses que sempre fa la meua ama és portar-me al veterinari. Em canvien el collaret per protegir-me de no sé quantes coses i em tallen el pèl. Aquesta vegada s’han passat i quassi m’he quedat calb, en tres i no res, m’han desaparegut totes les ones, amb el que jo lligava amb la meua melena… Però això sí, estic molt fresquet.
 
 ![](img/image12.jpeg)
 

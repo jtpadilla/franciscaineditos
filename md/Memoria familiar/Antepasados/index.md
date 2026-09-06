@@ -6,13 +6,13 @@ notas: "Lista de generaciones, de los trastatarabuelos Segura a los nietos Padil
 
 # Antepasados
 
-Trastatatatarabuelos. Vicente Segura + Rosaura Jordán Portell. 17..?
+Trastatatatarabuelos. Vicente Segura + Rosaura Jordán Portell. 17…?
 
-Trastatatarabuelos. Vicente Segura Jordán+ Vicenta Monserrat de Cinctorres. 17...?
+Trastatatarabuelos. Vicente Segura Jordán+ Vicenta Monserrat de Cinctorres. 17…?
 
-Trastatarabuelos.17..? Manuel Segura Monserrat Cinctorres + Felipa Ferrer Sorolla Portell.
+Trastatarabuelos.17…? Manuel Segura Monserrat Cinctorres + Felipa Ferrer Sorolla Portell.
 
-Tatarabuelos.181..Vicente Segura Ferrer+ Maria Mestre de Castellfort.
+Tatarabuelos.181…Vicente Segura Ferrer+ Maria Mestre de Castellfort.
 
 Manuel Julian Morella+ Vicenta Montserrat de Morellla
 
@@ -31,8 +31,8 @@ Manuel Padilla Julian + Carmen Segarra Ferrando.
 Hijos: Ferran Padilla Segarra.  
 Manel Padilla Segarra.  
 Hijo: Tadeo Julian Querol +Concepcion Llopis.  
-Hija: Encarnacion Julián Llopis + Sergio…Sanrafael ………..  
-Hijo Marc Sanrafael……Julian  
+Hija: Encarnacion Julián Llopis + Sergio…Sanrafael …  
+Hijo Marc Sanrafael…Julian  
 Hijo. Jose Manuel Julian Querol+ Julia Segarra.  
 Hijos: Tadeo Julian Segarra.  
 Jose Julian Segarra.

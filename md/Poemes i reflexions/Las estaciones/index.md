@@ -14,7 +14,7 @@ En primavera los prados de un día a otro cambian su vegetación. Los colores so
 
 En verano me gusta disfrutar mirando los campos de cereales con su color dorado y meciéndose como las olas del mar. El sonido que hacen es un run run tranquilizante.
 
-Al principio del otoño, es hermoso ver las viñas con su fruto en sazón. Los paseos por el pinar, ver como los robles cambian de color donde dominan los ocres en diferentes tonos, hundir los pies en la hojarasca i sentir como poco a poco la tierra empieza a dormirse..
+Al principio del otoño, es hermoso ver las viñas con su fruto en sazón. Los paseos por el pinar, ver como los robles cambian de color donde dominan los ocres en diferentes tonos, hundir los pies en la hojarasca i sentir como poco a poco la tierra empieza a dormirse…
 
 El invierno es el silencio apacible de la nevada, de las calles desiertas, de las largas.noches, del calor del hogar.
 

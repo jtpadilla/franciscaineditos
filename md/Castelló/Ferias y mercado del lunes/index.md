@@ -16,7 +16,7 @@ Por un Real Privilegio Jaume I el 7 de mayo 1269 impulsa la 1ªferia de la villa
 
 3ª Plaza del Rey 1872. Feria de todos los Santos.
 
-4ª Paseo Ribalta.1916 feria de Todos los Santos y Madalena..
+4ª Paseo Ribalta.1916 feria de Todos los Santos y Madalena…
 
 5ª Polígono Rafalafena. Avenida del mar.1991. Feria de Todos Los Santos y Madalena Actualmente.
 
@@ -30,7 +30,7 @@ Por un Real Privilegio Jaume I el 7 de mayo 1269 impulsa la 1ªferia de la villa
 
 4º 195…Paso Ribalta.
 
-5ª 198..Plaza Padre Cofre.
+5ª 198…Plaza Padre Cofre.
 
 6º 1991…Polígono Rafalafena – Avenida del Mar.
 

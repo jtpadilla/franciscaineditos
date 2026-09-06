@@ -16,7 +16,7 @@ Pel matí ens anem a l’Alameda per un camí que hi ha separat del passeig, a l
 
 La casa, té un balcó molt gran per on es veu cap amunt, el castell, l’església i quasi tot el poble. A la part de baix de la renglera d’escales, els antics rentadors, les muntanyes i la gent que puja a peu o en cotxes al poble. Quan em quedo a soles m’agrada estar al balcó, i lladrar al gats que veig pels patis de les cases, doncs quan està la meua ama estic callat, no li agrada el soroll.
 
-Però aquest viatge tot ha sigut al revés, a l’entrar a la casa, ja vaig notar un olor diferent, com mai, i a escoltar a la meua ama dir amb alegria... un gatet!! vaja que si! damunt, de la millor butaca, des d’on es veu el carrer i prenent el solet allí estava mirant de manera molt descarà, un gat menut, d’un color indefinit...
+Però aquest viatge tot ha sigut al revés, a l’entrar a la casa, ja vaig notar un olor diferent, com mai, i a escoltar a la meua ama dir amb alegria… un gatet!! vaja que si! damunt, de la millor butaca, des d’on es veu el carrer i prenent el solet allí estava mirant de manera molt descarà, un gat menut, d’un color indefinit…
 
 A la meua ama li agraden els animalets, l’acarona i el té al bracet i al gat li agrada, i es sent ronronejar.
 

@@ -28,7 +28,7 @@ El far d’Hèrcules, era visita obligada. En les roques, hi havia un vaixell en
 
 I també anàrem a les Ries, gaudint del seu marisc i de tot el que esta terra oferís als visitants. I altres llos que no recorde.
 
-L’idioma gallec té una cadència dolça, diferent al valència però que nosaltres entenem i diuen, que a Galicia plou molt, a portat paraigües! (per si un de cas...)i sempre que allí hem estat, a fet un sol de justícia, com si el portare-m nosaltres darrere.
+L’idioma gallec té una cadència dolça, diferent al valència però que nosaltres entenem i diuen, que a Galicia plou molt, a portat paraigües! (per si un de cas…)i sempre que allí hem estat, a fet un sol de justícia, com si el portare-m nosaltres darrere.
 
 L’últim viatge el van fer un grup de amics, un any Sant Compostel·là. Per tota la carretera ens creuem amb pelegrins, que ells, si que feien el camí com Deu mana.
 
@@ -36,6 +36,6 @@ Teníem l’allongament en el COLEGIO MAYOR GELMIREZ. Per la nit anàvem pels ca
 
 Es emocionat quan arribes a la porta del Perdó i en la missa del peregrí veien com creua l’espai volant el Botafumeiro, et sets part de la historia de la catedral. I quan entres per la porta de la Gloria, t’adones que es el millor nom que l’han pogut donar. Es pot estar mirant i admirant hores les figures de pedra i pereix que et donen la benvinguda i algunes, et fan un somriure.
 
-Quan tornàvem a casa desprès d’uns dies intensos varem dir (l’altra vegada vindrem caminat) No ha pogut ser... hi ha una absència... Però estan la memòria i els records, que sempre tornen, quan es l’Any Compostel·là.
+Quan tornàvem a casa desprès d’uns dies intensos varem dir (l’altra vegada vindrem caminat) No ha pogut ser… hi ha una absència… Però estan la memòria i els records, que sempre tornen, quan es l’Any Compostel·là.
 
 *Paquita 26 maig.*

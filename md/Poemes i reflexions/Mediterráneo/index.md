@@ -15,4 +15,4 @@ Siente, huele la sal.
 Saborea, sus frutos.  
 Acaricia la tierra, es arena en el mar  
 Mira el azul del cielo  
-Es el mismo, aqui, y en el mar..
+Es el mismo, aqui, y en el mar…

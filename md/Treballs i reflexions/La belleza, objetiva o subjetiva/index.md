@@ -16,6 +16,6 @@ Desde el Paleolítico en todas las civilizaciones, el fuego es adorado. Lo mismo
 
 Dicen que el fuego ahuyenta a las fieras, Pero también es peligroso, un incendio destruye todo lo que encuentra a su paso, y en espacios cerrados también lo es, por los gases y humos tóxicos que genera. Cuando las brasas eran la única fuente de calor en el hogar, antes de acostarse debían ser apagadas o deshechas por precaución.
 
-Así, que no sé, si el fuego es hermoso, o peligroso, creo más bien, que en el momento que vi en él su belleza, no era objetiva, la belleza que vi en ese momento de calma, era belleza subjetiva, y quizás en otro momento y circunstancia, lo vea de otra forma y cambie de opinión...
+Así, que no sé, si el fuego es hermoso, o peligroso, creo más bien, que en el momento que vi en él su belleza, no era objetiva, la belleza que vi en ese momento de calma, era belleza subjetiva, y quizás en otro momento y circunstancia, lo vea de otra forma y cambie de opinión…
 
 *Paquita Julián Querol.*

@@ -28,7 +28,7 @@ ELS OLIVEROS. Amb grans perols plens de llegums cuits, dels que encara sortia el
 
 LES PESCATERES. Amb les caixes de peix, que es pescava al Grau, espècies, que avui és molt difícil de veure pels mercats, doncs moltes vegades, ni els pescadors les agarren degut al vaix valor comercial que tenen, com: Sorell, sucla, boga, cavalla, sardina, anxova, mollets, galeres, musclos, mare del lluç,
 
-palades, ànguila, pagell, gallineta, marbra, mussola, cabut, morralla etc. Sempre recordo, quan de bon matí, animaven a la gent amb els seus crits pregonant la mercaderia (xiquetes ...qui menja sorell no és fa vell) esta dita, és la que més recordo entre un munt de les que deien.
+palades, ànguila, pagell, gallineta, marbra, mussola, cabut, morralla etc. Sempre recordo, quan de bon matí, animaven a la gent amb els seus crits pregonant la mercaderia (xiquetes …qui menja sorell no és fa vell) esta dita, és la que més recordo entre un munt de les que deien.
 
 PARADES DE VERDURA. Llauradors dels voltants, que portaven a vendre el que es collia de temporada. També hi havia productes del mercat d’Abastos.
 
@@ -44,7 +44,7 @@ D’ALLS.
 
 I al carrer, a la plaça Maestrazgo, un manoll de productes, que aleshores ens pareixen impossibles.
 
-Els noms de la gent que venia en les diferents parades, ens resulten estranys, però al barri dels Mestrets i del Rabal, era normal conèixer al veïns amb el mal nom o mote i ningú s’enfadava, doncs els noms familiars eren dels seus avantpassats..
+Els noms de la gent que venia en les diferents parades, ens resulten estranys, però al barri dels Mestrets i del Rabal, era normal conèixer al veïns amb el mal nom o mote i ningú s’enfadava, doncs els noms familiars eren dels seus avantpassats…
 
 La meua amiga i antiga companya del mercat de Sant Antoni Maria Cinta Gozalbo (l’olivera,) m’ha donat informació molt valuosa. Sense la seua memòria i ganes de donar testimoni d’aquell temps, moltes coses que ací es diu, no haguera segut possible.
 
@@ -212,7 +212,7 @@ Subasta 26 marzo 1958.
 
 Sesión Ordinaria 30 Mayo 1958.
 
-El Exmo Ayuntamiento en Pleno aprueba el contrato suscrito por la alcaldía el pasado 10 de mayo 1958 a Don Santiago Viqueira Fullos en nombre de Compañía Levantina y Obras Públicas. La construcción de un Mercado para la venta de carnes, frutas, verduras y pescado en la Plaza Maestrazgo, por la cantidad de seiscientas cuatro milveinticuatro con setenta ocho cms..
+El Exmo Ayuntamiento en Pleno aprueba el contrato suscrito por la alcaldía el pasado 10 de mayo 1958 a Don Santiago Viqueira Fullos en nombre de Compañía Levantina y Obras Públicas. La construcción de un Mercado para la venta de carnes, frutas, verduras y pescado en la Plaza Maestrazgo, por la cantidad de seiscientas cuatro milveinticuatro con setenta ocho cms…
 
 31 mayo 1958
 

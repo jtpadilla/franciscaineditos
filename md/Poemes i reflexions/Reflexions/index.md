@@ -37,7 +37,7 @@ Carrer de la meua infància.
 
 Ay!!!carrer de Gemec o costereta de la Font de la Vila. On les dones pujaven amb els cànters plens d’aigua recolzats en la capçana al costat del seu cos.
 
-Si el empedrat del esglaons parlaren...
+Si el empedrat del esglaons parlaren…
 
 ## 4ª
 
@@ -57,7 +57,7 @@ Amb la seua bellesa totes tenen diferent forma, textura, color, olor o perfum, h
 
 ![](img/R-19.jpg)
 
-Pedra...sempre pedra. Quantes pedres hi haurà pel poble? Des de les senzilles cases, on el que prima és l’habitatge, pallisses, parets que encara en queden com a mostra i model d’arquitectura practica minimalista integrada amb el ambient, fins les façanes de pedra treballada, acord amb l’importància del propietari, edificis eclesiàstic i civils. Pedra... sempre pedra.
+Pedra…sempre pedra. Quantes pedres hi haurà pel poble? Des de les senzilles cases, on el que prima és l’habitatge, pallisses, parets que encara en queden com a mostra i model d’arquitectura practica minimalista integrada amb el ambient, fins les façanes de pedra treballada, acord amb l’importància del propietari, edificis eclesiàstic i civils. Pedra… sempre pedra.
 
 ## 7ª
 

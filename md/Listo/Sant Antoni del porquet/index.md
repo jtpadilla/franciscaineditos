@@ -10,7 +10,7 @@ Diuen, que Sant Antoni del porquet és l’advocat dels animals, pot ser per aix
 
 ![](img/image36.jpeg)
 
-Serà per aquest motiu, que tots els anys, el dia de la seua festa ens anem al poble. Moltes vegades fa fred, com que es rigorós hivern... Però la meua ama y jo estem tot el matí pel carrers veient com els homes del poble construeixen la barraca i els animals de càrrega, porten les carrasques arrossegant-los per ha fer la foguera a la Plaça Vella, com és el costum.
+Serà per aquest motiu, que tots els anys, el dia de la seua festa ens anem al poble. Moltes vegades fa fred, com que es rigorós hivern… Però la meua ama y jo estem tot el matí pel carrers veient com els homes del poble construeixen la barraca i els animals de càrrega, porten les carrasques arrossegant-los per ha fer la foguera a la Plaça Vella, com és el costum.
 
 ![](img/image37.jpeg)
 
@@ -18,7 +18,7 @@ Esta vegada, he tingut companyia al carreró, doncs a l’argolla de la casa del
 
 El que menys m’agrada d’aquesta festa, és anar tots el anys a rebre la benedicció del capellá. Els carrers del poble estan plens de gent que porta algun animalet, es veuen corderets, conills, gallines, pollets. Pardalets dins de les gàbies, un ratolí també dins d’una gàbia, cavalls engalanats de festa i altres preparats amb aparells, com els que portaven els traginers.
 
-Quan es fan les deu de la nit, la plaça davant de l’església està plena de gent i molts, molts companys meus, molts gossos de totes les maneres, i quantes gossetes!!! M’agradaria saber on estan a l’estiu quan vaig pel poble, a les hores no se’n veu cap, no pots arrimar-te a elles, els seus amos, em miren de reüll, doncs si soc quasi del poble!!! El pitjor de tot es que sempre surto mullat, doncs el senyo retor, te molta afició a mullar-nos a tots amb l’aigua beneïda que porta en una caldereta i amb el l’hisop aplega a tots; i clar, com que sempre estem a primera fila... ja n’estic cansat.
+Quan es fan les deu de la nit, la plaça davant de l’església està plena de gent i molts, molts companys meus, molts gossos de totes les maneres, i quantes gossetes!!! M’agradaria saber on estan a l’estiu quan vaig pel poble, a les hores no se’n veu cap, no pots arrimar-te a elles, els seus amos, em miren de reüll, doncs si soc quasi del poble!!! El pitjor de tot es que sempre surto mullat, doncs el senyo retor, te molta afició a mullar-nos a tots amb l’aigua beneïda que porta en una caldereta i amb el l’hisop aplega a tots; i clar, com que sempre estem a primera fila… ja n’estic cansat.
 
 ![](img/image38.jpeg)
 
@@ -30,7 +30,7 @@ Aquest any l’ama m’ha donat a tastar, un trosset del pastis, que bo!!!
 
 ![](img/image39.jpeg)
 
-Tornem a estar a casa... a Castelló, anirem al poble a les vacances de Pasqua uns dies, i desprès a l’estiu.
+Tornem a estar a casa… a Castelló, anirem al poble a les vacances de Pasqua uns dies, i desprès a l’estiu.
 
 En un any, tornarà a ser Sant Antoni i la nostra festa, la dels animalets. I un altra vegada el mateix, gelat de fred, sense pastis i mullat. Listo
 

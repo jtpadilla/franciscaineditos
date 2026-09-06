@@ -46,7 +46,7 @@ QUOMODO TERRA SANTA RECUPERARI POTEST (1292) elaborado bajo la impresión de la 
 
 LIBER DE FINE (1305) dedicado al nuevo papa Clemente V. La coyuntura era la caída de Arwad y la captura del último mariscal del Temple. La estrategia ahora se concretó: la unificación de las órdenes baja un Rex Bellator; la expedición por la ruta Almería, Ceuta, Norte de África hasta Egipto y Jerusalén, apoyada por la flota y con los almogávares como tropas de choque. Se adivina claramente el protagonismo de Jaime II de Aragón y de su hijo mayor, el príncipe Jaime de Aragón, que renunció al matrimonio y a la corona para vestir el manto blanco y la cruz roja.
 
-LIBER DE ACQUISITIONE TERRAE SANCTAE (1309), aparecido tras la caída del Temple. Llull proponía ahora dos vías para la reconquista de Tierra Santa: al norte, los franceses con los hospitalarios y al sur Jaime II con las órdenes peninsulares..
+LIBER DE ACQUISITIONE TERRAE SANCTAE (1309), aparecido tras la caída del Temple. Llull proponía ahora dos vías para la reconquista de Tierra Santa: al norte, los franceses con los hospitalarios y al sur Jaime II con las órdenes peninsulares…
 
 Finalmente, nada se llevó a cabo, excepto una expedición fracasada de Jaime II sobre Almería.
 

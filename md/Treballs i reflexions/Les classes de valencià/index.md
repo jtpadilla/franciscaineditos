@@ -34,7 +34,7 @@ I totes les classes així.
 
 Em llegit i mastegat els poemes d’Ausiàs March. Hem gaudit de Tombatosals de Pascual Tirado. De les obres de Salvador Guinot. També de La bolangera de Dimonis de Angel Sanchez Gozalbo i de tots els intel·lectuals d’aquests anys, llibres, que poques vegades n’havia sentit parlar.
 
-Em assaborit sense provar-los menjar típics. L’arròs al forn d’un altra maner. L’arròs amb llamàntol. Les coques planes i farcides. Les pilotes de Carnestoltes. Les de Nadal, etc...cultura culinària d’esta terra
+Em assaborit sense provar-los menjar típics. L’arròs al forn d’un altra maner. L’arròs amb llamàntol. Les coques planes i farcides. Les pilotes de Carnestoltes. Les de Nadal, etc…cultura culinària d’esta terra
 
 I varem fer un gran viatge: El 15 d’octubre de 2007, salpa la Goleta La Valenciana governada per la nostra capitana Lourdes que tot i que compta amb experiència prèvia en aquesta navegació, sap que es imprescindible l’esforç i la col·laboració de tota la tripulació. I ens diu:
 

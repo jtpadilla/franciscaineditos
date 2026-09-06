@@ -51,7 +51,7 @@ La mare canta al xiquet amb la mà oberta i marcant amb un dit com si tingueren 
 Tita pon un coco.  
 Tita pon un ou.  
 Per al meu xiquet (o xiqueta).  
-Que se’l menjarà...nyam...nyam...  
+Que se’l menjarà…nyam…nyam…  
 
 ## Altres jocs
 

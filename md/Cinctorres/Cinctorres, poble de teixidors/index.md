@@ -26,7 +26,7 @@ La campana de la Mare de Deu de Gracia la campana de la capella de Sant Lluis Be
 
 Tot von cinctorra a la Mare de Deu de Gracia li te que resar, es la patrona que tot el poble adora, i davant de la faena molt se te que espavila.
 
-Els pares els xiquets i xiquetes cinctorrans, els pares i abuelos els porten a vore a la Mare de Deu, demanat salut i aigua per que la terra done fruits i molt de blat...per que tot el poble puga menjar.
+Els pares els xiquets i xiquetes cinctorrans, els pares i abuelos els porten a vore a la Mare de Deu, demanat salut i aigua per que la terra done fruits i molt de blat…per que tot el poble puga menjar.
 
 A CINCTORRES I AVIEN VARIES FABRIQUES DE TEIXITS I DOS DE TOQUILLES.
 

@@ -22,7 +22,7 @@ Les nostres mares (em referís a les mares de les tres xiquetes·) varen resoldr
 
 Tots els veïns estaven a la nostra cuina, sempre després de sopar, doncs allí, a més de cuina era el lloc on rebíem les visites i on es feia la vetllà tot els dies d’hivern, sempre estava l’allar anses.amb bones braces
 
-El primer que escoltava quan arribava el Rei, d’Orient era el Moro, doncs era el nom del nostre ase, bramava una i un altra vegada, i tot hom sabia que el Rei estava a prop, I després...sonava l’andana
+El primer que escoltava quan arribava el Rei, d’Orient era el Moro, doncs era el nom del nostre ase, bramava una i un altra vegada, i tot hom sabia que el Rei estava a prop, I després…sonava l’andana
 
 L’avi ens deia:
 
@@ -40,7 +40,7 @@ El Rei d’Orient no mai tenia pressa i com a més a més tots els veïns estàv
 
 Després de fer-me cantar, ballar i recitar un vers de benvinguda. (cosa que em solien fer tots els anys, damunt d’una cadira), em donaven el regal. El primer que recorde era el Pepito, que ninot mes maco! Després li tocava l’avi, sempre el mateix, un paquet de tabac quadrat, de color verdós amb el escut d’Espanya i al altre costat deia COMPAÑIA ARRENDATARIA DE TABACO, Picado fino superior 25 gramos, 0,70 ptas. L’avi, quan l’agafava sempre li feia un somriure a mon pare.
 
-Als xiquets del carreró coses de xics, un cavall de cartó amb rodes i ramal, unes pilotetes amb una goma que es ficava dins d’un dit i botava sense caure i altres coses. Als veïns, tota mena de coses de menjar, que si un plat de codonyat, o una xicoteta ampolla de cireres amb vi, o bé un grapat d’armelles o nous i fins i tot, ous de les gallines d’Orient, tot sortia d’una gran cistella amb tapes. El que sempre arribava tard era l’oncle Moreres i no mai tenia regal, però sempre estava content. Jo pensava... que tenia la veu molt pareguda al Rei, però com no li veiem la cara dons sempre anava molt tapat, . seria per això
+Als xiquets del carreró coses de xics, un cavall de cartó amb rodes i ramal, unes pilotetes amb una goma que es ficava dins d’un dit i botava sense caure i altres coses. Als veïns, tota mena de coses de menjar, que si un plat de codonyat, o una xicoteta ampolla de cireres amb vi, o bé un grapat d’armelles o nous i fins i tot, ous de les gallines d’Orient, tot sortia d’una gran cistella amb tapes. El que sempre arribava tard era l’oncle Moreres i no mai tenia regal, però sempre estava content. Jo pensava… que tenia la veu molt pareguda al Rei, però com no li veiem la cara dons sempre anava molt tapat, . seria per això
 
 Tots els anys eren pareguts, una vegada em van portar unes gallinetes de llanda, que manejant els meus ditets picaven al terra, com si busqués el gra i doncs no sé el que ocorria que als pocs dies es perdien un any i un altre i es cla, r al any següent com que el Rei ho sabia em portava unes altres molt semblants, jo pensava que eren de la mateixa cloca, ja no m’.agradaven, sempre em fugien.
 
@@ -50,7 +50,7 @@ El dia següent, el dia sis de gener era Festa Grossa
 
 Després de missa, (on ens portaven les mares totes mudades) pesàrem per davant d’ on vivia la Regina, i sempre en deia: Entreu i veureu que m’ha portat el Rei.
 
-Quantes coses! Allò pareixia una botiga de joguets! Tot damunt de prestatges, joguets de tots els any darrere, senpre estaven nous. Aquest any hi havia una gran nina, preciosa!... quasi com nosaltres de gran I ens deia:
+Quantes coses! Allò pareixia una botiga de joguets! Tot damunt de prestatges, joguets de tots els any darrere, senpre estaven nous. Aquest any hi havia una gran nina, preciosa!… quasi com nosaltres de gran I ens deia:
 
 \- Els diumenges si veniu a ma casa la podreu tocar.-
 
@@ -64,9 +64,9 @@ Un any, esperant que arribarà el Rei em va dir ma mare que Pepito estava molt l
 
 De la cistella amb tapes, com tots el any sortien les coses de sempre, el tabac del avi, Les nous, armelles, els ous de les gallines d’Orient Alguna vegada, un tros de torró semblant als que feien els confités del poble, aquesta vegada vaig ser l’última en donar-me el regal.
 
-Sí que era bonica, la nina,! tenia la careta de porcellana, els llavis, xicotets amb forma de cor i d’un color vermell intens, les galtes rosades com les pomes, els ulls …oh… els ulls!.., tenia grans pestanyes emmarcant-los i de color blau, com el cel, i quan la gitava al meu braç els tancava com si estigués dormida, i els cabells rulls de color clar, El vestit, amb petites floretes de diferents colors i un davantal amb volants per damunt del muscle i darrere un gran llaç de color blau. sabatetes i calcetins blancs
+Sí que era bonica, la nina,! tenia la careta de porcellana, els llavis, xicotets amb forma de cor i d’un color vermell intens, les galtes rosades com les pomes, els ulls …oh… els ulls!…, tenia grans pestanyes emmarcant-los i de color blau, com el cel, i quan la gitava al meu braç els tancava com si estigués dormida, i els cabells rulls de color clar, El vestit, amb petites floretes de diferents colors i un davantal amb volants per damunt del muscle i darrere un gran llaç de color blau. sabatetes i calcetins blancs
 
-Així va ser la primer nina de veritat, com Déu mana, que vaig tindre. Sols tenia un defecte,(“si cau a terra es trencava), i per a jugar amb ella em va dir ma mare, -tens que jugar amb coneixement! – dons... era poc avorrit! prompte em vaig cansar de la nina... i buscava a Pepito, que era un ninot de veritat per a jugar però se’l va emportar el Rei…quins plors!…
+Així va ser la primer nina de veritat, com Déu mana, que vaig tindre. Sols tenia un defecte,(“si cau a terra es trencava), i per a jugar amb ella em va dir ma mare, -tens que jugar amb coneixement! – dons… era poc avorrit! prompte em vaig cansar de la nina… i buscava a Pepito, que era un ninot de veritat per a jugar però se’l va emportar el Rei…quins plors!…
 
 No mai més li vaig ficar el nom a cap ninot
 
@@ -84,8 +84,8 @@ Què serà?
 
 Doncs m’han dit els meus fills, que es un clauer porta-fotos digital.
 
-Quan m’ha quedat a soles, amb molta il·lusió i ... una miqueta de por, ha engegat l’ordinador. I buscat entre totes les fotos que tic guardades, n’he triat unes quantes, amb molta cura, les ha ficat al clauer, i…jo soles em feia un somriure pensant:
+Quan m’ha quedat a soles, amb molta il·lusió i … una miqueta de por, ha engegat l’ordinador. I buscat entre totes les fotos que tic guardades, n’he triat unes quantes, amb molta cura, les ha ficat al clauer, i…jo soles em feia un somriure pensant:
 
-Aquest estiu, quan al poble em reuniré amb les meues amigues la Regina i la Feli els diré: - Veniu i mireu que m’ha portat aquest any els Reis -I els ensenyaré el clauer i una a una... totes les fotos, dels meus nets.
+Aquest estiu, quan al poble em reuniré amb les meues amigues la Regina i la Feli els diré: - Veniu i mireu que m’ha portat aquest any els Reis -I els ensenyaré el clauer i una a una… totes les fotos, dels meus nets.
 
 *6 de gener de 2009. Paquita*

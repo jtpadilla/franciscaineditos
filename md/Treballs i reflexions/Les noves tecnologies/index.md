@@ -18,7 +18,7 @@ I venen els nets i ens toca fer d’avis passejadores, cangurs i el que fa falta
 
 Aleshores ens toca aprendre a nosaltres
 
-La prova de foc es quan els fill et diuen que necessites un telèfon mòbil,(Crec que fiquen eixa escucà per a canviar-se’l ells). Com es natural el meu primer mòbil va ser heretat. Al principi aprens el que es més basic com fer, rebre trucades i... poc mes. Quan ja em vaig aprendre alguna funció més es va trencar, clar com era de segon ma, em van dir, que era normal. El segon també va ser heretat. I va ocorrin el mateix. Aleshores tinc un mòbil que m’ha comprat, al meu gust, no sols el model, també el color, té un munt de funcions que segur no aprofitaré mai.
+La prova de foc es quan els fill et diuen que necessites un telèfon mòbil,(Crec que fiquen eixa escucà per a canviar-se’l ells). Com es natural el meu primer mòbil va ser heretat. Al principi aprens el que es més basic com fer, rebre trucades i… poc mes. Quan ja em vaig aprendre alguna funció més es va trencar, clar com era de segon ma, em van dir, que era normal. El segon també va ser heretat. I va ocorrin el mateix. Aleshores tinc un mòbil que m’ha comprat, al meu gust, no sols el model, també el color, té un munt de funcions que segur no aprofitaré mai.
 
 Desprès va tocar-li el torn, al ordinador.¡¡Que suors!! em van preparar tot el que feia falta, clar, també era de segon ma, El fill em va explicar com funcionava tot, jo escoltava pensant (axó no ho aprendre mai). Quan em vaig quedar a soles no recordava res.
 
