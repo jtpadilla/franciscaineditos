@@ -9,7 +9,7 @@ notas: "Dues fórmules de choriços, amb proporcions diferents de les d'Embotits
 60% cansalada de panxeta  
 40% magre de porc
 
-Pebre roig , pebre blanc i all matxucat al morter. Diluir amb brandi o vi.
+Pebre roig, pebre blanc i all matxucat al morter. Diluir amb brandi o vi.
 
 Budell de porc.
 

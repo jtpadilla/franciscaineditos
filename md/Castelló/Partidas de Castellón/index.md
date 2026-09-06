@@ -94,7 +94,7 @@ En la partida de La Plana se encuentra la Basílica de la Vérge de LLedó, Dura
 
 Los árabes fueron los que con gran pericia utilizaron el riego por medio de acequias, aunque anteriormente ya lo hicieron los romanos.
 
-Cuando Jaime I reconquista esta tierra, divide el agua del rio por su parte baja, entre Burriana, Villareal, Almazora y Castellón, creando muchos problemas y rivalidad entre los cuatro pueblos por su uso. Fue el infante Pedro, hijo de Jaime II y de su esposa Blanca d’Anjou , quien el 20 de Marzo de 1347 ciento cuatro años después de la concesión de nuestra Carta Puebla, promulga la célebre Sentencia Arbitral que aún perdura con pequeñas modificaciones, que divide el agua del rio en 60 partes o filas
+Cuando Jaime I reconquista esta tierra, divide el agua del rio por su parte baja, entre Burriana, Villareal, Almazora y Castellón, creando muchos problemas y rivalidad entre los cuatro pueblos por su uso. Fue el infante Pedro, hijo de Jaime II y de su esposa Blanca d’Anjou, quien el 20 de Marzo de 1347 ciento cuatro años después de la concesión de nuestra Carta Puebla, promulga la célebre Sentencia Arbitral que aún perdura con pequeñas modificaciones, que divide el agua del rio en 60 partes o filas
 
 A Castellon la pertenecen catorce partes y media.
 
@@ -128,9 +128,9 @@ Las ermitas están construidas fuera del casco urbano en lugares simbólicos o e
 
 Repartidas por diferentes partidas de Castellón tenemos varias donde los labradores que tienen sus tierras en ellas celebran su fiesta en el día señalado
 
-Partida de la Magdalena. Ermita de la Magdalena, la más popular y conocida. El tercer domingo de cuaresma Romeria de les Cannyes desde la catedral de santa María .
+Partida de la Magdalena. Ermita de la Magdalena, la más popular y conocida. El tercer domingo de cuaresma Romeria de les Cannyes desde la catedral de santa María.
 
-Partida de La Plana .Marzo Basilica de LLedo. Tercer domingo de cueresma.
+Partida de La Plana.Marzo Basilica de LLedo. Tercer domingo de cueresma.
 
 Partida de Canet Marzo. Sant Roc o de les Fontanelles.
 
@@ -140,8 +140,8 @@ Partida de Censal. Sant Josep de Censal o de L’Olivera en la inserción dels C
 
 Partida del Bobalar.Junio. Ermita de Sant Joanet del Riu Sec. al final del Camino del Crèmor antes denominado l’Enramà se inaguro el 21 de Junio de 1914 su fiesta el domingo posterior al dia 24 de Junio.
 
-Partida de Fadrell. Julio. Sant Jaume de Fadrell, domingo posterior al día 25 . Fiesta principal del ermitorio.
+Partida de Fadrell. Julio. Sant Jaume de Fadrell, domingo posterior al día 25. Fiesta principal del ermitorio.
 
-Partida de Cap. Octubre. Sant Frances de La Font. Domingo anterior al día 12. Homenaje popular a Tombatossals . Misa y procesión cívica hasta el paraje del Moli de la Font.
+Partida de Cap. Octubre. Sant Frances de La Font. Domingo anterior al día 12. Homenaje popular a Tombatossals. Misa y procesión cívica hasta el paraje del Moli de la Font.
 
-Tambien tuvieron sus fiestas propias las ermitas del Salvador, construidas en 1782 en la partida de Benadresa ,junto a la Rambla de la Viuda, y la ermita de la Virgen del Carmen construida en 1948 en la partida de l’Estepar, junto al camí dels Palos . En esta ermita se celebra su fiesta el dia 16 de julio o domingo inmediato posterior, ha quedado actualmente junto a la Ciudad del Transporte.
+Tambien tuvieron sus fiestas propias las ermitas del Salvador, construidas en 1782 en la partida de Benadresa,junto a la Rambla de la Viuda, y la ermita de la Virgen del Carmen construida en 1948 en la partida de l’Estepar, junto al camí dels Palos. En esta ermita se celebra su fiesta el dia 16 de julio o domingo inmediato posterior, ha quedado actualmente junto a la Ciudad del Transporte.

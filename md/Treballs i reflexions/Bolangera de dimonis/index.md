@@ -24,7 +24,7 @@ Segint esta narració que mantén el canonge de la Catedral de València i un am
 
 ## 3. Color i forma
 
-Col-leccionistes i marxans de Barcelona i València ,antiquaris de ciutats i viles, coneixen a Mr.Howard Seligmann, el jove director del Museu de Bòston comprador de tota mena d’antiquitats i pintor
+Col-leccionistes i marxans de Barcelona i València,antiquaris de ciutats i viles, coneixen a Mr.Howard Seligmann, el jove director del Museu de Bòston comprador de tota mena d’antiquitats i pintor
 
 Convertí Penyiscola en centre d’operacions, pintava adalerat la llum enlluernadora de la mar, passava la vesprada pintan a Mari Gracia al castell, Aquell retrat no s’acabava mai.
 
@@ -32,9 +32,9 @@ Sense dubte l’autor veia com en uns anys, la ciutat seria coneguda i visitada 
 
 ## 4. L’Argentera
 
-Angelina l’Argentera amava les flors, les estimava amb la passió de donzella de vint anys, .
+Angelina l’Argentera amava les flors, les estimava amb la passió de donzella de vint anys,.
 
-Com en una lliço de botànica apresiarem la grogor d’una escampada de ginestra i d’argelaga, el blau dels lliris cap el cel , els baladres encesos amb la rojor de les seues flors .i olorarem les toves alfabegeres, els vellutats geranis, les sarmentoses clavellineres, les atractives roses, les humils floretes, la roja flama de la ronsella, el punxagut card, el blanc espinal florit, el moradenc i oloros espígol, els verds plomalls del romaní. Amb tot açó i més feia un manoll per portar-lo a casa seua fins el moment que davalla pel malaït cingle del diable
+Com en una lliço de botànica apresiarem la grogor d’una escampada de ginestra i d’argelaga, el blau dels lliris cap el cel, els baladres encesos amb la rojor de les seues flors.i olorarem les toves alfabegeres, els vellutats geranis, les sarmentoses clavellineres, les atractives roses, les humils floretes, la roja flama de la ronsella, el punxagut card, el blanc espinal florit, el moradenc i oloros espígol, els verds plomalls del romaní. Amb tot açó i més feia un manoll per portar-lo a casa seua fins el moment que davalla pel malaït cingle del diable
 
 ## 5. La diablessa del retaule
 
@@ -56,7 +56,7 @@ Actualment quan comença el mes de maig es fan les rogatives al terme de Morella
 
 ## 6. L’arc del dimoni
 
-Pels carrers entortolligats i costeruts del poble, puja Climentet, és el geperut. No-res-menys que ne té dues, una al davant i altra al darrere .Les gepes tenen corva com l’arc d’aquell matí, la figura és tan menuda com petit era l’arc del dimoni que va aparèixer al costat de l’arc de Sant Martí. Tornará sa mare volguda a contar-li com va nàixer aquell matí mimbat amb l’arc del diable
+Pels carrers entortolligats i costeruts del poble, puja Climentet, és el geperut. No-res-menys que ne té dues, una al davant i altra al darrere.Les gepes tenen corva com l’arc d’aquell matí, la figura és tan menuda com petit era l’arc del dimoni que va aparèixer al costat de l’arc de Sant Martí. Tornará sa mare volguda a contar-li com va nàixer aquell matí mimbat amb l’arc del diable
 
 Havia plogut moltíssim, després de varies vergonyoses carades de sol, lluïa aquell, la llanterna tota encesa.
 
@@ -64,7 +64,7 @@ Sa mare era al camp amb son pare. De prompte se sentí malalta i lliurà sense a
 
 Aleshores dos arcs ficaren llurs puntes dins la terra i dins la mar. L’un era gran i de set colors vius, era l’arc de Sant Martí, l’altre petit i de colors pal-lids era l’arc del Dimoni, dins de la corva de l’arc menut naixe Climentet.
 
-La supertició, i la llegenda contrasta amb l’incredulitat i la llògica .Però quina persona no mira al cel quan hi ha un arc de set colors lluens i vius? I pot ser, que a leshores mirem si hi ha un altre més menut al costat.
+La supertició, i la llegenda contrasta amb l’incredulitat i la llògica.Però quina persona no mira al cel quan hi ha un arc de set colors lluens i vius? I pot ser, que a leshores mirem si hi ha un altre més menut al costat.
 
 ## 7. Galanies i cobejances
 
@@ -80,7 +80,7 @@ Aquesta història és com sempre, el poderós desitga el que no té, i no sempre
 
 Bernat, orfe de pare i mare, és el caganiu de la família, el més argenllat i grogissó de tots el germans El doctó Fabià oncle seu l’arreplega; i viu amb ell.
 
-Els tous bescuits, les mengívoles tortades, els rollets carats, les cruixidores cristines, i altres llepolies que li portaven al metge Favia. li les guardava per al seu nevot. També quan anaven al convent el xiquet i oncle verenaben sempre allí; els agradaven el dols sec de les taronges, carabassat, peres confitades, i sobre tot , el regal que feien les monjes al seu metge, les gerres d’Alcora plenes d’eixarop i tota mena de dolços ,
+Els tous bescuits, les mengívoles tortades, els rollets carats, les cruixidores cristines, i altres llepolies que li portaven al metge Favia. li les guardava per al seu nevot. També quan anaven al convent el xiquet i oncle verenaben sempre allí; els agradaven el dols sec de les taronges, carabassat, peres confitades, i sobre tot, el regal que feien les monjes al seu metge, les gerres d’Alcora plenes d’eixarop i tota mena de dolços,
 
 Lleguin aquesta història, asavorim tot tipus de postres casers llepolies i també escabex de caça, perdius, torts colomins i conill., que es feia la criada Catalina i també veurem com, a la casa que tots són goluts, sempre guanya la persona que és més pilla.
 
@@ -90,7 +90,7 @@ La cadernera regirava dins del caixonet on tenia la llavor. Es giraba, s’en pu
 
 El fuster Gillem ribatejava un llistó, deixava el ribot i agarrava gerlopes i garlopins, treballava les juntes de les taules, descobria el vetejat de la fusta, anava amunt i a vall. Estimava molt a la seua Amàlia i ella també estimava molt al seu fuster i també estimava moltíssim a l’engabiat pardalet.
 
-El petit ocell de color canella i pintetes groges, roges i negres arrossega tots els afectes de la fustera. El moixò n’estava trist hi diu a la Amàlia: vull tornar al regolar de les afores, on vaig naixer. Ennyoro el fang pastat, els topins, els plats de foc. Vull veure giravoltar altra vegada els peus en el torn, olorar el romani, la farigola i altres matisses que cremen al foc .
+El petit ocell de color canella i pintetes groges, roges i negres arrossega tots els afectes de la fustera. El moixò n’estava trist hi diu a la Amàlia: vull tornar al regolar de les afores, on vaig naixer. Ennyoro el fang pastat, els topins, els plats de foc. Vull veure giravoltar altra vegada els peus en el torn, olorar el romani, la farigola i altres matisses que cremen al foc.
 
 Crec que a ningú ens agrada està dins d’una gàbia així ens estimen molt.
 

@@ -18,6 +18,6 @@ Sé que moltes persones de les que estan ací saben d’aquest tema més que jo,
 
 L’últim any que vaig anar a Sant Pere dels LLivis el dia de la seua festa, si no fos per la quantitat de vehicles que hi havia al voltant, pareix que no havia passat el temps. Segueix el costum de beneir el camp com abans i també es segueix portant a l’església el romer amb el que es faran les creus per ha posar-les als camps i així protegir la collita. El dia que tot això s’oblidi, es pedra una part molt important de la nostra cultura i les nostres arrels.
 
-I dit tot açò es dono a tots les gracies per escultar-me, i desitjo passen un bon dia. Gràcies Paquita .
+I dit tot açò es dono a tots les gracies per escultar-me, i desitjo passen un bon dia. Gràcies Paquita.
 
 *Agost 2006.*

@@ -52,7 +52,7 @@ Es el primer danzante de la parte izquierda de la foto, según decían sus herma
 
 ![](img/boda.jpeg)
 
-No conozco a los invitados ni novios de esta boda, salvo a mis padres los dos vestidos de negro juntos en la parte izquierda de la foto , mi madre llevaba luto de su padre. Su fecha aproximada año 1940. Está hecha enfrente de la Casa Santjoans en Cinctorres. Todas las mujeres y niñas llevan puesta la mantilla, señal de que había terminado la ceremonia religiosa
+No conozco a los invitados ni novios de esta boda, salvo a mis padres los dos vestidos de negro juntos en la parte izquierda de la foto, mi madre llevaba luto de su padre. Su fecha aproximada año 1940. Está hecha enfrente de la Casa Santjoans en Cinctorres. Todas las mujeres y niñas llevan puesta la mantilla, señal de que había terminado la ceremonia religiosa
 
 Se aprecia muy bien el empedrado que había en todas las calles.
 

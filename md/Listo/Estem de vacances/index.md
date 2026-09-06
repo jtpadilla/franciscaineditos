@@ -24,7 +24,7 @@ Huí de matí hem fet el passeig pel voltant de la Torre Sant Vicent, on anem to
 
 ![](img/image14.jpeg)
 
-Per la vesprada, la gosseta i la seua ama estan les dos assegudes a uns bancs que hi ha al jardí per la part de la façana, sols escolten, no parlen mai. Allí estan també unes quantes veïnes desfeinades que miren tot el que entra i surt de l'edifici i també xafardegen de tot el que ocorre pel voltant .Quan la meua ama i jo ens anem a passejar i passem per allí ens diuen, que sempre tenim pressa, i és veritat, ens agrada més anar a caminar, així és, que la meua ama no mai sap res de res, sempre està en Babia referent a les notes socials del carrer.
+Per la vesprada, la gosseta i la seua ama estan les dos assegudes a uns bancs que hi ha al jardí per la part de la façana, sols escolten, no parlen mai. Allí estan també unes quantes veïnes desfeinades que miren tot el que entra i surt de l'edifici i també xafardegen de tot el que ocorre pel voltant.Quan la meua ama i jo ens anem a passejar i passem per allí ens diuen, que sempre tenim pressa, i és veritat, ens agrada més anar a caminar, així és, que la meua ama no mai sap res de res, sempre està en Babia referent a les notes socials del carrer.
 
 Però Babsy m'ho conta a mi tot. Les persones es creuen que nosaltres no veiem res, i sabem tot el que es diu i es fa al nostre voltant. Ahhh si parlarem!.
 

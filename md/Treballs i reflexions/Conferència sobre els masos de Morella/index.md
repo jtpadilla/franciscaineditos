@@ -16,7 +16,7 @@ Al ser un municipi tan gran l’envolten 14 pobles.
 
 ## La dena dels llivis
 
-Hasta mitat S.XX eren mes 300 els masos habitats que estaven dividits en 12 denes nom que rep les diferents partides . Cadascuna esta composta per diferents quantitats de masos amb el seu acabdillo anomenat pel ajuntament aquest cada dos setmanes anava a Morella i rebia les odres o noticies que deia desprès al veïns. La dena del s Llivis son 21 mas la capital la torre Querol. El seu riu el Torre Segura i va del est al oest per tota la plana fèrtil.
+Hasta mitat S.XX eren mes 300 els masos habitats que estaven dividits en 12 denes nom que rep les diferents partides. Cadascuna esta composta per diferents quantitats de masos amb el seu acabdillo anomenat pel ajuntament aquest cada dos setmanes anava a Morella i rebia les odres o noticies que deia desprès al veïns. La dena del s Llivis son 21 mas la capital la torre Querol. El seu riu el Torre Segura i va del est al oest per tota la plana fèrtil.
 
 ASSAGADORS. Via pecuaria per on tenen dret a transitar el ramat. Sendera dels Llivis
 
@@ -32,7 +32,7 @@ Camins que abans eren de ferradura i aleshores s’han fet pistes per ha vehicle
 
 ## Les ermites
 
-1370 Sant Pere martir. Romer per ha fer les creus als bancals ,corrals . Festa l’últim cap de setmana d’abril
+1370 Sant Pere martir. Romer per ha fer les creus als bancals,corrals. Festa l’últim cap de setmana d’abril
 
 1460 eren 40 masos
 
@@ -54,7 +54,7 @@ Guareits; barbecho
 
 L’llar. Llumbreres. astillas de ginebre o tea, cresols, carburos. Porto part superior d’una porta.
 
-Saranyanos, prima de sego menjar per als gossos. corrals , graner, tots està comunicat sense eixir al carrer
+Saranyanos, prima de sego menjar per als gossos. corrals, graner, tots està comunicat sense eixir al carrer
 
 VIVENDA. Convertís, Aigua amb sucre, quan arribàvem. Gallines, conills, colomí,consum familiar. Ous per ha les xiques i vendre’ls al poble, per dotzenes. u Conte: conjunt 20 dotzenes d’ous.
 
@@ -64,7 +64,7 @@ Forn. Pedres de sauló, forn moruno dins de l mas al costa de la cuina.
 
 Mel. Molta flora, romer,timonet,espigol. Mel en suros redons,
 
-Carbó. carrasca,alzina, pi, importa el pes del carbó quan mes dura es la llenya millor. llenya molt seca,pedres base del forn,lleny grossa ,prima i coberta de terra. reposar tres dies. Segons gran era 15- 20.30- dies costava tot el proses.
+Carbó. carrasca,alzina, pi, importa el pes del carbó quan mes dura es la llenya millor. llenya molt seca,pedres base del forn,lleny grossa,prima i coberta de terra. reposar tres dies. Segons gran era 15- 20.30- dies costava tot el proses.
 
 Forn de calç.
 
@@ -76,7 +76,7 @@ LA FAMILIA. La familia troncal,amb membres de varies generacions.
 
 EDUCACIO. Escolo pagada per els pares al Llivis 1957 escola publica.
 
-La Cofradia. Va ser desprès construïda desprès de la conquesta de Blasc d’Alago com un Monte de Piedat o Almodi per ajudar als masovers, l’any 1345 peste negra o foc del cel o ergotisme cornezuelo del centeno o sègol Claviceps purpurea com que no els deixaven anar als hopital van comprar un edifici i varen fer la cofradia i hospital quan un masover no tenia casa al poble acudia ala cofradia ,deixava els animals descansava, tots els masovers tenies el dret als difunts els velaven a la capella i d’ali els portaven a la església.i habitacions per als malalts. Sempre han mirat pels masovers amb un sentit de solidaritat i ajuda atalentats al seu temps.
+La Cofradia. Va ser desprès construïda desprès de la conquesta de Blasc d’Alago com un Monte de Piedat o Almodi per ajudar als masovers, l’any 1345 peste negra o foc del cel o ergotisme cornezuelo del centeno o sègol Claviceps purpurea com que no els deixaven anar als hopital van comprar un edifici i varen fer la cofradia i hospital quan un masover no tenia casa al poble acudia ala cofradia,deixava els animals descansava, tots els masovers tenies el dret als difunts els velaven a la capella i d’ali els portaven a la església.i habitacions per als malalts. Sempre han mirat pels masovers amb un sentit de solidaritat i ajuda atalentats al seu temps.
 
 El majoral encarrecat de la festa de Sant Antoni.
 
@@ -88,10 +88,10 @@ Quan estaven malalts posaven un llençol BLANC i NEGRE per la mort.
 
 Anar a la parròquia algun esdeveniment de tipus reliquiós i acudir a l’església entre els 50 dies que hi ha des de Pasqua de Resurrecció a Pasqua Granada a complir en parroquia.
 
-Quan el mas era arrendat es pagava de la manera convinguda al amo el dia 3 d’abril esta data també era quan es canviaven de mas, diuen que sempre s’ha fet i es fa així . El motiu, hi ha poca faena al camp,els cereals encara no estan madurs i es prompte per ha sembrar pataques i llegums.
+Quan el mas era arrendat es pagava de la manera convinguda al amo el dia 3 d’abril esta data també era quan es canviaven de mas, diuen que sempre s’ha fet i es fa així. El motiu, hi ha poca faena al camp,els cereals encara no estan madurs i es prompte per ha sembrar pataques i llegums.
 
 La festa cada dos setmanes menys al temps de la sega des de El Corpus fins La Mare de deu d’Agost.
 
 Els contes era una manera d’ensenyar la relació de les coses, tindre capacitat de fer i desfer. El mateix que fan ara, a les escoles.
 
-La microhistória es la historia que s’ocupa de l’enyorança de la matria d’eon vas nàixer de els fets de gent normal i les accions típiques del quefer quotidià . Es el punt de vista ,la rama menys científica,menys arroga’n de la historia
+La microhistória es la historia que s’ocupa de l’enyorança de la matria d’eon vas nàixer de els fets de gent normal i les accions típiques del quefer quotidià. Es el punt de vista,la rama menys científica,menys arroga’n de la historia

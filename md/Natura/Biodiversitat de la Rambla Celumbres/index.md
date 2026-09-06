@@ -110,7 +110,7 @@ Los árboles son los seres vivos que alcanzan la edad más avanzada. Pueden ser 
 
 *Q. coccífera*. Coscoja. **Coscoll.** Tiene las hojas con el borde espinoso, verdes y lustrosas por ambas caras. Se ramifica desde la base y forma más o menos grande un arbusto. El nombre coccifera significa portador de quermes, un insecto homóptero de la familia de los coccidos, Kermes sp que vive sobre la coscoja y se alimenta a expensas de su jugo.
 
-*Quercus robur.* Roble*. **Roure.*** Sus hojas caducas son pequeñas y coriáceas, cubiertas de densos pelos estrellados por la parte inferior, y al margen con pequeños dientes regulares y agudos. Se caracterizan por sus flores amentos masculinos largos y péndulos y sus flores femeninas solitarias. Su fruto, es una bellota parecida a la de la encina pero con el cabillo que le une a la rama mucho más largo .El roble tiene mecanismos de defensa contra los parásitos. Las agallas o abogallas son estructura o crecimientos del tejido de tipo tumoral, que produce la planta ante un parásito aislándolo así del resto de la planta. Las agallas además suministran alimento y refugio a los parásitos, generalmente larvas de insectos a los que les permite vivir en los periodos de caída de las hojas en otoño e invierno.
+*Quercus robur.* Roble*. **Roure.*** Sus hojas caducas son pequeñas y coriáceas, cubiertas de densos pelos estrellados por la parte inferior, y al margen con pequeños dientes regulares y agudos. Se caracterizan por sus flores amentos masculinos largos y péndulos y sus flores femeninas solitarias. Su fruto, es una bellota parecida a la de la encina pero con el cabillo que le une a la rama mucho más largo.El roble tiene mecanismos de defensa contra los parásitos. Las agallas o abogallas son estructura o crecimientos del tejido de tipo tumoral, que produce la planta ante un parásito aislándolo así del resto de la planta. Las agallas además suministran alimento y refugio a los parásitos, generalmente larvas de insectos a los que les permite vivir en los periodos de caída de las hojas en otoño e invierno.
 
 Quercus humilis. Quejigo. Arbusto fagáceo de hojas duras algo vellosas por el envés.
 
@@ -630,7 +630,7 @@ El sentido más importante para las aves es la vista. Están mejor dotadas en es
 
 Otro sentido importante es el oído, a pesar de que su estructura sea menos perfecta y se parezca a la de los reptiles.
 
-**De la guía d’aus comunes a la Comunitat Valenciana. Cinctorres** ,y en los observatorios de aves del municipio número 6 Els Tallants o Mirador y también la estación de censo donde se encuentra la Rambla Celumbres, son, un lugar privilegiado para la observación de aves autóctonas y migratorias, las aves que se citan son las especies más comunes y conocidas; Buitre leonado, Chova piquirroja, Carbonero común, Carbonero garrapinos, Vencejos sp, Pinzón Vulgar, Mirlo común, vencejo pálido, Mosquitero papialbo, Herrerillo capuchino, Pelirrojo, Avion roquero, Chochín, Agateador común, Paloma torcaz, Cuervo, Zorzal charlo, Pico picapinos, Pito real, Carruca capiolata, Mito, Reyezuelo listado, Petirrojo, Topados azul, Vendejo real, Lugano, Verdecillo, Cuco común, Picituerto común, Arrendajo, Escribano montesino, Acetor común, Halcon peregrino.
+**De la guía d’aus comunes a la Comunitat Valenciana. Cinctorres**,y en los observatorios de aves del municipio número 6 Els Tallants o Mirador y también la estación de censo donde se encuentra la Rambla Celumbres, son, un lugar privilegiado para la observación de aves autóctonas y migratorias, las aves que se citan son las especies más comunes y conocidas; Buitre leonado, Chova piquirroja, Carbonero común, Carbonero garrapinos, Vencejos sp, Pinzón Vulgar, Mirlo común, vencejo pálido, Mosquitero papialbo, Herrerillo capuchino, Pelirrojo, Avion roquero, Chochín, Agateador común, Paloma torcaz, Cuervo, Zorzal charlo, Pico picapinos, Pito real, Carruca capiolata, Mito, Reyezuelo listado, Petirrojo, Topados azul, Vendejo real, Lugano, Verdecillo, Cuco común, Picituerto común, Arrendajo, Escribano montesino, Acetor común, Halcon peregrino.
 
 Aves comunes en todo el ecosistema también son: Águila real, Alcotán europeo, Cernícalo vulgar, Abubilla, Alcaraván común, Búho real, Golondrina común, Jilguero, Mochuelo europeo, Gavilán, Halcón de Leonor, Gorrión común. Garza Pic pica. Perdiz, Chotacabras europeo, entre otras.
 
@@ -806,7 +806,7 @@ La escasez de animales que consumen líquenes es posible que sea por la capacida
 
 ## Bibliografía
 
-Cinctorres volum I Introduccio a la Geologia del Terme. Cinctorres Club 1999. .
+Cinctorres volum I Introduccio a la Geologia del Terme. Cinctorres Club 1999..
 
 Enciclopedia de Ciencias Naturales de Centrarquidos a Granados. Editorial Brugera S.A.
 

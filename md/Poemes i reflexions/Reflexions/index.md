@@ -51,7 +51,7 @@ El roig de les roselles, pareixen, entre les espigues del cereals i les herbes d
 
 Has mirat be les flors?
 
-Amb la seua bellesa totes tenen diferent forma, textura, color, olor o perfum ,hi ha que son d’aparença humil, que casi se camuflen en el seu entorn,altres vistoses, altives ,inclòs amb espines com a defensa, però totes,son necessàries. Ens els arbres, arbust, hi ha flor, en tot el que creix i té fruit.
+Amb la seua bellesa totes tenen diferent forma, textura, color, olor o perfum,hi ha que son d’aparença humil, que casi se camuflen en el seu entorn,altres vistoses, altives,inclòs amb espines com a defensa, però totes,son necessàries. Ens els arbres, arbust, hi ha flor, en tot el que creix i té fruit.
 
 ## 6ª
 

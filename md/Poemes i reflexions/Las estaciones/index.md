@@ -16,7 +16,7 @@ En verano me gusta disfrutar mirando los campos de cereales con su color dorado 
 
 Al principio del otoño, es hermoso ver las viñas con su fruto en sazón. Los paseos por el pinar, ver como los robles cambian de color donde dominan los ocres en diferentes tonos, hundir los pies en la hojarasca i sentir como poco a poco la tierra empieza a dormirse..
 
-El invierno es el silencio apacible de la nevada, de las calles desiertas, de las largas .noches, del calor del hogar.
+El invierno es el silencio apacible de la nevada, de las calles desiertas, de las largas.noches, del calor del hogar.
 
 *Paquita. 2010*
 

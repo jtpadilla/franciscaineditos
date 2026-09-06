@@ -13,7 +13,7 @@ Las viudas y las casadas, y algunas guapas chiquitas.
 Van todas desesperadas, en busca de sus morcillas.  
 El tocinero, Manuel Padilla.  
 Es conocido por su maestría.  
-Sus ricos blanquets , tarbena,chorizos marinas  
-y también las longanizas ,son cosas muy ricas.  
+Sus ricos blanquets, tarbena,chorizos marinas  
+y también las longanizas,son cosas muy ricas.  
 Si lo quieres comprobar. Su domicilio es:  
 En Ronda Vinatea y tiene el numero tres.  

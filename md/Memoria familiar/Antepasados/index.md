@@ -25,7 +25,7 @@ Hijos Francisca, Tadeo y Jose Manuel Julián Querol.
 Hija  
 Francisca Julián Querol +Juan Padilla Agut.  
 Hijos Juan Padilla Julián + Mª dolores Orenga.  
-Hijos: David Padilla Orenga .  
+Hijos: David Padilla Orenga.  
 Joan Padilla Orenga.  
 Manuel Padilla Julian + Carmen Segarra Ferrando.  
 Hijos: Ferran Padilla Segarra.  

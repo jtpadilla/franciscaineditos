@@ -14,9 +14,9 @@ El liquen creix com si fos un sol individu i així se li atribueix una sola nomi
 
 L’alga s’instal·la vaig del liquen. Així és com rep la llum que necessita per realitzar la fotosíntesis,i el fong li proporciona la humitat necessària.
 
-El tipus de líquens són variables encara que poden resumir-se en quatre tipus :crustaci, escamós, foliós i fruticulós. Cada espècie de liquen es correspon amb un fong diferent.
+El tipus de líquens són variables encara que poden resumir-se en quatre tipus:crustaci, escamós, foliós i fruticulós. Cada espècie de liquen es correspon amb un fong diferent.
 
-Son plantes pioneres i molt resistents. Es troben distribuïts per tot tipus de substrats inerts i orgànics des de les roques, minerals ,fulles, cloques d’animals, troncs dels arbres etc. Una característica dels líquens és la seua sensibilitat atmosfèrica. Cada espècie tolera uns límits mol estrets de substancies contaminants, la seua absència o la seua presència permeten saber la carrega atmosfèrica de productes contaminants.
+Son plantes pioneres i molt resistents. Es troben distribuïts per tot tipus de substrats inerts i orgànics des de les roques, minerals,fulles, cloques d’animals, troncs dels arbres etc. Una característica dels líquens és la seua sensibilitat atmosfèrica. Cada espècie tolera uns límits mol estrets de substancies contaminants, la seua absència o la seua presència permeten saber la carrega atmosfèrica de productes contaminants.
 
 L’escassetat d’animals que consumeixen líquens pot ser, per que algunes substancies liquèniques tenen un poder antibiòtic que han estat utilitzades per l\`home. La majoria de més de 400 substàncies liquèniques conegudes solament poden ser produïdes pel talo dels líquens.
 

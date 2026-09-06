@@ -12,7 +12,7 @@ i papallones que la brisa fa volar
 curtes, llargues,rodones,amb espiral,  
 que es gronsa com els cabells al caminar,  
 de diverses números de fulles encadenades  
-mirat cap a munt , cap avall i rodant ,el sol i la llum buscant  
+mirat cap a munt, cap avall i rodant,el sol i la llum buscant  
 amb formes infinites que no es poden comptar  
 Amb colors variats,com el pintor que mescla la pintura  
 i el arc de Sant Martí, les mira sorprès, com esglaiat  
@@ -20,7 +20,7 @@ els seus colors vius de tota mena,
 volen lluir-se, altives, destacar  
 i altes humils, menudes, com d’amagar.  
 I de textura variada com el vellut, dolsetes com coto en pel  
-rasposes, escamoses , amb punxes, eixes millor no tocar  
+rasposes, escamoses, amb punxes, eixes millor no tocar  
 Quantes flors!!!  
 Hi han,en els ribassos,entre els cudols, en els arbres,arbusts,  
-en tot el que creix ,en tot el que fa fruit.
+en tot el que creix,en tot el que fa fruit.

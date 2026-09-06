@@ -12,7 +12,7 @@ Camino de Vinaroz, hemos cruzado campos de rastrojos, donde el ganado busca espi
 
 Los montes de Vallivana se ven majestuosos, la carretera general 232 Vitoria Vinaroz serpentea entre ellos buscando el Baix Maestrat, pueblos donde se encuentran las mayores concentraciones de olivos milenarios del mundo que ha sobrevivido al tiempo gracias al trabajo de las gentes que los han cuidado con esmero durante decenas de generaciones, y al grado de adaptación al medio, herencia que debemos a las antiguas civilizaciones ibero- romanos. El olivo y su fruto es motor económico de esta comarca, con su aceite de gran calidad.
 
-Ya cerca de la costa Traigera, pueblo también alfarero, donde hasta las canales de sus casas son de cerámica. Botijos, cantaros tinajas y todo tipo de cacharos y utensilios propios de alfarería se comercializaban por toda esta zona y también en el interior de la provincia Un dicho popular es este : *Alfarero, oficio noble y bizarro ,entre todos el primero. Pues en la historia de barro Dios fue el primer alfarero y el hombre e primer cacharro.*
+Ya cerca de la costa Traigera, pueblo también alfarero, donde hasta las canales de sus casas son de cerámica. Botijos, cantaros tinajas y todo tipo de cacharos y utensilios propios de alfarería se comercializaban por toda esta zona y también en el interior de la provincia Un dicho popular es este: *Alfarero, oficio noble y bizarro,entre todos el primero. Pues en la historia de barro Dios fue el primer alfarero y el hombre e primer cacharro.*
 
 Parece que el aire es distinto, nos acercamos a la costa se aprecia una ligera línea azul que separa el horizonte del mar. Campos verdes de verduras adecuadas a cada época del año nos envuelve.
 

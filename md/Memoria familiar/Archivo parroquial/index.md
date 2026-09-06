@@ -30,7 +30,7 @@ Bautismo 1844 Josefa Antoli Aguilar hija de Francisco Antoli y Juaquina Aguilar 
 
 maternos Jose Aguilar y Barbara Polo.
 
-Defunción 25 agosto 1868 Vicente Antoli Polo 62 años hija de Jose Antoli y Barbara Polo ya difuntos .
+Defunción 25 agosto 1868 Vicente Antoli Polo 62 años hija de Jose Antoli y Barbara Polo ya difuntos.
 
 Matrimonio 22 noviembre 1939 Teodoro Monfort Sales 24 años de Castellfort y Rosario Julian Querol 26 años hija de Jose Julian Segura y Manuela Querol Milian de Morella,
 
@@ -38,6 +38,6 @@ Josefa Boix Guardiola hija de Jose Boix Ferrer de Morella y Francisca Guardiola 
 
 Por línea paterna nieta de Matias Boix y Boix de Morella y de Josefa Maria Ferrer de Herbeset.
 
-Por línea materna nieta de Francisco Guardiola Artola de Cinctorres y Tomasa Gasulla Amela de Cinctorres .
+Por línea materna nieta de Francisco Guardiola Artola de Cinctorres y Tomasa Gasulla Amela de Cinctorres.
 
 Vivio en calle San Luis n 88.

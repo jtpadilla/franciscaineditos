@@ -24,7 +24,7 @@ Quan es fan les deu de la nit, la plaça davant de l’església està plena de 
 
 Després caminar per mig poble, com una processó,els cavalls van davant, es té que anar amb conte que no et solten una guitza sols es veuen peus i potes, com et descuides un poc et xafen, fins arribar als porxos de l’ajuntament, on el majoral, dóna a cada persona que porta un animalet una coqueta de panoli, farcida de confitura de carabassa que el capellà ha beneït, i un gotet de aiguardent a qui en vol.
 
-Aixó no esta bé !!!. Si es la nostra festa; per que no ens dóna la coqueta a nosaltres?.
+Aixó no esta bé!!!. Si es la nostra festa; per que no ens dóna la coqueta a nosaltres?.
 
 Aquest any l’ama m’ha donat a tastar, un trosset del pastis, que bo!!!.
 

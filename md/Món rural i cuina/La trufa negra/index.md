@@ -36,7 +36,7 @@ El faraón Keops que mando construir la pirámide de Guiza S. 2580 a C. ofrecía
 
 Sus beneficios los cita Pitágoras de Samos en el S. VI a C.
 
-Teofrasto S.III a C. discípulo y sucesor de Aristóteles, consideraba que las trufas se desarrollan en áreas donde se producen tormentas abundantes, que suelen ir de la mano de los truenos y relámpagos.
+Teofrasto S.III a C. discípulo y sucesor de Aristóteles, consideraba que las trufas se desarrollan en áreas donde se producen tormentas abundantes, que suelen ir de la mano de los truenos y relámpagos.
 
 Plutarco la creía generada por los rayos en la acción combinada del agua y la tierra o sea que son el resultado de la fusión de los tres elementos.
 
@@ -50,7 +50,7 @@ En el talmud judío se menciona el consumo de trufas del desierto.
 
 3.1 Afrodisiacas
 
-Galeno de Pérgamo (S. II a.C) fue el precursor de esta teoría que todavía sigue teniendo su mitad de leyenda y su mitad de realidad, y que recomendaba su consumo para “producir excitación y voluptuosidad”.
+Galeno de Pérgamo (S. II a.C) fue el precursor de esta teoría que todavía sigue teniendo su mitad de leyenda y su mitad de realidad, y que recomendaba su consumo para “producir excitación y voluptuosidad”.
 
 Aristóteles se refería a la trufa como “un fruto consagrado a Afrodita” Se dice que Napoleón y el Marqués de Sade las usaban como estimulante sexual.
 
@@ -58,7 +58,7 @@ El Tratado de Ibn Abdun S. XIII sobre la vida material de la ciudad de Sevilla p
 
 En la Edad media el consumo de trufas era considerado como diabólico, entre otras cosa se creía que contenía venenos mortales y era comida de brujas, debido a su color casi negro, estar enteradas en la tierra y su olor a veces picante, intenso y cabruno.
 
-Los Antonianos, “Los guerreros del fuego” es una orden que nació en Etiopia en el año 370 militar, religiosa y hospitalaria para proteger a los cristianos de esta zona de África, es una de las órdenes religiosas mas enigmáticas y desconocidas de la cristiandad, esta misteriosa congregación debe su nombre a san Antonio Abad, famoso por sus visiones y tentaciones diabólicas. Empezaron a utilizar la trufa como remedio para enfermedades venéreas, lepra, sarna… pero sobre todo la utilizaron contra el  ergotismo  o fuego de San Antonio una extraña epidemia que asolaba la Europa Medieval provocada por la toma de micotoxinas muy frecuentemente asociadas al centeno.
+Los Antonianos, “Los guerreros del fuego” es una orden que nació en Etiopia en el año 370 militar, religiosa y hospitalaria para proteger a los cristianos de esta zona de África, es una de las órdenes religiosas mas enigmáticas y desconocidas de la cristiandad, esta misteriosa congregación debe su nombre a san Antonio Abad, famoso por sus visiones y tentaciones diabólicas. Empezaron a utilizar la trufa como remedio para enfermedades venéreas, lepra, sarna… pero sobre todo la utilizaron contra el ergotismo o fuego de San Antonio una extraña epidemia que asolaba la Europa Medieval provocada por la toma de micotoxinas muy frecuentemente asociadas al centeno.
 
 Como remedio a esta enfermedad, daban una mejor alimentación a los enfermos del cornezuelo, (enfermedad que venía de la mano del consumo del centeno), aportando a su dieta la ingesta de carne de cerdo, cerdos que criaban ellos mismos en el monte. El uso de cerdos en el monte trajo consigo el descubrimiento de trufa, y su posterior aplicación a muchos ámbitos de su día a día; no hay que olvidar que el cerdo es un animal con un instinto muy desarrollado para encontrar nuestro preciado hongo, la trufa.
 
@@ -66,13 +66,13 @@ La trufa cayó en el olvido y no apareció en los libros de cocina de la época 
 
 El misterio de su naturaleza ha sido durante siglos objeto de disputas e hipótesis, también el austero pensador Savonarola nacido en 1452 alertó a los consumidores de trufas que fueran temerosos de Dios. Entre los que se encontraba uno de sus principales enemigo el Papa de origen español Alejandro VI nacido en Játiva 1431.
 
-Alfonso Ciccarelli médico nacido en Bevagna (Perugia) 21 de febrero 1532, escribió una monografía sobre las trufas de Umbria: *"Opusculum de Tuberibus* En el trabajo se ocupó de la etimología, la nomenclatura y los usos populares y le indicó a una división en clases.
+Alfonso Ciccarelli médico nacido en Bevagna (Perugia) 21 de febrero 1532, escribió una monografía sobre las trufas de Umbria: *"Opusculum de Tuberibus* En el trabajo se ocupó de la etimología, la nomenclatura y los usos populares y le indicó a una división en clases.
 
 En el Renacimiento volvió a resurgir y a principios del S.XIII empezaron a ser valoradas y buscadas con la ayuda de cerdos y perros. Las trufas pasaron a ser un producto selecto y elegido por los grandes cocineros de la época. Hasta esta época no se acepto totalmente la idea de que las trufas eran organismos autónomos, o sea hongos.
 
 Ravel un experto francés afirmo en 1857 que las trufas eran producidas por la picadura de una determinada mosca en las raíces de la encina. La relación de la trufa y la encina ya quedaba establecida.
 
-Brillat-Savarin jurista francés, autor del primer tratado de gastronomía (*Fisiología del Gusto*, 1825). se refería a la trufa como un diamante de la cocina y que en ocasiones determinadas “hace a las mujeres más tiernas y a los hombres más amables.”
+Brillat-Savarin jurista francés, autor del primer tratado de gastronomía (*Fisiología del Gusto*, 1825). se refería a la trufa como un diamante de la cocina y que en ocasiones determinadas “hace a las mujeres más tiernas y a los hombres más amables.”
 
 Entre las propiedades de la trufa está la abundancia de vitaminas y minerales. Es un alimento muy ligero, su contenido de hidratos de carbono y grasas es moderado, y generosa en agua como todos los hongos.
 
@@ -112,7 +112,7 @@ Dos trufas se disputan la supremacía: la trufa blanca de Alba (Tuber magnatum) 
 
 **Especie**: Tuber melanosporum).
 
-Las trufas son hongos que se desarrollan enteramente bajo tierra. Viven asociadas a raíces o dependientes de ellas; su micelio está formado por filamentos tabicados y ramificados, y los aparatos esporíferos tienen aspecto de tentáculo redondeado, sin rizoide ni micelio aparente. Consta de dos partes la cortical o peridio que es carnosa o coriácea, verrugosa o más raramente lisa, y la interna o gleba, en las que están las ascas, y que constituyen propiamente la trufa, que vive en simbiosis con algunos tipos de árboles. Tal relación de conveniencia, beneficia a ambas plantas, ya que el micelio, como todas las setas está privado de clorofila que obtiene de la planta superior y ésta recibe un aporte extra de nutrientes a través del aparato radical conectado a su raíz.
+Las trufas son hongos que se desarrollan enteramente bajo tierra. Viven asociadas a raíces o dependientes de ellas; su micelio está formado por filamentos tabicados y ramificados, y los aparatos esporíferos tienen aspecto de tentáculo redondeado, sin rizoide ni micelio aparente. Consta de dos partes la cortical o peridio que es carnosa o coriácea, verrugosa o más raramente lisa, y la interna o gleba, en las que están las ascas, y que constituyen propiamente la trufa, que vive en simbiosis con algunos tipos de árboles. Tal relación de conveniencia, beneficia a ambas plantas, ya que el micelio, como todas las setas está privado de clorofila que obtiene de la planta superior y ésta recibe un aporte extra de nutrientes a través del aparato radical conectado a su raíz.
 
 Aunque todas las especies son más o menos comestibles no son igualmente apreciadas-
 
@@ -218,7 +218,7 @@ En la gastronomía dels Ports, un descubrimiento importante durante los últimos
 
 ## 9. LA TRUFA NEGRA COMO CONDIMENTO
 
-La trufa es tradición, modernidad y originalidad en la cocina. Poca cantidad de trufa es suficiente para dar sabor y no se deben mezclar ( o con moderación ) con otros productos que alteren su aroma o sabor natural, como sofritos de ajo, tomate frito o especias de aroma y sabor potentes que enmascaran sus propiedades y perfume, se utilizan tanto crudas como cocidas como aceite de trufa, brandi de trufa o bien virutas de trufa, en rodajas o dados, dependiendo si se prepara como rellenos, en salsa, condimento aditivo, o si se utiliza en repostería.
+La trufa es tradición, modernidad y originalidad en la cocina. Poca cantidad de trufa es suficiente para dar sabor y no se deben mezclar (o con moderación) con otros productos que alteren su aroma o sabor natural, como sofritos de ajo, tomate frito o especias de aroma y sabor potentes que enmascaran sus propiedades y perfume, se utilizan tanto crudas como cocidas como aceite de trufa, brandi de trufa o bien virutas de trufa, en rodajas o dados, dependiendo si se prepara como rellenos, en salsa, condimento aditivo, o si se utiliza en repostería.
 
 La incorporación de láminas y jugos sometidos a cocción debe hacerse durante los 3 últimos minutos y así no se pierde ni volatiza la mayor parte de su esencia y aroma.
 
@@ -250,7 +250,7 @@ Pelamos y picamos la cebolla y la colocamos en una olla con un poco de aceite de
 
 ### TERNERA CON SALSA DE TRUFAS
 
-½ kg. de filetes de ternera, 1 trufa negra, 2 cebollas, 1 zanahoria, , ½ diente de ajo, tomillo, 200 ml. de vino blanco, aceite de oliva, sal y pimienta.
+½ kg. de filetes de ternera, 1 trufa negra, 2 cebollas, 1 zanahoria,, ½ diente de ajo, tomillo, 200 ml. de vino blanco, aceite de oliva, sal y pimienta.
 
 Preparamos las verduras lavando, pelando y cortando las zanahorias, la cebolla y el ajo.
 
@@ -320,7 +320,7 @@ Enciclopedia Temática Planeta. Tomo Botánica, Zoología, Ecología.
 
 Enciclopedia Larouse. Tomo 10.
 
-Julian Querol, Francisca: Masos de Morella. Vida i costums en la dena dels Llivis. Editorial, Morella .Universitat Jaume I. 2006.
+Julian Querol, Francisca: Masos de Morella. Vida i costums en la dena dels Llivis. Editorial, Morella.Universitat Jaume I. 2006.
 
 Paciani, Giovanni: El cultivo moderno y rentable de la trufa. Editorial DE Vecchi, S.A. 1992.
 
@@ -328,4 +328,4 @@ Santiago Reyna, S. García Barreda. Truficultura practica
 
 Editorial paraninfo. 2012.
 
-*Fotografías : Francisca Julián Querol.*
+*Fotografías: Francisca Julián Querol.*

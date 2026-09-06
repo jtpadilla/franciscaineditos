@@ -47,29 +47,29 @@ notas: "Les partides del terme de Castelló (secà, horta i marjal) amb l'origen
 
 **Coscollosa** (nom català) abundans arbust de la familia Quercus
 
-**La Zafra** (nom aràbic) construccions de baixa intensitat en el nucli urbà ,rotonda canyes.
+**La Zafra** (nom aràbic) construccions de baixa intensitat en el nucli urbà,rotonda canyes.
 
-**Cap** ( nom català) lloc on acaba la Sèquia Major
+**Cap** (nom català) lloc on acaba la Sèquia Major
 
 ## Partides de Marjal
 
-**Entrilles** ( nom català, d’Entrilles antic propietari) alqueria
+**Entrilles** (nom català, d’Entrilles antic propietari) alqueria
 
-**Catalana** ( nom catàla) antic propietari  
-**Patos** ( nom catala) abundancia de patos  
-**Borrassa** (nom català ) propietari alqueria de Borras  
-**Vinatxell** (nom arabic ) nom i cognom d’una persona  
-**Brunella** ( nom català) de Brunell  
-**La Molinera** ( nom català) lloc de molins
+**Catalana** (nom catàla) antic propietari  
+**Patos** (nom catala) abundancia de patos  
+**Borrassa** (nom català) propietari alqueria de Borras  
+**Vinatxell** (nom arabic) nom i cognom d’una persona  
+**Brunella** (nom català) de Brunell  
+**La Molinera** (nom català) lloc de molins
 
-**La Font de la Reina** ( nom català) La Font, la primera i coto arrocer
+**La Font de la Reina** (nom català) La Font, la primera i coto arrocer
 
 **Bovar** (nom català) abundancia de boges, arbus per a teixir seients de cadires, coto arrocer.
 
-**Senillar** ( nom català) terreny humit molta canya per a fer canyis. cot arrocer
+**Senillar** (nom català) terreny humit molta canya per a fer canyis. cot arrocer
 
-**Travesera** ( nom català, el seu nom ve pel camí que unis de través Caminas i Serradal) coto arrocer.
+**Travesera** (nom català, el seu nom ve pel camí que unis de través Caminas i Serradal) coto arrocer.
 
-**La Mota**. ( nom català) murs de pedra que separe La Cequia Major, coto arrocer
+**La Mota**. (nom català) murs de pedra que separe La Cequia Major, coto arrocer
 
 Fins ara s’han perdut molts usos i tipus de cultius i predominen els habitatges. Afortunadament, sempre estaran tant els noms romans i aràbics com els catalans que tots coneixem.

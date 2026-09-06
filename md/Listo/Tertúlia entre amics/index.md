@@ -18,7 +18,7 @@ GALA: Com ho saps? A mí els coets em fan por!
 
 TULA: El meu amo, ha portat a casa un llibret i una cinta verda, com la que tots els anys em fica al collaret.
 
-GALA: Quina vergonya! Una cinta verda penjada al collaret .No tens prou amb el llaç que portes al pirri?
+GALA: Quina vergonya! Una cinta verda penjada al collaret.No tens prou amb el llaç que portes al pirri?
 
 TULA: Mira qui parla! tu portes el teu nom grapat al teu collar per si et perds, i a més, l’abric de quadres que et fica la teua ama no t’afavorís gens ni mica; et fa gorda.
 

@@ -12,7 +12,7 @@ Mi-Moshé ad Moshé lo qam ke-Moshé.\<\< De Moisés a Moisés no hubo otro Mois
 
 La frase se remonta a las primeras décadas del siglo XIII, a poco de la muerte de Maimónides, y se atribuye a algunos de sus partidarios en las luchas en Provenza y en Cataluña donde se enfrentaron maimonistas y antimaimonistas luchas que afectaron al Judaísmo occidental.
 
-También fuera del Judaísmo gozó Maimónides de merecido renombre. Así Los escolásticos de la Iglesia cristiana dominica como el alemán Alberto Magno o el italiano Tomas de Aquino ( maestro en Francia) calificaron a rabi Moisés de Egipto de *Aguila de la Sinagoga,* así como en el Islam el poeta literato de las jarchas Ibn Saná al- Mulk ( en Egipto) se refirió a él en varios versos.
+También fuera del Judaísmo gozó Maimónides de merecido renombre. Así Los escolásticos de la Iglesia cristiana dominica como el alemán Alberto Magno o el italiano Tomas de Aquino (maestro en Francia) calificaron a rabi Moisés de Egipto de *Aguila de la Sinagoga,* así como en el Islam el poeta literato de las jarchas Ibn Saná al- Mulk (en Egipto) se refirió a él en varios versos.
 
 Esto demuestra que Maimónides tenía resonancia internacional en una misma época siglo XIII en distintos ámbitos geográficos, lo que llamamos Europa y mundo mediterráneo. Lo que sería la historia cultural de la humanidad.
 
@@ -20,7 +20,7 @@ Entre las fechas Cordoba 1135-1204 Fustat son casi 70 años que enmarcaron la vi
 
 Tenía un profundo conocimiento de la cultura árabe. Escribió la mayoría de sus obras en árabe pero con una particularidad que comparten casi todos los judíos andalusíes: Maimónides escribía en árabe, pero nunca con caracteres árabes, sino que utilizaba el hebreo, es decir, se vale de un \<\<aljamiado\>\> hebraicoárabe o arábigohebreo. Lo mismo habían hecho, antes o hicieron después muchos correligionarios compatriotas suyos.
 
-Las obras más importantes de Maimónides son varias, pero las tres principales son : *Guía de complejos , Luminaria y Segunda Ley,* las dos primeras escritas en árabe mientras que *la Segunda Ley* la redacto el mismo en hebreo.
+Las obras más importantes de Maimónides son varias, pero las tres principales son: *Guía de complejos, Luminaria y Segunda Ley,* las dos primeras escritas en árabe mientras que *la Segunda Ley* la redacto el mismo en hebreo.
 
 También cultivo *la filosofía*, *el rabinismo, la medicina, y la astronomía.* Preguntado por los rabinos de Francia si la astrología era compatible con la fe judía, contesta con una carta diciendo que la astrología basada en la influencia de los astros no era ciencia en absoluto.
 

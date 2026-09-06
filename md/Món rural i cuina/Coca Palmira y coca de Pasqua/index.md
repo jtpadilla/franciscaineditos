@@ -18,7 +18,7 @@ También se puede poner anis en grano remojado con agua, un huevo batido encima,
 
 ## COCA DE PASQUA DE TREME que hacia la tia Josefina
 
-EJEMPLO :  
+EJEMPLO:  
 Dos huevos en un vaso.  
 La misma cantidad de aceite que este un poco caliente
 

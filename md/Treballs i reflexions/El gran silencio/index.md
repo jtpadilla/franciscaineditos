@@ -8,7 +8,7 @@ notas: "Reseña del documental de Philip Gröning sobre la cartuja de la Grande 
 
 ![](img/image1.jpeg)
 
-Silenci, per a que parli ,la veu del silenci.
+Silenci, per a que parli,la veu del silenci.
 
 Vaig veure començat aquest film, una nit per la 2 de TVE, em va impressionar,desprès amb el temps no recordava el títol. Aleshores, degut a les classes Anàlisi de textos cinematogràfics, Tendències i perspectives, o ha recordat.
 

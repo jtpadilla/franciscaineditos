@@ -24,6 +24,6 @@ Pequeñas: Escasamente permiten refugiarse una o dos persona, están integradas 
 
 Medianas: las que permiten refugiarse un grupo de personas, pueden estar integradas en la pared o medio embebida en roca, con portal o linde de piedras cortas y curva.
 
-Grandes: Aisladas en medio del campo, con capacidad para personas y animales .Están construidas con hileras de piedras planas unas encima de otras a pocos centímetros, cubierta de *falsa volta* y dintel alineado. Todas tienen técnica equilibrio y estética. Verdaderas obras maestras.
+Grandes: Aisladas en medio del campo, con capacidad para personas y animales.Están construidas con hileras de piedras planas unas encima de otras a pocos centímetros, cubierta de *falsa volta* y dintel alineado. Todas tienen técnica equilibrio y estética. Verdaderas obras maestras.
 
 *Francisca Julián Querol*

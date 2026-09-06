@@ -48,9 +48,9 @@ De su primera esposa **Maria Luisa Nebot i Lafont** de Vistabella tuvo una hija 
 
 7º **Jose Joaquin Polo de Bernabe i Fabra** casado con **Francisca de Paula Mundina i Marco** de Villareal hijos: Manuel Maria Polo de Bernabe, Mariana, Francisco, Luis y Josefa.
 
-8º **Manuel Maria Polo de Bernabe i Mundina** (Vistavella 1780-1832 ?) *‘*casado en Valencia con **Peregrina Borras Berenguer d'Entença i Borrás Garcés de Marcilla** de Sagunto, hijos: José Polo de Bernabé i Borras, Francisco, Peregrina y Manuela
+8º **Manuel Maria Polo de Bernabe i Mundina** (Vistavella 1780-1832?) *‘*casado en Valencia con **Peregrina Borras Berenguer d'Entença i Borrás Garcés de Marcilla** de Sagunto, hijos: José Polo de Bernabé i Borras, Francisco, Peregrina y Manuela
 
-9º **Jose Polo de Bernabé i Borras** nació el 11 de diciembre de 1812 en Quartell, Valencia, y falleció el 4 de marzo de 1835 en Vila-Real ( Castellón) Senador vitalicio, Caballero Maestrante de la Real Caballería de Valencia, Gran Cruz de Carlos III, Gentilhombre de Cámara de Su Majestad y Vicepresidente del Congreso de los Diputados, economista y agricultor. Caso con **María Piedad Almunia y Rovira** de Alcoy (Alicante) De este matrimonio fueron hijos:
+9º **Jose Polo de Bernabé i Borras** nació el 11 de diciembre de 1812 en Quartell, Valencia, y falleció el 4 de marzo de 1835 en Vila-Real (Castellón) Senador vitalicio, Caballero Maestrante de la Real Caballería de Valencia, Gran Cruz de Carlos III, Gentilhombre de Cámara de Su Majestad y Vicepresidente del Congreso de los Diputados, economista y agricultor. Caso con **María Piedad Almunia y Rovira** de Alcoy (Alicante) De este matrimonio fueron hijos:
 
 **Roberto Polo de Bernabé y Almunia,** que casó con Amalia Ruiz de la Prada y Caballero, y fueron padres de:
 
@@ -80,7 +80,7 @@ María Luisa Lequerica Bernabé.
 
 **Araceli Polo de Bernabé y Almunia** fue la heredera todos sus cuantiosos bienes. Conocida en valencia como **La Pola**, Murio arruinada en 1934 en Burgassot.
 
-Hasta aquí, todo lo que he encontrado sobre el linaje Polo de Bernabé, que en la tercera generación empezó su andadura en Cinctorres.( *seguiré* *investigando en su archivo municipal*) El apellido Polo aún perdura en familias cinctorrana, en otras se ha perdido como ha ocurrido por parte de mi familia materna. El motivo de esta investigación ha sido debido al trabajo que he hecho sobre la historia de la Casa Santjoans, que termino, con la publicación de mi libro Paviment Ceràmic de la casa Santjoans, publicado por La Diputación Provincial de Castellón en 2012.
+Hasta aquí, todo lo que he encontrado sobre el linaje Polo de Bernabé, que en la tercera generación empezó su andadura en Cinctorres.(*seguiré* *investigando en su archivo municipal*) El apellido Polo aún perdura en familias cinctorrana, en otras se ha perdido como ha ocurrido por parte de mi familia materna. El motivo de esta investigación ha sido debido al trabajo que he hecho sobre la historia de la Casa Santjoans, que termino, con la publicación de mi libro Paviment Ceràmic de la casa Santjoans, publicado por La Diputación Provincial de Castellón en 2012.
 
 *Francisca Julián Querol. Otoño 2018*
 

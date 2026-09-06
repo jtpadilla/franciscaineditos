@@ -14,7 +14,7 @@ Y el Pregón en total entrañable, no creo que a nadie le fuera indiferente., pu
 
 Lo que no sabía, es que hubiera un pueblo conocido por ti, que se llamara Padilla. Conozco la historia de los Comuneros de Castilla y que se celebre la efemérides en Villalar de los Comuneros, en nuestras vacaciones siempre quisimos ir a conocer ese pueblo, no se por que como nunca lo hicimos.
 
-El primer apellido de mis hijos es Padilla mi hijo mayor es Juan Padilla Julian y mi cuñada se llama Maria Padilla Agut y su hermano Juan Padilla Agut el padre de mis hijos, en broma siempre les decía ( sois una familia muy histórica y protestona).
+El primer apellido de mis hijos es Padilla mi hijo mayor es Juan Padilla Julian y mi cuñada se llama Maria Padilla Agut y su hermano Juan Padilla Agut el padre de mis hijos, en broma siempre les decía (sois una familia muy histórica y protestona).
 
 Como ves a tus escritos a todos les saco miga. Un beset y Buenas noches.
 

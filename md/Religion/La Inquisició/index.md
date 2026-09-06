@@ -6,7 +6,7 @@ notas: ""
 
 # La Inquisició
 
-Amb la missió de localitzar, procesar i sentenciar a les persones trobades culpables d’heretgia el papa Lluci III , l’any 1184 promulgá la seua butlla amb la intenció d’acabar al l’heretgia càtara. Aquesta butlla i aquesta primigènia **Inquisició Medieval** foren els embrions del “Tribunal de la Santa Inquisición y del santo Oficio”.
+Amb la missió de localitzar, procesar i sentenciar a les persones trobades culpables d’heretgia el papa Lluci III, l’any 1184 promulgá la seua butlla amb la intenció d’acabar al l’heretgia càtara. Aquesta butlla i aquesta primigènia **Inquisició Medieval** foren els embrions del “Tribunal de la Santa Inquisición y del santo Oficio”.
 
 En una primera etapa, el Papa donà tot el poder inquisitorial als Bisbes, la qual ha rebut el nom **d’Inquisició episcopal**.
 

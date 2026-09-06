@@ -30,7 +30,7 @@ Estaba don Quijo pesaroso, al no ser armado caballero, sus hazañas no tenían l
 
 El ventero que tenia barruntos de su falta de juicio ya no tuvo ninguna duda y decidió seguirle la corriente con humor. Le dijo que andaba muy acertado y que tal presupuesto era natural.
 
-Como siempre y en todo luga,r por muy excepcional que sea el asunto, el monetario lo es más, esto no ha cambiado con los años ni con las épocas .El ventero, hombre práctico ya veía que no cobraría ni le exigua cena ni alojamiento, así que lo mejor era disfrutar él y sus huéspedes labriegos de aquel acontecimiento tan singular. Diciéndole, que un caballero por muy noble que sea no puede andar por el mundo sin las mínimas condiciones, dinero, camisa limpia y algún ungüento para las posibles heridas, por si las condiciones caballerescas lo necesita, pues no siempre los caballeros andantes están libres de alguna desgracia en su recorrer por campos y desiertos. Don Quijote acepto el consejo del castellano aunque lo más urgente es que le diga el lugar donde velar las armas ante la ausencia de capilla.
+Como siempre y en todo luga,r por muy excepcional que sea el asunto, el monetario lo es más, esto no ha cambiado con los años ni con las épocas.El ventero, hombre práctico ya veía que no cobraría ni le exigua cena ni alojamiento, así que lo mejor era disfrutar él y sus huéspedes labriegos de aquel acontecimiento tan singular. Diciéndole, que un caballero por muy noble que sea no puede andar por el mundo sin las mínimas condiciones, dinero, camisa limpia y algún ungüento para las posibles heridas, por si las condiciones caballerescas lo necesita, pues no siempre los caballeros andantes están libres de alguna desgracia en su recorrer por campos y desiertos. Don Quijote acepto el consejo del castellano aunque lo más urgente es que le diga el lugar donde velar las armas ante la ausencia de capilla.
 
 El lugar, el corral, y encima de la pila donde se abrevan las cabalgaduras, en la pica al lado del pozo fue donde puso las armas para velarlas toda la noche, el sitio no era el más acertado, pues aunque los huéspedes estaban al corriente de todo era necesario abrevar a su recua y al quitar la armadura \`para dar de beber a las bestias empezó don Quijote a dar mandobles a quien se acercara con lo que tuvo las de perder.
 
@@ -60,11 +60,11 @@ El cura y el barbero creen que hay de eliminar estos libros de caballería que t
 
 De buena gana el ama les dio las llaves del aposento donde estaban guardados los libros, mas de cien entre grandes y pequeños además de una escudilla con agua vendita no fuera que algún diablo de los que estaban entre las paginas pudieran quedarse en el aposento y también les dijo que no quedara ninguno, pues todos eran culpables de la locura de su señor, lo mismo pensaba la sobrina, lo mejor hacer una buena hoguera con ellos.
 
-El primer libro que le dio el barbero al cura fue Amadís de Gaula ,el mas famoso libro de caballería y el primero que se imprimió en Zaragoza 1508 el cura quería empezar con el la hoguera pero el barbero dijo que por ser el primero se debía guarda.
+El primer libro que le dio el barbero al cura fue Amadís de Gaula,el mas famoso libro de caballería y el primero que se imprimió en Zaragoza 1508 el cura quería empezar con el la hoguera pero el barbero dijo que por ser el primero se debía guarda.
 
 Varios libros más se encontraron del mismo tema que no tuvieron la misma suerte.
 
-Al Espejo de Caballeria el cura le conoce y aunque cree que en los protagonistas hay mas ladrones que Caco , le perdona ya que vino de muy lejos de Italia.
+Al Espejo de Caballeria el cura le conoce y aunque cree que en los protagonistas hay mas ladrones que Caco, le perdona ya que vino de muy lejos de Italia.
 
 Palmerín de Inglaterra libro de amor de Francisco Moraes les parecía bueno.
 
@@ -72,7 +72,7 @@ No tuvo la suerte de salvarse de lo hogera el libro de nombre parecido El Palmer
 
 Los siguientes todos merecen guardarse por algún motivo:
 
-Tirant lo Blanc . de Joanot Martorell editado Valencia 1490 según el cura, merece leerse y recordar sus aventuras, pues los caballeros de dicha novela viven y mueren como personas reales.
+Tirant lo Blanc. de Joanot Martorell editado Valencia 1490 según el cura, merece leerse y recordar sus aventuras, pues los caballeros de dicha novela viven y mueren como personas reales.
 
 La Diana de Montemayor. Editada 1559
 
@@ -84,7 +84,7 @@ El Cancionero de Luis Maldonado editado en 1586 en Madrid
 
 La Galatea. De Cervantes. Editada en Alcala de Henares 1585 con el titulo 1ª parte.
 
-La Auraca . de Alonso de Ercilla. Editada en 1559 sobre la conquista en Chile por los españoles en tiempos de Felipe II
+La Auraca. de Alonso de Ercilla. Editada en 1559 sobre la conquista en Chile por los españoles en tiempos de Felipe II
 
 La Austriada de Juan Rufo. Poema épico Madrid 1582
 

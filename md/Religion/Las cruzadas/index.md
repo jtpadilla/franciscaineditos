@@ -26,7 +26,7 @@ Este aspecto religioso tiene como base la rivalidad entre el cristianismo y el i
 
 Las Cruzadas vislumbraban gloria, riqueza, fama, fortuna y nuevas tierras para los señores feudales que estaban preparados para las batallas. Para los vasallos era una forma de obtener la libertad del poder feudad gracias a las riquezas que se prometían.
 
-Otras , algo más sofisticadas, de entre ellas, el gran deseo de emprender negocios con Oriente, imposibilitado en gran manera por lo ataques del pueblo musulmán.
+Otras, algo más sofisticadas, de entre ellas, el gran deseo de emprender negocios con Oriente, imposibilitado en gran manera por lo ataques del pueblo musulmán.
 
 Como causas menores se podría enumerar el espíritu aventurero, el ansia de los señores feudales por lo desconocido y lo extraño.
 
@@ -50,6 +50,6 @@ Los Templarios surgieron de la asociación de ocho caballeros franceses, constit
 
 ## La guerra santa como factor en algún conflicto armado actual
 
-Las guerras , en mi opinión, en la actualidad y siempre, han tenido y tendrán motivos económicos. Estos pueden quedar enmascarados por otras muchas razones, entre ellas la religión, que lleva a fanáticos a secundarla.
+Las guerras, en mi opinión, en la actualidad y siempre, han tenido y tendrán motivos económicos. Estos pueden quedar enmascarados por otras muchas razones, entre ellas la religión, que lleva a fanáticos a secundarla.
 
 Actualmente, en el sigloXXI algunos movimiento musulmanes todavía utilizan el concepto de guerra santa a la que se suman muchos seguidores. Por medio de actos terroristas justifican la defensa de su doctrina.

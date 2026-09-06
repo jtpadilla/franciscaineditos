@@ -10,11 +10,11 @@ Uno llegaría a pensar que en la Edad Media como un atraso importante de la Huma
 
 En la cultura popular podemos ver claramente esas continuidades, sentido de pertenencia a una comunidad, la propiedad comunal o compartida, la espiritualidad mixta, tanto religiosa-dogmática como profana y la necesidad de vivir el día a día. Esta era compartida el pueblo llano con la burguesía y la aristocracia, el motivo “ La muerte no selecciona a quien llevarse, ante ella todos somos iguales”.
 
-El año 1000 es una fecha importante porque derivando de los males de la época( casos de peste, hambrunas y cambios climáticos) que llevaron a una gran crisis social y moral que hizo aparecer una crisis intelectual en el seno de la iglesia Católica.
+El año 1000 es una fecha importante porque derivando de los males de la época(casos de peste, hambrunas y cambios climáticos) que llevaron a una gran crisis social y moral que hizo aparecer una crisis intelectual en el seno de la iglesia Católica.
 
 Los grupos intelectuales que aparecieron de la mencionada crisis eran tildados por Roma de herejes, mientas que por los sectores populares como hombres y mujeres dignos de imitar. Eran para ellos predicadores que planteaban un regreso a la espiritualidad ante la crisis moral y social que circulaba por toda Europa. Criticaban la vida eclesiástica por ser elitistas, llena de lujos y pecados. Denunciaban la corrupción interna de la Iglesia, el robo sistemático a través de la” limosna y el diezmo” y la necesidad de volver a la vida humilde de las primeras comunidades cristianas empezando por el Papa y su corte.
 
-Esta forma de pensar no convenía al mundo eclesiástico y surge el concepto de hereje, como defensa de la Iglesia ante las ideas que podían derribar el orden establecido. Pero hay que decir que la herejía no surgía de fuera de la Iglesia sino que la crítica salía de dentro mismo. Estos hombres y mujeres( herejes) estaban culturalmente preparados y no pretendían dejar el seno de la Iglesia, sino antes bien, devolverle la espiritualidad que había perdido.
+Esta forma de pensar no convenía al mundo eclesiástico y surge el concepto de hereje, como defensa de la Iglesia ante las ideas que podían derribar el orden establecido. Pero hay que decir que la herejía no surgía de fuera de la Iglesia sino que la crítica salía de dentro mismo. Estos hombres y mujeres(herejes) estaban culturalmente preparados y no pretendían dejar el seno de la Iglesia, sino antes bien, devolverle la espiritualidad que había perdido.
 
 La existencia de estos grupos sufren persecución por la Iglesia que en estos momento pasa de ser perseguida por ser perseguidora.
 
@@ -26,9 +26,9 @@ Se fue extendiendo gracias a los “ beatos” que no era otra cosa que una copi
 
 Los “ beatos” era la forma de recordar las normas de la religión que en la época era necesario hacerlo por la relajación moral y de las normas religiosas, debido probablemente a las hambrunas, pestes y guerras de la época. Era primordial recordar el apocalipsis, el fin del mundo y el juicio final debido, posiblemente por las hambrunas, peste y guerras.
 
-En la actualidad se siguen copiando “beatos” ( Monasterio de Silos) pero por encargo no para evangelizar y recordar el fin del mundo, sino como libro de museo.
+En la actualidad se siguen copiando “beatos” (Monasterio de Silos) pero por encargo no para evangelizar y recordar el fin del mundo, sino como libro de museo.
 
-Hoy día estamos en un momento de relajación de las normas de la religión y para reeducar y reconducir no se utilizan libros como los “beatos” sino que se usan similitudes como : Las Pastorales de los obispos que se leen en las homilías de todas las iglesias de su diócesis. Recordando las normas de la religión en el aspecto que en cada momento se cree que más debe incidirse.
+Hoy día estamos en un momento de relajación de las normas de la religión y para reeducar y reconducir no se utilizan libros como los “beatos” sino que se usan similitudes como: Las Pastorales de los obispos que se leen en las homilías de todas las iglesias de su diócesis. Recordando las normas de la religión en el aspecto que en cada momento se cree que más debe incidirse.
 
 Otra forma son las publicaciones y divulgación por los medios de comunicación de las conclusiones que se llegan en los Sínodos de los obispos. Y de una forma más universal y para toda la cristiandad las Encíclicas papales.
 

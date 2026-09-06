@@ -21,23 +21,23 @@ Fet, amb pedres.
 Per a guardar la palla pallisses.  
 Corrals pals animals domèstics i bestià.  
 Casetes o barraques de pastors.  
-Per a guardar la neu , neveres.  
+Per a guardar la neu, neveres.  
 Fet,amb pedres.  
 Forns de calç per a desinfectar i blanquinar.  
 Masos, llar on viuen.una generació i més.  
 Forn morú, on es cou pa i també pastissets.  
 Per a creuar el riu, paseres.  
 Fet, amb pedres.  
-El paredador diu ,que totes sòn diferents.  
+El paredador diu,que totes sòn diferents.  
 Les que sònen buit roïns.  
 altres sònen com campanes  
-fent filera, una al costat del altra .les de damunt, al revés.  
+fent filera, una al costat del altra.les de damunt, al revés.  
 Fet amb pedres.  
 Arquitectura pràctica apresa de pares a fills  
 integrada en l’ambient i fent serveis.  
 Faena de pastors i masovers.  
 rtesans i picapedrers.  
 Fet amb pedres.  
-Pedra ,sempre pedra.
+Pedra,sempre pedra.
 
 *Paquita.*

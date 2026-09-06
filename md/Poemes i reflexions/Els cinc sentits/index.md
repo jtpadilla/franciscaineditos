@@ -72,6 +72,6 @@ La càlida palla.
 La suavitat dels cantos de riu.  
 La netedat de l’aigua de la font.  
 La puresa de la neu.  
-La fredor de la rosada matinera .I més coses més…més…
+La fredor de la rosada matinera.I més coses més…més…
 
 *Paquita.*

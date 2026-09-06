@@ -8,7 +8,7 @@ notas: "El mercat de Sant Antoni de Castelló: el mercat d'avui, el dels anys 60
 
 Quan entrem al mercat de Sant Antoni, veiem un espai modern amb instal·lacions actuals i gran varietat de productes de qualitat.
 
-Hi ha tres grans parades de carn i els seus derivats, tres paredes molt vistoses de fruita i verdura, una de tot tipus de peix fresc i congelat, un olivero amb molt de sortit dels seus productes i una panaderia que també és pastisseria i cafeteria. I a més de tot això el calor humà que li dona la gent que allí treballa, ELS SEUS VENEDORS .
+Hi ha tres grans parades de carn i els seus derivats, tres paredes molt vistoses de fruita i verdura, una de tot tipus de peix fresc i congelat, un olivero amb molt de sortit dels seus productes i una panaderia que també és pastisseria i cafeteria. I a més de tot això el calor humà que li dona la gent que allí treballa, ELS SEUS VENEDORS.
 
 Erundina (la més antiga del mercat, va ser una de les carnisseres des del començament l’any 1959) Javier, Inma, Pablo, Vicent, Vicent i Pepe, Carlos, Consuelo, Carmen,Vitonia, La Simona- Fina Tere.
 
@@ -34,7 +34,7 @@ PARADES DE VERDURA. Llauradors dels voltants, que portaven a vendre el que es co
 
 LES FRUITES DELS GRANS MAGATZEMS. Les peces un poc tocades eren molt més econòmiques i en donaven gran quantitat a vaix preu.
 
-MENUDES TENDES D’ULTRAMARINS. On hi havia de tot, en molt poc d’espai .
+MENUDES TENDES D’ULTRAMARINS. On hi havia de tot, en molt poc d’espai.
 
 PARADES D’OUS exclusivament.
 
@@ -44,9 +44,9 @@ D’ALLS.
 
 I al carrer, a la plaça Maestrazgo, un manoll de productes, que aleshores ens pareixen impossibles.
 
-Els noms de la gent que venia en les diferents parades, ens resulten estranys, però al barri dels Mestrets i del Rabal, era normal conèixer al veïns amb el mal nom o mote i ningú s’enfadava , doncs els noms familiars eren dels seus avantpassats..
+Els noms de la gent que venia en les diferents parades, ens resulten estranys, però al barri dels Mestrets i del Rabal, era normal conèixer al veïns amb el mal nom o mote i ningú s’enfadava, doncs els noms familiars eren dels seus avantpassats..
 
-La meua amiga i antiga companya del mercat de Sant Antoni Maria Cinta Gozalbo (l’olivera,) m’ha donat informació molt valuosa. Sense la seua memòria i ganes de donar testimoni d’aquell temps, moltes coses que ací es diu, no haguera segut possible .
+La meua amiga i antiga companya del mercat de Sant Antoni Maria Cinta Gozalbo (l’olivera,) m’ha donat informació molt valuosa. Sense la seua memòria i ganes de donar testimoni d’aquell temps, moltes coses que ací es diu, no haguera segut possible.
 
 Els següents mots estan agrupats per els diferents oficis de cadascú.
 
@@ -158,7 +158,7 @@ Venien del Grau, el venien pel carrer en un carret de mà i quan la venda era al
 
 - Pepe que portava un carro de mà.
 - Amadeo: Anava amb un carro que arrossegava un burro.
-- Ell damunt dret, una mà al ramal i cantava Gregorià ( A les 6 del matí passava per davant de ma casa al carrer Vázquez Mella i ens despertava a tots). El mercat d’Abastos estava al carrer Parc l’Oest.
+- Ell damunt dret, una mà al ramal i cantava Gregorià (A les 6 del matí passava per davant de ma casa al carrer Vázquez Mella i ens despertava a tots). El mercat d’Abastos estava al carrer Parc l’Oest.
 - Encarregat de la limpiesa: Pepe Llorenç.
 - Cobrador: Pepe Vidalo.
 - Arquitecte:Vicente Traver.

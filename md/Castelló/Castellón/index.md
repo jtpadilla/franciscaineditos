@@ -16,7 +16,7 @@ Jaime I, entrega el castillo a su lugarteniente Ximén Pérez de Arenós. El dí
 
 Castellón, durante la Guerra de Sucesión, dio su apoyo al Archiduque de Austria. El duque de Berwich entra victorioso en Castellón en 1707, derriba las murallas y este mismo año se publica el Decreto de Nueva Planta, que abole los fueros del Reino de Valencia, el 26 de Enero siguiente, se establece el nuevo Ayuntamiento conforme a las leyes castellanas.
 
-Durante la Guerra de la Independencia, fue sitiada por el mariscal Such .
+Durante la Guerra de la Independencia, fue sitiada por el mariscal Such.
 
 En el Trienio Liberal de 1822, pasa a ser capital de la provincia con el mismo nombre.
 

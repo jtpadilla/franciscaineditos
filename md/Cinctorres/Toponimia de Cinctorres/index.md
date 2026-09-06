@@ -12,7 +12,7 @@ En la Carta Pobla de Camaron 1194 38 antes de la reconquista ya se nombra CINCO 
 
 La toponimia de Cinctorres es múltiple, te voy a redactar dos, a mi las dos me gustan.
 
-La más antigua expresada en dos palabras: CIRCUM TURRIBUS, circundada, rodeada de Torres. Recorriendo el término municipal hay múltiples rastros de TORRES, ovaladas o cilíndricas .La más conocida es la TORRE DE EN NAVALLES, esta está pegada al mas de Santpere, y al lado de Sant Pere nombre de la ermita que se ve desde el pueblo.
+La más antigua expresada en dos palabras: CIRCUM TURRIBUS, circundada, rodeada de Torres. Recorriendo el término municipal hay múltiples rastros de TORRES, ovaladas o cilíndricas.La más conocida es la TORRE DE EN NAVALLES, esta está pegada al mas de Santpere, y al lado de Sant Pere nombre de la ermita que se ve desde el pueblo.
 
 LA TORRE SOLSONA o castellet de St. Marc también se aprecia de cualquier lugar (alguna vez he ido paseando con mi perro, la pista es buena se pueden ir a todas en coche, tiene unas vistas del pueblo preciosas, aunque me cuesta ir y volver toda la mañana)
 
@@ -30,7 +30,7 @@ Cuando la conquista a los musulmanes de la población por las tropas del Rey Jai
 
 Así que tenemos para escoger.
 
-Tonica discúlpame por el rollo que te mando ,pero ya sabes que me gusta terminar lo que empiezo.
+Tonica discúlpame por el rollo que te mando,pero ya sabes que me gusta terminar lo que empiezo.
 
 *Un beset. Paquita*
 

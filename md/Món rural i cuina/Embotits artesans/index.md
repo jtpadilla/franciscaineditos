@@ -24,7 +24,7 @@ Visceres: Cones, llengua, cor 40 %
 Cansalada blanca, 30 %.  
 Ou
 
-18 grs de sal , 18-20 gr d’espècies en total. Pebre blanc, pebre negre, anou moscada y clau a gust de cadascú.
+18 grs de sal, 18-20 gr d’espècies en total. Pebre blanc, pebre negre, anou moscada y clau a gust de cadascú.
 
 Cocció de les carns, Picar quan estiga freda, la cansalada no es cou, y afegir l’ou.
 
@@ -61,13 +61,13 @@ Budell de porc d’intestí gros.
 50% magre de porc.  
 50% cansalada de panxeta o papada.
 
-Pebre roig , pebre blanc i all matxucat al morter. Diluir amb brandi o vi.
+Pebre roig, pebre blanc i all matxucat al morter. Diluir amb brandi o vi.
 
 Budell de porc.
 
 ## ALTRA FORMULA DEL LLIBRE DE LA GENERALITAT DE EMBUTITS ARTESANS. xorisos
 
-Condiments: Sal,pebre roig, orenga,alls, clau, canella, nou mosacada ,i i brandi.
+Condiments: Sal,pebre roig, orenga,alls, clau, canella, nou mosacada,i i brandi.
 
 Sempre: pastar mexclar be i guardar al fret un dia abans d’ embutir
 

@@ -16,7 +16,7 @@ Hijo de Ramón Amat Llull e Isabel d´Erill, miembros de una importante familia 
 
 Ingresó en la corte del rey Jaime I de Aragón en calidad de paje de su segundo hijo Jaime, futuro Jaime II de Mallorca. Pronto los nobles fueron conscientes de la brillante inteligencia y lo convirtieron en preceptor del infante, más tarde llegó a ser senescal y mayordomo real del infante Jaime.
 
-Durante sus años en la corte, llevaba una vida licenciosa y mundana, durante este periodo se dedicaba a escribir canciones de amor, picarescas y divertidas para los trovadores .
+Durante sus años en la corte, llevaba una vida licenciosa y mundana, durante este periodo se dedicaba a escribir canciones de amor, picarescas y divertidas para los trovadores.
 
 Cuando tenía 25 años se casó con Blanca Picany, hija de una familia cristiana acomodada y seguramente, las dos familias se pusieron de acuerdo para casarlos, tuvieron dos hijos, Domingo y Magdalena.
 
@@ -40,7 +40,7 @@ El rey de Mallorca Jaime II, lo autorizó a predicar en las mezquitas y sinagoga
 
 En 1305 propuso su segunda versión: el proyecto REX BELLATOR, que consistía en la unificación de todas las órdenes militares bajo el poder de un príncipe cristiano. La conquista partiría de Almería, Granada, Norte de Äfrica y Egipto, bajo la protección de una flota. Parece claro el papel del rey Jaime II, que acababa de conquistar Murcia y que había establecido contactos para mercaderes de la Corona de Aragón en Alejandría.
 
-La caída de San Juan de Acre 1291 y Arwad 1302 El más activo (tres libros principales y muchas cartas y viajes a lo largo de treinta años .de los tratadistas d esa corriente de reformas fue Ramón Llull, que elaboró el proyecto Rex Bellator de unificación de las órdenes bajo un príncipe.
+La caída de San Juan de Acre 1291 y Arwad 1302 El más activo (tres libros principales y muchas cartas y viajes a lo largo de treinta años.de los tratadistas d esa corriente de reformas fue Ramón Llull, que elaboró el proyecto Rex Bellator de unificación de las órdenes bajo un príncipe.
 
 QUOMODO TERRA SANTA RECUPERARI POTEST (1292) elaborado bajo la impresión de la caída de Acre, Lo empezó siendo papa Nicolás IV y lo acabó con Sede vacante. La propuesta principal era la unificación de los Templarios, Hospitalarios, Teutónicos y caballeros de las órdenes peninsulares bajo el mando único y la creación de una escuela de misioneros versados en lenguas orientales.
 

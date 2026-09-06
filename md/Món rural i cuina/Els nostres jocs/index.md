@@ -50,7 +50,7 @@ La mare canta al xiquet amb la mà oberta i marcant amb un dit com si tingueren 
 
 Tita pon un coco.  
 Tita pon un ou.  
-Per al meu xiquet ( o xiqueta).  
+Per al meu xiquet (o xiqueta).  
 Que se’l menjarà...nyam...nyam...  
 
 ## Altres jocs
@@ -72,7 +72,7 @@ xibiricuri, fora estàs
 
 Un del joguets més habituals que portaven a les xiquetes Els Reigs Mags era un Saltador, que consistia en una corda de colors ben trenada amb un amarrador de fusta també de colors a cada punta just als extrems que dos xiquetes menaven mentrestant les altres fent torn saltaven sense tocar la corda. Quan algun jugador o feia malament i la tocava pagava i entrava la següent. Hi ha lletres o que es canten o reciten en aquest joc rítmic.
 
-Aquest és per a fer un salt cada passada :
+Aquest és per a fer un salt cada passada:
 
 La lluna,  
 la pruna,  
@@ -112,11 +112,11 @@ L’equip que comença en una paletada a de llançar el boli més lluny, dient \
 
 ### El guà
 
-El joc girava al voltant d’un foradet fet a terra que es nomenava GUÀ quan els carrers eren de terra. Una ralla feta a una certa distancia del guà es d’eon cada jugador alineat tira la seua boleta que abans era de terra. Quan més prop del forat millor. El que guanya és el primer que intenta amb un moviment dels dits col·locar dins del forat la boleta si ho aconseguís diu \<guá\>. Altres paraules que es diuen en diferents jugades són : “meras”, “tute”, “matute “ “a per aquella”, “caga bola”, “ fer manega”. Aquest joc era molt popular entre els xiquets.
+El joc girava al voltant d’un foradet fet a terra que es nomenava GUÀ quan els carrers eren de terra. Una ralla feta a una certa distancia del guà es d’eon cada jugador alineat tira la seua boleta que abans era de terra. Quan més prop del forat millor. El que guanya és el primer que intenta amb un moviment dels dits col·locar dins del forat la boleta si ho aconseguís diu \<guá\>. Altres paraules que es diuen en diferents jugades són: “meras”, “tute”, “matute “ “a per aquella”, “caga bola”, “ fer manega”. Aquest joc era molt popular entre els xiquets.
 
 ### El rogle
 
-Aquest és un joc de xiquetes, que formaven un cercle o rogle quan més gran millor. A vegades una xiqueta al mig del cercle contestant, cantant o recitant a les alres xiquetes .
+Aquest és un joc de xiquetes, que formaven un cercle o rogle quan més gran millor. A vegades una xiqueta al mig del cercle contestant, cantant o recitant a les alres xiquetes.
 
 La Bolangera del tupí  
 sense foc la fa bullir  

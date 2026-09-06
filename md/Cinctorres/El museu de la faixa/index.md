@@ -22,7 +22,7 @@ Fen Cordons
 
 ![](img/image5.jpg)
 
-Cinctorres, sempre ha sigut el poble dels faixeros. Aquest, és el nom que els deien al homes del poble que anaven venen les faixes per tota la península i nord d'Àfrica. Les faixes es teixien a les fàbriques i a casi totes les cases del poble, En la entrada hi havia l'obrador, amb el teler, el torn i el que feia falta. La dona de la casa compartia el seu temps, amb les eines de la llar i el teixir .
+Cinctorres, sempre ha sigut el poble dels faixeros. Aquest, és el nom que els deien al homes del poble que anaven venen les faixes per tota la península i nord d'Àfrica. Les faixes es teixien a les fàbriques i a casi totes les cases del poble, En la entrada hi havia l'obrador, amb el teler, el torn i el que feia falta. La dona de la casa compartia el seu temps, amb les eines de la llar i el teixir.
 
 Caminant pels carrers, s'escotava la música, tric trac tris trac, un so compassat que feien els telers per tot el poble. També era corrent escoltar els cants de les dones teixidores, por ser, per fer la feina més agradable.
 
@@ -40,25 +40,25 @@ En els obradors de les casses a més de teixir es tenia que fer també els canon
 
 ## Procés i peses
 
-**El teler,** és una ferramenta de treball, feta amb barres de fusta, que són, les que subjecten les preses. La teixidora està asseguda i fa tot el procés de teixir, amb els moviment compassats de peus i mans.
+**El teler,** és una ferramenta de treball, feta amb barres de fusta, que són, les que subjecten les preses. La teixidora està asseguda i fa tot el procés de teixir, amb els moviment compassats de peus i mans.
 
-El torn ,**és l'aparell necessari per ha fer els**canons**. Amb el fil del**fus**, rodant el** torn**, s'omplia el**canó,**aquest, mesura un pam i va dins de la**llançadora.
+El torn,**és l'aparell necessari per ha fer els**canons**. Amb el fil del**fus**, rodant el** torn**, s'omplia el**canó,**aquest, mesura un pam i va dins de la**llançadora.
 
-**El roll** és la matèria prima, el fil del **roll** és de les fabriques de filats. D'un **roll** es fan sis o set dotzenes de faixes d'espiga o cordó, sempre es comptem per dotzenes. Les mesures més corrents eren: 5x0´24, 6x0´28, 7x0´32, 8x0´36, 9xo´40, 10x0´44.
+**El roll** és la matèria prima, el fil del **roll** és de les fabriques de filats. D'un **roll** es fan sis o set dotzenes de faixes d'espiga o cordó, sempre es comptem per dotzenes. Les mesures més corrents eren: 5x0´24, 6x0´28, 7x0´32, 8x0´36, 9xo´40, 10x0´44.
 
-**Al plegador,** està enrotllat el**roll** amb el fil
+**Al plegador,** està enrotllat el**roll** amb el fil
 
-**Les pintes,** en son quatre, penjades al sostre del **teler.** Per elles creua els fils del**roll** un a un, formant l'ordit del teixit.
+**Les pintes,** en son quatre, penjades al sostre del **teler.** Per elles creua els fils del**roll** un a un, formant l'ordit del teixit.
 
-**La llançadora** i el fil del **canó** que porta dins, amb el moviment de part a part impulsat per la mà dreta, forma la trama del teixit.
+**La llançadora** i el fil del **canó** que porta dins, amb el moviment de part a part impulsat per la mà dreta, forma la trama del teixit.
 
 La pua,**està subjecta als costats del teler, amb la mà esquerra és fa atapeït el teixit, quan a creuat, d’un costats a l’altre el fil de la**llançadora.
 
-La catalina ,**és la barra de fusta rodona on s’enrola el teixit després d’apletat amb la**pua.
+La catalina,**és la barra de fusta rodona on s’enrola el teixit després d’apletat amb la**pua.
 
-**Les calques,** també son quatre barres de fusta, i van unides amb cordes a les **pintes**.
+**Les calques,** també son quatre barres de fusta, i van unides amb cordes a les **pintes**.
 
-Els moviments compassats dels peus i mans son l’art de **teixir** Es comença xafant amb el peu dret la **1ª calça**, seguit el peu esquerre amb la **4ª calça,** altra vegada el peu dret a la **2ª calça** i seguit el peu esquerre a la**3º calça,** al mateix temps la mà dreta fa passar la **llançadora,** i la mà esquerra baixa la**pua** en cada moviment dels peus, i tornar a començar un altra vegada. És com un ball, és també, l’art de Teixir.
+Els moviments compassats dels peus i mans son l’art de **teixir** Es comença xafant amb el peu dret la **1ª calça**, seguit el peu esquerre amb la **4ª calça,** altra vegada el peu dret a la **2ª calça** i seguit el peu esquerre a la**3º calça,** al mateix temps la mà dreta fa passar la **llançadora,** i la mà esquerra baixa la**pua** en cada moviment dels peus, i tornar a començar un altra vegada. És com un ball, és també, l’art de Teixir.
 
 *Paquita.*
 

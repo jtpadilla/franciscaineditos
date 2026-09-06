@@ -24,7 +24,7 @@ El majoral, agraeix l’assistència dels veïns. donat a cadascú el pa beneït
 
 ## Mare de Déu de Gràcia
 
-La devoció a la Mare de Deu de Gracia de Cinctorres es remunta al S.XIV doncs el 29 d’agost de 1367 consta un document amb un legat de Guiamó Favara .
+La devoció a la Mare de Deu de Gracia de Cinctorres es remunta al S.XIV doncs el 29 d’agost de 1367 consta un document amb un legat de Guiamó Favara.
 
 Anterior a l’ermita actual hi havia un altra que la primera pedra es va ficar en 1589.
 
@@ -34,7 +34,7 @@ El conjunt de l’edificació mes que de ermita pareix d’església parroquial
 
 No de bades la imatge de la Verge de Gracia es la patrona del poble.
 
-Mesura 25,70 x 11,46 m. i 12 m d’alçada adossat a l’esquerra del temple hi ha una torre campana edificat fora del temple la torre mesura uns 20 m. .
+Mesura 25,70 x 11,46 m. i 12 m d’alçada adossat a l’esquerra del temple hi ha una torre campana edificat fora del temple la torre mesura uns 20 m..
 
 Esta situada a 2 km del poble amb camí pla que mes pareix en passeig. La rogativa es celebra el dia 3 de maig. També es dona pel majoral el pa beneït als assistents en forma de prima.
 
@@ -44,13 +44,13 @@ L’Ermita de Sant Pere Màrtir de Verona consta en el Llibre Racional de la Par
 
 Es tracta d’un edifici treballat amb maçoneria i pedres carreus als cantons, amb façana als peus i portada de mig punt amb dovelles
 
-espadanya posterior d’un sols cos i també d’un sol vat La coberta es de teules a dos aigües .
+espadanya posterior d’un sols cos i també d’un sol vat La coberta es de teules a dos aigües.
 
-De plata rectangular d’un nau (21´40x8´90 m.)amb quatre trams ,marcats per dos arcs faixons apuntats en pedra ,mentre el tercer afegit ho es de maçoneria. En el presbiteri hi ha banc corregut i la coberta de fusta
+De plata rectangular d’un nau (21´40x8´90 m.)amb quatre trams,marcats per dos arcs faixons apuntats en pedra,mentre el tercer afegit ho es de maçoneria. En el presbiteri hi ha banc corregut i la coberta de fusta
 
 La seua festa, abans es feia el dia 29 d’abril, actualment es celebra el segon diumenge d’maig.
 
-Està situada, aproximadament a dos km. al S del poble .També es va en processó amb el capella i fidels pel camí que arriba al mas de San Pere, que està just davant de l’ermita i desprès de la missa es fan les benediccions als camps .com sempre s’ha fet. El majoral obsequia als assistents amb una prima beneïda.
+Està situada, aproximadament a dos km. al S del poble.També es va en processó amb el capella i fidels pel camí que arriba al mas de San Pere, que està just davant de l’ermita i desprès de la missa es fan les benediccions als camps.com sempre s’ha fet. El majoral obsequia als assistents amb una prima beneïda.
 
 ## Sant Marc
 
@@ -62,4 +62,4 @@ Construïda per voluntat testamentaria dels cònjuges, Bernat Carbó i Ursola Ce
 
 L’interior mesura (20x8,83m.) recolzada sobre tres arcs de diafragma gòtics i amb l’accés lateral mitjans arc de mig punt i dos finestres de tronera al mateix costat.
 
-La festa sempre s’ha celebrat el dia 25 d’abril. Actualment es fa l’últim diumenge d’abril .Es va caminat des de el poble amb la bandera, el capella i fidels pels camins de ferradura. Hi ha persones, que ho fan en vehicles per la pista que creua, tor el terme..
+La festa sempre s’ha celebrat el dia 25 d’abril. Actualment es fa l’últim diumenge d’abril.Es va caminat des de el poble amb la bandera, el capella i fidels pels camins de ferradura. Hi ha persones, que ho fan en vehicles per la pista que creua, tor el terme..

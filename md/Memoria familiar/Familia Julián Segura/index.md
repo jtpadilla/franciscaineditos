@@ -15,7 +15,7 @@ Rosaura Jordán viuda de ¿….Segura. Apellido oriundo de Castellfort
 
 Apellidos: Segura Monserrat.
 
-Vicenta Monserrat de Cinctorres. Viuda de: Vicente Segura Jordan . Hijo Manuel Segura Monserrat. Y seis hermanos más.
+Vicenta Monserrat de Cinctorres. Viuda de: Vicente Segura Jordan. Hijo Manuel Segura Monserrat. Y seis hermanos más.
 
 Apellidos: Segura Ferrer.
 
@@ -50,8 +50,8 @@ Aquí empieza los apellidos Julián Segura.
 
 186… Felipa Segura Mestre se casa con Ramón Julián de Morella.
 
-Hijos :  
-Antonio .Julián Segura casado con …………………  
+Hijos:  
+Antonio.Julián Segura casado con …………………  
 Hijos:  
 Ramona,  
 Pepet, (padre de Lucas)  
@@ -70,9 +70,9 @@ Juliana
 Tadeo  
 Rosario  
 Josefina  
-Manuel.( Tio Fidel
+Manuel.(Tio Fidel
 
-María. ( Tia Maria de la Parra) Julián Segura casada con…Manuel Segura Martí………………..
+María. (Tia Maria de la Parra) Julián Segura casada con…Manuel Segura Martí………………..
 
 Hijos:  
 Manuela  
@@ -88,7 +88,7 @@ En el testamento dotan a Antonio el mayor (l,amillorat) con el mas de Julián.
 
 Ramón murió en Cuba.  
 A Josep le dotan con 400 duros.  
-María .La casa de Morella.
+María.La casa de Morella.
 
 Bernardo Maset de Conill más tarde conocido como Maset de Benardo en Cinctorres.
 

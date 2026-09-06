@@ -8,7 +8,7 @@ notas: "Trabajo del curso con una opinión personal al final."
 
 Filósofo y teólogo nació en Le Pallet, cerca de Nantes (Francia)(1079). Tuvo un talento privilegiado. No siendo clérigo, fundó su propia escuela donde reunió numerosos discípulos en Melun, Corbeil, (París).
 
-Se enamoró y tuvo un hijo de Eloísa, cuyo tío, el canónigo de la catedral de Notre Dame de Paris ,Fulberto, incluso habiéndose casado estos en secreto, contrató sicarios para que castrasen a Abelardo. Este y Eloísa se retiraron a sendos monasterios, pero sus discípulos pidieron a Abelardo que volviera a su magisterio público. *Historia de desventuras*(1136) y *Cartas de Abelardo y Eloísa*, son testimonio de esos patéticos sucesos.
+Se enamoró y tuvo un hijo de Eloísa, cuyo tío, el canónigo de la catedral de Notre Dame de Paris,Fulberto, incluso habiéndose casado estos en secreto, contrató sicarios para que castrasen a Abelardo. Este y Eloísa se retiraron a sendos monasterios, pero sus discípulos pidieron a Abelardo que volviera a su magisterio público. *Historia de desventuras*(1136) y *Cartas de Abelardo y Eloísa*, son testimonio de esos patéticos sucesos.
 
 Abelardo fue percusor del proceso histórico por el que creció la influencia de Aristóteles respecto a la de Platón en la teología cristiana. Entre sus obras teológicas destaca *Si o no (1121)*. En ella presenta afirmaciones de las Sagradas Escrituras y de Los Padres de la Iglesia aparentemente contradictorias. Reclamó que la fe, fuese limitada por “principios racionales” que expuso en su *Dialéctica*(1121) por lo que algunos lo consideran padre de la escolástica.
 
@@ -26,4 +26,4 @@ Falleció el 21 de abril de 1142 en un priorato cluniarcense cerca de Chalon-sur
 
 ## Opinión personal
 
-He elegido este filósofo ya que creo que fue un genio admirable y su pensamiento estaba ocho siglos adelantado a su época. También he de confesar que su historia de amor, resulta apasionante y al mismo tiempo también lo es, la figura de Eloísa, mujer muy culta para su tiempo, que se oponía al matrimonio con su amado por considerar que un hombre de ciencia no podía dedicarse a una familia .
+He elegido este filósofo ya que creo que fue un genio admirable y su pensamiento estaba ocho siglos adelantado a su época. También he de confesar que su historia de amor, resulta apasionante y al mismo tiempo también lo es, la figura de Eloísa, mujer muy culta para su tiempo, que se oponía al matrimonio con su amado por considerar que un hombre de ciencia no podía dedicarse a una familia.

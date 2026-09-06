@@ -6,7 +6,7 @@ notas: "AUTORIA DUBTOSA: va firmat al final per Reinalda Artola Mestre ('Reina',
 
 # Cinctorres, poble de teixidors
 
-( fer cordons).  
+(fer cordons).  
 Afanat dona meua,  
 afanat a les faixes blanques cordonar,  
 acabales totes prompte que a la plantà del arròs a Valencia  
@@ -16,13 +16,13 @@ i al carro les tinc que carregar.
 Enganxa al carro l’estampeta de la Mare de Deu de Gracia.  
 Que em doni salut per ha tornar a casa,  
 que als meus xiquets i dona vull abrasar.  
-( Les faixes havien de ser totes blanques.)
+(Les faixes havien de ser totes blanques.)
 
 Entre el riu Caldes i la Rambla Celumbre hi ha una llanura es Cinctorres molt esbelt i han començat a tirar els murs pa que creixe pla i en hermosura.
 
 Desde fa centuries, la va adorar a la mare de Deu de Gracia nostra patrona, per grans i menuts venerà,lo que em recibit dels nostre avanpasats sapigen transmeti als nostres fills i nets.
 
-La campana de la Mare de Deu de Gracia la campana de la capella de Sant Lluis Beltrani les campanes de la Iglesia parroquial no paren de volteja i repiquen i repiquen i anuncien que la ermita de la Mare de Deu de Gracia la acaven de inagura, i tots contens i emocionats dieun : que gran i alta a quedat.
+La campana de la Mare de Deu de Gracia la campana de la capella de Sant Lluis Beltrani les campanes de la Iglesia parroquial no paren de volteja i repiquen i repiquen i anuncien que la ermita de la Mare de Deu de Gracia la acaven de inagura, i tots contens i emocionats dieun: que gran i alta a quedat.
 
 Tot von cinctorra a la Mare de Deu de Gracia li te que resar, es la patrona que tot el poble adora, i davant de la faena molt se te que espavila.
 
@@ -40,7 +40,7 @@ Los quintos de Cantavieja,faja coloradica quieres estrenar, las encargan a Cinct
 
 ## EL JARDÍ
 
-Cinctorres té un jardí ,  
+Cinctorres té un jardí,  
 De clavells i roses fines  
 Els clavells son els fadrins  
 I les roses les fadrines.  

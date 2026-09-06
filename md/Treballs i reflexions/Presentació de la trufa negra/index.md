@@ -12,9 +12,9 @@ notas: "Guió llegit en presentar el treball de curs sobre la trufa negra (el qu
 
 *Mopa dels Ports i Maestrat dins de la Comunitat Valenciana*
 
-Les condicions mediambientals d’ aquesta comarca , son les adequades per ha la producció. DE LA ATRUFA NEGRA
+Les condicions mediambientals d’ aquesta comarca, son les adequades per ha la producció. DE LA ATRUFA NEGRA
 
-Aquesta creix en terrenys calcaries formats en l’Era Secundaria ,període Juràssic i Cretaci, a 350 y 1200 m. d’altitud, i prefereixen la solana .
+Aquesta creix en terrenys calcaries formats en l’Era Secundaria,període Juràssic i Cretaci, a 350 y 1200 m. d’altitud, i prefereixen la solana.
 
 Sud, major quantitat de sol
 
@@ -28,7 +28,7 @@ El faraó Keops les oferia als ambaixadors con a manjar.
 
 Grecs i Romans els donàvem propietats divines i afrodisíaques
 
-Es menciona també al talmud jueu .
+Es menciona també al talmud jueu.
 
 En el tractat de Ibn Admun de Sevilla ...........
 
@@ -38,7 +38,7 @@ Ressorgiren en el Renegament......................
 
 També al segle dinou.................
 
-Tenen vitamines ,els seu contingut d’hidrats de carbó i grasses es moderat. També minerals com fosforo, seleni, sofre, calci, magnesi, ferro i manganesos...............
+Tenen vitamines,els seu contingut d’hidrats de carbó i grasses es moderat. També minerals com fosforo, seleni, sofre, calci, magnesi, ferro i manganesos...............
 
 ## Biologia de la trufa
 
@@ -50,7 +50,7 @@ La trufa és el nom vulgar dels fongs del gènere Tuber que viuen vaig terra, as
 
 ![](img/image3.jpeg)
 
-La trufa viu amb simbiosis en alguns tipus d’arbres. La seua relació es de convivència doncsbeneficia als dos . El miceli de la trufa no te la clorofil·la que li dona la planta, i aquesta rep per les seues arrels un extra de nutrients.
+La trufa viu amb simbiosis en alguns tipus d’arbres. La seua relació es de convivència doncsbeneficia als dos. El miceli de la trufa no te la clorofil·la que li dona la planta, i aquesta rep per les seues arrels un extra de nutrients.
 
 La superfície de la trufera no te vegetació degut al fenomen antibiòtic de la trufa
 
@@ -60,7 +60,7 @@ La superfície de la trufera no te vegetació degut al fenomen antibiòtic de la
 
 El futur de la trufa negra està en les explotacions amb plantes micorrizades.
 
-La carrasca ,el quejido, el roure,la coscolla, i el avellaner, son les plantes adequades per ha les plantacions de truferes. En l’any 1968 es va fer la primera plantació trufera de España. en la província de Castelló,amb exit .També el ministeri d’Agricultura va donar subvencions de l’Unio Europea aquells anys per arrancar vinyes de garnatxha y molts agricultors van aprofitar els terrenys per ha plantar carrasques micorrizades hui en plena producció .
+La carrasca,el quejido, el roure,la coscolla, i el avellaner, son les plantes adequades per ha les plantacions de truferes. En l’any 1968 es va fer la primera plantació trufera de España. en la província de Castelló,amb exit.També el ministeri d’Agricultura va donar subvencions de l’Unio Europea aquells anys per arrancar vinyes de garnatxha y molts agricultors van aprofitar els terrenys per ha plantar carrasques micorrizades hui en plena producció.
 
 ## La trufa com condiment
 
@@ -82,9 +82,9 @@ La trufa es un ve privad i correspon al propietari del terreny
 
 ## Jornades gastronomiques de la trufa
 
-Es important ficar en valor aquest producte .Es també un motor en la economia de la zona
+Es important ficar en valor aquest producte.Es també un motor en la economia de la zona
 
-Tots els any, es celebra en diferents llocs dels Ports i Maestrat jornades gastronòmiques per ha donar .lo a conèixer.
+Tots els any, es celebra en diferents llocs dels Ports i Maestrat jornades gastronòmiques per ha donar.lo a conèixer.
 
 En l’ ultima pagina podeu vore una plantació de truferes en plena producció, la part negativa pot ser la perduda de biodiversitat el ser un monocultiu, però son plantacions no molt grans que sols poden fer-se en terreny plans.
 

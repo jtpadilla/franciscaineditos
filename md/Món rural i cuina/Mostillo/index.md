@@ -58,6 +58,6 @@ Se conserva durante varias semanas fuera de la nevera, guardado bien tapado.
 
 ## Mostillo de miel
 
-También se hace mostillo de miel. Se escalda un trozo de panal y una vez templado con las manos se hacen bolas para quitar la cera y se vuelve a hervir desespumando el caldo varias veces hasta que reduce la mitad. Por cada 4 partes de liquido, una de harina .Se cuece sin parar de remover hasta que tenga la consistencia adecuada, al gusto de quien lo hace como una crema que luego al enfriarse en los platos donde se endurece.
+También se hace mostillo de miel. Se escalda un trozo de panal y una vez templado con las manos se hacen bolas para quitar la cera y se vuelve a hervir desespumando el caldo varias veces hasta que reduce la mitad. Por cada 4 partes de liquido, una de harina.Se cuece sin parar de remover hasta que tenga la consistencia adecuada, al gusto de quien lo hace como una crema que luego al enfriarse en los platos donde se endurece.
 
-Es un postre antiguo y nutritivo antiguamente se guardaba en la parte más fría de la casa .ahora con los frigorifos no hay problema a mi gusto hay que comerlo a los pocos días.
+Es un postre antiguo y nutritivo antiguamente se guardaba en la parte más fría de la casa.ahora con los frigorifos no hay problema a mi gusto hay que comerlo a los pocos días.

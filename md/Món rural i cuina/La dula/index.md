@@ -16,7 +16,7 @@ La mula o mulo es un animal hibrido estéril que resulta del cruce entre una yeg
 
 Esta aclaración es, porque en la mayoría de casa de mi pueblo en el corral había un mulo o mula.
 
-Para mantener en buena forma a estos animales el día que no se utilizaban en las tareas del campo se mandaba a la Dula. Su función era recoger como en un parvulario a los animales y llevarlos al monte Común del pueblo. Había horario de invierno y verano. En verano a las 4 de la mañana hora solar ( 5 mañana ahora), con un gran cencerro, el Duler daba una vuelta por las calles del pueblo avisando que en un corto espacio de tiempo se iban al monte.
+Para mantener en buena forma a estos animales el día que no se utilizaban en las tareas del campo se mandaba a la Dula. Su función era recoger como en un parvulario a los animales y llevarlos al monte Común del pueblo. Había horario de invierno y verano. En verano a las 4 de la mañana hora solar (5 mañana ahora), con un gran cencerro, el Duler daba una vuelta por las calles del pueblo avisando que en un corto espacio de tiempo se iban al monte.
 
 Si ese día, no se necesitaba al animal se llevaba al lugar escogido, allí el dueño le quitaba el arnés, y todos los animales en grupo seguían al duler, volvían al medio día (siempre en hora solar) y por la tarde volvían a salir cuando no apretaba el sol hasta el anochecer. En invierno era todo el día. A la vuelta los dueños iban a recoger al animal al punto de encuentro, para llevárselo a casa, siempre había algún mulo que por costumbre, llegaba solo a su casa, con el jolgorio de la chiquillería siguiéndole, fue así aproximadamente hasta principios de 1950.
 

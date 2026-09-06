@@ -44,7 +44,7 @@ També dos pintures murals en la paret del presbiteri que eludeixen a la vida de
 
 De Francesc Cruellar (1801-1886) son els dos grans medallons que hi ha damunt de les capelles al costat de l’alta. Així com algunes peces d’orfebreria.
 
-També trobem al costat de la capella de Sant Vito Al Peiró de Cap de Vila,segons l'inventari de 1929, conegut actualment com a peiró de la plaça Nova ,es l'únic conservat dels tres peirons que s'erigien a Cinctorres. Degut a les baixes temperatures i fortes gelades de 1997, van fer que la pedra es clivellara i es desmembraran els braços de la creu, desprès de la restauració per par del Patrimoni Artístic de la Consellera es va col·locar dins de l’església on es pot apreciar tots el temes litúrgics e històrics que compon tota la creu. La descripció es d'una creu llatina gallonada i flordelisada.
+També trobem al costat de la capella de Sant Vito Al Peiró de Cap de Vila,segons l'inventari de 1929, conegut actualment com a peiró de la plaça Nova,es l'únic conservat dels tres peirons que s'erigien a Cinctorres. Degut a les baixes temperatures i fortes gelades de 1997, van fer que la pedra es clivellara i es desmembraran els braços de la creu, desprès de la restauració per par del Patrimoni Artístic de la Consellera es va col·locar dins de l’església on es pot apreciar tots el temes litúrgics e històrics que compon tota la creu. La descripció es d'una creu llatina gallonada i flordelisada.
 
 Quan veig la grandiositat de l’església penso en el comerç de la llana i els seus derivats que devien donar esperances en el s.XVII de que el poble aniria creixent i fent-se mes important.
 

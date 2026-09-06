@@ -8,7 +8,7 @@ notas: "Anava en el mateix fitxer que 'Pregunta'; la data 'Noviembre 2008' tanca
 
 No, no somos distintos  
 Solo vemos las cosas de distintas maneras.  
-Y a veces .tenemos, los sentidos dormidos  
+Y a veces.tenemos, los sentidos dormidos  
 Y no apreciamos las mismas cosas  
 Y no vemos…  
 Las majestuosas montañas  

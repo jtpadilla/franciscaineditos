@@ -12,6 +12,6 @@ Que escoltes el cant dels ocells.
 Que aprecies l'aroma de les flors silvestres.  
 Que assaborisques, els aliments senzills, com la mel.  
 Que acaricies, als que de debò vols i et volen.  
-Usa els teus sentits! Que millor regal et puc fer? 
+Usa els teus sentits! Que millor regal et puc fer?
 
 *Paquita. 2010*
