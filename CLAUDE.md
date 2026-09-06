@@ -18,12 +18,16 @@ actualizarlo cada vez que se crea o cierra una obra, cambia un criterio o se tom
 Las secciones de CLAUDE.md sobre "propón la siguiente publicación" y "hay candidatos para md/X" se
 responden a partir de OBRAS.md.
 
-## Estado (2026-09-05, fin de la primera tanda)
+## Estado (2026-09-06, fin de la segunda tanda)
 
-Primera tanda cerrada con 100 documentos en 11 obras (C08, C12, C19 a C27). **Segunda tanda en curso**
-(2026-09-05): 580 documentos convertidos a `inprocess/Documents/` (C28, ids 175-754), 128 anotados como
-copias de lo ya publicado, 64 restos y ajenos ya borrados; 515 pendientes de selección. Las obras nuevas
-que pide esta tanda y el destino de cada bloque están en `OBRAS.md`.
+Dos tandas cerradas: **146 documentos en 12 obras** (C08, C12, C19 a C27, C29 Natura). La segunda tanda convirtió
+580 documentos; casi todos eran copias de lo publicado, borradores, textos ajenos o entradas del blog «Les meues
+coses», que sigue en línea (paquitajulian.blogspot.com) y no se repite en `md/`. `inprocess/` y `raw/` vacíos.
+Ids de documento usados hasta el 756; siguiente obra C30. Lo decidido en cada bloque está en `OBRAS.md`.
+
+Dos comprobaciones que dieron buen resultado en la segunda tanda y conviene repetir: bajar el feed del blog
+(`paquitajulian.blogspot.com/feeds/posts/default?max-results=500`) y comparar cada fichero con las entradas antes
+de dar nada por inédito; y comparar párrafo a párrafo cada documento con `md/` antes de proponerlo.
 
 ## El ciclo completo de una tanda
 

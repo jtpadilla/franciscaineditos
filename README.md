@@ -45,24 +45,30 @@ Cada documento de `md/` empieza con una cabecera YAML de tres campos: `id` (fijo
 
 | Id | Obra | Docs | Qué contiene |
 |---|---|---|---|
-| C12 | Memoria familiar | 11 | el libro de memorias (2026), la versión de 2014 con fotos, la tapa, la genealogía de los Julián Segura y los Boix, recuerdos sueltos |
-| C19 | Familia Padilla Agut | 1 | la familia de su marido: la abuela María |
+| C12 | Memoria familiar | 16 | el libro de memorias (2026), la versión de 2014 con fotos, la tapa, la genealogía de los Julián Segura y los Boix, fotos antiguas y recuerdos sueltos |
+| C19 | Familia Padilla Agut | 3 | la familia de su marido: la abuela María, el abuelo Padilla, el pueblo de Padilla |
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la Universitat per a Majors |
 | C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión |
-| C21 | Cinctorres | 13 | historia, patrimonio, oficios y fiestas del pueblo |
-| C22 | Món rural i cuina | 10 | agricultura, masías, saberes del campo y recetas |
+| C21 | Cinctorres | 17 | historia, patrimonio, ermitas, oficios y fiestas del pueblo |
+| C22 | Món rural i cuina | 21 | agricultura, masías, oficios, piedra en seco, juegos, saberes del campo y recetas |
 | C23 | Relats | 5 | cuentos y relatos |
-| C24 | Castelló | 6 | la ciudad y su término |
-| C25 | Listo | 14 | las entradas del blog narradas por el perro Listo |
-| C26 | Treballs i reflexions | 10 | trabajos de curso y textos de opinión |
+| C24 | Castelló | 11 | la ciudad y su término: calles, mercados, partidas, el cuartel de San Francisco |
+| C25 | Listo | 17 | las entradas del blog narradas por el perro Listo, el libro y su despedida |
+| C26 | Treballs i reflexions | 20 | trabajos de curso, reseñas, conferencias y textos de opinión |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia |
+| C29 | Natura | 6 | el trabajo de biodiversidad de la Rambla Celumbres, los artículos del boletín y las estaciones |
 
 ## Estado
 
 - 2026-09-05, primera tanda: 449 ficheros en `raw/`. Descartados multimedia, PDF, hojas de cálculo y
   presentaciones; 183 documentos de texto convertidos a `inprocess/`; tras la selección, **100 documentos
   en 11 obras** en `md/`. `inprocess/` y `raw/` vacíos, listos para la siguiente tanda.
-- Ids de documento usados hasta el 174 y de obra hasta C27; los siguientes continúan desde ahí.
+- 2026-09-06, segunda tanda: 580 documentos convertidos a `inprocess/`. La mayor parte eran copias de lo ya
+  publicado, borradores, textos de compañeros de curso o entradas del blog «Les meues coses», que sigue en línea
+  en paquitajulian.blogspot.com y no se repite en `md/`. Tras la selección, **146 documentos en 12 obras**: una
+  obra nueva, Natura, y 46 documentos más en las existentes. `inprocess/` y `raw/` vacíos.
+- Ids de documento usados hasta el 756 y de obra hasta C29; los siguientes continúan desde ahí. Las decisiones
+  de destino y las obras descartadas (Les meues coses, Viatges, Cartes a Vicente) están en `OBRAS.md`.
 
 ## De dónde sale el fondo
 
