@@ -86,21 +86,21 @@ Els postres a més de les coquetes i magdalenes fetes al forn, va ser collà, de
 
 Ja era prou gran, i acompanyava al pare quan pujava al masos de Julian i tambè al mas de Cardona en aquest rader vivia el tio Ramonet i la tia Filomena amb les dos filles, al mas de Julian m’agradava molt estar amb els germans de mon pare la tia Juliana, el tio Fidel i els meus cosins, el tio va ser el padrí de boda dels meus pares, també el meu padrí de bateig, i quan anys desprès em vaig casar també padrí de la meua boda.
 
-Quan anàvem al mas sempre entravem a la Maquina on vivia la tia Rosario germana del pare, la tia sempre estava alegra tenia problemes a munto, però no ha demostrava mai, les meues cosines quan arribàvem, es deixaven de fer la faena i ens contaven tot el que havia ocorri’t des de l’ultima vegada que havíem estat, de tot feien festa. Alguna vegada també entravem al mas de Marzà, aquest mas està abans d’arribar al nostre. a l’altre costat dels riu Calders, allí el pare ferrava als animals de càrrega, i jo mirava tot el que es feia. En un dels viatges, esperava que el pare acabare la seua faena, i em vaig adonar que del sostre de l'entrada entre dos cabirons i en la barra de fusta d’eon es pengen els porcells i el bou quan la matança, hi havia un cabàs a mitja altura de terra i de tant en tant la dona del mas li donava una empenta. fins que vaig veure que dins hi havia un nadó dormint, i la mare el gronxava així, ella podia fer faena i el xiquet estava guardat dels animals domèstics.
+Quan anàvem al mas sempre entravem a la Maquina on vivia la tia Rosario germana del pare, la tia sempre estava alegra tenia problemes a munto, però no ha demostrava mai, les meues cosines quan arribàvem, es deixaven de fer la faena i ens contaven tot el que havia ocorri’t des de l’ultima vegada que havíem estat, de tot feien festa. Alguna vegada també entravem al mas de Marzà, aquest mas està abans d’arribar al nostre. a l’altre costat dels riu Calders, allí el pare ferrava als animals de càrrega, i jo mirava tot el que es feia. En un dels viatges, esperava que el pare acabare la seua faena, i em vaig adonar que del sostre de l’entrada entre dos cabirons i en la barra de fusta d’eon es pengen els porcells i el bou quan la matança, hi havia un cabàs a mitja altura de terra i de tant en tant la dona del mas li donava una empenta. fins que vaig veure que dins hi havia un nadó dormint, i la mare el gronxava així, ella podia fer faena i el xiquet estava guardat dels animals domèstics.
 
 ![](img/image5.jpg)
 
-Al temps de la caça el pare anava a soles al mas i desprès quan tornava al poble, ho feia caçant, abans hi havia poca gent que tingué escopeta, i molta caça, La mare tenia uns gerros de fang, amb l'adob de la carn, en un hi havia conill, en l’altre perdius i un altre amb llebre, aquesta darrera, no ens agradava gens.
+Al temps de la caça el pare anava a soles al mas i desprès quan tornava al poble, ho feia caçant, abans hi havia poca gent que tingué escopeta, i molta caça, La mare tenia uns gerros de fang, amb l’adob de la carn, en un hi havia conill, en l’altre perdius i un altre amb llebre, aquesta darrera, no ens agradava gens.
 
 A la falsa, el pare tenia en una caixa de fusta una fura, que s’enduia a caçar. Com que no estava permès, quan anava al camp, la ficava dins d’un aparell de llanda que es va fer a la ferreria subjectat amb una corretja a la cintura i així no es veia A mi sempre m’han agradat els animals, i estava al meu càrrec donar-li menjar llet amb sopes de pa, jugava amb l’animalet, tenia el pèl molt suau, fins que un dia em va pegar un mos a la orella i el pare em va dir que ja hi havia prou, no em deixava tocar-la mai més.
 
-Aquests anys els recordo com érem: una família feliç sense cap problema, gaudíem de les festes amb els amics, entre tots hi érem un munt de xiquets. Quan feia calor anàvem al pont vell del riu Calders, prop de Sant Antoni de la Vespa, on pesàvem el dia i preníem el bany a un toll, o bé a la nostra finca prop del mas d'En Costa baix dels pins.
+Aquests anys els recordo com érem: una família feliç sense cap problema, gaudíem de les festes amb els amics, entre tots hi érem un munt de xiquets. Quan feia calor anàvem al pont vell del riu Calders, prop de Sant Antoni de la Vespa, on pesàvem el dia i preníem el bany a un toll, o bé a la nostra finca prop del mas d’En Costa baix dels pins.
 
 Altres vegades anàvem al mas de Julian i a Cardona, on vivien el tio Remonet i la tia Filomena amb les meues cosines. Els tios eren els padrins de bateig del meu germanet Tadeo. I també, al tornar la visita obligada a la Maquina doncs passàvem per endavant del mas, on vivia la tia Rosario amb les meues quatre cosines
 
 ![](img/image3.jpg)
 
-La mare era una dona de poble, espigada, morena molt ermosa amb una elegància natural com la tia Francisqueta i també el seu germà Antonio, els demés germans no eren així. Tenia uns immensos ulls negres, quan estava alegra li sortien com estrelletes d'ells, els cabells negres amb ondes quan el pentinava cap a darrere.
+La mare era una dona de poble, espigada, morena molt ermosa amb una elegància natural com la tia Francisqueta i també el seu germà Antonio, els demés germans no eren així. Tenia uns immensos ulls negres, quan estava alegra li sortien com estrelletes d’ells, els cabells negres amb ondes quan el pentinava cap a darrere.
 
 Ningun fill ni nets, hem heretat el seu estil, ni els seus ulls amb les estrelletes que jo sempre veia.
 
@@ -108,7 +108,7 @@ Ningun fill ni nets, hem heretat el seu estil, ni els seus ulls amb les estrelle
 
 Li agradava llegir (en una època sense llibres).Va ser la menuda de set germans, i l’única que va anar a un col·legi de pago a les monges del poble, de la Consolació,(tinc una foto antiga de tot el grup d’alumnes i la mare era menuda i primeta, sols se li veuen ulls,) els seus pares sempre varen viure amb ella, fins que van faltar. A mi em va ficar Francisca amb memòria de son pare (l’agüelo Franxo).
 
-Anys darrere, el pare que la volia molt, quan ja estava malalta em deia ensenyant-me un bitllet de cent pessetes, on es veia la pintura d'una dona morena(La Fuensanta)que va pintar Julio Romero de Torres (Aixína era ta mare quan era jove, la dona més guapa del poble)
+Anys darrere, el pare que la volia molt, quan ja estava malalta em deia ensenyant-me un bitllet de cent pessetes, on es veia la pintura d’una dona morena(La Fuensanta)que va pintar Julio Romero de Torres (Aixína era ta mare quan era jove, la dona més guapa del poble)
 
 El pare, era un masover presumit (segons m’ha dit Merce).Anava a Cinctorres a festejar a ma mare damunt d’un cavall, al trot i amb un mocador de seda blanc al coll.
 
@@ -190,7 +190,7 @@ La mina on treballava es deia La Innominada, amb torns setmanals de mati, vespra
 
 La mare ho mirava tot amb paciència, doncs ja estava acostumada als (invents) dels nostre pare, El meu germànet Tadeo participava amb tot, tenia tanta curiositat com jo. A un costat del jardí va començar a fer l’alambíc, no tenia res a veure amb el dibuix però nosaltres estàvem segurs que funcionaria. Un bidó gran de llanda tancat hermèticament es va convertir amb una caldera, d’on sortien un entramat de tubs de plom amb forma de serpentina que estaven dins d’una bassa plena d’aigua, quan la caldera estava plena d’espígol, enceníem el foc, el vapor que sortia es condensava pels tubs dins de la bassa, plena d’aigua freda i poc a poc, gota a gota, sortia la millor essència d’espígol que hagués sommiat mai. Vàrem omplir una botella buida de Licor 43. (encara en guardem un poc)Aquesta va ser la primera lliçó practica de química important que recordem. Desprès en vindrien més, com enquadernar els fascicles de novel·les que ma mare comprava per correu i que m’ha fet apreciar els llibres antics, doncs sé el que costa cosir full a full tot el llibre i cuidar- los, i ensenyar als meus, el valor que tenen els treballs manuals de tota mena. I mes cosses.
 
-L'any que va prendre la 1ªComunió el meu germà Tadeet, el dia 26 d’abril de 1959 també varem fer la festa corresponent, el convit el van fer a casa, les pastes amb el forn de la cuina (econòmica com es deia)primer fer la confitura de carabassa amb sucre i mel per ha les coquetes, varen vindre els parents de Cinctorres i Morella com sempre. L’ empresa Calvo Sotelo regalava el vestit als xiquets dels seus treballadors.
+L’any que va prendre la 1ªComunió el meu germà Tadeet, el dia 26 d’abril de 1959 també varem fer la festa corresponent, el convit el van fer a casa, les pastes amb el forn de la cuina (econòmica com es deia)primer fer la confitura de carabassa amb sucre i mel per ha les coquetes, varen vindre els parents de Cinctorres i Morella com sempre. L’ empresa Calvo Sotelo regalava el vestit als xiquets dels seus treballadors.
 
 La Missa era al poble on es feien totes les cerimònies oficials, recordo que no se per quin motiu els vestits no arribaven i la mare li va comprar un de mariner com era el costum, volia que el xiquet estigues ben mudat, a les poques dies varem rebre el regal de la empresa de treball del pare, també era un vestit de mariner.
 
@@ -240,9 +240,9 @@ Em van demanar opinió i recordo que les dos vegades els vaig dir el mateix, (si
 
 No sé com podíem viure tanta gent junta a casa els tios, sense cap problema de res, crec que el compartir, ens fan més humans.
 
-A vegades he pensat que tinc intuïció, m'ha donat compte moltes vegades, i crec, que tot el que amb el teu esforç i treballat, si ho vols, més tard o menys ho aconseguiràs, estic convençuda que es així.
+A vegades he pensat que tinc intuïció, m’ha donat compte moltes vegades, i crec, que tot el que amb el teu esforç i treballat, si ho vols, més tard o menys ho aconseguiràs, estic convençuda que es així.
 
-Un diumenge que anaven al cine Oeste per la vesprada al passar per un carrer vaig veure una dona asseguda a una finestra, i vaig pensar, un pis com aquest ens aniria bé a nosaltres. Als pocs dies els pares em van dir: anem i veurem si t'agrada un pis que esta en venta, varem anar tots i la meua sorpresa va ser molt gran, compràvem la vivenda que a mi m'agradava, i que vaig mirar quan anàvem un diumenge al cine, al carrer Vazquell Mella nº 46.
+Un diumenge que anaven al cine Oeste per la vesprada al passar per un carrer vaig veure una dona asseguda a una finestra, i vaig pensar, un pis com aquest ens aniria bé a nosaltres. Als pocs dies els pares em van dir: anem i veurem si t’agrada un pis que esta en venta, varem anar tots i la meua sorpresa va ser molt gran, compràvem la vivenda que a mi m’agradava, i que vaig mirar quan anàvem un diumenge al cine, al carrer Vazquell Mella nº 46.
 
 Teníem com a veïns a una família de La Puebla de Arenoso. La Sª Dolores a la planta baixa i al primer pis el fill, Vicente el sabater,(arreglava sabates), i baix de nosaltres estava buit, al temps el van comprar la Sº Maria i el seu marit Manolo, més tard:(els agüelos dels meus fills)
 

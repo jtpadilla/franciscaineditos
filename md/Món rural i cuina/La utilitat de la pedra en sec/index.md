@@ -8,7 +8,7 @@ notas: "Entrada del blog d'antropologia dels Ports de la UJI (abril 2012): la pe
 
 ![](img/image1.jpeg)
 
-*L'origen de les lloses. Els Llivis. P. J.*
+*L’origen de les lloses. Els Llivis. P. J.*
 
 La manera de viure del món rural, està condicionada pel territori, i l’aprofitament del recursos naturals geogràfics que determinen el seu desenvolupament. La modificació física del territori a segut obligat pel imperatiu de la pròpia supervivència. La sàvia arquitectura tradicional de la pedra en sec, és en principi, la utilitat de l’humil pedra seca, matèria prima, que està a l’abast del mig en que es viu, on tot s’aprofita, en harmonia amb la naturalesa.
 
@@ -58,7 +58,7 @@ Una paret de bancal es un mur de contenció de terra, i està sotmesa, a la pres
 
 ![](img/image4.jpeg)
 
-*Comptador d'ovelles. Serra Calduc. P. J.*
+*Comptador d’ovelles. Serra Calduc. P. J.*
 
 ![](img/image5.jpeg)
 

@@ -10,11 +10,11 @@ He escoltat a la meua ama, dir amb un sospir profund (Ja estem a casa. Gràcies 
 
 ![](img/image15.jpeg)
 
-Estic acostumat a fer canvis. Quan comença l’estiu, ens anem a la platja, allí s’està bé, sols tinc que estar vigilant als xiquets, menys mal que es fan grans i quan ja estic fart d’ells, m’amago sota el sofà, allí, no poden acostar-se i n'estic una estona tranquil, També tinc la ventaja de tastar totes les llepolies que ells mengen i que em donen d’amagat, més que res, els gelats de tota mena que ens agraden molt, quan van cap al frigorífic jo vaig amb ells, sempre cau algun mosset.
+Estic acostumat a fer canvis. Quan comença l’estiu, ens anem a la platja, allí s’està bé, sols tinc que estar vigilant als xiquets, menys mal que es fan grans i quan ja estic fart d’ells, m’amago sota el sofà, allí, no poden acostar-se i n’estic una estona tranquil, També tinc la ventaja de tastar totes les llepolies que ells mengen i que em donen d’amagat, més que res, els gelats de tota mena que ens agraden molt, quan van cap al frigorífic jo vaig amb ells, sempre cau algun mosset.
 
 Desprès toca el poble, també uns dies a Morella i al mas.
 
-Quant m’agrada Cinctorres!!! tinc tota l'entrada de la casa per mi, a més d’una renglera d’escales fins al terrat. En veritat són moltes escales, tres pisos, però com m’agrada estar prop de la meua ama, faig tants viatges amunt i avall com ella. A vegades les potes em tremolen i penso...desprès a Castelló descansaré.
+Quant m’agrada Cinctorres!!! tinc tota l’entrada de la casa per mi, a més d’una renglera d’escales fins al terrat. En veritat són moltes escales, tres pisos, però com m’agrada estar prop de la meua ama, faig tants viatges amunt i avall com ella. A vegades les potes em tremolen i penso...desprès a Castelló descansaré.
 
 De bon matí, ens anem a passejar a la font del Bassí, està a les afores del poble. Primer, faig una ullada al galliner que té la Rosa, la veïna del carreró de La Placeta a les eres, són cinc gallines i un gall molt presumit, blanc i negre, les gallines de color quasi roig. El gall és un escandalós, fa molt de soroll amb el seu kikiriki. Al sortir de casa ja l’oïm, i quan jo m’acosto lladrant, s’amaguen tots i només marxem nosaltres, tornen a ficar-se a la finestra del corral. La meua ama diu, que els ous de les gallines de La Rosa són molt bons.
 

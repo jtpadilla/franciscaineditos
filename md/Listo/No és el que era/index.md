@@ -10,7 +10,7 @@ notas: "Entrada 9 de 14 del blog de Listo, en la versió polida de la compilaci�
 
 La casa de Joanet de la Fura, que està davant de la nostra, fins que no arriba quasi meitat d’agost no es veu a ningú, està tancada, aleshores ve l’avi amb algun fill, desprès, tot son visites que jo no conec, fins quan venen els néts i besnéts a visitar-lo i s’escolta soroll de xiquets i grans.
 
-No es veu gent al carrer com abans, quan fent rogle amb una taula, els veïns, totes les vesprades jugaven a les cartes, i jo, estava assegut al costat de Mercé amb la corretja dins de la pota de la cadira, així no me'n anava darrere de la meua ama Paquita, i les seues amigues.
+No es veu gent al carrer com abans, quan fent rogle amb una taula, els veïns, totes les vesprades jugaven a les cartes, i jo, estava assegut al costat de Mercé amb la corretja dins de la pota de la cadira, així no me’n anava darrere de la meua ama Paquita, i les seues amigues.
 
 ![](img/image30.jpeg)
 

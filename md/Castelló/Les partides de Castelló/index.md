@@ -43,7 +43,7 @@ notas: "Les partides del terme de Castelló (secà, horta i marjal) amb l'origen
 
 **La Fileta** (nom català) fila de reg, entre l’horta i marjal, també coto arrocer.
 
-**Canet** (nom d'origen romà) Qanat, anterior al segle XIII, corrents aqüífers subterranees
+**Canet** (nom d’origen romà) Qanat, anterior al segle XIII, corrents aqüífers subterranees
 
 **Coscollosa** (nom català) abundans arbust de la familia Quercus
 

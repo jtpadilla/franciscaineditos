@@ -9,7 +9,7 @@ notas: ""
 La llum i la foscor  
 El goig i la tristor  
 El silenci i el soroll  
-L'amarg i el dolç  
+L’amarg i el dolç  
 La vida i la mort  
 L' amor i desamor  
 El fret i el calor  

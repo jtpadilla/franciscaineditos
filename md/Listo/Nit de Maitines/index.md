@@ -12,9 +12,9 @@ Ella trau d’una caixa de cartó figuretes del Naixement de fang cuit de quan e
 
 ![](img/naixement.jpeg)
 
-Cada dia quan els néts se'n anaven a la seua casa tornava a recompondre el Naixement.
+Cada dia quan els néts se’n anaven a la seua casa tornava a recompondre el Naixement.
 
-La primera festa de Nadal que recordo, va ser molt moguda. La meua ama va estar tota una vesprada trencant ametlles i cremant sucre per a fer torró com al poble. Va omplir la safata del forn plena de torró de *guirlache*, la va deixar damunt de la taula de la cuina i se'n va anar al llit. Feia una oloreta que no es podia aguantar, donant bots moltes vegades, vaig fer caure la safata i tot el torró cruixent per terra a trossos. Que cosa més bona!!! vaig estar rosegant tota la nit i me’l vaig menjar tot. Que malet estava de matí!!! Quan la meua ama em va veure, es va esglaiar, va cridar a un fill i corregudes al veterinari de Vila-real que estava de guàrdia, aquest, a més de cobrar un grapat de diners, va dir que no sé com no me’n vaig anar a l’altre barri. Degut a aquesta feta, sempre he menjat un compost especial que la meua ama diu que costa un ull de la cara (aixó no entenc que vol dir).
+La primera festa de Nadal que recordo, va ser molt moguda. La meua ama va estar tota una vesprada trencant ametlles i cremant sucre per a fer torró com al poble. Va omplir la safata del forn plena de torró de *guirlache*, la va deixar damunt de la taula de la cuina i se’n va anar al llit. Feia una oloreta que no es podia aguantar, donant bots moltes vegades, vaig fer caure la safata i tot el torró cruixent per terra a trossos. Que cosa més bona!!! vaig estar rosegant tota la nit i me’l vaig menjar tot. Que malet estava de matí!!! Quan la meua ama em va veure, es va esglaiar, va cridar a un fill i corregudes al veterinari de Vila-real que estava de guàrdia, aquest, a més de cobrar un grapat de diners, va dir que no sé com no me’n vaig anar a l’altre barri. Degut a aquesta feta, sempre he menjat un compost especial que la meua ama diu que costa un ull de la cara (aixó no entenc que vol dir).
 
 Com a càstig, prohibit donar-li res dolç a Listo.
 
@@ -28,4 +28,4 @@ Ja tenim la taula muntada amb plats, coberts i tots els aparells per a la Nit de
 
 ![](img/image3.jpeg)
 
-Aleshores fins l’any que ve. Ahhh, el torró de *guirlache* mai més l'he tastat, amb una vegada vaig tindre prou. Listo
+Aleshores fins l’any que ve. Ahhh, el torró de *guirlache* mai més l’he tastat, amb una vegada vaig tindre prou. Listo

@@ -20,6 +20,6 @@ Jo sé quan està contenta, i quan està malalta no em moc del seu costat, i de 
 
 Quan escriu, em pregunta què em pareix, si m’agrada moc les orelles i si no m’agrada n’estic quiet i ella ho entén. Per això penso, que podia escriure també, tot el que ella no veu, i jo sí.
 
-Ara tecleja a l’ordinador però abans o feia asseguda a la butaca, i escrivia en llapis. Jo em gitava al seu braç, la seua llibreta recolzada al meu llom i estava quiet, a més a més deia el que escrivia parlant, tot un llibre sencer!! (el sé de memòria) i clar, m’ha apegat l’afició d’escriure, crec, que també tinc alguna cosa que dir. Penso dir-li tot el que m'agrada i el que no, i escriure ací.
+Ara tecleja a l’ordinador però abans o feia asseguda a la butaca, i escrivia en llapis. Jo em gitava al seu braç, la seua llibreta recolzada al meu llom i estava quiet, a més a més deia el que escrivia parlant, tot un llibre sencer!! (el sé de memòria) i clar, m’ha apegat l’afició d’escriure, crec, que també tinc alguna cosa que dir. Penso dir-li tot el que m’agrada i el que no, i escriure ací.
 
 *Listo. 2010*

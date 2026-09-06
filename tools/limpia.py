@@ -27,7 +27,25 @@ def a2(l):
     l = re.sub(rf"([{L}])\.([A-ZÁÉÍÓÚÀÈÒÏÜÇÑ][{L}])", r"\1. \2", l)
     return l
 
-CATS = {"A1": a1, "A2": a2}
+def b1(l):
+    """Apóstrofo recto entre letras -> tipográfico."""
+    return re.sub(r"(?<=[A-Za-zÀ-ü])'(?=[A-Za-zÀ-ü])", "’", l)
+
+def b2(l):
+    """Puntos suspensivos: '...', rachas de puntos y combinaciones -> '…' (los versos conservan sus espacios)."""
+    return re.sub(r"(?:…|\.{2,})[.…]*", "…", l)
+
+def b3(l):
+    """Comillas angulares de la autora, escapadas \\<así\\> o \\<\\<així\\>\\>, -> «així»."""
+    l = re.sub(r"\\<\\<\s*(.*?)\s*\\>\\>", r"«\1»", l)
+    l = re.sub(r"\\<\s*(.*?)\s*\\>", r"«\1»", l)
+    return l
+
+def b4(l):
+    """'¡¡' usado como cierre de exclamación (pegado a la palabra anterior) -> '!!'."""
+    return re.sub(r"(?<=[A-Za-zÀ-ü0-9?!.,)])¡+", lambda m: "!" * len(m.group(0)), l)
+
+CATS = {"A1": a1, "A2": a2, "B1": b1, "B2": b2, "B3": b3, "B4": b4}
 
 def main():
     cats = [a for a in sys.argv[1:] if a in CATS]; aplica = "--aplica" in sys.argv

@@ -16,7 +16,7 @@ Pensant açò vaig recordar els diferents llocs on jo havia anat a comprar anys 
 
 Tornant darrere en el temps la data mes antiga és l’any 1800, es feia a la Plaça del Rei antiga (Plaça Nova).
 
-L'any 1916 es trasllada al Passeig Ribalta, degut a les protestes dels veïns de dita plaça.
+L’any 1916 es trasllada al Passeig Ribalta, degut a les protestes dels veïns de dita plaça.
 
 En els anys següents els venedors van i venen d’un lloc a l’altre.
 

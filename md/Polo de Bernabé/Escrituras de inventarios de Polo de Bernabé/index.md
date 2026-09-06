@@ -4506,7 +4506,7 @@ En testimonio de verdad \[sello\] Pedro Benito Cantavella.
 
 [^42]: Holandilla: Lienzo teñido y prensado, usado generalmente para forros de vestidos.
 
-[^43]: Bolcada: Conjunt de peces de roba que formen el vestit i faixadura d'un infant nou-nat o quan el porten a batejar (val.); cast. pañales.
+[^43]: Bolcada: Conjunt de peces de roba que formen el vestit i faixadura d’un infant nou-nat o quan el porten a batejar (val.); cast. pañales.
 
 [^44]: Muselina: Tela de algodón, seda, lana, etc., fina y poco tupida.
 
@@ -4520,7 +4520,7 @@ En testimonio de verdad \[sello\] Pedro Benito Cantavella.
 
 [^49]: Cincha: Faja de cáñamo, lana, cerda, cuero o esparto, con que se asegura la silla o albarda sobre la cabalgadura, ciñéndola ya por detrás de los codillos o ya por debajo de la barriga y apretándola con una o más hebillas.
 
-[^50]: Aluda: Pell d'ovella o de be, adobada i suavitzada, i que en blanc o colorida s'emprava per fer guants, bosses, folradures de llibre, etc.;
+[^50]: Aluda: Pell d’ovella o de be, adobada i suavitzada, i que en blanc o colorida s’emprava per fer guants, bosses, folradures de llibre, etc.;
 
 [^51]: Añino: Pieles no tonsuradas de corderos de un año o menos
 
@@ -4530,7 +4530,7 @@ En testimonio de verdad \[sello\] Pedro Benito Cantavella.
 
 [^54]: Luición: Redención de censos.
 
-[^55]: freginal: Tros de terra situat prop d'una casa o d'una era, i destinat a sembrar-hi farratges. Cast Herrenal: Terreno en que se siembra el herrén (herrén = Forraje de avena, cebada, trigo, centeno y otras plantas que se da al ganado).
+[^55]: freginal: Tros de terra situat prop d’una casa o d’una era, i destinat a sembrar-hi farratges. Cast Herrenal: Terreno en que se siembra el herrén (herrén = Forraje de avena, cebada, trigo, centeno y otras plantas que se da al ganado).
 
 [^56]: almud: Medida de capacidad, generalmente para áridos, muy variable según las épocas y las regiones, entre los 1,75 l de Navarra y los 5,68 l de Canarias.
 

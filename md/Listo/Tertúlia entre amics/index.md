@@ -6,7 +6,7 @@ notas: "Entrada 2 de 14 del blog de Listo, en la versió polida de la compilaci�
 
 # Tertúlia entre amics
 
-Quan anem a passejar a la placeta del meu carrer, tots els dies em trobe a les meues amigues, la Gala i la Tula. La Tula és petita, revoltosa i molt espavilada, i la Gala com que porta el cognom d'un escriptor famós, es dona una mica d'importància.
+Quan anem a passejar a la placeta del meu carrer, tots els dies em trobe a les meues amigues, la Gala i la Tula. La Tula és petita, revoltosa i molt espavilada, i la Gala com que porta el cognom d’un escriptor famós, es dona una mica d’importància.
 
 Huí la Tula ens ha dit:
 

@@ -14,7 +14,7 @@ Ja estem a l’agost i el millor, la meua ama Paquita i jo hem arribat a Cinctor
 
 ![](img/image2.jpeg)
 
-Tots els anys el mateix, estem a Benicassim fins que el xiquet menut compleix anys el dia dos d’agost. La meua ama vol estar ací, no de bades quasi va nàixer a l'apartament. Diu que a les dos de la vesprada la mare del xiquet encara estava a la piscina a remulla (ja se sap la calor que fa al mes d’agost) i dos hores més tard, només arribar a la maternitat, Manel va nàixer armant soroll com sempre.
+Tots els anys el mateix, estem a Benicassim fins que el xiquet menut compleix anys el dia dos d’agost. La meua ama vol estar ací, no de bades quasi va nàixer a l’apartament. Diu que a les dos de la vesprada la mare del xiquet encara estava a la piscina a remulla (ja se sap la calor que fa al mes d’agost) i dos hores més tard, només arribar a la maternitat, Manel va nàixer armant soroll com sempre.
 
 L’adéu de Manel quan ens anàvem ha sigut molt emocionat, m’ha donat besets per orelles, morro i tot arreu, fins que se’n va adonar sa mare...i va dir... aixó no es fa!!, com si fóra la primera vegada!!
 
@@ -22,7 +22,7 @@ Però després he tingut que aguantar-me... fins que vaig començar a ganyolar u
 
 ![](img/image25.jpeg)
 
-Ell i el Ferran (doncs volien ficar-me dins de la seua samarreta). Primer me les va ensenyar totes i quan va aplegar a la que té el dibuix de Spiderman, va decidir que eixa era la més bonica, i em deia: T'agrada? Em vaig escapar de miracle!!
+Ell i el Ferran (doncs volien ficar-me dins de la seua samarreta). Primer me les va ensenyar totes i quan va aplegar a la que té el dibuix de Spiderman, va decidir que eixa era la més bonica, i em deia: T’agrada? Em vaig escapar de miracle!!
 
 L’estiuejar està molt bé però quan hi ha xiquets al voltant i dos mesos seguits és esgotador.
 

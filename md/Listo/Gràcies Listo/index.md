@@ -6,7 +6,7 @@ notas: "Entrada 14 de 14 del blog de Listo, en la versió polida de la compilaci
 
 # Gràcies Listo
 
-Gràcies Listo, per ajudar-me en aquest blog. Ens coneixíem tant, que els dos sabíem amb ironia el que pensàvem i volíem dir, això s'ha acabat. Huí és el moment de donar-te les gràcies.
+Gràcies Listo, per ajudar-me en aquest blog. Ens coneixíem tant, que els dos sabíem amb ironia el que pensàvem i volíem dir, això s’ha acabat. Huí és el moment de donar-te les gràcies.
 
 Amb el anys, els nostres passejos cada vegada eren més curts.
 

@@ -6,7 +6,7 @@ notas: "Escrit per a la wiki de la Universitat per a Majors sobre el museu inaug
 
 # El museu de la faixa
 
-A raderies d'agost, dins de la setmana de festes de 2007, es va inaugurar a Cinctorres, el museu de la faixa.
+A raderies d’agost, dins de la setmana de festes de 2007, es va inaugurar a Cinctorres, el museu de la faixa.
 
 ![](img/image4.png)
 
@@ -14,7 +14,7 @@ A raderies d'agost, dins de la setmana de festes de 2007, es va inaugurar a Cinc
 
 *Museu de la faixa*
 
-El museu està situat al carrer de l'hospital que dona a la Plaça Vella o del ajuntament, en l’edifici que en època medieval era hospital de pobres. Damunt de la portada de pedra, està gravada la data 1547. És una construcció amb arcades de pedra del gòtic civil, con alguna casa que es conserva d'aquella època. També es d'aquesta manera l'antic escorxador del poble que abans va ser el graner. Actualment és l'oficina de turisme i un dels llocs, on es fan, actes culturals.
+El museu està situat al carrer de l’hospital que dona a la Plaça Vella o del ajuntament, en l’edifici que en època medieval era hospital de pobres. Damunt de la portada de pedra, està gravada la data 1547. És una construcció amb arcades de pedra del gòtic civil, con alguna casa que es conserva d’aquella època. També es d’aquesta manera l’antic escorxador del poble que abans va ser el graner. Actualment és l’oficina de turisme i un dels llocs, on es fan, actes culturals.
 
 ![](img/image1.png)
 
@@ -22,9 +22,9 @@ Fen Cordons
 
 ![](img/image5.jpg)
 
-Cinctorres, sempre ha sigut el poble dels faixeros. Aquest, és el nom que els deien al homes del poble que anaven venen les faixes per tota la península i nord d'Àfrica. Les faixes es teixien a les fàbriques i a casi totes les cases del poble, En la entrada hi havia l'obrador, amb el teler, el torn i el que feia falta. La dona de la casa compartia el seu temps, amb les eines de la llar i el teixir.
+Cinctorres, sempre ha sigut el poble dels faixeros. Aquest, és el nom que els deien al homes del poble que anaven venen les faixes per tota la península i nord d’Àfrica. Les faixes es teixien a les fàbriques i a casi totes les cases del poble, En la entrada hi havia l’obrador, amb el teler, el torn i el que feia falta. La dona de la casa compartia el seu temps, amb les eines de la llar i el teixir.
 
-Caminant pels carrers, s'escotava la música, tric trac tris trac, un so compassat que feien els telers per tot el poble. També era corrent escoltar els cants de les dones teixidores, por ser, per fer la feina més agradable.
+Caminant pels carrers, s’escotava la música, tric trac tris trac, un so compassat que feien els telers per tot el poble. També era corrent escoltar els cants de les dones teixidores, por ser, per fer la feina més agradable.
 
 Aquesta lletra de cançó es una de les més populars.
 
@@ -42,13 +42,13 @@ En els obradors de les casses a més de teixir es tenia que fer també els canon
 
 **El teler,** és una ferramenta de treball, feta amb barres de fusta, que són, les que subjecten les preses. La teixidora està asseguda i fa tot el procés de teixir, amb els moviment compassats de peus i mans.
 
-El torn,**és l'aparell necessari per ha fer els**canons**. Amb el fil del**fus**, rodant el** torn**, s'omplia el**canó,**aquest, mesura un pam i va dins de la**llançadora.
+El torn,**és l’aparell necessari per ha fer els**canons**. Amb el fil del**fus**, rodant el** torn**, s’omplia el**canó,**aquest, mesura un pam i va dins de la**llançadora.
 
-**El roll** és la matèria prima, el fil del **roll** és de les fabriques de filats. D'un **roll** es fan sis o set dotzenes de faixes d'espiga o cordó, sempre es comptem per dotzenes. Les mesures més corrents eren: 5x0´24, 6x0´28, 7x0´32, 8x0´36, 9xo´40, 10x0´44.
+**El roll** és la matèria prima, el fil del **roll** és de les fabriques de filats. D’un **roll** es fan sis o set dotzenes de faixes d’espiga o cordó, sempre es comptem per dotzenes. Les mesures més corrents eren: 5x0´24, 6x0´28, 7x0´32, 8x0´36, 9xo´40, 10x0´44.
 
 **Al plegador,** està enrotllat el**roll** amb el fil
 
-**Les pintes,** en son quatre, penjades al sostre del **teler.** Per elles creua els fils del**roll** un a un, formant l'ordit del teixit.
+**Les pintes,** en son quatre, penjades al sostre del **teler.** Per elles creua els fils del**roll** un a un, formant l’ordit del teixit.
 
 **La llançadora** i el fil del **canó** que porta dins, amb el moviment de part a part impulsat per la mà dreta, forma la trama del teixit.
 

@@ -20,12 +20,12 @@ Està molt espantada doncs a la planta baixa, viu una família nova i m’ha dit
 
 ![](img/platja-torre-sant-vicent.jpeg)
 
-Huí de matí hem fet el passeig pel voltant de la Torre Sant Vicent, on anem tots els dies. Al arribar al jardí del nostre apartament, la meua ama sempre em lleva la corretja i em deixa que em rebolco per l'herba i he vist al gat que tenim com a veí. Clar que la Babsy està espantada com que és més gran que ella!! Em mirava i m’ha fet un bufit, quina poca vergonya!! Com si sols ell tinguera dret a estar al jardí i jo fora el foraster! He corregut darrere d'ell, hem fet una bona cursa i li he donat un bon esglai. Quasi el tenia agafat quan s’ amagat per una gatera que té al costat de la porta de sa casa. Fins i tot estaré vigilant que no s’acoste a la Babsy
+Huí de matí hem fet el passeig pel voltant de la Torre Sant Vicent, on anem tots els dies. Al arribar al jardí del nostre apartament, la meua ama sempre em lleva la corretja i em deixa que em rebolco per l’herba i he vist al gat que tenim com a veí. Clar que la Babsy està espantada com que és més gran que ella!! Em mirava i m’ha fet un bufit, quina poca vergonya!! Com si sols ell tinguera dret a estar al jardí i jo fora el foraster! He corregut darrere d’ell, hem fet una bona cursa i li he donat un bon esglai. Quasi el tenia agafat quan s’ amagat per una gatera que té al costat de la porta de sa casa. Fins i tot estaré vigilant que no s’acoste a la Babsy
 
 ![](img/image14.jpeg)
 
-Per la vesprada, la gosseta i la seua ama estan les dos assegudes a uns bancs que hi ha al jardí per la part de la façana, sols escolten, no parlen mai. Allí estan també unes quantes veïnes desfeinades que miren tot el que entra i surt de l'edifici i també xafardegen de tot el que ocorre pel voltant. Quan la meua ama i jo ens anem a passejar i passem per allí ens diuen, que sempre tenim pressa, i és veritat, ens agrada més anar a caminar, així és, que la meua ama no mai sap res de res, sempre està en Babia referent a les notes socials del carrer.
+Per la vesprada, la gosseta i la seua ama estan les dos assegudes a uns bancs que hi ha al jardí per la part de la façana, sols escolten, no parlen mai. Allí estan també unes quantes veïnes desfeinades que miren tot el que entra i surt de l’edifici i també xafardegen de tot el que ocorre pel voltant. Quan la meua ama i jo ens anem a passejar i passem per allí ens diuen, que sempre tenim pressa, i és veritat, ens agrada més anar a caminar, així és, que la meua ama no mai sap res de res, sempre està en Babia referent a les notes socials del carrer.
 
-Però Babsy m'ho conta a mi tot. Les persones es creuen que nosaltres no veiem res, i sabem tot el que es diu i es fa al nostre voltant. Ahhh si parlarem!
+Però Babsy m’ho conta a mi tot. Les persones es creuen que nosaltres no veiem res, i sabem tot el que es diu i es fa al nostre voltant. Ahhh si parlarem!
 
 *Listo.*
