@@ -1,7 +1,7 @@
 ---
 id: "137"
 titulo: "Llibre de memòries"
-notas: "Versió de 2026 del llibre de memòries (epíleg firmat Paquita, 20 maig 2026). Hi havia una còpia de 2024 amb un capítol sobre Cinctorres més llarg i un sobre Morella: estan a 'Cinctorres i Morella'. Inclou, resumits, els tres cursos de la Universitat Senior, que també estan com a documents propis. Firma original: «Paquita 20 maig 2026.». Firma original: «24 juny 2014. Francisca Julian Querol»."
+notas: "Versió de 2026 del llibre de memòries (epíleg firmat Paquita, 20 maig 2026). Hi havia una còpia de 2024 amb un capítol sobre Cinctorres més llarg i un sobre Morella: estan a 'Cinctorres i Morella'. Inclou, resumits, els tres cursos de la Universitat Senior, que també estan com a documents propis. Firma original: «Paquita 20 maig 2026.». Firma original: «24 juny 2014. Francisca Julian Querol». Reescriu i amplia «Qui ho farà?» de 2014, que es conserva com a document propi per les seues 34 fotos i pels passatges que el llibre va deixar fora."
 ---
 
 # Llibre de memòries
