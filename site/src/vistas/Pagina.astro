@@ -19,7 +19,6 @@ const claus = [...Object.keys(OBRES), ...obresMd.map((o) => o.id).filter((k) => 
 const perObra = (o: string) => textos.filter((t) => t.obra === o);
 const nomObra = (o: string) => OBRES[o]?.nom[lang] ?? obresMd.find((x) => x.id === o)?.data.titulo ?? o;
 const descObra = (o: string) => OBRES[o]?.desc[lang] ?? obresMd.find((x) => x.id === o)?.data.criterio ?? '';
-const tipusObra = (o: string) => OBRES[o]?.tipus ?? 'recull';
 const num = (n: number) => n.toLocaleString(lang === 'ca' ? 'ca-ES' : 'es-ES');
 const totalCar = textos.reduce((s, t) => s + t.car, 0);
 const totalImg = textos.reduce((s, t) => s + t.img, 0);
@@ -69,8 +68,7 @@ const bundle = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
     </section>
     <ul class="obres">
       {claus.filter((o) => perObra(o).length).map((o) => { const ts = perObra(o); const ni = ts.reduce((s, t) => s + t.img, 0); return (
-        <li class={tipusObra(o)}>
-          <span class="lbl">{T[tipusObra(o)][lang]}</span>
+        <li>
           <h2><a href={url(lang, `obres/${o}`)}>{nomObra(o)}</a></h2>
           <p>{descObra(o)}</p>
           <div class="meta"><span><b class="num">{ts.length}</b> {T.textos[lang]}</span><span><b class="num">{num(ts.reduce((s, t) => s + t.car, 0))}</b> {T.caracters[lang]}</span>{ni > 0 && <span><b class="num">{ni}</b> {T.imatges[lang]}</span>}</div>
@@ -82,7 +80,6 @@ const bundle = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
 {tipus === 'obra' && obra && (
   <>
     <p class="miga"><a href={url(lang)}>{T.tornar[lang]}</a></p>
-    <p class="lbl">{T[tipusObra(obra)][lang]}</p>
     <h1>{nomObra(obra)}</h1>
     <p class="lede" style="color:var(--muted);margin-top:.8rem;max-width:44rem">{descObra(obra)}</p>
     <ol class="llista">

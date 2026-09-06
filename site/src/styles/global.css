@@ -61,7 +61,6 @@ main{padding:2.6rem 0 4rem}
 .xifres span{font-size:.78rem;color:var(--muted)}
 .obres{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(19rem,1fr));gap:1.2rem}
 .obres li{background:var(--surface);border:1px solid var(--line);padding:1.2rem 1.3rem 1.25rem;display:flex;flex-direction:column;gap:.55rem}
-.obres li.llibre{border-left:4px solid var(--accent)}
 .obres li h2{font-size:1.15rem}
 .obres li h2 a{color:var(--ink);text-decoration:none}
 .obres li h2 a:hover{text-decoration:underline}
