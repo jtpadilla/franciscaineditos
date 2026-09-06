@@ -16,7 +16,7 @@ Quien me iba a decir a mí, Manuel Agut, que ya en mi madurez tendría el cargo 
 
 *Hoy nuestro coche familiar va completo, tras mucho insistir mi madre nos acompaña, pasaremos el día visitando alguno de los bonitos pueblos del interior.*
 
-*La tierra bulle de vida, los almendros floridos extienden una alfombra bordeando la carretera por donde pasamos. Hemos llegado a nuestro destino¡¡¡ Es un hermoso pueblo amurallado con restos de un castillo en lo alto que nos habla de su historia. Desde la planicie, edificios más recientes trepan suavemente hasta llegar cerca de las murallas que protegen las casonas y edificios con escudos de órdenes militares casi olvidados, y a las casas más humildes, todas de piedra con heridas por el paso del tiempo y que conservan intacta su sobria dignidad.*
+*La tierra bulle de vida, los almendros floridos extienden una alfombra bordeando la carretera por donde pasamos. Hemos llegado a nuestro destino!!! Es un hermoso pueblo amurallado con restos de un castillo en lo alto que nos habla de su historia. Desde la planicie, edificios más recientes trepan suavemente hasta llegar cerca de las murallas que protegen las casonas y edificios con escudos de órdenes militares casi olvidados, y a las casas más humildes, todas de piedra con heridas por el paso del tiempo y que conservan intacta su sobria dignidad.*
 
 *Mi madre no ha subido con nosotros, se ha quedado en una plaza cuya calle recta llega hasta la jambra de la muralla, allí, acompañada de su perrito Listo nos espera. A nuestra vuelta, la hemos vista conversar con un vecino haciendo gestos señalando una antigua placa de piedra labrada que esta en la esquina de una casa mirando hacia la muralla, su cara tiene una expresión desconocida para nosotros.*
 

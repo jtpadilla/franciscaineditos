@@ -20,9 +20,9 @@ Aleshores ens toca aprendre a nosaltres
 
 La prova de foc es quan els fill et diuen que necessites un telèfon mòbil,(Crec que fiquen eixa escucà per a canviar-se’l ells). Com es natural el meu primer mòbil va ser heretat. Al principi aprens el que es més basic com fer, rebre trucades i… poc mes. Quan ja em vaig aprendre alguna funció més es va trencar, clar com era de segon ma, em van dir, que era normal. El segon també va ser heretat. I va ocorrin el mateix. Aleshores tinc un mòbil que m’ha comprat, al meu gust, no sols el model, també el color, té un munt de funcions que segur no aprofitaré mai.
 
-Desprès va tocar-li el torn, al ordinador.¡¡Que suors!! em van preparar tot el que feia falta, clar, també era de segon ma, El fill em va explicar com funcionava tot, jo escoltava pensant (axó no ho aprendre mai). Quan em vaig quedar a soles no recordava res.
+Desprès va tocar-li el torn, al ordinador.!!Que suors!! em van preparar tot el que feia falta, clar, també era de segon ma, El fill em va explicar com funcionava tot, jo escoltava pensant (axó no ho aprendre mai). Quan em vaig quedar a soles no recordava res.
 
-Ja està engegat! El ratolí, pareix que te vida pròpia, a vegades desapareix i surt per on menys se esperes, altres vegades es queda la pantalla,¡ vaja,! l’escriptori, tot en blanc, les lletres pugen i baixen al seu gust, no saps com, això si les trobes al teclat, doncs ja vegades que pareix que s’han perdut. I t’adones que la culpa la te el cursor que (també va per on vol)
+Ja està engegat! El ratolí, pareix que te vida pròpia, a vegades desapareix i surt per on menys se esperes, altres vegades es queda la pantalla,! vaja,! l’escriptori, tot en blanc, les lletres pugen i baixen al seu gust, no saps com, això si les trobes al teclat, doncs ja vegades que pareix que s’han perdut. I t’adones que la culpa la te el cursor que (també va per on vol)
 
 Poc a poc es va perden la por, encara així, quan em fica davant del PC no saps com anirà, i si tens curiositat per les aplicacions de la barra de eines, i en el meu cas sempre feix les coses per instin, surt el que surt. Provant el disseny de pantalla i sense saber com es va omplir d’un color viola intens que feria el ulls, i com no recordava com u vaig fer va estar així un munt de dies.
 
