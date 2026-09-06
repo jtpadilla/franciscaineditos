@@ -1,7 +1,7 @@
 ---
 id: "340"
 titulo: "Fotos antiguas"
-notas: "Cinco fotos antiguas de la familia con el texto que escribió para cada una (2017, firmadas Paquita), preparadas para el libro de memorias. Eran cinco documentos de una foto cada uno (ids 340-343 en 'fotos libro' y 247-251 en 'fotos meues treball/Pili', con una tercera copia en Escritorio anterior, 406-410), idénticos; se reúnen aquí en orden cronológico. La foto de la cansaladería venía en TIFF y se ha convertido a JPEG."
+notas: "Seis fotos antiguas de la familia con el texto que escribió para cada una (2017, firmadas Paquita), preparadas para el libro de memorias. Eran seis documentos de una foto cada uno (ids 340-343 en 'fotos libro' y 247-251 en 'fotos meues treball/Pili', con una tercera copia en Escritorio anterior, 406-410, más 'SEXENNI 1922', id 260, con su padre danzando en Morella), idénticos entre copias; se reúnen aquí en orden cronológico. La foto de la cansaladería venía en TIFF y se ha convertido a JPEG."
 ---
 
 # Fotos antiguas
@@ -35,6 +35,16 @@ Son sus sobrinas, hijas de una de sus hermanas que vivían en la Fresneda provin
 La fecha de esta foto es 1922. Este joven era conocido como *Manolo el Bàixo*, apodo heredado de su madre *cansaladera* *Agedeta la Bàixa* en la calle Zaragoza. Que después regento él en distintos lugares de Castellón.
 
 Su nombre es Manuel Padilla Calatayud, bisabuelo de mis nietos.
+
+*Paquita.*
+
+## Danza dels llauradors
+
+![](img/sexenni-1922.jpeg)
+
+En el *Sexenni* del año 1922, mi padre Tadeo Julián Querol, participo en las fiestas dels Sexenni como miembro activo de la cofradía de labradores, tenía 8 años.
+
+Es el primer danzante de la parte izquierda de la foto, según decían sus hermanas, mis tías, el lugar más difícil, pues era el que empezaba y dirigía los distintos pasos de la danza de caracol acompañados por la música de *dolzaina i tabal*.
 
 *Paquita.*
 

@@ -9,16 +9,16 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 
 | Id | Obra | Docs | Qué va | Qué NO va |
 |---|---|---|---|---|
-| C12 | Memoria familiar | 14 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
+| C12 | Memoria familiar | 15 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
 | C19 | Familia Padilla Agut | 3 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
-| C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
-| C21 | Cinctorres | 17 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
+| C20 | Poemes i reflexions | 17 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
+| C21 | Cinctorres | 16 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
 | C22 | Món rural i cuina | 21 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
-| C24 | Castelló | 10 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
+| C24 | Castelló | 11 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
-| C26 | Treballs i reflexions | 11 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
+| C26 | Treballs i reflexions | 17 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
 
 Ids de documento usados hasta el 756; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
@@ -90,14 +90,17 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 - **C25 Listo**: «LIBRO LISTO» (31.000, tres copias: `LIBRO lISTO/`, `LIBRO lISTO - copia/`, `Dropbox
   copia/compartida/LIBRO lISTO/`, «Listo, acabat»): el blog compilado como libro; comparar con las 14
   entradas de md/ y añadir lo que falte o sustituir por la versión del libro si es más completa.
-- **C26 Treballs i reflexions**: «Guerra del Rif» (34.000, con Alicia; dos copias más «Guerra del Rif,
-  Paquita y Alicia»), «El gran silencio» (dos copias), «Pnset» (Punset), «Cultura para la Paz» (tres copias),
-  «J. Soriano. Resumen Francisca Julián», «CONFERENCIA del llibre Morella excursió», «SEXENNI 1922»,
-  «Sexenni.» y «sexeni mitad» (comparar con el Sexenni de md/), «Belleza objetiva o subjetiva» (dos copias
-  nuevas), «Reflexió», «arquitectura», los dos resúmenes del Quijote si son suyos, «Otoño».
-- **C23 Relats**: «Teatre. Rosa i Roseta» (14.000, teatro; anotarlo), «Els reis d'Orient» si resulta ser relato.
+- **C26 Treballs i reflexions**: hecho el 2026-09-06 todo lo que era suyo (El gran silencio, Cultura para la Paz,
+  La arquitectura, La belleza en la música, Don Quijote, Lucerna, Presentació de la trufa negra, El progreso). Borrados
+  Guerra del Rif (no es suyo), Punset y la Mona Lisa (copias de web), y las versiones repetidas de Sexenni, Belleza,
+  Les classes de valencià y Nuevas tecnologías. Queda «CONFERENCIA del llibre Morella excursió» (209), que se revisa
+  con Natura, y «Otoño» (460), dudoso.
+- **C23 Relats**: «Teatre. Rosa i Roseta» era una traducción de los Álvarez Quintero, borrada el 2026-09-06.
+  «Els reis d'Orient» si resulta ser relato.
 - **C20 Poemes i reflexions**: «cançons» (Els dits), «Otoño» si es poema, «LAS PALABRAS».
-- **C08 Religion**: nada; `religión/` son copias de lo ya publicado o ajenos ya borrados.
+- **C08 Religion**: nada. Los nueve documentos que quedaban en `religión/` (copias de md, el Beato en castellano
+  descartado en la primera tanda, Herrada de Landsberg y Capdevila ajenos, herejías copiadas de Wikipedia) se
+  borraron el 2026-09-06, junto con «MANOLO CAPDEVILA MOT BE» (453), el mismo texto de Capdevila.
 
 ## Reglas de asignación cuando un documento encaja en dos obras
 
@@ -147,7 +150,7 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 - 2026-09-06: Familia Padilla Agut recibe «El pueblo de Padilla» (id 692), el fragmento propio de «pueblo Padilla»;
   el resto del fichero (equinoccio copiado de webs, pregón de Vicente) se ha descartado. C19 pasa a 3.
 - 2026-09-06: Cinctorres recibe «Ermites i rogatives» (id 352), los cuatro textos de `wiki/` (352-355) en un
-  documento con AUTORÍA A CONFIRMAR. C21 pasa a 17.
+  documento con AUTORÍA A CONFIRMAR. C21 pasa a 16 (el Faixero fusionado no suma).
 - 2026-09-06: Món rural i cuina recibe «Costumbres del campo y del mundo rural» (id 239, «Principio memoria»; copias
   364 y 398 borradas), con AUTORÍA A CONFIRMAR. C22 pasa a 17.
 - 2026-09-06: Món rural i cuina recibe «Cansalader» (id 633), sin la cola de diccionario copiada. C22 pasa a 18.
@@ -158,6 +161,20 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   de Cinctorres quedan para Natura «BIODIVERSITAT» (515) y «Liquens» (517).
 - 2026-09-06: Treballs i reflexions recibe «Presentació de la trufa negra» (id 488); la carpeta TOT TRUFA queda vacía
   y se borra. C26 pasa a 11.
+- 2026-09-06: borrada la carpeta `religión/` (696, 697, 709, 713, 715, 717, 720, 722, 723) y el 453: copias,
+  versiones descartadas y ajenos.
+- 2026-09-06: borrado «Guerra del Rif» (215, 439, 440) por no ser de Paquita.
+- 2026-09-06: Fotos antiguas (C12) recibe la sexta foto, el Sexenni de 1922 (260); Memoria familiar recibe «Cartes amb
+  Manel» (411, sin la carta de él); Castelló recibe «Ferias y mercado del lunes» (203); Poemes i reflexions recibe
+  «Reflexió» (653). C12 pasa a 15, C24 a 11, C20 a 17. «Teatre. Rosa i Roseta» (513) resulta ser su traducción al
+  valencià (marzo 2011) de un sainete de los hermanos Álvarez Quintero: borrado el 2026-09-06.
+- 2026-09-06: borrados de inprocess/ las copias de lo ya publicado (Les clases de valencià 441, Belleza objetiva 192 y
+  526, sexeni mitad 246 y 405, resumen J. Soriano 183 y 483, Aprender nuevas tecnologías 2006 637, cançons 337 y 477)
+  y los ajenos o restos (Punset 465, Mona Lisa 639, Pintura géneros 461, correos del curso 413, guías de Dropbox 204 y
+  205, Sexenni. 367), con las carpetas que quedaron vacías.
+- 2026-09-06: Treballs i reflexions recibe El gran silencio (373; copia 479), Cultura para la Paz (201; copias 475,
+  651), La arquitectura (654), La belleza en la música (446), Don Quijote (378 + 379, sin el soneto de Cervantes) y
+  Lucerna (419). C26 pasa a 17.
 
 ## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
 
