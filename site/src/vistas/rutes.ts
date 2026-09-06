@@ -9,6 +9,7 @@ export async function rutes() {
     { params: { ruta: 'fotografies' }, props: { tipus: 'fotografies' } },
     { params: { ruta: 'cerca' }, props: { tipus: 'cerca' } },
     { params: { ruta: 'sobre' }, props: { tipus: 'sobre' } },
+    { params: { ruta: 'autora' }, props: { tipus: 'autora' } },
   ];
   const obres = new Set([...Object.keys(OBRES), ...textos.map((t) => t.id.split('/')[0])]);
   for (const o of obres) out.push({ params: { ruta: `obres/${o}` }, props: { tipus: 'obra', obra: o } });

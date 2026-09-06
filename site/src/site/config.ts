@@ -82,6 +82,8 @@ export const T = {
   fotografies: { ca: 'Fotografies', es: 'Fotografías' },
   cerca: { ca: 'Cerca', es: 'Buscar' },
   sobre: { ca: 'Sobre este fons', es: 'Sobre este fondo' },
+  autora: { ca: 'L’autora', es: 'La autora' },
+  autoraCompleta: { ca: 'Biografia completa i tots els llocs', es: 'Biografía completa y todos los sitios' },
   textos: { ca: 'textos', es: 'textos' },
   text: { ca: 'text', es: 'texto' },
   imatges: { ca: 'imatges', es: 'imágenes' },

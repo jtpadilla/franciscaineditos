@@ -3,9 +3,10 @@ import { getCollection, getEntry, render } from 'astro:content';
 import { Image } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
 import Base from '../layouts/Base.astro';
-import { SITE, OBRES, T, url, type Lang } from '../site/config';
+import { SITE, OBRES, T, GERMANS, url, type Lang } from '../site/config';
 import { llengua } from '../site/llengua';
 import { slug } from '../site/slug';
+import retrat from '../imatges/retrat-paquita.jpg';
 interface Props { lang: Lang; tipus: string; obra?: string; id?: string; ruta?: string }
 const { lang, tipus, obra, id, ruta = '' } = Astro.props;
 
@@ -35,8 +36,8 @@ if (tipus === 'text' && id) {
   const e = await getEntry('textos', id);
   if (entrada && e) { ({ Content } = await render(e)); obraActual = entrada.obra; const ll = perObra(obraActual); const i = ll.findIndex((t) => t.id === id); ant = ll[i - 1]; seg = ll[i + 1]; }
 }
-const titol = tipus === 'obra' ? nomObra(obra!) : tipus === 'text' ? entrada?.data.titulo : tipus === 'fotografies' ? T.fotografies[lang] : tipus === 'cerca' ? T.cerca[lang] : tipus === 'sobre' ? T.sobre[lang] : undefined;
-const actual = tipus === 'fotografies' ? 'fotografies' : tipus === 'cerca' ? 'cerca' : tipus === 'sobre' ? 'sobre' : 'obres';
+const titol = tipus === 'obra' ? nomObra(obra!) : tipus === 'text' ? entrada?.data.titulo : tipus === 'fotografies' ? T.fotografies[lang] : tipus === 'cerca' ? T.cerca[lang] : tipus === 'sobre' ? T.sobre[lang] : tipus === 'autora' ? T.autora[lang] : undefined;
+const actual = tipus === 'fotografies' ? 'fotografies' : tipus === 'cerca' ? 'cerca' : tipus === 'sobre' ? 'sobre' : tipus === 'autora' ? 'autora' : 'obres';
 const bundle = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
 ---
 <Base lang={lang} title={titol} ruta={ruta} actual={actual} desc={tipus === 'obra' ? descObra(obra!) : tipus === 'text' ? entrada?.data.notas : undefined}>
@@ -216,6 +217,25 @@ const bundle = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/pagefind/`;
   </>
 )}
 
+{tipus === 'autora' && (
+  <article class="lectura autora">
+    <h1>{T.autora[lang]}</h1>
+    <Image src={retrat} alt={SITE.autora} widths={[360, 720]} sizes="(max-width: 40rem) 100vw, 18rem" class="retrat" />
+    {lang === 'ca' ? (<>
+      <p style="margin-top:1.4rem"><b>Francisca Julián Querol</b>, Paquita, va nàixer a Cinctorres el 1945. Son pare, Tadeo Julián, era del Mas de Julian, a la dena dels Llivis del terme de Morella, i ferrer del poble; sa mare, Encarna, «de Franxo». A Cinctorres tothom la coneix com a Paquita de Tadeo.</p>
+      <p>De jove se’n va anar a Castelló, la ciutat on viu. Allí va treballar trenta-cinc anys de cansaladera al mercat de Sant Antoni amb el seu marit, Juan Padilla, fins que el mercat va complir cinquanta anys i ella va decidir anar als arxius a escriure’n la història.</p>
+      <p>Als seixanta va aprendre a fer servir l’ordinador i es va matricular a la Universitat per a Majors de la Universitat Jaume I. D’allí van eixir els seus dos treballs d’investigació: la vida als masos de Morella (2006, revisat el 2016) i el paviment ceràmic de la casa Santjoans de Cinctorres (2010, publicat per la Diputació de Castelló el 2012). Entre 2014 i 2016 va recórrer amb el seu germà Tadeo la rambla de Celumbres per a fer-ne una guia de biodiversitat, i des del maig de 2010 fins al 2026 va escriure el blog «Les meues coses», en valencià i en castellà.</p>
+      <p>Els textos d’este lloc són els que van quedar als seus ordinadors sense publicar.</p>
+      <p><a href={GERMANS[0].url}>{T.autoraCompleta[lang]}</a></p>
+    </>) : (<>
+      <p style="margin-top:1.4rem"><b>Francisca Julián Querol</b>, Paquita, nació en Cinctorres en 1945. Su padre, Tadeo Julián, era del Mas de Julian, en la dena dels Llivis del término de Morella, y herrero del pueblo; su madre, Encarna, «de Franxo». En Cinctorres todo el mundo la conoce como Paquita de Tadeo.</p>
+      <p>De joven se fue a Castelló, la ciudad donde vive. Allí trabajó treinta y cinco años de charcutera en el mercado de Sant Antoni con su marido, Juan Padilla, hasta que el mercado cumplió cincuenta años y ella decidió irse a los archivos a escribir su historia.</p>
+      <p>A los sesenta aprendió a manejar el ordenador y se matriculó en la Universitat per a Majors de la Universitat Jaume I. De allí salieron sus dos trabajos de investigación: la vida en los masos de Morella (2006, revisado en 2016) y el pavimento cerámico de la casa Santjoans de Cinctorres (2010, publicado por la Diputació de Castelló en 2012). Entre 2014 y 2016 recorrió con su hermano Tadeo la rambla de Celumbres para hacer una guía de biodiversidad, y desde mayo de 2010 hasta 2026 escribió el blog «Les meues coses», en valenciano y en castellano.</p>
+      <p>Los textos de este sitio son los que quedaron en sus ordenadores sin publicar.</p>
+      <p><a href={GERMANS[0].url}>{T.autoraCompleta[lang]}</a></p>
+    </>)}
+  </article>
+)}
 {tipus === 'sobre' && (
   <article class="lectura">
     <h1>{T.sobre[lang]}</h1>

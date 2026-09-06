@@ -2,7 +2,7 @@
 import '../styles/global.css';
 import { Font } from 'astro:assets';
 import { SITE, T, GERMANS, CODI_IDIOMA, url, type Lang } from '../site/config';
-interface Props { lang: Lang; title?: string; desc?: string; ruta?: string; actual?: 'obres' | 'fotografies' | 'cerca' | 'sobre'; }
+interface Props { lang: Lang; title?: string; desc?: string; ruta?: string; actual?: 'obres' | 'fotografies' | 'cerca' | 'sobre' | 'autora'; }
 const { lang, title, desc, ruta = '', actual } = Astro.props;
 const altre: Lang = lang === 'ca' ? 'es' : 'ca';
 const titol = title ? `${title} · ${SITE.nom[lang]}` : `${SITE.nom[lang]} · ${SITE.autora}`;
@@ -30,6 +30,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       <a href={url(lang)} aria-current={actual === 'obres' ? 'page' : undefined}>{T.obres[lang]}</a>
       <a href={url(lang, 'fotografies')} aria-current={actual === 'fotografies' ? 'page' : undefined}>{T.fotografies[lang]}</a>
       <a href={url(lang, 'cerca')} aria-current={actual === 'cerca' ? 'page' : undefined}>{T.cerca[lang]}</a>
+      <a href={url(lang, 'autora')} aria-current={actual === 'autora' ? 'page' : undefined}>{T.autora[lang]}</a>
       <a href={url(lang, 'sobre')} aria-current={actual === 'sobre' ? 'page' : undefined}>{T.sobre[lang]}</a>
       <a class="idioma" href={url(altre, ruta)} lang={CODI_IDIOMA[altre]} hreflang={CODI_IDIOMA[altre]}>{T.idiomaAlt[lang]}</a>
       <button id="tema-boto" type="button" class="tema" aria-label={T.tema[lang]} title={T.tema[lang]}>◐</button>

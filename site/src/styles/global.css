@@ -135,4 +135,8 @@ nav.veins .lbl{display:block;margin-bottom:.15rem}
 .avis{border:1px solid var(--line);padding:.75rem 1rem;background:var(--surface);font-family:var(--f-ui);font-size:.88rem;color:var(--muted)}
 .visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 /* el H1 del markdown repetix el títol de la pàgina: no es mostra */
-.lectura > h1:first-child{display:none}
+.lectura[data-pagefind-body] > h1:first-child{display:none}
+
+.autora .retrat{float:right;width:18rem;max-width:45%;height:auto;margin:.4rem 0 1rem 1.6rem;border-radius:4px;cursor:default}
+.autora::after{content:'';display:block;clear:both}
+@media (max-width:40rem){.autora .retrat{float:none;max-width:100%;margin:1rem 0}}
