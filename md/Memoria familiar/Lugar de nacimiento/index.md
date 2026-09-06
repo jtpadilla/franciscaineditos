@@ -1,15 +1,10 @@
 ---
 id: "532"
 titulo: "Lugar de nacimiento"
-origen: "Documents/VIVIR/Lugar de nacimiento.docx"
-formato: "docx"
-caracteres: 1346
-imagenes: 0
-interesa: ""
-notas: ""
+notas: "Recuerdo de su nacimiento en Cinctorres y breve retrato de sí misma, firmado Paquita. Sin fecha; 'catorce lustros' sitúa el texto hacia 2015. Escrito como respuesta a Vicente Vicente Rodríguez (carpeta VIVIR); única versión."
 ---
 
-LUGAR DE NACIMIENTO
+# Lugar de nacimiento
 
 Naci un 31 de Enero hace catorce lustros en un pueblo entre montañas y que según dice alguien muy entendido y querido para mi, su escudo, compuesto por cinco torres encima de las armas de la corona de Aragon parece están ocupadas en un juego que podemos llamar \<juego de cinco torres en doble raya diagonal \> así como suena.
 
@@ -21,4 +16,4 @@ Tengo una curiosidad por todo lo conocido y lo que no conozco, hay tanto que apr
 
 Ahhh se me olvidaba decir que naci en Cinctorres, un hermoso lugar rodeado de campos de almendros y hierbas aromáticas donde: **el silencio habla.**
 
-Paquita
+*Paquita*
