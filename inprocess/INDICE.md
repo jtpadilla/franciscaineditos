@@ -1,12 +1,12 @@
 # Índice de inprocess/
 
-169 documentos en 26 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 169.
+155 documentos en 25 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 155.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 169 docs | | |  |
+| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 155 docs | | |  |
 | **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 3 docs | | |  |
 | 175 | [Documents/2 tapas/LAS PALABRAS.](<Documents/2 tapas/LAS PALABRAS./index.md>) | LAS PALABRAS. | docx | 2167 | 1 |  |  |
 | 176 | [Documents/2 tapas/TAPA DE 15](<Documents/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -186,18 +186,3 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 752 | [Documents/treball uji CELUMBRES/insectos-mariposas](<Documents/treball uji CELUMBRES/insectos-mariposas/index.md>) | insectos-mariposas | docx | 1429 | 0 |  |  |
 | 751 | [Documents/treball uji CELUMBRES/INVERTEBRADOS  ANTROPODOS.](<Documents/treball uji CELUMBRES/INVERTEBRADOS  ANTROPODOS./index.md>) | INVERTEBRADOS  ANTROPODOS. | docx | 12737 | 0 |  |  |
 | 753 | [Documents/treball uji CELUMBRES/lOA LIQUENES.](<Documents/treball uji CELUMBRES/lOA LIQUENES./index.md>) | lOA LIQUENES. | docx | 1863 | 12 |  |  |
-| **C111** | **[Documents/VIVIR/](<Documents/VIVIR/_carpeta.md>)** | **VIVIR** | carpeta | 14 docs | | |  |
-| 541 | [Documents/VIVIR/adin¡vinanzas](<Documents/VIVIR/adin¡vinanzas/index.md>) | adin¡vinanzas | docx | 1853 | 0 |  |  |
-| 521 | [Documents/VIVIR/Agosto](<Documents/VIVIR/Agosto/index.md>) | Agosto | docx | 1349 | 0 |  |  |
-| 523 | [Documents/VIVIR/Aplausos](<Documents/VIVIR/Aplausos/index.md>) | Aplausos | docx | 3620 | 1 |  |  |
-| 527 | [Documents/VIVIR/Bodas de oro](<Documents/VIVIR/Bodas de oro/index.md>) | Bodas de oro | docx | 1263 | 0 |  |  |
-| 528 | [Documents/VIVIR/Debajo del brazo](<Documents/VIVIR/Debajo del brazo/index.md>) | Debajo del brazo | docx | 5306 | 0 |  |  |
-| 529 | [Documents/VIVIR/Envidia](<Documents/VIVIR/Envidia/index.md>) | Envidia | docx | 830 | 0 |  |  |
-| 543 | [Documents/VIVIR/hablando de capas](<Documents/VIVIR/hablando de capas/index.md>) | hablando de capas | docx | 2166 | 0 |  |  |
-| 544 | [Documents/VIVIR/melanoma](<Documents/VIVIR/melanoma/index.md>) | melanoma | docx | 3859 | 0 |  |  |
-| 533 | [Documents/VIVIR/Mi figura](<Documents/VIVIR/Mi figura/index.md>) | Mi figura | doc | 1342 | 0 |  |  |
-| 534 | [Documents/VIVIR/Pasatiempo Vicente](<Documents/VIVIR/Pasatiempo Vicente/index.md>) | Pasatiempo Vicente | doc | 1126 | 0 |  |  |
-| 547 | [Documents/VIVIR/respuesta](<Documents/VIVIR/respuesta/index.md>) | respuesta | docx | 1487 | 0 |  |  |
-| 546 | [Documents/VIVIR/respuesta a deberes](<Documents/VIVIR/respuesta a deberes/index.md>) | respuesta a deberes | docx | 3055 | 0 |  |  |
-| 537 | [Documents/VIVIR/Salud en la piel](<Documents/VIVIR/Salud en la piel/index.md>) | Salud en la piel | docx | 1930 | 0 |  |  |
-| 539 | [Documents/VIVIR/Un 14 de Julio de 2015](<Documents/VIVIR/Un 14 de Julio de 2015/index.md>) | Un 14 de Julio de 2015 | doc | 948 | 0 |  |  |

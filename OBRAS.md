@@ -12,13 +12,13 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C12 | Memoria familiar | 15 | memorias personales y familiares: el libro, la versión de 2014, genealogía de los Julián Segura y los Boix, recuerdos en primera persona | la familia del marido (C19), los viajes (Viatges, pendiente) |
 | C19 | Familia Padilla Agut | 3 | la familia de su marido Juan Padilla Agut: la abuela María, los Padilla, los Agut | |
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
-| C20 | Poemes i reflexions | 17 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
+| C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
 | C21 | Cinctorres | 16 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
 | C22 | Món rural i cuina | 21 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 11 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 16 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
-| C26 | Treballs i reflexions | 18 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
+| C26 | Treballs i reflexions | 19 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
 
 Ids de documento usados hasta el 756; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
@@ -49,11 +49,11 @@ procedimiento de CLAUDE.md. Orden sugerido: 1, 3, 2.
    familiar y De los Ports al mar en Treballs; los tres viajes del blog (El gran viatge, La perla de la montaña, La Balma
    2011) se quedan en Les meues coses.
 
-Posible cuarta obra, a decidir por el usuario: **Cartes a Vicente**, con las respuestas de ella a los
-escritos de Vicente Vicente Rodríguez (carpeta `VIVIR/`: «respuesta a deberes», «respuesta», «Bodas de
-oro», «Pasatiempo», «Aplausos», «Debajo del brazo», «Envidia», «hablando de capas», «Lugar de nacimiento»,
-«Mi figura», «Salud en la piel», «melanoma», «Un 14 de Julio de 2015», «adivinanzas», «Agosto», y «pueblo
-Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus respuestas van a C26.
+**Cartes a Vicente**: descartada el 2026-09-06. Las ocho respuestas suyas a Vicente Vicente Rodríguez (carpeta `VIVIR/`)
+eran correspondencia privada de carácter afectivo, y el usuario decidió borrarlas junto con los cuatro escritos de él.
+De esa carpeta ya habían salido «Lugar de nacimiento» (C12) y «El pueblo de Padilla» (C19). «Salud en la piel» (537; copia 544), un texto
+sobre el melanoma, ha ido a Treballs i reflexions. «Reflexió» (653), que había entrado en Poemes i reflexions, se ha
+borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no existe.
 
 ## Dónde va el material de la segunda tanda que encaja en obras existentes
 
@@ -176,6 +176,10 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   526, sexeni mitad 246 y 405, resumen J. Soriano 183 y 483, Aprender nuevas tecnologías 2006 637, cançons 337 y 477)
   y los ajenos o restos (Punset 465, Mona Lisa 639, Pintura géneros 461, correos del curso 413, guías de Dropbox 204 y
   205, Sexenni. 367), con las carpetas que quedaron vacías.
+- 2026-09-06: Treballs i reflexions recibe «Salud en la piel» (537; copia 544 borrada); «Reflexió» (653) sale de Poemes
+  i reflexions. C26 pasa a 19 y C20 vuelve a 16.
+- 2026-09-06: descartada Cartes a Vicente; borradas las doce cartas de `VIVIR/` (521, 523, 527, 528, 529, 533, 534,
+  539, 541, 543, 546, 547).
 - 2026-09-06: descartada la obra Viatges. Treballs i reflexions recibe «Mare de Déu de la Balma» (455; copia 255
   borrada); borrados DUERO Tónica (202), Al Oeste del Maestrazgo (522) y Nuevo Roquetas (457), ajenos. C26 pasa a 18.
 - 2026-09-06: Listo recibe «Nit de Maitines (revista)» (724) y «Tapa del llibre» (217), cuatro fotos nuevas y el gatet

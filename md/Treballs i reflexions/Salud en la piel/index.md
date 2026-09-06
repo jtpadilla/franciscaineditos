@@ -1,15 +1,10 @@
 ---
 id: "537"
 titulo: "Salud en la piel"
-origen: "Documents/VIVIR/Salud en la piel.docx"
-formato: "docx"
-caracteres: 1930
-imagenes: 0
-interesa: ""
-notas: ""
+notas: "Texto divulgativo sobre el melanoma: el sol y la vitamina D, la descripción de Hipócrates, los factores de riesgo, la radiación ionizante y no ionizante y las campañas de prevención. Sin fecha ni firma; estaba en la carpeta VIVIR. Había una copia (544, 'melanoma') con el texto repetido dos veces, eliminada."
 ---
 
-SALUD EN LA PIEL
+# Salud en la piel
 
 Aunque la vitamina D que recibimos a través de los rayos del sol es muy importante, y la estética de lucir un bonito bronceado también lo es, es mayor el peligro que supone exponerse al sol sin protección, con el resultado de desarrollar una enfermedad a veces grave como es el: **Melanoma**
 
@@ -25,7 +20,7 @@ El color de piel pálida, pelo rubio, rojo o marrón claro, ojos claros, verdes 
 
 Ciertas medicaciones tales como algunos antibióticos, hormonas, o antidepresivos hacen la piel más sensible a la exposición solar y aumenta el riesgo.
 
-Exposición a radiación, ionizante y no ionizante.
+## Exposición a radiación, ionizante y no ionizante
 
 La radiación ionizante es la que produce efectos químicos en los tejidos humanos y es emitida por los rayos X, los rayos gamma y el bombardero de partículas (haces de neutrones electrones, protones, mesones y otros)
 
@@ -34,5 +29,3 @@ Este tipo de radiación se puede utilizar para exámenes y tratamientos médicos
 La no ionizante viene en forma de luz, ondas de radio microondas y radar. Este tipo de radiación por lo general no produce daño a los tejidos.
 
 Actualmente hay campañas de sensibilización para prevenir este tipo de cáncer que cada día va en aumento.
-
-.
