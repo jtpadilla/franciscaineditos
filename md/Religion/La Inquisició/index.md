@@ -1,7 +1,7 @@
 ---
 id: "079"
 titulo: "La Inquisició"
-notas: ""
+notas: "Trabajo del curso de religión medieval, en valencià: las etapas de la Inquisición (episcopal, pontificia, española, romana, portuguesa, mexicana) y una conclusión sobre la novela El hereje de Delibes. Sin fecha ni firma."
 ---
 
 # La Inquisició

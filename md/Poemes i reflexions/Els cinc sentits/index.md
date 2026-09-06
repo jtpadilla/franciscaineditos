@@ -19,7 +19,7 @@ Els colors difusos del arc de San Martí després de la pluja
 El verd dels pins que fan ombra  
 Els diferents ocres dels roures a la tardor, avisant-me que s’acosta l’hivern.  
 L’estampa única dels ametlles florit  
-El lluminós groc de la flor d’argelaga, com un premi a la mata que quan després punxa, t\`apartes d’ella  
+El lluminós groc de la flor d’argelaga, com un premi a la mata que quan després punxa, t’apartes d’ella  
 El roig de les roselles, que pareixen gotes de sang i vida  
 La majestuositat de les muntanyes.  
 

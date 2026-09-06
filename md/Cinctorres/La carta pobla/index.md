@@ -1,7 +1,7 @@
 ---
 id: "029"
 titulo: "La carta pobla"
-notas: ""
+notas: "Nota breu: la carta pobla de Cinctorres, atorgada per Blasco de Alagón el 1234, i la carta pobla de Camarón de 1194, la primera on apareix el nom Quinque Turres. Sense data ni firma."
 ---
 
 # La carta pobla

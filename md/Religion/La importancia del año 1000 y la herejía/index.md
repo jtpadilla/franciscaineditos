@@ -1,7 +1,7 @@
 ---
 id: "078"
 titulo: "La importancia del año 1000 y la herejía"
-notas: ""
+notas: "Trabajo del curso de religión medieval: la crisis del año 1000, el nacimiento del concepto de hereje y los beatos como forma de evangelizar desde el miedo, con una reflexión sobre cómo la Iglesia recuerda hoy sus normas. Sin fecha ni firma."
 ---
 
 # La importancia del año 1000 y la herejía

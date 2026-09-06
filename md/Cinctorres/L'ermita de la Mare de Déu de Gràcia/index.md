@@ -31,7 +31,7 @@ Any 1593. El bisbe Morella D. Gaspar Punter i Barreda bare fer donació a la vil
 
 D. Gaspar Punter Barreda bisbe de Tortosa durant l’any 1590 fins 1600 amic del noble sinctorrà D.Blai Berga passava convidat l’estiu a les seues cases de Cinctorres i Forcall Pot ser la raó d’aquesta amistat el regal de la imatge de la Verge de Gracia com a patrona de Cinctorres? La construcció de l’ermita va ser pagada per subscripció popular i donatius, va durar 2 anys de fer. Aquesta ermita va estar oberta al culte durant 287 anys.
 
-Any 1606 22 d’abril. Els cofrades de la Mare de deu del Roser de Morella, van vindre a visitar la ermita nova de Cinctorres amb cavalleries, i descalços baixaven de Sant Cristofol de damunt de Saranyana, on van fer nit i desprès d\`oir missa. La sequera i la fam d’aquelles anys de penúries van fer que visitaren amb molta devoció les ermites de les aldees del Castell de Morella en la quaresma del any 1606.
+Any 1606 22 d’abril. Els cofrades de la Mare de deu del Roser de Morella, van vindre a visitar la ermita nova de Cinctorres amb cavalleries, i descalços baixaven de Sant Cristofol de damunt de Saranyana, on van fer nit i desprès d’oir missa. La sequera i la fam d’aquelles anys de penúries van fer que visitaren amb molta devoció les ermites de les aldees del Castell de Morella en la quaresma del any 1606.
 
 L’arquitecte provincial de Castello Manuel Montesinos va ser l’encarregat de construir la nova l’ermita de Cinctorres. La primera pedra es va col.locar el 17 de març de 1868 per l’obrer Cristobal Bayarri, com es pot llegir en una inscripció de la façana i es va acabar el 14 de juliol de 1875.
 

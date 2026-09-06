@@ -1,7 +1,7 @@
 ---
 id: "119"
 titulo: "Està ahi"
-notas: ""
+notas: "Poema de contraris (la llum i la foscor, la vida i la mort) que acaba «no som res i ho som tot». Firmat Paquita, sense data."
 ---
 
 # Està ahi

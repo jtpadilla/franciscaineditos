@@ -72,7 +72,7 @@ borrado de md/ por pertenecer a la misma relación. La carpeta `VIVIR/` ya no ex
   entrada del blog «Esglesia de Cinctorres» (586 y 289), versión corta de la de md, se borró el 2026-09-06. «Sant Antoni als Ports» es del blog. No van aquí: «Llibret mercat San Antoni» (es el
   mercado de Castelló, ya en C24), «cansalader» (hecho en C22 el 2026-09-06), «Mare de Deu de la Balma» (Zorita:
   Viatges), los artículos del boletín (Natura). «Faixero Memoria» (231, 390, 358) ya está dentro de
-  «Agricultura y costumbres del mundo rural»: borrar.
+  «Agricultura y costumbres del campo y del mundo rural»: borrar.
 - **C24 Castelló**: hechos el 2026-09-06 «Cuartel de San Francisco», «Castellón» y «Partidas de Castellón».
   «Convento y cuartel» y «Castelló 1200-1900» son entradas del blog y van a Les meues coses. «Festes de la Magdalena» (224, 232, 383, 391) y «madalena - copia»
   (371) eran la transcripción del librito «La Magdalena» de Emilio Calduch (1940), ejemplar dedicado a Tomás

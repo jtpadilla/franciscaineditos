@@ -1,7 +1,7 @@
 ---
 id: "143"
 titulo: "On està aquella gent?"
-notas: ""
+notas: "Poema en valencià sobre la gent que ja no saluda pel carrer, amb l'aparell pegat a l'orella, i la gent de sempre que et mira i et veu. Sense data ni firma."
 ---
 
 # On està aquella gent?

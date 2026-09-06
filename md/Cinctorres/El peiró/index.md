@@ -16,7 +16,7 @@ Hi han altres més senzilles que tenen el mateix sentit, de ferro treballat a la
 
 O les de fusta casi eterna de ginebre o savina, sarmentoses i firmes.
 
-També hi ha en altres pobles i llocs de la Plana. En camins plens d\`ermites, terres molt fèrtils d’horta, de tarongers, i acaronades per la brisa de la mar.
+També hi ha en altres pobles i llocs de la Plana. En camins plens d’ermites, terres molt fèrtils d’horta, de tarongers, i acaronades per la brisa de la mar.
 
 Tinc tants noms;PEIRÓ, PIURÓ, PRIGÓ o CREU DE TERME que puc triar.
 

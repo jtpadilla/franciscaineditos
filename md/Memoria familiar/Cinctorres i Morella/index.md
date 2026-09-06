@@ -8,7 +8,7 @@ notas: "Dos capítols de la còpia de 2024 del llibre de memòries que no estan 
 
 ## Cinctorres
 
-Sent alcalde de Cinctorres Pio Garcia abuelo del meu amig Jaume, l’any 1911 va portar la llum al poble, era necessària per a l\`indústria tèxtil i molí de gra que tenia a la plaça del cap de Vila i al seu domicili en el carrer de la Plaça n.17 L’hostal de Roc, casa Capellanets i Curanveles tambe van ser les primeres cases que en van tindre llum les altres sols tenen una línea conmutada de manera que o be estaba encesa a la entrada o a la cuina. Hi havia faroles als cantons de alguns carrer que alumbran quan es feia de nit i de matí quan clareja s’apaguen aixo es deia donar la llum.i poc apoc a totes les industries que estan relacionades amb el comerç de la llana.
+Sent alcalde de Cinctorres Pio Garcia abuelo del meu amig Jaume, l’any 1911 va portar la llum al poble, era necessària per a l’indústria tèxtil i molí de gra que tenia a la plaça del cap de Vila i al seu domicili en el carrer de la Plaça n.17 L’hostal de Roc, casa Capellanets i Curanveles tambe van ser les primeres cases que en van tindre llum les altres sols tenen una línea conmutada de manera que o be estaba encesa a la entrada o a la cuina. Hi havia faroles als cantons de alguns carrer que alumbran quan es feia de nit i de matí quan clareja s’apaguen aixo es deia donar la llum.i poc apoc a totes les industries que estan relacionades amb el comerç de la llana.
 
 La tenda de ultramarins a Cintorres el meu poble, que recordo que era menuda es casa Avelino la de la plaça de l’esglesia com m’han dit el seu fill la primera tenda per l’any 1932 estava al carrer San Roc i era la del seu aguelo de nom Avelino
 

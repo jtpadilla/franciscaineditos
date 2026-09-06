@@ -26,7 +26,7 @@ Les TORRETES de La Llongera, la TORRE de EN PALLARES,y la TORRE TORNERA, existen
 
 Y la otra versión, QUINQUE TURRES, cinco torres, 5 torres, CINCTORRES.
 
-Cuando la conquista a los musulmanes de la población por las tropas del Rey Jaime 1º en 1232, había un tal Benet de TORRES, noble catalán que, en su escudo de armas figuraba sobre fondo azul, ‘’CINC- CASTELLETS DAURATS\`\`
+Cuando la conquista a los musulmanes de la población por las tropas del Rey Jaime 1º en 1232, había un tal Benet de TORRES, noble catalán que, en su escudo de armas figuraba sobre fondo azul, ‘’CINC- CASTELLETS DAURATS’’
 
 Así que tenemos para escoger.
 

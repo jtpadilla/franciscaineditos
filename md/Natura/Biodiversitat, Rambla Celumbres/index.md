@@ -18,7 +18,7 @@ Es creu que hi ha 10.000 especies distintes de plantes, 6.500 son autòctones i 
 
 El paisatge es muntanyós i abrupte, en els clars dels boscos es troben agrupacions d’arbust amb una densa vegetació, lloc on més varietats de plantes va estudiar i deixar constància el botànic Cabanilles en les seues Observacions de 1795.
 
-La Rambla Celumbres està encaixonada per un costat per la Roca Parda de Cinctorres i per l’altre la Roca Roja de Portell. El seus penyats-segats son un paisatge únic, autèntic i sense alteracions. Seguint el seu marge fins el camí de la Canà s\`han deixat de conrear camps de cereals, tubèrculs i vinyes per absència d’habitants dels masos, mas d’Encosta, de Clara, de Bernardo, de Cristóbal, Masnou, Collet i Coscollar.
+La Rambla Celumbres està encaixonada per un costat per la Roca Parda de Cinctorres i per l’altre la Roca Roja de Portell. El seus penyats-segats son un paisatge únic, autèntic i sense alteracions. Seguint el seu marge fins el camí de la Canà s’han deixat de conrear camps de cereals, tubèrculs i vinyes per absència d’habitants dels masos, mas d’Encosta, de Clara, de Bernardo, de Cristóbal, Masnou, Collet i Coscollar.
 
 En els ribassos i camps de guaret tornen a sortir de manera espontània plantes autòctones i endèmiques, com argelagues, eriçons, etc i abundants plantes aromàtiques.
 

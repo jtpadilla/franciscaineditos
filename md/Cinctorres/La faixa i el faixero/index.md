@@ -1,7 +1,7 @@
 ---
 id: "120"
 titulo: "La faixa i el faixero"
-notas: ""
+notas: "La faixa com a peça de vestir del camp i l'ofici de faixero: les fàbriques familiars dels Ports, l'últim faixero del poble al mercat del dilluns, les rutes i l'estàtua de bronze. Sense data ni firma. Versió curta i anterior del tema de «Faixero, faixes!»."
 ---
 
 # La faixa i el faixero

@@ -1,7 +1,7 @@
 ---
 id: "055"
 titulo: "Mediterráneo"
-notas: ""
+notas: "Poema breve en castellano: la añoranza del mar desde lejos y la llamada a usar los cinco sentidos. Sin fecha ni firma."
 ---
 
 # Mediterráneo

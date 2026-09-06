@@ -228,7 +228,7 @@ Terminado el rastrillado el cáñamo estaba en condiciones de ser hilado. Para e
 
 *La borra era la fibra de menor calidad y se usaba hacer suelas de alpargatas. El cultivo del cáñamo tuvo durante muchos años una gran importancia en las tierras de Castellón y también un peso, importante en la actividad artesanal de la ciudad. Aunque sobre la evolución de la industria del cáñamo en Castellón, las primeras noticias son del siglo XV, la época de mayor desarrollo fue en siglo XVIII- XIX, cuando la manipulación de fibra y su transformación en hilos y cuerda daba mucho trabajo a muchas personas, lo que ha traído la fama en este sector.*
 
-También se desarrollaron aplicaciones industriales del cáñamo y fueron abastecedores oficiales de lonas, cabos ​y de cabuyería para la Real Marina Española. En los comienzos hasta siglo XVIII suministraron fibra de cáñamo a las reales fábricas de Cartagena y el Ferrol. En el Siglo XVIII efectivamente el Gremio de Sogueros de Castellón era uno de los más importantes proveedores de cordaje para la Marina Española por la calidad del producto. Es la mercancía que se exporta, va fuera del término y trae dinero que da riqueza. En aquellos años la ciudad era como un inmenso taller. A la vez proporcionaban la materia prima para el trabajo de espardenyers, Esparterers y sabaters.
+También se desarrollaron aplicaciones industriales del cáñamo y fueron abastecedores oficiales de lonas, cabos y de cabuyería para la Real Marina Española. En los comienzos hasta siglo XVIII suministraron fibra de cáñamo a las reales fábricas de Cartagena y el Ferrol. En el Siglo XVIII efectivamente el Gremio de Sogueros de Castellón era uno de los más importantes proveedores de cordaje para la Marina Española por la calidad del producto. Es la mercancía que se exporta, va fuera del término y trae dinero que da riqueza. En aquellos años la ciudad era como un inmenso taller. A la vez proporcionaban la materia prima para el trabajo de espardenyers, Esparterers y sabaters.
 
 La mayor parte de la fibra se almacenaba en un local que pertenecía al Gobierno en un edificio de la calle Mayor nº.1, junto a las murallas y al antiguo portal de l’Om, para enviar a las Reales Fábricas y también se vendían en la lonja de la plaza de la Hierba (del cáñamo) en el edificio hoy existente todavía esquina de la calle Caballeros con la hoy calle Colón, donde se legalizaban las transacciones del producto. Este huerto se demolió en 1956 para construir junto a la plaza del Rey, la del Huerto de Sogueros.
 
@@ -464,9 +464,7 @@ Para la comercialización de la naranja y llevarla de los campos a los mercados 
 
 Recolección
 
-*El proceso de recolección se realiza a mano, con unas tijeras específicas que
-
-cortan el pedúnculo del fruto o bien a mano (de tirón), aunque ésta es una técnica, que es más rápida, pero que reduce la presencia del fruto.*
+*El proceso de recolección se realiza a mano, con unas tijeras específicas que cortan el pedúnculo del fruto o bien a mano (de tirón), aunque ésta es una técnica, que es más rápida, pero que reduce la presencia del fruto.*
 
 **Los cítricos en la Comunidad Valenciana**
 
@@ -502,7 +500,7 @@ El momento de la recolección es un aspecto importante porque hay que determinar
 
 Los frutos recogidos se depositan en capazos de plástico flexibles (18kg) que cada operario transporta hasta el lugar de pesaje donde se transfiere a cajones (20 kg)que son transportados a los almacenes de confección.
 
-*Una vez el fruto llega al almacén de confección siguen los pasos del esquema del proceso de manipulado de frutos cítricos. Como curiosidad vemos fotos antiguas de la recolección de la naranja y la modernización del proceso en comparación con hoy en día.
+*Una vez el fruto llega al almacén de confección siguen los pasos del esquema del proceso de manipulado de frutos cítricos. Como curiosidad vemos fotos antiguas de la recolección de la naranja y la modernización del proceso en comparación con hoy en día.*
 
 **Desverdizado**
 
@@ -514,13 +512,13 @@ El acondicionamiento consiste en una serie de operaciones a las que se somete el
 
 Recepción y secado
 
-*Preselección y limpieza
+Preselección y limpieza
 
-Tratamiento antifúngico y abrillantado*
+Tratamiento antifúngico y abrillantado
 
 Selección
 
-*Calibrado y empaquetado
+Calibrado y empaquetado
 
 Control de calidad
 

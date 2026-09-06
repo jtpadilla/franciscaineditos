@@ -1,7 +1,7 @@
 ---
 id: "081"
 titulo: "Las órdenes militares"
-notas: ""
+notas: "Trabajo del curso de religión medieval: los Templarios desde su fundación en 1119 y el concilio de Troyes hasta la supresión de 1312, con una imagen. Sin fecha ni firma."
 ---
 
 # Las órdenes militares
