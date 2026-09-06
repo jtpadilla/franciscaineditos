@@ -1,15 +1,10 @@
 ---
 id: "658"
-titulo: "CINCTORRES ESGLESIA"
-origen: "Documents/esglesia de Cinctorres 2 documments diferens/CINCTORRES ESGLESIA.docx"
-formato: "docx"
-caracteres: 4326
-imagenes: 1
-interesa: ""
-notas: ""
+titulo: "Església de Sant Pere"
+notas: "L'església parroquial: construcció (1763-1782), exterior, campanes amb nom, pes i nota, interior, patrimoni perdut i conservat, i el peiró de Cap de Vila. Firmat Paquita, sense data. És la versió més completa; n'hi havia una altra més curta escrita per a Maria (id 659, eliminada) que coincideix amb l'entrada del blog «Esglesia de Cinctorres»."
 ---
 
-ESGLÉSIA SE SANT PERE CINCTORRES.
+# Església de Sant Pere
 
 Quan encara falta un bon tros per arribar a Cinctorres es veu l’església del poble. Les seues torres bessones i la cúpula de teules esmaltades de color blau, quan reflecteix el sol, pareix com un far, en mig de una mar de teulades.
 
@@ -19,7 +14,7 @@ L’exterior del temple es massís treballat amb pedra de maçoneria i pedres de
 
 La façana es de pedra i l’envolta una moltura vertical que ho fa també per les torres campanar bessones. Mesura 60 m. per 25 d'ample.
 
-![fam+007](img/image1.jpeg)
+![](img/image1.jpeg)
 
 El campanar de l'esquerra no te campanes com el de la dreta, en aquest,la campana tiple,és la mes menuda, amb el nom de Cristófora de 1855, amb un diàmetre de 40,5 cm. i un pes de 38 Kg.La nota fonamental és \<si\>, i la seua veu,\< tiple.\>
 
@@ -51,6 +46,6 @@ De Francesc Cruellar (1801-1886) son els dos grans medallons que hi ha damunt de
 
 També trobem al costat de la capella de Sant Vito Al Peiró de Cap de Vila,segons l'inventari de 1929, conegut actualment com a peiró de la plaça Nova ,es l'únic conservat dels tres peirons que s'erigien a Cinctorres. Degut a les baixes temperatures i fortes gelades de 1997, van fer que la pedra es clivellara i es desmembraran els braços de la creu, desprès de la restauració per par del Patrimoni Artístic de la Consellera es va col·locar dins de l’església on es pot apreciar tots el temes litúrgics e històrics que compon tota la creu. La descripció es d'una creu llatina gallonada i flordelisada.
 
-Quan veig la grandiositat de l’església penso en el comerç de la llana i els seus derivats que devien donar esperances en el s.XVII de que el poble aniria creixent i fent-se mes important. Paquita.
+Quan veig la grandiositat de l’església penso en el comerç de la llana i els seus derivats que devien donar esperances en el s.XVII de que el poble aniria creixent i fent-se mes important.
 
-.
+*Paquita*

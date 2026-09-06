@@ -1,15 +1,10 @@
 ---
 id: "476"
-titulo: "Torres de Cinctorres"
-origen: "Documents/Shrew Soft VPN/Torres de Cinctorres.docx"
-formato: "docx"
-caracteres: 2500
-imagenes: 1
-interesa: ""
-notas: ""
+titulo: "Toponimia de Cinctorres"
+notas: "Carta a Tonica sobre el origen del nombre: Circum Turribus y Quinque Turres, con las torres del término (En Navalles, Solsona, Torrasa, Torreta dels Moros, la Llongera, En Pallarés, Tornera) y el escudo. Sin fecha. Había una copia (id 518) con restos de web al final, eliminada."
 ---
 
-Toponimia de Cinctorres.
+# Toponimia de Cinctorres
 
 Hay poca información de su origen. Al lado de mi finca separado por una pared hay restos de un poblado Ibero. Cerca también uno musulmán y en una casa de aspecto noble, cerca de los bares y del ayuntamiento al hacer reformas en el patio se encontraron columnas romanas, los dueños, las han tapado no quieren decirlo aunque todo se sabe, y en el patio de la casa Santjoans de manera confidencial, sé que hay restos Iberos al lado de los cimientos muy escasos de la Torre del Cortillo o Quartillo de origen musulmán, casa de la Vila i centro administrativo, esta si está documentada incluso por mí en el libro del pavimento. Se sabe con exactitud que el casco urbano era una alquería musulmana o ‘’qarya’’ que formaba parte del Castell de Morella.
 
@@ -37,6 +32,6 @@ Así que tenemos para escoger.
 
 Tonica discúlpame por el rollo que te mando ,pero ya sabes que me gusta terminar lo que empiezo.
 
-Un beset. Paquita,
+*Un beset. Paquita*
 
-![C:\Users\Paquita\Desktop\Cinctorres_Escudo.png](img/image1.png)
+![](img/image1.png)
