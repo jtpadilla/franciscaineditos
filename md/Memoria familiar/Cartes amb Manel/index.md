@@ -32,6 +32,6 @@ I si, estic recopilant fotos i fent el arbre com tu m’has dit, no si s està b
 
 Seria bonic tornar a veure mos el proper any.
 
-*Una forta abraçadaper a tu i Andrea. Paquita*
+*Una forta abraçada per a tu i Andrea. Paquita*
 
 P.D. T’envie una foto de la pintura que ha fet (mol roina) però em divertís pintar pedres, es una copia d’un retrato antic de casa la Parra. El home del burret és el teu avi.

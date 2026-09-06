@@ -6,7 +6,7 @@ notas: "Versió de 2026 del llibre de memòries (epíleg firmat Paquita, 20 maig
 
 # Llibre de memòries
 
-## PRÒLEG
+## Pròleg
 
 Somiant amb els ulls de xiqueta el camí és gran, no es veu quan s’acaba. Els peus calçats amb les sabatetes dels diumenges o de mudar pareix que caminen damunt d’una catifa. La terra està molla, esponjosa, tot fa goig, les flors de les voreres, la melodia dels diferents pardals i les papallones volant com si juguen a amagar. Vaig brincant com en un joc, el sambori i casi ballant, és tot tan bonic!!! Poc a poc el camí va canviant, ja no sóc tant xiqueta. Hi ha alguna pedra, cada vegada més i més gran i el camí es fa estret amb còdols, roques i tot més complicat i no saps per on caminar tot el bo s’ha acabat. no es veu el final i vas seguint pensant, què fer? i continues avant. El camí, no saps com, poc a poc torne a ser més suau. Per els ribassos es veu l’herbasana amb el seu aroma i arbres que fan ombra amb fruits de diferents colors, els camps plens de cultius i cereals madurs que fan onades serjant. Este camí tan bo pareix que no mai ha d’acabar i done fruits, la familia es fa gran i en un moment s’acaba i és la soledat. Es fa tot fosc, amb núvols negres i una tempesta amb trons, llamps i la por et cau damunt, i no pots escapar, sols aguantar i seguir el camí cada vegada més dur i desesperant
 
@@ -16,7 +16,7 @@ Este camí és com la meua vida, tot m’ha ocorregut massa prompte i a deshora.
 
 Sóc la més longeva de la família, ni els meus pares ni agüelos, ni el meu Joan, van arribar aquesta edat. Quan primer el pare i després la mare se’n van anar amb poc mesos de diferència els meus germans i jo ens vàrem quedar a soles, Jose Manuel tenia 3, Tadeo 10, i jo 17 anys, ells no recorden, o molt poc dels nostres pares i la vida familiar. Ha sigut dur recordar i donar testimoni d’aquests fets, a vegades, no podia seguir escrivint i ho deixava un temps, i tornava a cavil·lar… soc la memòria de la família, si no ho conto jo, qui ho farà?
 
-## EPÍLEG
+## Epíleg
 
 Quan vaig començar a escriure tenia 61 anys ara en tinc 81 m’és molt difícil seguir escrivint tinc problemes visuals i tampoc tinc més que contar.
 
@@ -24,7 +24,7 @@ Quan va neiser el meu germà Jose Manuel el pare molt content em va ficar als br
 
 *Paquita 20 maig 2026.*
 
-## RECORDS
+## Records
 
 Diu la meua cosina, que tinc molta memòria, sempre tenim la mateixa polèmica quan surt la conversa de quan era menuda, i dic- jo; recordo com estava amb més xiquetes menudes com jo a terra recolzada a la porta d’una pallissa a les eres, davant de casa Jaime i ella (la meua cosina deia) -la xiqueta ha perdut un pendiente- Em diu que no pot ser, que era massa menuda, l’estiu passat vaig anar a buscar la dita pallissa i si, estava, i em vaig tornar a veure en aquell lloc.
 
@@ -103,7 +103,7 @@ Maria gracia de la Santa on viu Jaume
 
 Antonieta de Epifanio venia llet.
 
-### Forns de Pa
+### Forns de pa
 
 Peturra o de la Santa
 
@@ -115,7 +115,7 @@ El confite de Cinctorres de nom Jose ere conegut per tots el pobles del voltant,
 
 Pregunta al, ajunatament
 
-## LA MARE
+## La mare
 
 De la placeta del cap de Vila, surt el carrer de les Escoles, en el nº18 està la casa del meus agüelos materns, en ella vivia també Encarna que va néixer el dia 23 de decembre de 1919 era la filla menuda de tots els germans amb sa mare Josefa Boix Querol que estava viuda de Francisco Querol Antoli.
 
@@ -177,7 +177,7 @@ Els moviments compassats dels peus i mans son l’art de teixir Es comença xafa
 
 Els faixeros eren homes acostumats a anar pel mont i fer camí, calçats amb espardenyes minyoneres, boina, camisa, faixa i jopeti, portaven un feix de faixer nugades per una corretja pasada pel muscle penjant per l’esquena i pel pit cridant faixerooo, faijes ¡¡¡ marxaven a fer la seua ruta quant havien acabat de replegar la collita a primer d’agost i tornaven a casa per Nadal. Començaren les antigues rutes per tota Espanya desde Catalunya, tot el nord, Navarra i el Pais Vasc, Castella, Estremadura, Andalucia fins el nord d’Àfrica alguns anaven en bicicleta o en una caballería, la quantitat de producte que necessitaven per a tota la temporada l’enviaven per correu a algun hostal de poble de la seua ruta, allí tenen el magatsen i els faixeros repostaven allí quan es feia falta janero, la faixa era necessària per a la gent del cap que fan esforç per a protegir la zona lumbar, també com abric, a mes d’amagatall, entre les seues voltes i plecs portaven tot el de valor que tenen, les faixes son d’estam o de llana teixides amb espiga o cordó i de diferents mesures. Els color generalment blanques o negres. Les blanques més grans amb ratlles roges era les de l’Exèrcit Espanyol a Marroc, i també de color roig, blau i verd. Els Regulars de Ceuta les porten rotges i els de Melilla blaves.
 
-## EL PARE Y EL MAS
+## El pare y el mas
 
 Mon pare es va criar al mas de Julian, va naixer en 1915 era el quinqué de sis germans i l’únic que no va ser masover, de menut volia ser de ofici ferrer o manya, va estar d’aprenent a una ferreria de Morella que estava al costat del portal de Forcall, (jo encara la recordo eixa casa com a ferreia) amb una porta dons en el mateix carrer tenia la taverna (La casa de la Parra) la tia Maria germana del meu avi Josep del mas de Julian aquella casa tenia hasta fa uns anys una parra que cobria tota la façana en la paret del costat una font que encara està formant una plaça. Del local de la taverna al interior i al costat de la paret del carrer hi ha una escala de fusta tapada per on es pujava al pis de dalt on tenia la vivenda els tios i fills, este lloc era la parada de tots els meus familiars per part de la mare que vivien a Cinctorres quan tenen que anar a Morella per qüestions de metges dentista u algun asunt. Morella es el cap de partit i molts asuntos oficials estan alli, com el notari i tot el relacionat amb els serveis de la comarca dels Ports. Els parents cinctorrans es portaven el menjar de casa i acudeixen a la taverna de la tia Maria on no se servie menjar, sols vi i aiguardent i algun licor mes. Una de les històries familiars que no se contaba mai (jo ho vaig saber fa poc) es que devall de la escala de fusta durant la posguerra de 1936 la tia Maria tenia amagat alli …un dels seus fills, el major que per motius polític i ser del bando d’esquerres, el buscaba la guardia civil i va estar alli amagat, quan la familia del mas anava a Morella per faenes del mas o a comprar sempre feia una visita a la germana del seu pare la tia Maria i un dia molt misteriosa li va dir(Tadeo, vaig de l’escala esta amagat el teu cosí i cada vegada es més perillós, la guardia civil l’estan buscant te que marxar d’ací o el trobarà, tu com que vius al más tens una manera d’ajudar) i això va fer: Tadeo es va presentar al cuartel de la guardia civil de Morella demanant un salvaconducte de tres mesos, va dir que volia anar a Catalunya a vore com estava la faena de ferrer per si podia anar allí a treballar. Este document estava al nom de Tadeo Julian Querol, ell el va donar al seu cosi i li va dir “si te pillen ho pagarem els dos i la nostra familia, ves en molt de compte” Tadeo va tornar al mas i va estar els tres mesos sense anar a Morella i un poc amagat, la família del mas no va saber res fins molts anys després. El nostre pare no ens va dir mai res. El seu cosi Manuel va fugir a Franca, va viure molts anys a Suïssa i alli va criar a la familia, jo tinc contacte amb el seu fill Manel que viu mig any a Xile per motius de treball on es va casar i mig any a España a Catalunya, té les dos nacionalitats, quan va saber tota la història un any que ens varem vore a Morella va quedar molt sorprès, i va entendre moltes coses que son pare contaba de tant en tant, ell no va tornar mai a Morella i va morir a Suïssa molt major.
 
@@ -185,7 +185,7 @@ Jo anava de jove a Morella en festes i a les bodes de les meues cosines sempre d
 
 Els joves dels masos si volen seguir sent masovers quan es casen, o bé es queden a viure al mas familiar en els pares o busquen un altre mas de lloguer, altres fills que no volen ser masovers aprenen algun ofici, si després es casaba amb una xica del poble lo normal era que viuria al poble, això va fer mon pare. L’ofici de manay era un bon treball dons en totes les cases hi havia animals de càrrega i en els masos també segons com era el mas de gran i ell estava acostumat als animals, en casa tenies dos mules i un matxo.
 
-### LA DONA I EL MAS
+### La dona i el mas
 
 Un dels records molt importants per a mi eren els dies que estaba al mas de la familia vivien on els tios i cosins El mas de Julian és un dels veintiún masos de la dena dels LLivis que esta envolta por la dena de la Vespa per la del Coll i del Moll per la dena de Muixacre i per el terme de Castellfort.
 
@@ -251,7 +251,7 @@ La primera es la mare la que que administre la casa i el recursos econòmics del
 
 La segon economia, la major, es el producte integre de la venda del cereals sobrans de la collita després que es separa la quantitat per al consum propi i la dels animals que es recriava a casa com per a la sembra corresponen i pagos de contribució territorial, veterinari, cuota de metge medicaments i gastos imprevist que sempre hi han.
 
-### EL PA
+### El pa
 
 Part de la collita que es separaba per a consum propi es destina per a l’elaboració del pa. Per a fer el pa, dolços, tot tipus de receptes culinàries i altres usos, en principi es necessitava la farina, que és el producte del blat. Aquest es portava al molí de Cinctorres per a la seva transformació de gra en farina i es conservava en taleques, però la farina encara no estava prou preparada per a fer la massa. Fins que es necessitava no es refinava i es lleva el segó, així es conservava millor i no s´atapeïa.
 
@@ -279,7 +279,7 @@ Quan els pans ja estan cuits es guardaven dins de la pastera alineats de forma v
 
 Si hi havia prop alguna festa o celebració s’aprofita el dia de la fornà per a fer pastes i coques.
 
-### LA MATANÇA
+### La matança
 
 És quan es fan la matança dels gorrinos i del bou una festa que reunis a parents i veïns, hi ha molta feina les dones preparent tot el que es necessita, llibrells, calderos de coure per a fer les botifarres, les especies que compren al poble, son dies de ple hivern, és l’única manera de conservar la carn fent el mondongo, botifarra bolos per aprofitar tota la massa que es quede pels llibrells ficat farina i amasar donar la forma de bolo, per això el seu nom, que es coura en la caldera al final. E nbotits com llonganises, xorisos guenyes, i salar els pernils, cansalada cecina i preparar la carn de frito llom i costella que primer te que estar salada uns dies i despre fregida amb l’oli que es compra a l’Aragó i guardada dins de les guerres que fang, este menjar te que durar fins la sega i arreplegar la collita. A primers de gener es fan els famosos, bureos al mas que hi han xiques acudits en jovens elles i ells de diferents masos i de tot el terme els músics aficionats de l, acordió, guitarra i bandúrria son molt apreciats i els busquen per a tots els bureos. Un germà del meu pare el major el tio Francisco tocava el violí i anava convidat a tots els bureos, en un d’ells va conèixer a la novia, la tia Pilar, el mas on vivia estava a l’altra part del terme i després es vien cada dos setmanes per la plaça de Morella festejan.
 
@@ -851,7 +851,7 @@ Anar a classe era com viure una aventura inesperada com els xiquets quan comence
 
 Tots els membres del programa teníem una paciència amb nosaltres com en els xiquets, i prompte estavem integrats en aquell món de sapiencia que sols calia escoltar.
 
-## 1º CURSO 2001/2002
+## 1º curso 2001/2002
 
 Els temes de tot el curs els teniem ja preparats, aixina com els professors, jo no em coneixia cap, el primer de tot era acostumbrarse al nou vocabulari asimilar el que volia dir.
 
@@ -878,7 +878,7 @@ Genesis vol dir principi començament, en este cas de la familia.
 - Educació per a la salut - **Rafael Ballester Arnal** **Mª Jesús Oliver Guasp**
 - Economía - **Vicente Budí Orduña**
 
-## 2º CURSO 2002/2003
+## 2º curso 2002/2003
 
 - Canvi social i perspectives de gènere - **Mercedes Alcañiz Moscardó**
 - Lliçons d’economia - **Aurelia Bengochea Morancho**
@@ -891,7 +891,7 @@ Genesis vol dir principi començament, en este cas de la familia.
 - Educació del temps lliure - **Lorenzo Moreda Barahona**
 - Estrés, emocions i benestar - **Francisco Palmero Cantero**
 
-## 3º CURSO 2003/2004
+## 3º curso 2003/2004
 
 - Història moderna - **María del Corona Marzol**
 - Manifestacions culturals en l’entorn castellonenc - **Lluís Meseguer Pallarés**
