@@ -1,15 +1,10 @@
 ---
-id: "644"
-titulo: "MOSTILLO"
-origen: "Documents/escritos sueltas de agricultura/MOSTILLO.docx"
-formato: "docx"
-caracteres: 4133
-imagenes: 0
-interesa: ""
-notas: ""
+id: "236"
+titulo: "Mostillo"
+notas: "Historia del mostillo, la receta (ingredientes y preparación) y el mostillo de miel. Capítulo suelto del trabajo de agricultura, sin fecha. Había cuatro copias idénticas (236, 361, 395, 644)."
 ---
 
-MOSTILLO
+# Mostillo
 
 En España, incluso antes de la llegada de los musulmanes, ya se tiene constancia del cultivo del vino. Después de la Reconquista, se siguió cultivando viñedos, sobre todo en los Monasterios, donde probablemente nació esta receta
 
@@ -27,23 +22,17 @@ Es un postre dulce, que está hecho a base de mosto, harina, algo para aromatiza
 
 Se les daba de merienda a niños y ancianos, por su aporte energético, vitaminas, nutrientes etc., también se utilizaba como postre después de los banquetes de boda.
 
-INGREDIENTES:
+## Ingredientes
 
 - 2 litros de mosto.
-
 - 4 cucharadas soperas de harina tostada de trigo.
-
 - 50 gr. De nueces crudas peladas (o almendra o avellanas, a elegir).
-
 - 10 gr. De piñones pelados para adornar (o uvas pasas)
-
 - 1 cucharada grande de anís en grano.
-
 - 1 piel de naranja seca.
-
 - 1 vaso de agua.
 
-PREPARACIÓN:
+## Preparación
 
 Pondremos el mosto al fuego para que reduzca, hasta conseguir unos 800 m. de mosto concentrado, removiendo de vez en cuando con cuchara de madera (aproximadamente 30-40 minutos). Dejaremos enfriar.
 
@@ -67,7 +56,7 @@ Si se hacían grandes cantidades, se guardaba en vasijas de barro, cubiertas con
 
 Se conserva durante varias semanas fuera de la nevera, guardado bien tapado.
 
-MOSTILLO DE MIEL
+## Mostillo de miel
 
 También se hace mostillo de miel. Se escalda un trozo de panal y una vez templado con las manos se hacen bolas para quitar la cera y se vuelve a hervir desespumando el caldo varias veces hasta que reduce la mitad. Por cada 4 partes de liquido, una de harina .Se cuece sin parar de remover hasta que tenga la consistencia adecuada, al gusto de quien lo hace como una crema que luego al enfriarse en los platos donde se endurece.
 

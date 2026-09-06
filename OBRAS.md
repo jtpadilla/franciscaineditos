@@ -14,7 +14,7 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C08 | Religion | 12 | los trabajos del curso de religión medieval de la UJI (2016-2017) | textos de otros alumnos |
 | C20 | Poemes i reflexions | 16 | poemas y textos breves de reflexión, en verso o prosa corta | trabajos largos de curso (C26) |
 | C21 | Cinctorres | 16 | historia, patrimonio, oficios y fiestas del pueblo | recuerdos personales (C12), naturaleza de la Rambla (Natura, pendiente) |
-| C22 | Món rural i cuina | 10 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
+| C22 | Món rural i cuina | 16 | agricultura, masías, oficios del campo, saberes tradicionales, recetas | |
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 10 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 14 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
@@ -57,12 +57,21 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 
 ## Dónde va el material de la segunda tanda que encaja en obras existentes
 
-- **C22 Món rural i cuina**: `Memoria agricultura 4 temas/` (dos copias) y `¡Todo Memoria/`: los capítulos
-  sueltos del trabajo de agricultura (arroz, algarrobo, algodón, herrero, faixero, alimentación, mostillo,
-  curiosidades, partidas, San Antonio, recetas); comparar cada uno con el capítulo del libro ya en md/ y
-  quedarse con el más completo. «MEMORIA AGRICULTURA CLASE grupo» (149.000) es la versión de grupo.
-  Todo `TOT TRUFA/` con «La trufa negra Paquita» (su versión). «pastel de salmón» y «recetas todas».
-  La pedra en sec del blog de antropología (`blog uji/`, «Recopilando piedra en sec») y «els nostres jocs».
+- **C22 Món rural i cuina**: revisado el 2026-09-06 con comparación párrafo a párrafo contra md/. Hechos: Mostillo,
+  La utilitat de la pedra en sec (blog UJI 2012), Els nostres jocs, La dula (fusión), Recetas sencillas, San Antonio,
+  Instrumentos de caña. **Pendiente de decisión**: «Principio memoria» (239, 364, 398: borrador de introducción del
+  taller, AUTORÍA A CONFIRMAR), «Historia de la tòfona» (198, 516: boletín de Cinctorres; aquí o en Natura), «Lllegir
+  trufa negra» (488: texto de la presentación; aquí o en C26), «pastel de salmon» (675: receta y resumen de bufadors
+  y barraques para aquí, reflexión sobre las máquinas para C26, el resto restos), y el borrador 336 de la pedra en
+  sec, que se conserva en inprocess/ por sus 14 fotos grandes (las de md/ son miniaturas del blog). **Copias y
+  borradores de lo ya publicado, para borrar**: «Agricultura mio con fotos final» (179, idéntico al libro de md/);
+  las diez versiones de la memoria de clase (199, 221, 223, 225, 229, 381, 382, 384, 388, 669: sus capítulos ya están
+  en md/, el resto es de los otros siete miembros del taller); los capítulos sueltos El herrero, Sistema de riego,
+  El algarrobo, Algarrobo, arroz, Algodón, Alimentarse, las dos introducciones, Faixero Memoria y curiosidades
+  (borradores de capítulos del libro; curiosidades añade vivencias de un abuelo ajeno); «Nuevo Documento» (672,
+  índice y restos); La trufa negra Paquita (214, 486, 487), trufas (494, 506) e introduccion 1 de BLOG CELUMBRES
+  (190, 345, 636), copias de La trufa negra; los apuntes de la trufa (491-512, 559-561), notas copiadas de fuentes;
+  «l'ar de teixir» (655), ya en El museu de la faixa. Sexenni (367, 246, 405) es de C26.
 - **C21 Cinctorres**: hechos el 2026-09-06 «Església de Sant Pere» (658), «Toponimia de Cinctorres» (476) y
   la fusión de «FAIXERO» (422, 2017) con «Faixero, faixes!» (160). Quedan a decisión del usuario: las cuatro
   ermitas y rogatives de `wiki/` (352-355; sin indicio de copia en la web, irían con AUTORÍA A CONFIRMAR) y la
@@ -126,6 +135,11 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   Cinctorres» (id 476; borrada la copia 518 con restos de web) y «Faixero, faixes!» reescrito como fusión de la
   versión de 2017 con fotos (id 422, borrado) y la anterior de md (id 160, que conserva). Castelló recibe «El
   mercat de Sant Antoni» (id 452, con tres fotos más de 178; borrados 178, 220 y 452). C21 pasa a 16 y C24 a 10.
+- 2026-09-06: Món rural i cuina recibe Mostillo (236; copias 361, 395, 644 borradas), La utilitat de la pedra en sec
+  (469, la entrada publicada; borrado el borrador 334, conservado el 336 por sus fotos), Els nostres jocs (335),
+  Recetas sencillas (240 + 245; copias 365, 399, 404 borradas), San Antonio (646; versión corta 241, 366, 400 borrada)
+  e Instrumentos de caña (244; copia 403 borrada); La dula (048) reescrita como fusión con la versión larga 186.
+  C22 pasa de 10 a 16.
 
 ## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
 

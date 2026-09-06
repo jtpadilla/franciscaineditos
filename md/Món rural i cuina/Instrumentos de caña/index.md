@@ -1,15 +1,10 @@
 ---
 id: "244"
-titulo: "flauta cañas"
-origen: "Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/flauta cañas.docx"
-formato: "docx"
-caracteres: 447
-imagenes: 0
-interesa: ""
-notas: ""
+titulo: "Instrumentos de caña"
+notas: "Nota breve sobre los instrumentos que se hacen con caña: zambomba, flabiol y la caña de percusión. De los escritos sueltos del trabajo de agricultura; copia idéntica 403."
 ---
 
-INSTRUMENTOS MUSICALES.
+# Instrumentos de caña
 
 Con un trozo de caña se construye el mango de una zambomba.
 
