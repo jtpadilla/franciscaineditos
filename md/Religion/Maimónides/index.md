@@ -24,6 +24,6 @@ Las obras más importantes de Maimónides son varias, pero las tres principales 
 
 También cultivo *la filosofía*, *el rabinismo, la medicina, y la astronomía.* Preguntado por los rabinos de Francia si la astrología era compatible con la fe judía, contesta con una carta diciendo que la astrología basada en la influencia de los astros no era ciencia en absoluto.
 
-No es posible mencionar aquí todas las obras de Maimónides. Era bilingüe, utilizaba las dos lenguas hebreo y árabe, pero un solo sistema grafico hebreo, fue apreciado por cristianos, judíos y musulmanes, y recordado actualmente en la cristiana Córdoba en pleno corazón de la judería, en la plaza de Maimónides, su figura austera, pone de manifiesto el dicho que \<\< de Moisés a Moisés, no hubo otro Moisés.
+No es posible mencionar aquí todas las obras de Maimónides. Era bilingüe, utilizaba las dos lenguas hebreo y árabe, pero un solo sistema grafico hebreo, fue apreciado por cristianos, judíos y musulmanes, y recordado actualmente en la cristiana Córdoba en pleno corazón de la judería, en la plaza de Maimónides, su figura austera, pone de manifiesto el dicho que « de Moisés a Moisés, no hubo otro Moisés.
 
 *Francisca Julián.*
