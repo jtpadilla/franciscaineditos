@@ -1,7 +1,7 @@
 ---
 id: "469"
 titulo: "La utilitat de la pedra en sec"
-notas: "Entrada del blog d'antropologia dels Ports de la UJI (abril 2012): la pedra en sec dels Ports classificada segons el professor Javier Soriano (agrícola, comunicacions, gestió de l'aigua, serveis), l'hàbitat que crea, la legislació i bibliografia; 29 fotos seues amb peu, tal com es van publicar (miniatures de 300 píxels, quatre en gran). Hi havia dos esborranys del mateix text (334, eliminat, i 336, amb 14 fotos grans que es conserva a inprocess per si es volen substituir). S'han tret la capçalera i els enllaços del blog."
+notas: "Entrada del blog d'antropologia dels Ports de la UJI (abril 2012): la pedra en sec dels Ports classificada segons el professor Javier Soriano (agrícola, comunicacions, gestió de l'aigua, serveis), l'hàbitat que crea, la legislació i bibliografia; 29 fotos seues amb peu, tal com es van publicar. Hi havia dos esborranys del mateix text (334 i 336, eliminats); el 336 duia 14 fotos en gran: set són les mateixes que miniatures del blog i les substitueixen (imatges 9, 10, 13, 16, 17, 18 i 26), i les altres set no eren al blog i s'han afegit al seu apartat (imatges 30 a 36, sense peu; els dos peus «Castellfort» i «Mas de Julián» vénen del nom del fitxer). Les 22 fotos restants són miniatures de 300 píxels del blog. S'han tret la capçalera i els enllaços del blog."
 ---
 
 # La utilitat de la pedra en sec
@@ -36,6 +36,10 @@ El professor de l’àrea de Geografia Humana de la Universitat Jaume I. Javier 
 
 ## Agricola
 
+![](img/image30.jpeg)
+
+*Castellfort*
+
 **Abancalar**. Realitzar bancals en terreny erm,netejar, traure les pedres i deixar-les a la vora per aprofitar-les desprès. Els murs d’abancalament (marges) permeten utilitzar per a l’agricultura terrenys amb pendents originals molt pronunciades i de poca terra. El mur d’un bancal ,ha de ser més ample que la coronació, el( cascall ) o pedra petita, resultant de la neteja del terreny s’anirà posant a l’interior però sempre en profunditat pe r a no trau-la al llaurar.
 
 ![](img/image3.jpeg)
@@ -43,6 +47,12 @@ El professor de l’àrea de Geografia Humana de la Universitat Jaume I. Javier 
 *Bancals de Castellfort. P. J.*
 
 Una paret de bancal es un mur de contenció de terra, i està sotmesa, a la pressió que exerceix sobre ella la terra que aguanta. Des de el punt de vista mig ambiental, els bancals minoren l’erosió i regulen la funció de l’aigua de pluja , limitant la escorrenteria superficial, retenen d’humitat i afavoreixen la regeneració vegetal i la reforestació. Els bancals formen una finca, més o menys gran segons la superfície útil de conreu. Per a saber la extensió d’una finca, es calculava per jornals. Un jornal, es l’extensió de camp que llaura una parella d’animals de carrega en un dia, que traduït a metres son 3.333m/jornal.
+
+![](img/image31.jpeg)
+
+*Mas de Julián*
+
+![](img/image32.png)
 
 **Comptador.** Obertura de dimensions adequades fetes a la paret d’una serrada que serveix per facilitar el pas del bestiar oví i cabrum i si convé comptar-lo.També hi han bancals amb xicotetes obertures a nivell de terra per on poden passar els conills, és una manera de conservar la caça.
 
@@ -57,6 +67,8 @@ Una paret de bancal es un mur de contenció de terra, i està sotmesa, a la pres
 ![](img/image6.jpeg)
 
 *Peret doble, Paredó. Serra Calduc P.J.*
+
+![](img/image33.jpeg)
 
 **Ribassos.** Marge natural fet entre dos bancalsamb terra i cobert de vegetació espontània. Amb al construcció de ribassos, es controla l’erosió de paisatges de pendents de poca terra y on hi ha tronades.**Paret.** Obra feta amb pedra en sec, alçada en vertical, per tancar un espai de terreny o servir de cara lateral a una caseta o altra construcció. Una paret té que tindre l’alçada suficient per al fi que és persegueix. Una vegada feta l’alçada, la paret es remata amb les (aleres)o pedres posades en un (rastellat) vertical. De vegades davall de les aleres es posa una passada horitzontals de lloses aleró), la seua funció és de evitar que l’aigua de pluja filtre damunt de la paret També a vegades es freqüent rematar parets o paredons de poca alçada amb lloses planes que permeten transitar per damunt, sense necessitat de xafar la terra de cultiu.
 
@@ -73,6 +85,8 @@ Una paret de bancal es un mur de contenció de terra, i està sotmesa, a la pres
 ![](img/image9.jpeg)
 
 *Cami Vell de Sant Pere. Cinctorres.*
+
+![](img/image34.jpeg)
 
 **Camins empedrats**.Em copiat les vies romanes?. Els camins empedrats, son camins molt transitats per cavalleries,a vegades per pendents pronunciades i que estan sotmesos a l’erosió provocada per les aigües fluvials, s’empedren per aconseguir una durabilitat quasi eterna.
 
@@ -95,6 +109,8 @@ Esglaons fets amb pedra a les parets I escales que a vegades estan als graners, 
 *Abeurador Castellfort. Paquita.J*
 
 **Abreuador.** Bassi. Recipient per abeurar el bestiar, generalment fet amb pedres treballades i degudament ajuntades i recull l’aigua d’una font, un pou o cisterna.
+
+![](img/image35.jpeg)
 
 **Basses**. Lloc de recollida i emmagatzemant de l’aigua de pluja, destinada primordialment per ha abeurar el bestià. Les bases son com estanys, construïdes sempre al lloc més adequat en terreny argilós,impermeable, per ha replegar l’aigua de la pluja i on desemboquen els camins i les torrenteres de les parts mes altes, també els desaigües dels bancals. La bassa es rodeja a vegades, de murs de pedra, menys la part d’eon beuen els animals, així està mes protegida de l’erosió del terreny i quan neva, també s’aguanta mes la neu, que filtra poc a poc a la terra.
 
@@ -157,6 +173,8 @@ Esglaons fets amb pedra a les parets I escales que a vegades estan als graners, 
 ![](img/image21.jpeg)
 
 *Barraca interior, coberta falça volta. P.J.*
+
+![](img/image36.jpeg)
 
 **Corrals**. Segons el seu desplaçament, poden distingir-ne en dos tipus basics :
 

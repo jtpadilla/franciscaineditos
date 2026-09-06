@@ -1,22 +1,16 @@
 # Índice de inprocess/
 
-364 documentos en 73 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 364.
+280 documentos en 60 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 280.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 364 docs | | |  |
+| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 280 docs | | |  |
 | **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 3 docs | | |  |
 | 175 | [Documents/2 tapas/LAS PALABRAS.](<Documents/2 tapas/LAS PALABRAS./index.md>) | LAS PALABRAS. | docx | 2167 | 1 |  |  |
 | 176 | [Documents/2 tapas/TAPA DE 15](<Documents/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
 | 177 | [Documents/2 tapas/TAPA DE 6](<Documents/2 tapas/TAPA DE 6/index.md>) | TAPA DE 6 | docx | 88 | 8 |  |  |
-| **C30** | **[Documents/actes de naexemen caasa la Parra i avanpasats-nº 3/](<Documents/actes de naexemen caasa la Parra i avanpasats-nº 3/_carpeta.md>)** | **actes de naexemen caasa la Parra i avanpasats-nº 3** | carpeta | 0 docs | | |  |
-| 179 | [Documents/Agricultura mio con fotos final](<Documents/Agricultura mio con fotos final/index.md>) | Agricultura mio con fotos final | docx | 81935 | 17 |  | PARECIDO (0.74) a md/Món rural i cuina/Agricultura y costumbres del mundo rural, ya publicado. |
-| **C31** | **[Documents/apunts de la trufa/](<Documents/apunts de la trufa/_carpeta.md>)** | **apunts de la trufa** | carpeta | 3 docs | | |  |
-| 559 | [Documents/apunts de la trufa/Recetas con trufas](<Documents/apunts de la trufa/Recetas con trufas/index.md>) | Recetas con trufas | docx | 3044 | 0 |  |  |
-| 560 | [Documents/apunts de la trufa/trufas](<Documents/apunts de la trufa/trufas/index.md>) | trufas | docx | 2990 | 0 |  |  |
-| 561 | [Documents/apunts de la trufa/vida de las trufas](<Documents/apunts de la trufa/vida de las trufas/index.md>) | vida de las trufas | docx | 6216 | 0 |  |  |
 | 192 | [Documents/Belleza objetiva o subjetiva](<Documents/Belleza objetiva o subjetiva/index.md>) | Belleza objetiva o subjetiva | docx | 3302 | 2 |  |  |
 | **C32** | **[Documents/BIBLIOTECA/](<Documents/BIBLIOTECA/_carpeta.md>)** | **BIBLIOTECA** | carpeta | 1 docs | | |  |
 | **C33** | **[Documents/BIBLIOTECA/Soriano/](<Documents/BIBLIOTECA/Soriano/_carpeta.md>)** | **Soriano** | carpeta | 1 docs | | |  |
@@ -24,11 +18,10 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C34** | **[Documents/BIODIVERSITAT nº 2 documents/](<Documents/BIODIVERSITAT nº 2 documents/_carpeta.md>)** | **BIODIVERSITAT nº 2 documents** | carpeta | 1 docs | | |  |
 | 185 | [Documents/BIODIVERSITAT nº 2 documents/BIODIVERSIDAD](<Documents/BIODIVERSITAT nº 2 documents/BIODIVERSIDAD/index.md>) | BIODIVERSIDAD | docx | 62658 | 111 |  |  |
 | 188 | [Documents/BIODIVERSITAT.](<Documents/BIODIVERSITAT./index.md>) | BIODIVERSITAT. | docx | 2378 | 0 |  |  |
-| **C35** | **[Documents/BLOG  CELUMBRES/](<Documents/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 3 docs | | |  |
+| **C35** | **[Documents/BLOG  CELUMBRES/](<Documents/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 2 docs | | |  |
 | 189 | [Documents/BLOG  CELUMBRES/guardar primavera.](<Documents/BLOG  CELUMBRES/guardar primavera./index.md>) | guardar primavera. | docx | 8531 | 1 |  |  |
-| 190 | [Documents/BLOG  CELUMBRES/introduccion 1](<Documents/BLOG  CELUMBRES/introduccion 1/index.md>) | introduccion 1 | docx | 24218 | 7 |  | PARECIDO (0.76) a md/Món rural i cuina/La trufa negra, ya publicado. |
 | 191 | [Documents/BLOG  CELUMBRES/otoño](<Documents/BLOG  CELUMBRES/otoño/index.md>) | otoño | docx | 1739 | 0 |  |  |
-| **C36** | **[Documents/blog meu/](<Documents/blog meu/_carpeta.md>)** | **blog meu** | carpeta | 64 docs | | |  |
+| **C36** | **[Documents/blog meu/](<Documents/blog meu/_carpeta.md>)** | **blog meu** | carpeta | 63 docs | | |  |
 | 562 | [Documents/blog meu/A .A. A](<Documents/blog meu/A .A. A/index.md>) | A .A. A | docx | 678 | 0 |  |  |
 | 563 | [Documents/blog meu/ANEM A LA MADALENA 2011](<Documents/blog meu/ANEM A LA MADALENA 2011/index.md>) | ANEM A LA MADALENA 2011 | docx | 1213 | 0 |  |  |
 | 564 | [Documents/blog meu/APRENDER NUEVAS TECNOLOGUIAS 2010.](<Documents/blog meu/APRENDER NUEVAS TECNOLOGUIAS 2010./index.md>) | APRENDER NUEVAS TECNOLOGUIAS 2010. | docx | 1715 | 0 |  |  |
@@ -52,7 +45,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 584 | [Documents/blog meu/ELS CINC SENTITS](<Documents/blog meu/ELS CINC SENTITS/index.md>) | ELS CINC SENTITS | doc | 2076 | 0 |  |  |
 | 585 | [Documents/blog meu/ELS MES TRESORS  1º](<Documents/blog meu/ELS MES TRESORS  1º/index.md>) | ELS MES TRESORS  1º | doc | 2549 | 0 |  | PARECIDO (0.79) a md/Memoria familiar/Els meus tresors, ya publicado. |
 | 588 | [Documents/blog meu/Els reis d_Orient](<Documents/blog meu/Els reis d_Orient/index.md>) | Els reis d_Orient | doc | 8642 | 0 |  |  |
-| 586 | [Documents/blog meu/ESGLESIA DE CINCTORRES](<Documents/blog meu/ESGLESIA DE CINCTORRES/index.md>) | ESGLESIA DE CINCTORRES | doc | 3508 | 0 |  |  |
 | 587 | [Documents/blog meu/ESTEM DE VACANSES.   LISTO](<Documents/blog meu/ESTEM DE VACANSES.   LISTO/index.md>) | ESTEM DE VACANSES.   LISTO | docx | 2235 | 2 |  |  |
 | 591 | [Documents/blog meu/Faixero faixes](<Documents/blog meu/Faixero faixes/index.md>) | Faixero faixes | doc | 4532 | 0 |  | PARECIDO (0.77) a md/Cinctorres/Faixero, faixes, ya publicado. |
 | 590 | [Documents/blog meu/FAIXERO FAIXES. MAIG 2010.2º](<Documents/blog meu/FAIXERO FAIXES. MAIG 2010.2º/index.md>) | FAIXERO FAIXES. MAIG 2010.2º | docx | 4409 | 0 |  | PARECIDO (0.71) a md/Cinctorres/Faixero, faixes, ya publicado. |
@@ -96,19 +88,18 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 196 | [Documents/Canción del agüelo Padilla.](<Documents/Canción del agüelo Padilla./index.md>) | Canción del agüelo Padilla. | docx | 482 | 0 |  |  |
 | 633 | [Documents/cansalader.](<Documents/cansalader./index.md>) | cansalader. | docx | 3808 | 0 |  |  |
 | 198 | [Documents/Cinctorresbolleti trufa.](<Documents/Cinctorresbolleti trufa./index.md>) | Cinctorresbolleti trufa. | docx | 3011 | 0 |  |  |
-| 199 | [Documents/Clase Memoria](<Documents/Clase Memoria/index.md>) | Clase Memoria | docx | 80112 | 1 |  |  |
 | 201 | [Documents/Cultura para la Paz](<Documents/Cultura para la Paz/index.md>) | Cultura para la Paz | docx | 2989 | 0 |  |  |
 | **C37** | **[Documents/Donde se hacian los mercados del lunes/](<Documents/Donde se hacian los mercados del lunes/_carpeta.md>)** | **Donde se hacian los mercados del lunes** | carpeta | 1 docs | | |  |
 | 203 | [Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes.](<Documents/Donde se hacian los mercados del lunes/Fereis y mercado del lunes./index.md>) | Fereis y mercado del lunes. | docx | 1043 | 0 |  |  |
-| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 114 docs | | |  |
-| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 112 docs | | |  |
+| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 86 docs | | |  |
+| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 84 docs | | |  |
 | **C40** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/_carpeta.md>)** | **Biodiversidad 2 documentos** | carpeta | 4 docs | | |  |
 | **C41** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 2 docs | | |  |
 | 206 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
 | 207 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 6](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 6/index.md>) | TAPA DE 6 | docx | 139 | 8 |  |  |
 | 208 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/BIODIVERSIDAD](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/BIODIVERSIDAD/index.md>) | BIODIVERSIDAD | docx | 62754 | 111 |  |  |
 | 209 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/CONFERENCIA. del LLibre Morella excursionistes.](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/CONFERENCIA. del LLibre Morella excursionistes./index.md>) | CONFERENCIA. del LLibre Morella excursionistes. | docx | 5317 | 0 |  |  |
-| **C42** | **[Documents/Dropbox copia/compartida/blog LES MEUES COSES/](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/_carpeta.md>)** | **blog LES MEUES COSES** | carpeta | 58 docs | | |  |
+| **C42** | **[Documents/Dropbox copia/compartida/blog LES MEUES COSES/](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/_carpeta.md>)** | **blog LES MEUES COSES** | carpeta | 57 docs | | |  |
 | 261 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/A .A. A](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/A .A. A/index.md>) | A .A. A | docx | 695 | 0 |  |  |
 | 262 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ANEM A LA MADALENA 2011](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ANEM A LA MADALENA 2011/index.md>) | ANEM A LA MADALENA 2011 | docx | 1213 | 0 |  |  |
 | 263 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/APRENDER NUEVAS TECNOLOGUIAS 2010.](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/APRENDER NUEVAS TECNOLOGUIAS 2010./index.md>) | APRENDER NUEVAS TECNOLOGUIAS 2010. | docx | 1830 | 0 |  |  |
@@ -132,7 +123,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 286 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL SECRETO DE MEISSEN](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/EL SECRETO DE MEISSEN/index.md>) | EL SECRETO DE MEISSEN | docx | 2024 | 0 |  |  |
 | 287 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS CINC SENTITS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS CINC SENTITS/index.md>) | ELS CINC SENTITS | doc | 2076 | 0 |  |  |
 | 288 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS MES TRESORS  1º](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ELS MES TRESORS  1º/index.md>) | ELS MES TRESORS  1º | doc | 2549 | 0 |  | PARECIDO (0.79) a md/Memoria familiar/Els meus tresors, ya publicado. |
-| 289 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ESGLESIA DE CINCTORRES](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ESGLESIA DE CINCTORRES/index.md>) | ESGLESIA DE CINCTORRES | doc | 3508 | 0 |  |  |
 | 290 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/ESTEM DE VACANSES.   LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/ESTEM DE VACANSES.   LISTO/index.md>) | ESTEM DE VACANSES.   LISTO | docx | 2235 | 2 |  |  |
 | 292 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/FAIXERO FAIXES. MAIG 2010.2º](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/FAIXERO FAIXES. MAIG 2010.2º/index.md>) | FAIXERO FAIXES. MAIG 2010.2º | docx | 4465 | 0 |  |  |
 | 295 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/HA COMPLIT CINQUANTA ANYS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/HA COMPLIT CINQUANTA ANYS/index.md>) | HA COMPLIT CINQUANTA ANYS | docx | 2979 | 3 |  |  |
@@ -167,12 +157,9 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 330 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERRA MATRIA](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERRA MATRIA/index.md>) | TERRA MATRIA | docx | 2057 | 1 |  |  |
 | 331 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERTULIA ENTRE AMICS. LISTO](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
 | 332 | [Documents/Dropbox copia/compartida/blog LES MEUES COSES/TOMBATOSALS](<Documents/Dropbox copia/compartida/blog LES MEUES COSES/TOMBATOSALS/index.md>) | TOMBATOSALS | doc | 1488 | 0 |  |  |
-| **C43** | **[Documents/Dropbox copia/compartida/blog uji/](<Documents/Dropbox copia/compartida/blog uji/_carpeta.md>)** | **blog uji** | carpeta | 2 docs | | |  |
-| 336 | [Documents/Dropbox copia/compartida/blog uji/blog antro pedra en sec](<Documents/Dropbox copia/compartida/blog uji/blog antro pedra en sec/index.md>) | blog antro pedra en sec | docx | 16704 | 14 |  |  |
+| **C43** | **[Documents/Dropbox copia/compartida/blog uji/](<Documents/Dropbox copia/compartida/blog uji/_carpeta.md>)** | **blog uji** | carpeta | 1 docs | | |  |
 | 337 | [Documents/Dropbox copia/compartida/blog uji/cançons](<Documents/Dropbox copia/compartida/blog uji/cançons/index.md>) | cançons | doc | 1668 | 0 |  |  |
 | 210 | [Documents/Dropbox copia/compartida/Canción del agüelo Padilla.](<Documents/Dropbox copia/compartida/Canción del agüelo Padilla./index.md>) | Canción del agüelo Padilla. | docx | 482 | 0 |  |  |
-| **C45** | **[Documents/Dropbox copia/compartida/Guardar trufas/](<Documents/Dropbox copia/compartida/Guardar trufas/_carpeta.md>)** | **Guardar trufas** | carpeta | 1 docs | | |  |
-| 214 | [Documents/Dropbox copia/compartida/Guardar trufas/La trufa negra Paquita.](<Documents/Dropbox copia/compartida/Guardar trufas/La trufa negra Paquita./index.md>) | La trufa negra Paquita. | docx | 25114 | 15 |  |  |
 | 215 | [Documents/Dropbox copia/compartida/Guerra del Rif - corregido](<Documents/Dropbox copia/compartida/Guerra del Rif - corregido/index.md>) | Guerra del Rif - corregido | docx | 33704 | 17 |  |  |
 | **C46** | **[Documents/Dropbox copia/compartida/LIBRO lISTO/](<Documents/Dropbox copia/compartida/LIBRO lISTO/_carpeta.md>)** | **LIBRO lISTO** | carpeta | 2 docs | | |  |
 | 216 | [Documents/Dropbox copia/compartida/LIBRO lISTO/LIBRO](<Documents/Dropbox copia/compartida/LIBRO lISTO/LIBRO/index.md>) | LIBRO | docx | 31473 | 39 |  |  |
@@ -180,30 +167,13 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C47** | **[Documents/Dropbox copia/compartida/LISTO acabat/](<Documents/Dropbox copia/compartida/LISTO acabat/_carpeta.md>)** | **LISTO acabat** | carpeta | 2 docs | | |  |
 | 218 | [Documents/Dropbox copia/compartida/LISTO acabat/LIBRO](<Documents/Dropbox copia/compartida/LISTO acabat/LIBRO/index.md>) | LIBRO | docx | 31728 | 41 |  |  |
 | 219 | [Documents/Dropbox copia/compartida/LISTO acabat/TAPA](<Documents/Dropbox copia/compartida/LISTO acabat/TAPA/index.md>) | TAPA | docx | 20 | 1 |  |  |
-| **C49** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 17 docs | | |  |
-| 223 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Clase Memoria - copia para mi.](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Clase Memoria - copia para mi./index.md>) | Clase Memoria - copia para mi. | docx | 85265 | 7 |  |  |
-| 224 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Festes de la magdalena](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Festes de la magdalena/index.md>) | Festes de la magdalena | docx | 26284 | 0 |  |  |
-| 225 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/MEMORIA AGRICULTURA CLASE](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/MEMORIA AGRICULTURA CLASE/index.md>) | MEMORIA AGRICULTURA CLASE | docx | 143859 | 17 |  | PARECIDO (0.75) a md/Món rural i cuina/Agricultura y costumbres del mundo rural, ya publicado. |
-| **C52** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 14 docs | | |  |
-| 226 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algarrobo](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algarrobo/index.md>) | Algarrobo | docx | 9323 | 0 |  |  |
-| 227 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algodon](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algodon/index.md>) | Algodon | docx | 9295 | 0 |  |  |
-| 228 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Alimentarse](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Alimentarse/index.md>) | Alimentarse | docx | 2576 | 0 |  |  |
-| 242 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/arroz](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/arroz/index.md>) | arroz | docx | 10833 | 0 |  |  |
-| 229 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Clase Memoria - copia](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Clase Memoria - copia/index.md>) | Clase Memoria - copia | docx | 101799 | 7 |  |  |
-| 243 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/curiosidades](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/curiosidades/index.md>) | curiosidades | docx | 5947 | 0 |  |  |
-| 230 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/El herrero](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/El herrero/index.md>) | El herrero | docx | 4888 | 0 |  |  |
-| 231 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Faixero Memoria](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Faixero Memoria/index.md>) | Faixero Memoria | docx | 4279 | 0 |  |  |
-| 232 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Festes de la magdalena](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Festes de la magdalena/index.md>) | Festes de la magdalena | docx | 26284 | 0 |  |  |
-| 233 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Garrofin](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Garrofin/index.md>) | Garrofin | docx | 659 | 0 |  |  |
-| 234 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a  la alimentacion](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a  la alimentacion/index.md>) | Introduccion a  la alimentacion | docx | 2239 | 0 |  |  |
-| 235 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a la agricultura](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a la agricultura/index.md>) | Introduccion a la agricultura | docx | 2344 | 0 |  |  |
+| **C49** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 2 docs | | |  |
+| **C52** | **[Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 2 docs | | |  |
 | 239 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria.](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria./index.md>) | Principio memoria. | docx | 5526 | 0 |  |  |
 | 246 | [Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad](<Documents/Dropbox copia/compartida/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad/index.md>) | sexeni mitad | docx | 8671 | 0 |  | PARECIDO (0.75) a md/Treballs i reflexions/Sexenni, ya publicado. |
-| 221 | [Documents/Dropbox copia/compartida/MEMORIA AGRICULTURA CLASE](<Documents/Dropbox copia/compartida/MEMORIA AGRICULTURA CLASE/index.md>) | MEMORIA AGRICULTURA CLASE | docx | 144250 | 17 |  | PARECIDO (0.73) a md/Món rural i cuina/Agricultura y costumbres del mundo rural, ya publicado. |
-| **C53** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/_carpeta.md>)** | **memoria familiar y dos tapas** | carpeta | 3 docs | | |  |
-| **C54** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 3 docs | | |  |
+| **C53** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/_carpeta.md>)** | **memoria familiar y dos tapas** | carpeta | 2 docs | | |  |
+| **C54** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 2 docs | | |  |
 | 344 | [Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/guardar primavera.](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/guardar primavera./index.md>) | guardar primavera. | docx | 8531 | 1 |  |  |
-| 345 | [Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/introduccion 1](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/introduccion 1/index.md>) | introduccion 1 | docx | 24218 | 7 |  | PARECIDO (0.76) a md/Món rural i cuina/La trufa negra, ya publicado. |
 | 346 | [Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/otoño](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/otoño/index.md>) | otoño | docx | 1739 | 0 |  |  |
 | **C55** | **[Documents/Dropbox copia/compartida/Revista UJI/](<Documents/Dropbox copia/compartida/Revista UJI/_carpeta.md>)** | **Revista UJI** | carpeta | 5 docs | | |  |
 | 258 | [Documents/Dropbox copia/compartida/Revista UJI/els Reis](<Documents/Dropbox copia/compartida/Revista UJI/els Reis/index.md>) | els Reis | doc | 8550 | 0 |  |  |
@@ -217,15 +187,7 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 353 | [Documents/Dropbox copia/compartida/wiki/san pere](<Documents/Dropbox copia/compartida/wiki/san pere/index.md>) | san pere | doc | 1028 | 0 |  |  |
 | 354 | [Documents/Dropbox copia/compartida/wiki/sanmarc](<Documents/Dropbox copia/compartida/wiki/sanmarc/index.md>) | sanmarc | doc | 761 | 0 |  |  |
 | 355 | [Documents/Dropbox copia/compartida/wiki/wiki](<Documents/Dropbox copia/compartida/wiki/wiki/index.md>) | wiki | doc | 1258 | 0 |  |  |
-| **C57** | **[Documents/Dropbox copia/compartida/¡Todo Memoria/](<Documents/Dropbox copia/compartida/¡Todo Memoria/_carpeta.md>)** | **¡Todo Memoria** | carpeta | 10 docs | | |  |
-| 356 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Algarrobo](<Documents/Dropbox copia/compartida/¡Todo Memoria/Algarrobo/index.md>) | Algarrobo | docx | 5134 | 0 |  |  |
-| 368 | [Documents/Dropbox copia/compartida/¡Todo Memoria/arroz](<Documents/Dropbox copia/compartida/¡Todo Memoria/arroz/index.md>) | arroz | docx | 10833 | 0 |  |  |
-| 370 | [Documents/Dropbox copia/compartida/¡Todo Memoria/curiosidades](<Documents/Dropbox copia/compartida/¡Todo Memoria/curiosidades/index.md>) | curiosidades | docx | 5947 | 0 |  |  |
-| 357 | [Documents/Dropbox copia/compartida/¡Todo Memoria/El herrero](<Documents/Dropbox copia/compartida/¡Todo Memoria/El herrero/index.md>) | El herrero | docx | 1963 | 0 |  |  |
-| 358 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Faixero Memoria](<Documents/Dropbox copia/compartida/¡Todo Memoria/Faixero Memoria/index.md>) | Faixero Memoria | docx | 1318 | 0 |  |  |
-| 359 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Introduccion a  la alimentacion](<Documents/Dropbox copia/compartida/¡Todo Memoria/Introduccion a  la alimentacion/index.md>) | Introduccion a  la alimentacion | docx | 2239 | 0 |  |  |
-| 360 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Introduccion a la agricultura](<Documents/Dropbox copia/compartida/¡Todo Memoria/Introduccion a la agricultura/index.md>) | Introduccion a la agricultura | docx | 2344 | 0 |  |  |
-| 371 | [Documents/Dropbox copia/compartida/¡Todo Memoria/madalena - copia](<Documents/Dropbox copia/compartida/¡Todo Memoria/madalena - copia/index.md>) | madalena - copia | docx | 28217 | 0 |  |  |
+| **C57** | **[Documents/Dropbox copia/compartida/¡Todo Memoria/](<Documents/Dropbox copia/compartida/¡Todo Memoria/_carpeta.md>)** | **¡Todo Memoria** | carpeta | 2 docs | | |  |
 | 364 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Principio memoria.](<Documents/Dropbox copia/compartida/¡Todo Memoria/Principio memoria./index.md>) | Principio memoria. | docx | 5526 | 0 |  |  |
 | 367 | [Documents/Dropbox copia/compartida/¡Todo Memoria/Sexenni.](<Documents/Dropbox copia/compartida/¡Todo Memoria/Sexenni./index.md>) | Sexenni. | docx | 1525 | 0 |  |  |
 | **C58** | **[Documents/Dropbox copia/Photos/](<Documents/Dropbox copia/Photos/_carpeta.md>)** | **Photos** | carpeta | 1 docs | | |  |
@@ -237,46 +199,25 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C60** | **[Documents/els cinc sentits 2/](<Documents/els cinc sentits 2/_carpeta.md>)** | **els cinc sentits 2** | carpeta | 2 docs | | |  |
 | 637 | [Documents/els cinc sentits 2/APRENDER NUEVAS TECNOLOGUIAS 2006.](<Documents/els cinc sentits 2/APRENDER NUEVAS TECNOLOGUIAS 2006./index.md>) | APRENDER NUEVAS TECNOLOGUIAS 2006. | docx | 1830 | 0 |  |  |
 | 639 | [Documents/els cinc sentits 2/¡Mona Lisa](<Documents/els cinc sentits 2/¡Mona Lisa/index.md>) | ¡Mona Lisa | doc | 24923 | 0 |  |  |
-| 636 | [Documents/els Ports planol](<Documents/els Ports planol/index.md>) | els Ports planol | docx | 24218 | 7 |  | PARECIDO (0.76) a md/Món rural i cuina/La trufa negra, ya publicado. |
 | 640 | [Documents/entrevistas de ttrabajo.](<Documents/entrevistas de ttrabajo./index.md>) | entrevistas de ttrabajo. | doc | 5062 | 0 |  |  |
-| **C61** | **[Documents/Escritorio anterior/](<Documents/Escritorio anterior/_carpeta.md>)** | **Escritorio anterior** | carpeta | 23 docs | | |  |
+| **C61** | **[Documents/Escritorio anterior/](<Documents/Escritorio anterior/_carpeta.md>)** | **Escritorio anterior** | carpeta | 7 docs | | |  |
 | **C62** | **[Documents/Escritorio anterior/Don Quijote/](<Documents/Escritorio anterior/Don Quijote/_carpeta.md>)** | **Don Quijote** | carpeta | 2 docs | | |  |
 | 378 | [Documents/Escritorio anterior/Don Quijote/Don Quijote 1-2-3-4 capitulo](<Documents/Escritorio anterior/Don Quijote/Don Quijote 1-2-3-4 capitulo/index.md>) | Don Quijote 1-2-3-4 capitulo | docx | 6526 | 0 |  |  |
 | 379 | [Documents/Escritorio anterior/Don Quijote/Don quijote capitulo V-VI](<Documents/Escritorio anterior/Don Quijote/Don quijote capitulo V-VI/index.md>) | Don quijote capitulo V-VI | docx | 2823 | 0 |  |  |
-| **C63** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 17 docs | | |  |
-| 382 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Clase Memoria - copia para mi.](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Clase Memoria - copia para mi./index.md>) | Clase Memoria - copia para mi. | docx | 85265 | 7 |  |  |
-| 383 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Festes de la magdalena](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Festes de la magdalena/index.md>) | Festes de la magdalena | docx | 26284 | 0 |  |  |
-| 384 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/MEMORIA AGRICULTURA CLASE](<Documents/Escritorio anterior/Memoria agricultura 4 temas/MEMORIA AGRICULTURA CLASE/index.md>) | MEMORIA AGRICULTURA CLASE | docx | 143859 | 17 |  | PARECIDO (0.75) a md/Món rural i cuina/Agricultura y costumbres del mundo rural, ya publicado. |
-| **C66** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 14 docs | | |  |
-| 385 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algarrobo](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algarrobo/index.md>) | Algarrobo | docx | 9323 | 0 |  |  |
-| 386 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algodon](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Algodon/index.md>) | Algodon | docx | 9295 | 0 |  |  |
-| 387 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Alimentarse](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Alimentarse/index.md>) | Alimentarse | docx | 2576 | 0 |  |  |
-| 401 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/arroz](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/arroz/index.md>) | arroz | docx | 10833 | 0 |  |  |
-| 388 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Clase Memoria - copia](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Clase Memoria - copia/index.md>) | Clase Memoria - copia | docx | 101799 | 7 |  |  |
-| 402 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/curiosidades](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/curiosidades/index.md>) | curiosidades | docx | 5947 | 0 |  |  |
-| 389 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/El herrero](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/El herrero/index.md>) | El herrero | docx | 4888 | 0 |  |  |
-| 390 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Faixero Memoria](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Faixero Memoria/index.md>) | Faixero Memoria | docx | 4279 | 0 |  |  |
-| 391 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Festes de la magdalena](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Festes de la magdalena/index.md>) | Festes de la magdalena | docx | 26284 | 0 |  |  |
-| 392 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Garrofin](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Garrofin/index.md>) | Garrofin | docx | 659 | 0 |  |  |
-| 393 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a  la alimentacion](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a  la alimentacion/index.md>) | Introduccion a  la alimentacion | docx | 2239 | 0 |  |  |
-| 394 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a la agricultura](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Introduccion a la agricultura/index.md>) | Introduccion a la agricultura | docx | 2344 | 0 |  |  |
+| **C63** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/_carpeta.md>)** | **Memoria agricultura 4 temas** | carpeta | 2 docs | | |  |
+| **C66** | **[Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/_carpeta.md>)** | **Trabajo agriculturaescritos sueltos** | carpeta | 2 docs | | |  |
 | 398 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria.](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/Principio memoria./index.md>) | Principio memoria. | docx | 5526 | 0 |  |  |
 | 405 | [Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad](<Documents/Escritorio anterior/Memoria agricultura 4 temas/Trabajo agriculturaescritos sueltos/sexeni mitad/index.md>) | sexeni mitad | docx | 8671 | 0 |  | PARECIDO (0.75) a md/Treballs i reflexions/Sexenni, ya publicado. |
-| 381 | [Documents/Escritorio anterior/MEMORIA AGRICULTURA CLASE  grupo.](<Documents/Escritorio anterior/MEMORIA AGRICULTURA CLASE  grupo./index.md>) | MEMORIA AGRICULTURA CLASE  grupo. | docx | 149133 | 17 |  | PARECIDO (0.75) a md/Món rural i cuina/Agricultura y costumbres del mundo rural, ya publicado. |
 | **C67** | **[Documents/Escritorio anterior/suspense y lucerna/](<Documents/Escritorio anterior/suspense y lucerna/_carpeta.md>)** | **suspense y lucerna** | carpeta | 1 docs | | |  |
 | 419 | [Documents/Escritorio anterior/suspense y lucerna/Lucerna.](<Documents/Escritorio anterior/suspense y lucerna/Lucerna./index.md>) | Lucerna. | docx | 1000 | 0 |  |  |
 | **C68** | **[Documents/Escritorio anterior/VALENCIA/](<Documents/Escritorio anterior/VALENCIA/_carpeta.md>)** | **VALENCIA** | carpeta | 2 docs | | |  |
 | 411 | [Documents/Escritorio anterior/VALENCIA/VALENCCIÀ.](<Documents/Escritorio anterior/VALENCIA/VALENCCIÀ./index.md>) | VALENCCIÀ. | docx | 3733 | 0 |  |  |
 | 413 | [Documents/Escritorio anterior/VALENCIA/valencia](<Documents/Escritorio anterior/VALENCIA/valencia/index.md>) | valencia | docx | 5674 | 1 |  |  |
-| **C69** | **[Documents/escritos sueltas de agricultura/](<Documents/escritos sueltas de agricultura/_carpeta.md>)** | **escritos sueltas de agricultura** | carpeta | 7 docs | | |  |
-| 649 | [Documents/escritos sueltas de agricultura/arroz](<Documents/escritos sueltas de agricultura/arroz/index.md>) | arroz | docx | 9026 | 0 |  |  |
-| 641 | [Documents/escritos sueltas de agricultura/El algarrobo](<Documents/escritos sueltas de agricultura/El algarrobo/index.md>) | El algarrobo | docx | 9920 | 1 |  |  |
-| **C70** | **[Documents/escritos sueltas de agricultura/para Vicente/](<Documents/escritos sueltas de agricultura/para Vicente/_carpeta.md>)** | **para Vicente** | carpeta | 4 docs | | |  |
+| **C69** | **[Documents/escritos sueltas de agricultura/](<Documents/escritos sueltas de agricultura/_carpeta.md>)** | **escritos sueltas de agricultura** | carpeta | 3 docs | | |  |
+| **C70** | **[Documents/escritos sueltas de agricultura/para Vicente/](<Documents/escritos sueltas de agricultura/para Vicente/_carpeta.md>)** | **para Vicente** | carpeta | 3 docs | | |  |
 | 654 | [Documents/escritos sueltas de agricultura/para Vicente/arquitectura](<Documents/escritos sueltas de agricultura/para Vicente/arquitectura/index.md>) | arquitectura | doc | 3354 | 0 |  |  |
 | 651 | [Documents/escritos sueltas de agricultura/para Vicente/Cultura para la Paz](<Documents/escritos sueltas de agricultura/para Vicente/Cultura para la Paz/index.md>) | Cultura para la Paz | docx | 2974 | 0 |  |  |
-| 655 | [Documents/escritos sueltas de agricultura/para Vicente/l_ar de teixir](<Documents/escritos sueltas de agricultura/para Vicente/l_ar de teixir/index.md>) | l_ar de teixir | docx | 3777 | 5 |  |  |
 | 653 | [Documents/escritos sueltas de agricultura/para Vicente/Reflexió](<Documents/escritos sueltas de agricultura/para Vicente/Reflexió/index.md>) | Reflexió | docx | 1709 | 0 |  |  |
-| 648 | [Documents/escritos sueltas de agricultura/Sistema de riego](<Documents/escritos sueltas de agricultura/Sistema de riego/index.md>) | Sistema de riego | docx | 2507 | 0 |  |  |
 | **C71** | **[Documents/escrits . Les meues coses/](<Documents/escrits . Les meues coses/_carpeta.md>)** | **escrits . Les meues coses** | carpeta | 2 docs | | |  |
 | 656 | [Documents/escrits . Les meues coses/blog meues coses.](<Documents/escrits . Les meues coses/blog meues coses./index.md>) | blog meues coses. | docx | 452 | 0 |  |  |
 | 657 | [Documents/escrits . Les meues coses/pilota](<Documents/escrits . Les meues coses/pilota/index.md>) | pilota | docx | 2290 | 0 |  | PARECIDO (0.74) a md/Castelló/La pilota valenciana, ya publicado. |
@@ -305,7 +246,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 439 | [Documents/Guerra del Rif - corregido](<Documents/Guerra del Rif - corregido/index.md>) | Guerra del Rif - corregido | docx | 33704 | 17 |  |  |
 | **C81** | **[Documents/Guerra del Rif 2 documentos/](<Documents/Guerra del Rif 2 documentos/_carpeta.md>)** | **Guerra del Rif 2 documentos** | carpeta | 1 docs | | |  |
 | 440 | [Documents/Guerra del Rif 2 documentos/Guerra del Rif, Paquita y Alicia](<Documents/Guerra del Rif 2 documentos/Guerra del Rif, Paquita y Alicia/index.md>) | Guerra del Rif, Paquita y Alicia | docx | 33152 | 17 |  |  |
-| **C82** | **[Documents/introduccion al suspense/](<Documents/introduccion al suspense/_carpeta.md>)** | **introduccion al suspense** | carpeta | 0 docs | | |  |
 | **C83** | **[Documents/La belleza 3 documents/](<Documents/La belleza 3 documents/_carpeta.md>)** | **La belleza 3 documents** | carpeta | 1 docs | | |  |
 | 446 | [Documents/La belleza 3 documents/La belleza en la musica](<Documents/La belleza 3 documents/La belleza en la musica/index.md>) | La belleza en la musica | doc | 3262 | 0 |  |  |
 | 441 | [Documents/LES CLASES DE VALEN CIÀ](<Documents/LES CLASES DE VALEN CIÀ/index.md>) | LES CLASES DE VALEN CIÀ | doc | 4006 | 0 |  | PARECIDO (0.73) a md/Treballs i reflexions/Les classes de valencià, ya publicado. |
@@ -322,13 +262,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 450 | [Documents/Listo, acabat](<Documents/Listo, acabat/index.md>) | Listo, acabat | docx | 31741 | 41 |  |  |
 | 453 | [Documents/MANOLO CAPDEVILA  MOT BE.](<Documents/MANOLO CAPDEVILA  MOT BE./index.md>) | MANOLO CAPDEVILA  MOT BE. | odt | 3458 | 0 |  |  |
 | 455 | [Documents/Mare de Deu de la balma.](<Documents/Mare de Deu de la balma./index.md>) | Mare de Deu de la balma. | docx | 5715 | 4 |  |  |
-| **C88** | **[Documents/memoria varias/](<Documents/memoria varias/_carpeta.md>)** | **memoria varias** | carpeta | 2 docs | | |  |
-| 669 | [Documents/memoria varias/Clase Memoria - con todo.](<Documents/memoria varias/Clase Memoria - con todo./index.md>) | Clase Memoria - con todo. | docx | 117939 | 17 |  |  |
-| 672 | [Documents/memoria varias/Nuevo Documento de Microsoft Office Word](<Documents/memoria varias/Nuevo Documento de Microsoft Office Word/index.md>) | Nuevo Documento de Microsoft Office Word | docx | 1880 | 1 |  |  |
 | 457 | [Documents/Nuevo Roquetas.](<Documents/Nuevo Roquetas./index.md>) | Nuevo Roquetas. | docx | 3967 | 10 |  |  |
 | 460 | [Documents/Otoño](<Documents/Otoño/index.md>) | Otoño | docx | 934 | 0 |  |  |
-| **C90** | **[Documents/para dropbox/](<Documents/para dropbox/_carpeta.md>)** | **para dropbox** | carpeta | 0 docs | | |  |
-| **C91** | **[Documents/Parents cchile familia Segura/](<Documents/Parents cchile familia Segura/_carpeta.md>)** | **Parents cchile familia Segura** | carpeta | 0 docs | | |  |
 | 675 | [Documents/pastel de salmon](<Documents/pastel de salmon/index.md>) | pastel de salmon | docx | 9263 | 2 |  |  |
 | 461 | [Documents/PINTURA.Generos.](<Documents/PINTURA.Generos./index.md>) | PINTURA.Generos. | docx | 387 | 0 |  |  |
 | 465 | [Documents/Pnset](<Documents/Pnset/index.md>) | Pnset | docx | 2902 | 1 |  |  |
@@ -372,40 +307,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 733 | [Documents/todo listo/PPRESENTACIÓ LISTO](<Documents/todo listo/PPRESENTACIÓ LISTO/index.md>) | PPRESENTACIÓ LISTO | docx | 1592 | 0 |  | PARECIDO (0.64) a md/Listo/Em diuen Listo, ya publicado. |
 | 734 | [Documents/todo listo/SANT ANTONI DEL PORQUET LISTO](<Documents/todo listo/SANT ANTONI DEL PORQUET LISTO/index.md>) | SANT ANTONI DEL PORQUET LISTO | docx | 2594 | 1 |  |  |
 | 735 | [Documents/todo listo/TERTULIA ENTRE AMICS. LISTO](<Documents/todo listo/TERTULIA ENTRE AMICS. LISTO/index.md>) | TERTULIA ENTRE AMICS. LISTO | docx | 1943 | 0 |  |  |
-| **C101** | **[Documents/TOT TRUFA/](<Documents/TOT TRUFA/_carpeta.md>)** | **TOT TRUFA** | carpeta | 27 docs | | |  |
-| **C102** | **[Documents/TOT TRUFA/apuntes de la trufa/](<Documents/TOT TRUFA/apuntes de la trufa/_carpeta.md>)** | **apuntes de la trufa** | carpeta | 6 docs | | |  |
-| 492 | [Documents/TOT TRUFA/apuntes de la trufa/forcall](<Documents/TOT TRUFA/apuntes de la trufa/forcall/index.md>) | forcall | docx | 5421 | 0 |  |  |
-| 493 | [Documents/TOT TRUFA/apuntes de la trufa/trabajo](<Documents/TOT TRUFA/apuntes de la trufa/trabajo/index.md>) | trabajo | docx | 10358 | 2 |  |  |
-| 494 | [Documents/TOT TRUFA/apuntes de la trufa/trufas](<Documents/TOT TRUFA/apuntes de la trufa/trufas/index.md>) | trufas | docx | 23286 | 7 |  | PARECIDO (0.75) a md/Món rural i cuina/La trufa negra, ya publicado. |
-| 495 | [Documents/TOT TRUFA/apuntes de la trufa/trufes](<Documents/TOT TRUFA/apuntes de la trufa/trufes/index.md>) | trufes | docx | 3314 | 0 |  |  |
-| 491 | [Documents/TOT TRUFA/apuntes de la trufa/Truficultura](<Documents/TOT TRUFA/apuntes de la trufa/Truficultura/index.md>) | Truficultura | docx | 2653 | 0 |  |  |
-| 496 | [Documents/TOT TRUFA/apuntes de la trufa/vida de las trufas](<Documents/TOT TRUFA/apuntes de la trufa/vida de las trufas/index.md>) | vida de las trufas | docx | 6216 | 0 |  |  |
-| **C103** | **[Documents/TOT TRUFA/apunts de la trufa/](<Documents/TOT TRUFA/apunts de la trufa/_carpeta.md>)** | **apunts de la trufa** | carpeta | 5 docs | | |  |
-| 498 | [Documents/TOT TRUFA/apunts de la trufa/liquenes](<Documents/TOT TRUFA/apunts de la trufa/liquenes/index.md>) | liquenes | docx | 289 | 7 |  |  |
-| 497 | [Documents/TOT TRUFA/apunts de la trufa/Recetas con trufas](<Documents/TOT TRUFA/apunts de la trufa/Recetas con trufas/index.md>) | Recetas con trufas | docx | 4034 | 0 |  |  |
-| 499 | [Documents/TOT TRUFA/apunts de la trufa/trabajo](<Documents/TOT TRUFA/apunts de la trufa/trabajo/index.md>) | trabajo | docx | 881 | 0 |  |  |
-| 500 | [Documents/TOT TRUFA/apunts de la trufa/trufas](<Documents/TOT TRUFA/apunts de la trufa/trufas/index.md>) | trufas | docx | 4290 | 0 |  |  |
-| 501 | [Documents/TOT TRUFA/apunts de la trufa/vida de las trufas](<Documents/TOT TRUFA/apunts de la trufa/vida de las trufas/index.md>) | vida de las trufas | docx | 6216 | 0 |  |  |
-| **C104** | **[Documents/TOT TRUFA/carteles trufas/](<Documents/TOT TRUFA/carteles trufas/_carpeta.md>)** | **carteles trufas** | carpeta | 11 docs | | |  |
-| **C105** | **[Documents/TOT TRUFA/carteles trufas/carteles trufas/](<Documents/TOT TRUFA/carteles trufas/carteles trufas/_carpeta.md>)** | **carteles trufas** | carpeta | 11 docs | | |  |
-| **C106** | **[Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/_carpeta.md>)** | **apuntes de la trufa** | carpeta | 6 docs | | |  |
-| 504 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/forcall](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/forcall/index.md>) | forcall | docx | 5421 | 0 |  |  |
-| 505 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/trabajo](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/trabajo/index.md>) | trabajo | docx | 10358 | 2 |  |  |
-| 506 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/trufas](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/trufas/index.md>) | trufas | docx | 23286 | 7 |  | PARECIDO (0.75) a md/Món rural i cuina/La trufa negra, ya publicado. |
-| 507 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/trufes](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/trufes/index.md>) | trufes | docx | 3314 | 0 |  |  |
-| 503 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/Truficultura](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/Truficultura/index.md>) | Truficultura | docx | 2653 | 0 |  |  |
-| 508 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/vida de las trufas](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apuntes de la trufa/vida de las trufas/index.md>) | vida de las trufas | docx | 6216 | 0 |  |  |
-| **C107** | **[Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/_carpeta.md>)** | **apunts de la trufa** | carpeta | 4 docs | | |  |
-| 509 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/Recetas con trufas](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/Recetas con trufas/index.md>) | Recetas con trufas | docx | 4034 | 0 |  |  |
-| 510 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/trabajo](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/trabajo/index.md>) | trabajo | docx | 881 | 0 |  |  |
-| 511 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/trufas](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/trufas/index.md>) | trufas | docx | 4290 | 0 |  |  |
-| 512 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/vida de las trufas](<Documents/TOT TRUFA/carteles trufas/carteles trufas/apunts de la trufa/vida de las trufas/index.md>) | vida de las trufas | docx | 6216 | 0 |  |  |
-| 502 | [Documents/TOT TRUFA/carteles trufas/carteles trufas/Recetas con trufas](<Documents/TOT TRUFA/carteles trufas/carteles trufas/Recetas con trufas/index.md>) | Recetas con trufas | docx | 2771 | 0 |  |  |
-| 487 | [Documents/TOT TRUFA/La trufa negra](<Documents/TOT TRUFA/La trufa negra/index.md>) | La trufa negra | docx | 25273 | 17 |  | PARECIDO (0.71) a md/Món rural i cuina/La trufa negra, ya publicado. |
-| 486 | [Documents/TOT TRUFA/La trufa negra Paquita.](<Documents/TOT TRUFA/La trufa negra Paquita./index.md>) | La trufa negra Paquita. | docx | 25114 | 15 |  |  |
+| **C101** | **[Documents/TOT TRUFA/](<Documents/TOT TRUFA/_carpeta.md>)** | **TOT TRUFA** | carpeta | 1 docs | | |  |
 | 488 | [Documents/TOT TRUFA/Lllegir trufa negra.](<Documents/TOT TRUFA/Lllegir trufa negra./index.md>) | Lllegir trufa negra. | docx | 3643 | 5 |  |  |
-| 489 | [Documents/TOT TRUFA/Portada ,indice. - copia](<Documents/TOT TRUFA/Portada ,indice. - copia/index.md>) | Portada ,indice. - copia | docx | 116 | 3 |  |  |
-| 490 | [Documents/TOT TRUFA/Recetas con trufas](<Documents/TOT TRUFA/Recetas con trufas/index.md>) | Recetas con trufas | docx | 2771 | 0 |  |  |
 | **C108** | **[Documents/treball uji CELUMBRES/](<Documents/treball uji CELUMBRES/_carpeta.md>)** | **treball uji CELUMBRES** | carpeta | 17 docs | | |  |
 | 737 | [Documents/treball uji CELUMBRES/ANIMALES TERRESTRES](<Documents/treball uji CELUMBRES/ANIMALES TERRESTRES/index.md>) | ANIMALES TERRESTRES | docx | 3888 | 0 |  |  |
 | 738 | [Documents/treball uji CELUMBRES/ARAÑAS IN  acabat](<Documents/treball uji CELUMBRES/ARAÑAS IN  acabat/index.md>) | ARAÑAS IN  acabat | docx | 2371 | 6 |  |  |

@@ -62,29 +62,24 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   Instrumentos de caña. **Pendiente de decisión**: «Principio memoria» (239, 364, 398: borrador de introducción del
   taller, AUTORÍA A CONFIRMAR), «Historia de la tòfona» (198, 516: boletín de Cinctorres; aquí o en Natura), «Lllegir
   trufa negra» (488: texto de la presentación; aquí o en C26), «pastel de salmon» (675: receta y resumen de bufadors
-  y barraques para aquí, reflexión sobre las máquinas para C26, el resto restos), y el borrador 336 de la pedra en
-  sec, que se conserva en inprocess/ por sus 14 fotos grandes (las de md/ son miniaturas del blog). **Copias y
-  borradores de lo ya publicado, para borrar**: «Agricultura mio con fotos final» (179, idéntico al libro de md/);
-  las diez versiones de la memoria de clase (199, 221, 223, 225, 229, 381, 382, 384, 388, 669: sus capítulos ya están
-  en md/, el resto es de los otros siete miembros del taller); los capítulos sueltos El herrero, Sistema de riego,
-  El algarrobo, Algarrobo, arroz, Algodón, Alimentarse, las dos introducciones, Faixero Memoria y curiosidades
-  (borradores de capítulos del libro; curiosidades añade vivencias de un abuelo ajeno); «Nuevo Documento» (672,
-  índice y restos); La trufa negra Paquita (214, 486, 487), trufas (494, 506) e introduccion 1 de BLOG CELUMBRES
-  (190, 345, 636), copias de La trufa negra; los apuntes de la trufa (491-512, 559-561), notas copiadas de fuentes;
-  «l'ar de teixir» (655), ya en El museu de la faixa. Sexenni (367, 246, 405) es de C26.
+  y barraques para aquí, reflexión sobre las máquinas para C26, el resto restos), (el borrador 336 de la pedra en sec, con 14 fotos grandes, se volcó en md/ el 2026-09-06 y se borró). **Borrado el 2026-09-06** todo lo que era copia o borrador de lo ya publicado (70 documentos: el libro idéntico 179,
+  las diez memorias de clase, los capítulos sueltos borrador, curiosidades, Nuevo Documento, las copias de La trufa
+  negra y de introduccion 1, los apuntes de la trufa y l'ar de teixir). Borrado también «Faixero Memoria» (231, 390, 358, ya
+  dentro del libro), «Garrofin» (233, 392) y «Portada, indice» (489).
+  Sexenni (367, 246, 405) es de C26.
 - **C21 Cinctorres**: hechos el 2026-09-06 «Església de Sant Pere» (658), «Toponimia de Cinctorres» (476) y
   la fusión de «FAIXERO» (422, 2017) con «Faixero, faixes!» (160). Quedan a decisión del usuario: las cuatro
   ermitas y rogatives de `wiki/` (352-355; sin indicio de copia en la web, irían con AUTORÍA A CONFIRMAR) y la
   entrada del blog «Esglesia de Cinctorres» (586 y 289), versión corta de la de md (conservar en Les meues
-  coses o borrar). «Sant Antoni als Ports» es del blog. No van aquí: «Llibret mercat San Antoni» (es el
+  coses o borrar: **borrada el 2026-09-06**). «Sant Antoni als Ports» es del blog. No van aquí: «Llibret mercat San Antoni» (es el
   mercado de Castelló, ya en C24), «cansalader» (oficio: C22 o C19), «Mare de Deu de la Balma» (Zorita:
   Viatges), los artículos del boletín (Natura). «Faixero Memoria» (231, 390, 358) ya está dentro de
   «Agricultura y costumbres del mundo rural»: borrar.
 - **C24 Castelló**: hechos el 2026-09-06 «Cuartel de San Francisco», «Castellón» y «Partidas de Castellón».
-  «Convento y cuartel» y «Castelló 1200-1900» son entradas del blog y van a Les meues coses. Quedan a decisión
-  del usuario «Festes de la Magdalena» (26.000, cuatro copias: 224, 232, 383, 391) y «madalena - copia» (371):
-  salvo la introducción sobre Bernat Artola, son la transcripción del librito «La Magdalena» de Emilio Calduch
-  (1940), que la copia cita como bibliografía; probablemente ajeno.
+  «Convento y cuartel» y «Castelló 1200-1900» son entradas del blog y van a Les meues coses. «Festes de la Magdalena» (224, 232, 383, 391) y «madalena - copia»
+  (371) eran la transcripción del librito «La Magdalena» de Emilio Calduch (1940), ejemplar dedicado a Tomás
+  Sanmillán, miembro del taller; solo dos párrafos de introducción sobre Bernat Artola eran suyos. Borrados el
+  2026-09-06.
 - **C12 Memoria familiar**: ya revisado el 2026-09-06. Las tres versiones más de «Qui ho farà?» (`Fax/QUI
   HO FARA. Meu` 436, «Memoria familiar Paquita.» 454 y 456, «Memoria familiar con fotos» 347 y 666) son
   borradores de la que ya está en md/ (la «con fotos» es idéntica; la del Fax es una redacción anterior sin
@@ -140,6 +135,13 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   Recetas sencillas (240 + 245; copias 365, 399, 404 borradas), San Antonio (646; versión corta 241, 366, 400 borrada)
   e Instrumentos de caña (244; copia 403 borrada); La dula (048) reescrita como fusión con la versión larga 186.
   C22 pasa de 10 a 16.
+- 2026-09-06: borrados de inprocess/ los 70 documentos del bloque de agricultura y trufa que eran copias o borradores
+  de lo ya publicado en Món rural i cuina, y seis carpetas que quedaban sin documentos (Guardar trufas, memoria varias,
+  Parents cchile familia Segura, actes de naexemen casa la Parra, para dropbox, introduccion al suspense).
+- 2026-09-06: borradas la entrada del blog «Esglesia de Cinctorres» (586, 289), versión corta de la que está en
+  Cinctorres, y las tres copias de «Faixero Memoria» (231, 390, 358), ya dentro del libro de agricultura.
+- 2026-09-06: borrados «Festes de la Magdalena» (224, 232, 383, 391) y «madalena - copia» (371), transcripción de
+  Calduch (1940) con dos párrafos propios sobre Bernat Artola que no se conservan.
 
 ## TRABAJO EN CURSO (interrumpido el 2026-09-05): crear «Les meues coses»
 
