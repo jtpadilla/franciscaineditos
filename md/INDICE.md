@@ -1,6 +1,6 @@
 # Índice de md/
 
-135 documentos seleccionados en 11 carpetas.
+136 documentos seleccionados en 11 carpetas.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, `notas`) de cada `index.md` y `_carpeta.md`, no esta tabla.
 
@@ -134,7 +134,7 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, 
 | 084 | [Religion/Monacato](<Religion/Monacato/index.md>) | Monacato | Firmado Paquita 2016-2017. Respuestas a un cuestionario del curso. |
 | 086 | [Religion/Pedro Abelardo](<Religion/Pedro Abelardo/index.md>) | Pedro Abelardo | Trabajo del curso con una opinión personal al final. |
 | 087 | [Religion/Ramon Llull](<Religion/Ramon Llull/index.md>) | Ramon Llull | Comentario de un vídeo del curso seguido de una biografía. |
-| **C26** | **[Treballs i reflexions/](<Treballs i reflexions/_carpeta.md>)** (17 docs) | **Treballs i reflexions** |  |
+| **C26** | **[Treballs i reflexions/](<Treballs i reflexions/_carpeta.md>)** (18 docs) | **Treballs i reflexions** |  |
 | 201 | [Treballs i reflexions/Cultura para la Paz](<Treballs i reflexions/Cultura para la Paz/index.md>) | Cultura para la Paz | Aportación a la clase de Cultura para la Paz sobre el voluntariado y las ONG, escrita en plural como trabajo de grupo. Sin fecha. Tres copias idénticas (201, 475, 651). Se han quitado las negritas sueltas. |
 | 034 | [Treballs i reflexions/De los Ports al mar](<Treballs i reflexions/De los Ports al mar/index.md>) | De los Ports al mar | Reflexión escrita el 22 de septiembre de 2015 en un viaje de Morella a Vinaròs: la diversidad de paisajes de Castellón. El fichero se llamaba 'diversidad Paquita' y el texto 'Reflexión'. |
 | 378 | [Treballs i reflexions/Don Quijote](<Treballs i reflexions/Don Quijote/index.md>) | Don Quijote | Resúmenes y comentarios de los primeros capítulos del Quijote para un curso, en noviembre de 2017: capítulos I y II (con el vocabulario de la comida, el vestido y las medidas comparado con el de hoy), III, IV (con tres palabras de entonces que seguimos usando) y V y VI (el escrutinio de la biblioteca). Eran dos ficheros (378 y 379), reunidos. Se ha omitido el soneto 'Diálogo entre Babieca y Rocinante', de Cervantes, que copió entre los capítulos II y III. |
@@ -149,6 +149,7 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras (`id`, `titulo`, 
 | 051 | [Treballs i reflexions/Les classes de valencià](<Treballs i reflexions/Les classes de valencià/index.md>) | Les classes de valencià | Sobre les classes de valencià de la Universitat per a Majors, dedicat a l'amic Agustí. Firmat 2007. |
 | 128 | [Treballs i reflexions/Les noves tecnologies](<Treballs i reflexions/Les noves tecnologies/index.md>) | Les noves tecnologies | El mòbil i l'ordinador vistos per qui ha passat el mig segle. Firmat 2008. |
 | 419 | [Treballs i reflexions/Lucerna](<Treballs i reflexions/Lucerna/index.md>) | Lucerna | Nota breve sobre las lucernas, de la lámpara de aceite de los museos a la tea y el candil de las masías. Firmada Francisca Julián, sin fecha. Única versión. |
+| 455 | [Treballs i reflexions/Mare de Déu de la Balma](<Treballs i reflexions/Mare de Déu de la Balma/index.md>) | Mare de Déu de la Balma | El santuario de la Balma, en Zorita: el río Bergantes, el origen de la devoción, la fiesta del primer sábado de septiembre con los quintos, las danzas y el diálogo del Ángel y el Demonio. Cuatro fotos. Firmado Paquita Julián, julio 2014. Había una versión sin fotos ni fecha en Revista UJI (255), eliminada. Se han recompuesto tres cursivas partidas. |
 | 488 | [Treballs i reflexions/Presentació de la trufa negra](<Treballs i reflexions/Presentació de la trufa negra/index.md>) | Presentació de la trufa negra | Guió llegit en presentar el treball de curs sobre la trufa negra (el que és a Món rural i cuina): la comarca, la història, la biologia, les truferes silvestres, la selvicultura, la cuina, la legislació i les jornades gastronòmiques, amb un mapa i quatre fotos. Sense data; acaba amb «moltes gràcies». Tot el text anava en negreta cursiva, que s'ha tret; els punts suspensius són seus. Única versió. |
 | 066 | [Treballs i reflexions/Presentació del llibre a Morella](<Treballs i reflexions/Presentació del llibre a Morella/index.md>) | Presentació del llibre a Morella | Paraules de presentació del seu llibre sobre els masos a l'Ajuntament de Morella, agost 2006. |
 | 094 | [Treballs i reflexions/Sexenni](<Treballs i reflexions/Sexenni/index.md>) | Sexenni | Las fiestas sexenales de Morella: origen, contenido folklórico y su relación con Castellón. Firmado Francisca Julián Querol, 2017 y enero 2026. Con una imagen. |

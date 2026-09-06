@@ -18,7 +18,7 @@ que una obra se crea, se cierra o cambia de criterio. El `criterio` detallado de
 | C23 | Relats | 5 | cuentos, relatos, ficción, teatro | recuerdos reales en primera persona (C12), entradas del blog (Les meues coses, pendiente) |
 | C24 | Castelló | 11 | la ciudad de Castelló y su término: calles, mercado, ermitas, partidas, cerámica, cuartel, fiestas | |
 | C25 | Listo | 16 | las entradas del blog narradas por el perro, y el adiós que le escribió ella | el resto del blog (Les meues coses, pendiente) |
-| C26 | Treballs i reflexions | 17 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
+| C26 | Treballs i reflexions | 18 | trabajos de curso (no religión) y textos de opinión: la belleza, la felicidad, la lengua, las tecnologías, la Guerra del Rif, presentaciones y conferencias | poemas (C20), relatos (C23) |
 | C27 | Polo de Bernabé | 2 | la investigación genealógica sobre esa familia: su texto y las transcripciones de archivo | volcados de webs de genealogía |
 
 Ids de documento usados hasta el 756; siguiente obra: C29 (C28 es la carpeta `inprocess/Documents`).
@@ -43,11 +43,11 @@ procedimiento de CLAUDE.md. Orden sugerido: 1, 3, 2.
    hongos, insectos, invertebrados, líquenes), los artículos del boletín de Cinctorres sobre trufa y líquenes
    (`Todo bulleti Cinctorres/`), «entrevistas de trabajo» (el quejigo), «Líquens». **Aviso**: es la base del
    site ramblacelumbres. Criterio: flora, fauna, hongos, líquenes y paisaje natural, descritos como estudio.
-3. **Viatges**. Viajes y excursiones: «DUERO Tónica» (Arribes del Duero 2016; firmado «Tonica», comprobar
-   si es suyo o de una compañera), «Nuevo Roquetas», «La perla de la montaña. Llucena», «La Balma 2011»,
-   «Al Oeste del Maestrazgo», «foro Peñagolosa y Calderona», «El gran viatge» (la introducción es suya, la
-   crónica es de Amelia). **Trasladar aquí** desde C12 «Els meus viatges a Galícia» y desde C26 «De los
-   Ports al mar». Criterio: relato de un viaje o excursión, propio o de grupo.
+3. ~~**Viatges**~~. **Descartada el 2026-09-06**: de los candidatos, «DUERO Tónica» era de Tónica, «Al Oeste del
+   Maestrazgo» de Vicente y «Nuevo Roquetas» de Enrique Porcar (borrados); «foro Peñagolosa y Calderona» va a Natura;
+   «Mare de Déu de la Balma» (455) se ha pasado a Treballs i reflexions; Els meus viatges a Galícia se queda en Memoria
+   familiar y De los Ports al mar en Treballs; los tres viajes del blog (El gran viatge, La perla de la montaña, La Balma
+   2011) se quedan en Les meues coses.
 
 Posible cuarta obra, a decidir por el usuario: **Cartes a Vicente**, con las respuestas de ella a los
 escritos de Vicente Vicente Rodríguez (carpeta `VIVIR/`: «respuesta a deberes», «respuesta», «Bodas de
@@ -110,7 +110,8 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
 - Lo narrado por Listo va a C25 aunque hable de Cinctorres o de fiestas.
 - Una entrada del blog «Les meues coses» va a la obra del blog aunque hable de Cinctorres o Castelló.
 - Un recuerdo en primera persona va a C12; un texto sobre el pueblo en tercera persona, a C21.
-- Un viaje va a Viatges aunque sea familiar.
+- Un viaje va a la obra que le toque por su forma: recuerdo familiar (C12), reflexión o descripción (C26), entrada del blog
+  (Les meues coses). No hay obra Viatges.
 - Un trabajo de curso va a C26 salvo que sea de religión (C08), de agricultura (C22) o de naturaleza (Natura).
 - Lo copiado de otros (firmado por otra persona, Wikipedia, webs de genealogía, textos de compañeros) no va
   a ninguna obra: se borra. Si lleva dentro un texto suyo, se salva ese texto.
@@ -175,6 +176,8 @@ Padilla» de la raíz). Los textos de Vicente ya se borraron. Si no se crea, sus
   526, sexeni mitad 246 y 405, resumen J. Soriano 183 y 483, Aprender nuevas tecnologías 2006 637, cançons 337 y 477)
   y los ajenos o restos (Punset 465, Mona Lisa 639, Pintura géneros 461, correos del curso 413, guías de Dropbox 204 y
   205, Sexenni. 367), con las carpetas que quedaron vacías.
+- 2026-09-06: descartada la obra Viatges. Treballs i reflexions recibe «Mare de Déu de la Balma» (455; copia 255
+  borrada); borrados DUERO Tónica (202), Al Oeste del Maestrazgo (522) y Nuevo Roquetas (457), ajenos. C26 pasa a 18.
 - 2026-09-06: Listo recibe «Nit de Maitines (revista)» (724) y «Tapa del llibre» (217), cuatro fotos nuevas y el gatet
   en alta resolución; borrados los seis libros compilados (216, 218, 442, 444, 450, 664) con sus tapas, todo listo (10),
   las 22 copias del blog, poner foto (680, 690) y «Tertulia entre amics» (514): 44 documentos. C25 pasa a 16.

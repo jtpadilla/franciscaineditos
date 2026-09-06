@@ -1,12 +1,12 @@
 # Índice de inprocess/
 
-174 documentos en 26 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 174.
+169 documentos en 26 carpetas. Interesan: 0. Descartados: 0. Sin revisar: 169.
 
 Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md` y `_carpeta.md`, no esta tabla. Los ids son fijos: `001`... para documentos, `C01`... para carpetas.
 
 | Id | Documento | Título | Formato | Car. | Img | Interesa | Notas |
 |---|---|---|---|---|---|---|---|
-| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 174 docs | | |  |
+| **C28** | **[Documents/](<Documents/_carpeta.md>)** | **Documents** | carpeta | 169 docs | | |  |
 | **C29** | **[Documents/2 tapas/](<Documents/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 3 docs | | |  |
 | 175 | [Documents/2 tapas/LAS PALABRAS.](<Documents/2 tapas/LAS PALABRAS./index.md>) | LAS PALABRAS. | docx | 2167 | 1 |  |  |
 | 176 | [Documents/2 tapas/TAPA DE 15](<Documents/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -71,8 +71,8 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 627 | [Documents/blog meu/TEMPS DE ROGATIVES abril 2014](<Documents/blog meu/TEMPS DE ROGATIVES abril 2014/index.md>) | TEMPS DE ROGATIVES abril 2014 | docx | 1724 | 0 |  |  |
 | 628 | [Documents/blog meu/TERRA MATRIA](<Documents/blog meu/TERRA MATRIA/index.md>) | TERRA MATRIA | docx | 2057 | 1 |  |  |
 | 630 | [Documents/blog meu/TOMBATOSALS](<Documents/blog meu/TOMBATOSALS/index.md>) | TOMBATOSALS | doc | 1488 | 0 |  |  |
-| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 57 docs | | |  |
-| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 57 docs | | |  |
+| **C38** | **[Documents/Dropbox copia/](<Documents/Dropbox copia/_carpeta.md>)** | **Dropbox copia** | carpeta | 56 docs | | |  |
+| **C39** | **[Documents/Dropbox copia/compartida/](<Documents/Dropbox copia/compartida/_carpeta.md>)** | **compartida** | carpeta | 56 docs | | |  |
 | **C40** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/_carpeta.md>)** | **Biodiversidad 2 documentos** | carpeta | 4 docs | | |  |
 | **C41** | **[Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/_carpeta.md>)** | **2 tapas** | carpeta | 2 docs | | |  |
 | 206 | [Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15](<Documents/Dropbox copia/compartida/Biodiversidad 2 documentos/2 tapas/TAPA DE 15/index.md>) | TAPA DE 15 | docx | 154 | 17 |  |  |
@@ -130,13 +130,11 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | **C54** | **[Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/_carpeta.md>)** | **BLOG  CELUMBRES** | carpeta | 2 docs | | |  |
 | 344 | [Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/guardar primavera.](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/guardar primavera./index.md>) | guardar primavera. | docx | 8531 | 1 |  |  |
 | 346 | [Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/otoño](<Documents/Dropbox copia/compartida/memoria familiar y dos tapas/BLOG  CELUMBRES/otoño/index.md>) | otoño | docx | 1739 | 0 |  |  |
-| **C55** | **[Documents/Dropbox copia/compartida/Revista UJI/](<Documents/Dropbox copia/compartida/Revista UJI/_carpeta.md>)** | **Revista UJI** | carpeta | 5 docs | | |  |
+| **C55** | **[Documents/Dropbox copia/compartida/Revista UJI/](<Documents/Dropbox copia/compartida/Revista UJI/_carpeta.md>)** | **Revista UJI** | carpeta | 4 docs | | |  |
 | 258 | [Documents/Dropbox copia/compartida/Revista UJI/els Reis](<Documents/Dropbox copia/compartida/Revista UJI/els Reis/index.md>) | els Reis | doc | 8550 | 0 |  |  |
-| 255 | [Documents/Dropbox copia/compartida/Revista UJI/La Balma](<Documents/Dropbox copia/compartida/Revista UJI/La Balma/index.md>) | La Balma | docx | 5754 | 0 |  |  |
 | 256 | [Documents/Dropbox copia/compartida/Revista UJI/La festa del foc](<Documents/Dropbox copia/compartida/Revista UJI/La festa del foc/index.md>) | La festa del foc | doc | 3156 | 0 |  |  |
 | 254 | [Documents/Dropbox copia/compartida/Revista UJI/LES CLASES DE VALEN CIÀ](<Documents/Dropbox copia/compartida/Revista UJI/LES CLASES DE VALEN CIÀ/index.md>) | LES CLASES DE VALEN CIÀ | doc | 3992 | 0 |  | PARECIDO (0.72) a md/Treballs i reflexions/Les classes de valencià, ya publicado. |
 | 257 | [Documents/Dropbox copia/compartida/Revista UJI/Sant antoni als Ports](<Documents/Dropbox copia/compartida/Revista UJI/Sant antoni als Ports/index.md>) | Sant antoni als Ports | doc | 4284 | 0 |  |  |
-| 202 | [Documents/DUERO Tonica.](<Documents/DUERO Tonica./index.md>) | DUERO Tonica. | doc | 10138 | 0 |  |  |
 | 640 | [Documents/entrevistas de ttrabajo.](<Documents/entrevistas de ttrabajo./index.md>) | entrevistas de ttrabajo. | doc | 5062 | 0 |  |  |
 | **C71** | **[Documents/escrits . Les meues coses/](<Documents/escrits . Les meues coses/_carpeta.md>)** | **escrits . Les meues coses** | carpeta | 2 docs | | |  |
 | 656 | [Documents/escrits . Les meues coses/blog meues coses.](<Documents/escrits . Les meues coses/blog meues coses./index.md>) | blog meues coses. | docx | 452 | 0 |  |  |
@@ -164,8 +162,6 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 433 | [Documents/Fax/Inbox/treball uji/INVERTEBRADOS  ANTROPODOS.](<Documents/Fax/Inbox/treball uji/INVERTEBRADOS  ANTROPODOS./index.md>) | INVERTEBRADOS  ANTROPODOS. | docx | 12737 | 0 |  |  |
 | 661 | [Documents/foroPeñagolosa y Calderona](<Documents/foroPeñagolosa y Calderona/index.md>) | foroPeñagolosa y Calderona | docx | 975 | 0 |  |  |
 | 451 | [Documents/Listo](<Documents/Listo/index.md>) | Listo | docx | 31788 | 43 |  |  |
-| 455 | [Documents/Mare de Deu de la balma.](<Documents/Mare de Deu de la balma./index.md>) | Mare de Deu de la balma. | docx | 5715 | 4 |  |  |
-| 457 | [Documents/Nuevo Roquetas.](<Documents/Nuevo Roquetas./index.md>) | Nuevo Roquetas. | docx | 3967 | 10 |  |  |
 | 460 | [Documents/Otoño](<Documents/Otoño/index.md>) | Otoño | docx | 934 | 0 |  |  |
 | **C99** | **[Documents/Todo bulleti Cinctorres/](<Documents/Todo bulleti Cinctorres/_carpeta.md>)** | **Todo bulleti Cinctorres** | carpeta | 2 docs | | |  |
 | 515 | [Documents/Todo bulleti Cinctorres/BIODIVERSITAT.](<Documents/Todo bulleti Cinctorres/BIODIVERSITAT./index.md>) | BIODIVERSITAT. | docx | 2378 | 0 |  |  |
@@ -190,10 +186,9 @@ Se regenera con `python3 tools/indice.py`. Edita las cabeceras de cada `index.md
 | 752 | [Documents/treball uji CELUMBRES/insectos-mariposas](<Documents/treball uji CELUMBRES/insectos-mariposas/index.md>) | insectos-mariposas | docx | 1429 | 0 |  |  |
 | 751 | [Documents/treball uji CELUMBRES/INVERTEBRADOS  ANTROPODOS.](<Documents/treball uji CELUMBRES/INVERTEBRADOS  ANTROPODOS./index.md>) | INVERTEBRADOS  ANTROPODOS. | docx | 12737 | 0 |  |  |
 | 753 | [Documents/treball uji CELUMBRES/lOA LIQUENES.](<Documents/treball uji CELUMBRES/lOA LIQUENES./index.md>) | lOA LIQUENES. | docx | 1863 | 12 |  |  |
-| **C111** | **[Documents/VIVIR/](<Documents/VIVIR/_carpeta.md>)** | **VIVIR** | carpeta | 15 docs | | |  |
+| **C111** | **[Documents/VIVIR/](<Documents/VIVIR/_carpeta.md>)** | **VIVIR** | carpeta | 14 docs | | |  |
 | 541 | [Documents/VIVIR/adin¡vinanzas](<Documents/VIVIR/adin¡vinanzas/index.md>) | adin¡vinanzas | docx | 1853 | 0 |  |  |
 | 521 | [Documents/VIVIR/Agosto](<Documents/VIVIR/Agosto/index.md>) | Agosto | docx | 1349 | 0 |  |  |
-| 522 | [Documents/VIVIR/Al Oeste del Maestrazgo (1)](<Documents/VIVIR/Al Oeste del Maestrazgo (1)/index.md>) | Al Oeste del Maestrazgo (1) | doc | 1491 | 0 |  |  |
 | 523 | [Documents/VIVIR/Aplausos](<Documents/VIVIR/Aplausos/index.md>) | Aplausos | docx | 3620 | 1 |  |  |
 | 527 | [Documents/VIVIR/Bodas de oro](<Documents/VIVIR/Bodas de oro/index.md>) | Bodas de oro | docx | 1263 | 0 |  |  |
 | 528 | [Documents/VIVIR/Debajo del brazo](<Documents/VIVIR/Debajo del brazo/index.md>) | Debajo del brazo | docx | 5306 | 0 |  |  |
