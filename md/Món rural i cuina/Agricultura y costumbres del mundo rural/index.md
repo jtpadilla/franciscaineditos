@@ -12,7 +12,7 @@ notas: "Su trabajo más extenso: la agricultura y los oficios del término de Ca
 
 Las condiciones de trabajo del campo y mundo rural están condicionadas por la climatología, la geografía, y su entorno vital. No es lo mismo un trabajador del campo de Castellón que en cualquier comarca del interior.
 
-En zonas llanas de la Plana se utilizaban como animales de tiro la yegua o \<àca\> y el carro, grande, majestuoso, que se guardaba en las entradas de las casas labradoras, de ahí la expresión “entrada de carro”; esto demuestra que los habitantes de este hogar son propietario de tierras generalmente hanegadas de naranjas, secano y marjal o trozo de tierra rodeada de acequias donde se cultiva todo tipo de verduras y frutas de temporada.
+En zonas llanas de la Plana se utilizaban como animales de tiro la yegua o «àca» y el carro, grande, majestuoso, que se guardaba en las entradas de las casas labradoras, de ahí la expresión “entrada de carro”; esto demuestra que los habitantes de este hogar son propietario de tierras generalmente hanegadas de naranjas, secano y marjal o trozo de tierra rodeada de acequias donde se cultiva todo tipo de verduras y frutas de temporada.
 
 El ritmo de trabajo, siempre es continuo, en todo tipo de cultivos se necesitan varias fases de trabajo, antes de recoger una cosecha del producto que sea, necesita diferentes cuidados. El campesino o labrador nunca termina, cada cultivo, es de una época diferente del año y su cuidado también. Una *fanecada* valenciana equivale a 831’0964m2, doce *fanecadas* son una hectárea o 10.000m2, un *quartó* equivale a nueve hanegadas.
 
@@ -610,7 +610,7 @@ El paludismo, siempre se ha relacionado con el cultivo del arroz, pero, no es el
 
 En pleno auge del cultivo del arroz en los años 1940 comenzó a observarse que algunas personas que cultivaban arroz enfermaban, tiritaban y sufrían fiebres altas, al propio tiempo se les ponía el cuerpo amarillo, la dolencia era grave y a veces mortal, parecida a la sífilis.
 
-El doctor don Vicente Altava medico de medicina interna del Hospital Provincial (que ya mayor, conocí como paciente suya) llegó a la conclusión que aquella enfermedad era transmitida por un virus por contacto con la corriente sanguínea. Contacto con dos médicos, uno italiano i otro polaco que supo investigaban el mismo tema. El agente contaminante se transmitía a través de la orina de las ratas del campo de la variedad \< *norvegius\>* al pisar los trabajadores del campo del arroz que iban descalzos, la tierra o barro contaminado, se impregnaban a través de alguna herida o ulcera. Durante dos años el D, Vicente Altava y en los laboratorios del D. Villalonga en la Plaza la Paz junto al D. Barreda, y otro doctor, se estudió y experimentó con ratas, que culminó con una vacuna para la enfermedad conocida como *\<Brucelosis\>* que empezó a administrarse a todos los arroceros, en el año 1948 resultando efectiva.
+El doctor don Vicente Altava medico de medicina interna del Hospital Provincial (que ya mayor, conocí como paciente suya) llegó a la conclusión que aquella enfermedad era transmitida por un virus por contacto con la corriente sanguínea. Contacto con dos médicos, uno italiano i otro polaco que supo investigaban el mismo tema. El agente contaminante se transmitía a través de la orina de las ratas del campo de la variedad «*norvegius»* al pisar los trabajadores del campo del arroz que iban descalzos, la tierra o barro contaminado, se impregnaban a través de alguna herida o ulcera. Durante dos años el D, Vicente Altava y en los laboratorios del D. Villalonga en la Plaza la Paz junto al D. Barreda, y otro doctor, se estudió y experimentó con ratas, que culminó con una vacuna para la enfermedad conocida como *«Brucelosis»* que empezó a administrarse a todos los arroceros, en el año 1948 resultando efectiva.
 
 Ahora todo esto un recuerdo, pero con mucha historia que no se debe olvidar.
 
@@ -682,7 +682,7 @@ La mayor parte de las variedades del algarrobo cultivadas en el mundo provienen 
 
 El refranero popular dice: mal año de maíz, buen año de algarrobas.
 
-Y \<guanyar-se les garrofes\>, quiere decir; ganarse la vida.
+Y «guanyar-se les garrofes», quiere decir; ganarse la vida.
 
 ## 10. LAS CAÑAS
 

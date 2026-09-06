@@ -22,7 +22,7 @@ En un ambiente celta, se fundaron los monasterios irlandeses con su peculiaridad
 
 ## 4ª Monjes de San Benito
 
-La Regula monachorum redactada por San Benito de Nursia era más moderada y sencilla que la de los Irlandeses, siendo a final sus monasterios más numerosos. Para organizar la vida de sus monjes en los monasterios escribió su lema \<\<Ora et labora\>\>. Con las que se administraba el tiempo de los cenobitas en rezos, trabajo, físico e intelectual y descanso. La Abadía de Montecassino creada en en año 529 es la más importante, siendo la base de las diferentes ordenes monásticas posteriores.
+La Regula monachorum redactada por San Benito de Nursia era más moderada y sencilla que la de los Irlandeses, siendo a final sus monasterios más numerosos. Para organizar la vida de sus monjes en los monasterios escribió su lema «Ora et labora». Con las que se administraba el tiempo de los cenobitas en rezos, trabajo, físico e intelectual y descanso. La Abadía de Montecassino creada en en año 529 es la más importante, siendo la base de las diferentes ordenes monásticas posteriores.
 
 ## 6ª Vida de los monasterios y sentida en la actualidad
 

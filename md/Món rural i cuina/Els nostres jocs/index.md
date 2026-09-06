@@ -108,11 +108,11 @@ Abans eren perols de test plens de joguines i a vegades farina, aigua, etc, penj
 
 Es juga amb un boli, rep aquest nom, un trosset de fusta d’uns cinc centímetres de llarg, amb una grossària d’un dit amb els extrems acabats en punta. La pala és també necessària per al joc, es composa d’un aparell semblat a les pales de ping-pong però més estretes.
 
-L’equip que comença en una paletada a de llançar el boli més lluny, dient \<\<boli\>\> i el contrari diu \<\<da-li\>\>aquest intentarà empomar-lo si és així l’eixida passa a un altre jugador del seu equip, però si no l’empoma l’equip contrari seguirà amb el joc que té més variants, normalment són dos jugadors en cada equip
+L’equip que comença en una paletada a de llançar el boli més lluny, dient «boli» i el contrari diu «da-li»aquest intentarà empomar-lo si és així l’eixida passa a un altre jugador del seu equip, però si no l’empoma l’equip contrari seguirà amb el joc que té més variants, normalment són dos jugadors en cada equip
 
 ### El guà
 
-El joc girava al voltant d’un foradet fet a terra que es nomenava GUÀ quan els carrers eren de terra. Una ralla feta a una certa distancia del guà es d’eon cada jugador alineat tira la seua boleta que abans era de terra. Quan més prop del forat millor. El que guanya és el primer que intenta amb un moviment dels dits col·locar dins del forat la boleta si ho aconseguís diu \<guá\>. Altres paraules que es diuen en diferents jugades són: “meras”, “tute”, “matute “ “a per aquella”, “caga bola”, “ fer manega”. Aquest joc era molt popular entre els xiquets.
+El joc girava al voltant d’un foradet fet a terra que es nomenava GUÀ quan els carrers eren de terra. Una ralla feta a una certa distancia del guà es d’eon cada jugador alineat tira la seua boleta que abans era de terra. Quan més prop del forat millor. El que guanya és el primer que intenta amb un moviment dels dits col·locar dins del forat la boleta si ho aconseguís diu «guá». Altres paraules que es diuen en diferents jugades són: “meras”, “tute”, “matute “ “a per aquella”, “caga bola”, “ fer manega”. Aquest joc era molt popular entre els xiquets.
 
 ### El rogle
 
@@ -155,7 +155,7 @@ Doncs busca qui t’ha pegat.
 
 ### Jogar a bous
 
-A l’estiu, als pobles encara es pot veure xiquets que juguen a bous. Es necessiten les banyes de bou, cosa molt important. El propietari de les banyes és el que fa de bou, ell mateix és un bou que \< mufa\> i persegueix als que juguen, o a vegades intenten nugar-lo, que de tot es veu.
+A l’estiu, als pobles encara es pot veure xiquets que juguen a bous. Es necessiten les banyes de bou, cosa molt important. El propietari de les banyes és el que fa de bou, ell mateix és un bou que «mufa» i persegueix als que juguen, o a vegades intenten nugar-lo, que de tot es veu.
 
 ### La taba
 
@@ -209,7 +209,7 @@ I em menjo la clau.
 
 Crec que en moltes cases que hi ha xiquets, es coneix el joc de l’oca, és un joc on poden participar grans i menuts, no conec cap xiquet que no li agrada, el guanyar o perdedor és qüestió de sort.
 
-Les 63 caselles que es compon el joc és un camí d’obstacles, fins arribar el primer, a l’oca. Segons el número que surt al daus, vas avant o arrere, tot va bé si surt l’oca \<de oca a oca i tiro por que me toca\> però no és així si encertes el pont, el mateix guanyes casetes que les perds, o bé si caus al pou, la fonda, el laberint, o la presó, la mort és el pitjor; has de tornar a començar, és una manera també d’aprendre a contar amb les fixes, i també de compartir temps amb el menuts i grans.
+Les 63 caselles que es compon el joc és un camí d’obstacles, fins arribar el primer, a l’oca. Segons el número que surt al daus, vas avant o arrere, tot va bé si surt l’oca «de oca a oca i tiro por que me toca» però no és així si encertes el pont, el mateix guanyes casetes que les perds, o bé si caus al pou, la fonda, el laberint, o la presó, la mort és el pitjor; has de tornar a començar, és una manera també d’aprendre a contar amb les fixes, i també de compartir temps amb el menuts i grans.
 
 Per jugar al parxís sols cal donar la volta al taulell, el joc és diferent s’ha de cavil·lar més, visualment els diferents colors: roig, verd, groc i blau el fan molt atractiu, als ulls del xiquets.
 

@@ -16,17 +16,17 @@ La façana es de pedra i l’envolta una moltura vertical que ho fa també per l
 
 ![](img/image1.jpeg)
 
-El campanar de l’esquerra no te campanes com el de la dreta, en aquest, la campana tiple, és la mes menuda, amb el nom de Cristófora de 1855, amb un diàmetre de 40,5 cm. i un pes de 38 Kg. La nota fonamental és \<si\>, i la seua veu,\< tiple.\>
+El campanar de l’esquerra no te campanes com el de la dreta, en aquest, la campana tiple, és la mes menuda, amb el nom de Cristófora de 1855, amb un diàmetre de 40,5 cm. i un pes de 38 Kg. La nota fonamental és «si», i la seua veu,«tiple.»
 
-La popularment coneguda per la de es caritats, el seu nom és Maria Joaquina, de 1855, amb un diàmetre de 60 cm. i un pes de 125 Kg. La nota fonamental és\< re\>,i la seua veu \<soprano\>.
+La popularment coneguda per la de es caritats, el seu nom és Maria Joaquina, de 1855, amb un diàmetre de 60 cm. i un pes de 125 Kg. La nota fonamental és«re»,i la seua veu «soprano».
 
 La mitjana coneguda con la del portal, data de 1717 amb un diàmetre de 95 cm. i un pes de 495 Kg. La nota fonamental és
 
-\< la\>, i la seua veu \< mezzosoprano\>.
+«la», i la seua veu «mezzosoprano».
 
-La Grossa, coneguda com Maria Gracia data de 1804 amb un diàmetre de 118 cm. i un pes de 995Kg. La dita popular diu:(Maria Gràcia me diuen, cent arroves pesso, el que no se o vulga creure que me sospeso)la nota fonamental és \<do\> sostingut, i la seua veu,\< baix\>.
+La Grossa, coneguda com Maria Gracia data de 1804 amb un diàmetre de 118 cm. i un pes de 995Kg. La dita popular diu:(Maria Gràcia me diuen, cent arroves pesso, el que no se o vulga creure que me sospeso)la nota fonamental és «do» sostingut, i la seua veu,«baix».
 
-Al mig de la façana, en una espadanya està la campana dels albats (dels angelets)amb un diàmetre de 32 cm. i un pes de 19 kg. La seua veu és de \<tiple\> i la data de 1799.
+Al mig de la façana, en una espadanya està la campana dels albats (dels angelets)amb un diàmetre de 32 cm. i un pes de 19 kg. La seua veu és de «tiple» i la data de 1799.
 
 L’interior és de planta rectangular amb tres naus, totes de la mateixa altura, però la del centre es més ampla.
 

@@ -56,7 +56,7 @@ Fascinó como belleza a los griegos pitagóricos, sofistas, estoicos, renacentis
 
 Es la proporción más estética, considerado una medida sagrada.
 
-Arquitectos, y pintores la usaron en sus obras, está presente en las Pirámides de Egipto, en el Partenón, en La Acrópolis, también en La Alambra de Granada, en El Escorial, Leonardo Da Vinvi, dibujo el hombre de Vitruvio para ilustrar el libro de Fray Pocioli de Borgo \<\< La Divina Proporción \>\> donde pretende revelar el secreto de la Belleza.
+Arquitectos, y pintores la usaron en sus obras, está presente en las Pirámides de Egipto, en el Partenón, en La Acrópolis, también en La Alambra de Granada, en El Escorial, Leonardo Da Vinvi, dibujo el hombre de Vitruvio para ilustrar el libro de Fray Pocioli de Borgo «La Divina Proporción» donde pretende revelar el secreto de la Belleza.
 
 La naturaleza repite el numero PHI en estructuras vivientes, en el ADN, virus, conchas de moluscos frutas y flores. También se da en interesantes medidas del cuerpo humano.
 

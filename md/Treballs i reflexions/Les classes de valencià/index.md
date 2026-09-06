@@ -28,7 +28,7 @@ I també, que esta normalitzada amb tots els àmbits.
 
 I que direm de les paraules que sentim i no escoltem,?
 
-Una companya va dir: \< l’oratge\>que paraula mes bonica!! i tot seguit van sortir els noms dels Vents:Tramuntana, Gregal, Llevant, Xaloc, Migjorn, Garbí, Ponent Mestral.
+Una companya va dir: «l’oratge»que paraula mes bonica!! i tot seguit van sortir els noms dels Vents:Tramuntana, Gregal, Llevant, Xaloc, Migjorn, Garbí, Ponent Mestral.
 
 I totes les classes així.
 

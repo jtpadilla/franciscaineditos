@@ -48,7 +48,7 @@ Microorganismos.
 
 El paisaje es montañoso y abrupto, y en los claros de los bosques se encuentran agrupaciones de vegetales, entre los que predominan los arbustos, presenta una densa vegetación, lugar de la zona donde más variedad de plantas vio el botánico Cabanilles, que dejó constancia en sus Observaciones en 1795. La Rambla Celumbres, se encuentra encajada por un lado con la Roca Parda de Cinctorres y por el otro la roca Roja de Portell. Sus acantilados son un paisaje único, autentico, sin alteraciones. Siguiendo sus dos márgenes hasta el camino o vía la Canà, se han dejado de cultivar campos de cereales, tubérculos y viñedos, debidos a la poca rentabilidad, y la ausencia de habitantes de las masías*. Mas de Clara, Mas d’Encosta de Benardo, Masnou, Collet, de Cristóbal, Coscollar.*
 
-En los ribazos y campos en continuo barbecho vuelven a resurgir de manera espontánea plantas autóctonas y endémicas, como aliaga, erizo y abundancia de plantas aromáticas y medicinales: tomillo, te de roca, manzanilla, salvia, poleo, romero, valeriana, verbena, lavanda, etc. Siguiendo el cauce de la Rambla casi siempre seca (sus capas freáticas son muy profundas), pero peligrosa cuando recoge el agua de los montes y barrancos*; Barranc de la Barcella, Barranc del Solà de la Mestra, Barranc dels Collados, Barranc de la Cascaula* hacia su encuentro con el rio Calders \<Cinctorres\> después el Bergantes, \<Morella\> Guadalope, Mas de las Matas, y al final el Ebro por el Bajo Aragón.
+En los ribazos y campos en continuo barbecho vuelven a resurgir de manera espontánea plantas autóctonas y endémicas, como aliaga, erizo y abundancia de plantas aromáticas y medicinales: tomillo, te de roca, manzanilla, salvia, poleo, romero, valeriana, verbena, lavanda, etc. Siguiendo el cauce de la Rambla casi siempre seca (sus capas freáticas son muy profundas), pero peligrosa cuando recoge el agua de los montes y barrancos*; Barranc de la Barcella, Barranc del Solà de la Mestra, Barranc dels Collados, Barranc de la Cascaula* hacia su encuentro con el rio Calders «Cinctorres» después el Bergantes, «Morella» Guadalope, Mas de las Matas, y al final el Ebro por el Bajo Aragón.
 
 También suman a la biodiversidad de la zona, las construcciones de piedra seca: barracas y paredes, que con su estructura representan un excepcional refugio para el hombre y para numerosas especies de fauna vertebrada y de artrópodos. Las paredes de piedra seca constituyen una importante área de refugio, de cría y de hibernación.
 
@@ -714,7 +714,7 @@ Se caracterizan porque se arrastran para desplazarse, poseen piel escamosa y gen
 
 ### 5.1. Hongos y setas
 
-Los hongos pertenecen a las criptógamas; una denominación que significa \<nupcias ocultas\>. Sus órganos de reproducción no se ven a simple vista. Las esporas son reconocidas como semillas propias de algunos hongos.
+Los hongos pertenecen a las criptógamas; una denominación que significa «nupcias ocultas». Sus órganos de reproducción no se ven a simple vista. Las esporas son reconocidas como semillas propias de algunos hongos.
 
 Los términos hongos y setas son equivalentes. Se pueden distinguir en tres partes principales en la seta típica con forma de sombrero: el sombrero, el himenio y el pie. Existen otras setas de forma mucho más rara.
 
@@ -738,7 +738,7 @@ Su valor nutritivo es poco, 1 Kg de setas aportan 400 calorías. Los níscalos o
 
 Los boletus también son diversos y su sabor mejora los guisos.
 
-La micología \<coger setas\> es una ciencia, es necesario conocer las distintas especies si se consumen. Alguna de las setas toxicas producen trastornos más o menos graves, algunas son alucinógenas y otras mortales. Desde la Antigüedad se han intentado distintos tratamientos para los envenenamientos por hongos. Está muy extendida la creencia, según la cual hacer hervir las setas sospechosas con sal y vinagre todos los posibles venenos debe desaparecer. No existen procedimientos culinarios que convierten comestible una seta venenosa. No se deben de comer si no se conocen
+La micología «coger setas» es una ciencia, es necesario conocer las distintas especies si se consumen. Alguna de las setas toxicas producen trastornos más o menos graves, algunas son alucinógenas y otras mortales. Desde la Antigüedad se han intentado distintos tratamientos para los envenenamientos por hongos. Está muy extendida la creencia, según la cual hacer hervir las setas sospechosas con sal y vinagre todos los posibles venenos debe desaparecer. No existen procedimientos culinarios que convierten comestible una seta venenosa. No se deben de comer si no se conocen
 
 ### 5.2. Líquenes
 

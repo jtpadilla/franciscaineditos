@@ -8,7 +8,7 @@ notas: "Relato en tres partes (la visita, el cortejo, la boda) sobre el noviazgo
 
 ## La visita
 
-Una de las plazas del pueblo donde antiguamente terminaba la muralla siempre se ha llamado \< la Plaçeta del Cap de Vila\>, es amplia, de ella salen cinco calles, tres que se internan en la población, la cuarta corta, sin salida, con tres viviendas en cada lado forma parte de la plaza es el \< *carrero de la Plaçeta*\> y la última de ellas da a la salida del pueblo hacia las afueras, donde están las eras y la carretera hacia dos poblaciones distintas y más alejadas, más frías y montañosas.
+Una de las plazas del pueblo donde antiguamente terminaba la muralla siempre se ha llamado «la Plaçeta del Cap de Vila», es amplia, de ella salen cinco calles, tres que se internan en la población, la cuarta corta, sin salida, con tres viviendas en cada lado forma parte de la plaza es el «*carrero de la Plaçeta*» y la última de ellas da a la salida del pueblo hacia las afueras, donde están las eras y la carretera hacia dos poblaciones distintas y más alejadas, más frías y montañosas.
 
 Decir el *Cap de Vila* da a entender que aunque el pueblo prácticamente es llano esta parte es la zona mas alta asi como decir el *Sol de Vila* indica que que es la zona del pueblo más baja, nada que ver cómo alguien piensa que es la más soleada, pues las dos calles son una misma que cruza todo el pueblo de este a oeste y se unen en la plaza de la *Vila* o del ayuntamiento.
 
@@ -16,7 +16,7 @@ En esta plaza del *Cap de Vila,* tiene su domicilio Gracia de Franxo y su madre 
 
 Madre e hija están conversando sobre la visita que esperan, pues es el día en que conocerán formalmente al padre de su prometido, pues aunque llevan tiempo de relaciones ahora es el momento de formalizarse y preparar la boda.
 
-Fidel el novio y su padre Bernardo del \<mas de Calduc\>, llegan a su casa anunciados por los golpes secos que producen las herraduras de las patas de sus cabalgaduras sobre las calles empedradas con morillo. Al llegar se hace el silencio, cuando descienden de la grupa les dan una palmada al lomo de los animales para que se tranquilicen mientras los sujetan por la brida, a las argollas, una en cada lado de la puerta, debajo de una de ellas hay un poyo donde lo mismo se utiliza para descansar que como ayuda para subir y sujetar la carga a las caballerías.
+Fidel el novio y su padre Bernardo del «mas de Calduc», llegan a su casa anunciados por los golpes secos que producen las herraduras de las patas de sus cabalgaduras sobre las calles empedradas con morillo. Al llegar se hace el silencio, cuando descienden de la grupa les dan una palmada al lomo de los animales para que se tranquilicen mientras los sujetan por la brida, a las argollas, una en cada lado de la puerta, debajo de una de ellas hay un poyo donde lo mismo se utiliza para descansar que como ayuda para subir y sujetar la carga a las caballerías.
 
 Después de las presentaciones suben a la vivienda, pues hay que concretar algunos temas, como la fecha del enlace para que pueda asistir toda la familia de la masía, esto tiene que ser en la primavera antes de que empiecen a recolectar la cosecha, y así participar todos los miembros de las dos familias, pues serán días ajetreados. Están los cuatro sentados en sillas de enea hablando alrededor del fuego, siempre encendido. Es la llama que da vida al hogar.
 
@@ -24,7 +24,7 @@ La masia de Calduc no está en el término del pueblo de Gracia sino al del lado
 
 Ella es hija de una familia labradora como la mayoría de los habitantes del pueblo, pues a parte de algunas casas acomodadas con buenas tierras, las demás propiedades son minifundios suficientes para vivir y poco más.
 
-Hace poco tiempo que han abierto y empezado a trabajar otra vez las fábricas cerradas durante un tiempo, son telares de ropa de trabajo como estambres, paños y también de fajas de abrigo, estas son las más numerosas. Todas las jóvenes del pueblo trabajan en alguna de estas fábricas, además de tener en casa un obrador con un telar artesanal que trajina la madre y así contribuye a la economía familiar Cuando se camina por las calles el sonido de los telares es inconfundible, una melodía armoniosa \<tric-trac -tric-trac\>que alguna tejedora adorna con su canto que todas conocen y hacen coro.
+Hace poco tiempo que han abierto y empezado a trabajar otra vez las fábricas cerradas durante un tiempo, son telares de ropa de trabajo como estambres, paños y también de fajas de abrigo, estas son las más numerosas. Todas las jóvenes del pueblo trabajan en alguna de estas fábricas, además de tener en casa un obrador con un telar artesanal que trajina la madre y así contribuye a la economía familiar Cuando se camina por las calles el sonido de los telares es inconfundible, una melodía armoniosa «tric-trac -tric-trac»que alguna tejedora adorna con su canto que todas conocen y hacen coro.
 
 Tota la nit canto i filo,  
 I encara no almonrast,  
@@ -57,9 +57,9 @@ En el invierno todos tienen que hacer. Durante la matanza, y también unos días
 
 En el inicio de la primavera hay que preparar la boda, Los novios vivirán con la madre de Gracia en su casa familiar en el pueblo, donde se tienen que hacer alguna reforma. Según la costumbre, el novio aporta al matrimonio los muebles, su ropa y un hermoso colchón confeccionado con la mejor lana de sus ovejas, en total 30 kilos o seis vellones, que en la masía lavan y cardan para que quede esponjosa.
 
-La novia, lleva tiempo bordando y preparando el ajuar, incluido también un colchón. Cuando la casa está preparada, es costumbre que la vean familiares y amigos, también se enseñan los regalos que han recibido entre los dos. Unas semanas antes de la fecha de la boda, la pareja de novios van personalmente a invitar a su boda a quien desean que asista, a este acto se llama \<donar confits, \> una vez han hecho la invitación, los novios les obsequian con un puñado de peladillas de almendra que elabora junto con turrón y dulce \<el confiter\> del pueblo, y les invitan a que vayan a ver su futura vivienda.
+La novia, lleva tiempo bordando y preparando el ajuar, incluido también un colchón. Cuando la casa está preparada, es costumbre que la vean familiares y amigos, también se enseñan los regalos que han recibido entre los dos. Unas semanas antes de la fecha de la boda, la pareja de novios van personalmente a invitar a su boda a quien desean que asista, a este acto se llama «donar confits,» una vez han hecho la invitación, los novios les obsequian con un puñado de peladillas de almendra que elabora junto con turrón y dulce «el confiter» del pueblo, y les invitan a que vayan a ver su futura vivienda.
 
-Preparar el banquete es lo mas importarte, lo primero hay que hacer la confitura para rellenar \<les coquetes o pastisets\>este dulce es de calabaza que se ha guardado desde el verano para que esté cuajada y seca, y junto con azúcar y miel en las medidas adecuadas, cocinarla y dejarla reposar unos días.
+Preparar el banquete es lo mas importarte, lo primero hay que hacer la confitura para rellenar «les coquetes o pastisets»este dulce es de calabaza que se ha guardado desde el verano para que esté cuajada y seca, y junto con azúcar y miel en las medidas adecuadas, cocinarla y dejarla reposar unos días.
 
 Para las dos familias es importante que todo salga bien. Como es lógico, debido a sus posibilidades, quien más aporta en la referente a los platos de carne es la familia de la masía, allí tienen cebada una oveja tierna para el guiso, conejos, los huevos que hagan falta, miel de sus colmenas, harina, y lo que sea necesario. Lucirse en una boda en tiempos de escasez es muy importante, pues si sale bien, se enteran en todo el pueblo, y eso es lo que quieren todos.
 

@@ -56,7 +56,7 @@ Està situada, aproximadament a dos km. al S del poble. També es va en process�
 
 Esta situada a dos km de i cap al OS de Cinctorres en la partida del Fontanal.
 
-Construïda per voluntat testamentaria dels cònjuges, Bernat Carbó i Ursola Celma \<.En 1570 a on cascun any va la processó i es parteix caritat en honor de Sant Marc evangelista.\>
+Construïda per voluntat testamentaria dels cònjuges, Bernat Carbó i Ursola Celma «.En 1570 a on cascun any va la processó i es parteix caritat en honor de Sant Marc evangelista.»
 
 És un edifici rectangular, amb coberta a dos aigües, de teula àrab,
 

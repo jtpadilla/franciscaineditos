@@ -6,7 +6,7 @@ notas: "Article per al butlletí de Cinctorres: la tòfona negra des dels sumeri
 
 # Història de la tòfona
 
-La tòfona negra que tots coneixem, és un fong desconegut per aquesta terra fins la dècada de 1960, en que es va començar a \<\<*buscar trufes* \>\> cosa que feien gent que venien de Catalunya i de manera furtiva les agafaven. D’aquesta manera vàrem saber que soterrat baix les carrasques dels nostres bancals, teníem un tresor amagat que la terra ens oferia, degut a que la tòfona, creix en terrenys calcaris formats en l’Era Secundaria, en particular del Període Juràssic i Cretàci, com és el terme de Cinctorres y la majoria de la comarca.
+La tòfona negra que tots coneixem, és un fong desconegut per aquesta terra fins la dècada de 1960, en que es va començar a «*buscar trufes*» cosa que feien gent que venien de Catalunya i de manera furtiva les agafaven. D’aquesta manera vàrem saber que soterrat baix les carrasques dels nostres bancals, teníem un tresor amagat que la terra ens oferia, degut a que la tòfona, creix en terrenys calcaris formats en l’Era Secundaria, en particular del Període Juràssic i Cretàci, com és el terme de Cinctorres y la majoria de la comarca.
 
 La tòfona sempre ha estat en totes les èpoques com ens demostra la seua Historia.
 

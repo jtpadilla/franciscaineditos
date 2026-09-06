@@ -16,7 +16,7 @@ Hola Vicent ha pensat que em portarà el meu germà Tadeo. Al volta’n de les 7
 
 ## Resposta a Manel
 
-Manel, moltes gràcies per les teues afectuoses paraules. També bare ser un dia important per a mi. Trobar la tomba de la teua avia, va ser una sorpresa inesperada per a tots, quan aniré al cementeri de Morella a visitar als nombrosos parents que tinc aleshores, també serà visita obligada \<La tia Maria \> con era pera nosaltres la teua avia.
+Manel, moltes gràcies per les teues afectuoses paraules. També bare ser un dia important per a mi. Trobar la tomba de la teua avia, va ser una sorpresa inesperada per a tots, quan aniré al cementeri de Morella a visitar als nombrosos parents que tinc aleshores, també serà visita obligada «La tia Maria» con era pera nosaltres la teua avia.
 
 Les poques hores que varem parlar en vam fer veure que ets un home de món, educat, reflexiu, que parla poc i escolta molt, que tot ho veus, preparat per tenir èxit en el teu treball i en la vida, con ha segut, i amb una esposa, Andrea, encantadora.
 

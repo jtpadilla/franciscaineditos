@@ -8,7 +8,7 @@ notas: "Su investigación sobre el linaje Polo de Bernabé, con el árbol geneal
 
 El linaje Polo en España se instaura con Raimon Polo, nieto de Richard Plantagenet Longsword y sobrino nieto de Ricardo Corazón de León, aunque la dinastía tiene su origen en Francia, en el condado de Anjou. En 1127 Godofredo de Anjou se caso con Matilde, hija única de rey Enrique I de Inglaterra.
 
-Raimon Polo, vino del ducado de Aquitania en 1193 sirviendo a Pedro II de Aragón, padre de Jaime I, por lo tanto el Reino de Valencia aun no existía. La casa solariega de los Polo se conoce desde 1232 en Anento, comunidad de Daroca, sus descendientes sirvieron a los reyes de la Corona de Aragón tomando parte en la conquista de Valencia con Jaime I, (En las trovas de mosén Jaume Febrer que narra la conquista de las tierras de Valencia, nombra a Martin Polo, era mesnadero,\< miembro de nobleza antigua,\> y recibió tierras en la conquistada Valencia.) Sus descendiente, siguieron en su casa solariega de Anento, como Pedro Polo de Entenza, y Martin Polo.
+Raimon Polo, vino del ducado de Aquitania en 1193 sirviendo a Pedro II de Aragón, padre de Jaime I, por lo tanto el Reino de Valencia aun no existía. La casa solariega de los Polo se conoce desde 1232 en Anento, comunidad de Daroca, sus descendientes sirvieron a los reyes de la Corona de Aragón tomando parte en la conquista de Valencia con Jaime I, (En las trovas de mosén Jaume Febrer que narra la conquista de las tierras de Valencia, nombra a Martin Polo, era mesnadero,«miembro de nobleza antigua,» y recibió tierras en la conquistada Valencia.) Sus descendiente, siguieron en su casa solariega de Anento, como Pedro Polo de Entenza, y Martin Polo.
 
 ![](img/image1.jpeg)
 

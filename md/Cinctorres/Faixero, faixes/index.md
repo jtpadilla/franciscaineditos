@@ -46,4 +46,4 @@ Joanet feie el mateix però ell anava cap a La Rioja. Entrava a l’Aragó per A
 
 Quan s’arriba a Cinctorres, en mig d’una plaça està la figura del faixero amb bronze, és un homenatge a tots els faixeros, als homes del poble que ”anaven pel mon” acostumats a fer camí calçats amb espardenyes pinyoneres, pantalon de pana o dril, faixa, jupetí i boina, amb un feix de faixes damunt de l’esquena i el pit subjectes amb una corretja per damunt del muscle. Sols falta que diga:
 
-*\<\<Faixero, faixes!\>\>*
+*«Faixero, faixes!»*
