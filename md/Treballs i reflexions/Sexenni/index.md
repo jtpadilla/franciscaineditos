@@ -50,7 +50,7 @@ Día 9.º, lunes: Por la Juventud moreliana.
 
 Dia 10.º, martes: Dedicado a los Difuntos de la ciudad.
 
-## CONTENIDO FOLKLÓRICO
+## Contenido folklórico
 
 Las danzas son ancestral expresión de popular y publica alegría. Cada danza debe tener en cuenta: su historia, motivo, objeto, y variaciones, Indumentaria, arreos, músicos, instrumentos musicales, partitura, ritmo y recital poético.
 
@@ -80,7 +80,7 @@ Grupo Cuarto: Zapateros y sastres.
 
 El Gremio de la Juventud con su danza de Les Gitanetes.
 
-## EL SEXENNI Y CASTELLÓN
+## El Sexenni y Castellón
 
 Con el traslado a Castellón en 195… de las fábricas de tejidos de Morella, fábrica de Querol, de Corcuera, de Amela, también vinieron muchos de sus empleados con sus familias algunos de sus hijos nacieron en Castellón formando una gran colonia.
 

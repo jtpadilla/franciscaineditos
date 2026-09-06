@@ -6,8 +6,6 @@ notas: "Texto del taller de Sabiduría masovera de CEVA (mayo 2019): origen de l
 
 # Las masías, origen y desarrollo
 
-SABIDURÍA MASOVERA. LAS MASÍAS, ORIGEN Y DESARROLLO.
-
 Los habitantes de la be ni Comarca dels Ports en el pasado, en el presente, y espero que en el futuro se han adaptan a todos los cambios.
 
 La agricultura y la ganadería nos llegan desde el Neolítico, pasando por iberos, celtas, romanos, vándalos, árabes, y cristianos hasta nuestros días. Siempre ha estada habitada y sus habitantes han sobrevivido de la tierra y su trabajo, como lo demuestra los restos arqueológicos hallados de distintas épocas, empezando por petroglifos en la dena de la Vespa, pinturas rupestres de Arte Levantino en la masía de Morella la Vella, tumbas neolíticas y de la Edad de Broce en la masía de les Solanesy molino del Sol y da la Vall, en la Mola de Muixacre utensilios i ruinas pétreas. La romanización puso en valor para la agricultura las tierras bajas. Se han encontrado, monedas, joyas y útiles domésticos romanos, y vestigios de un poblado ibero llamado Calduc de ahí el nombre de la sierra Calduc, así como distintas herramientas que se han utilizado hasta hace poco en los trabajos agrícolas…
@@ -24,7 +22,7 @@ La comarca fue repoblada por gentes de las sierras de Aragón, de los que se ada
 
 *Paquita Julián*
 
-## 1º TALLER DE SABIDURÍA MASOVERA
+## 1º Taller de Sabiduría masovera
 
 El dia 8 de Junio empezamos nuestra andadura. El tema escogido es recordar y hacer con leche de oveja cuajada de la forma tradicional o sea con el cuajo que produce los filamentos de la alcachofa de los cardos unas vez secados como se hace en las masías y también en los pueblos del interior de Castellón.
 

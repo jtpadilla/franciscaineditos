@@ -6,8 +6,6 @@ notas: "El mòbil i l'ordinador vistos per qui ha passat el mig segle. Firmat 20
 
 # Les noves tecnologies
 
-LES NOVES TENCNOLOGUIES.
-
 Els que hem creuat la barrera del mig segle, ni en somni pensarem tot el que ens quedava per aprendre. I quan creus que a nivell familiar i professional o has fot tot, t’adonés que no és així, i que la nostra generació és la del canvi.
 
 En la nostra infantesa i adolescència el que deien els nostres pares, era el que es feia sense cap discussió. El contrari era impensable.

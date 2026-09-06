@@ -6,7 +6,7 @@ notas: "Notas de sabiduría masovera: la luna y las labores, animales de carga, 
 
 # Fases de la luna y otros saberes del campo
 
-FASES DE LA LUNA
+## Fases de la luna
 
 ![](img/image1.jpg)
 
@@ -16,7 +16,7 @@ EN LUNA NUEVA O yo: sinónimo de crecer y prosperar
 
 Árboles hoja perenne. Ciprés, pino, naranjo, alcornoque, carrasca…
 
-## LUNA VIEJA O MENGUANTE
+## Luna vieja o menguante
 
 Árbol de hoja caduca podar y cortar los árboles, su madera es adecuada para muebles, instrumentos musicales, estatuas, aperos de labranza.
 
@@ -26,14 +26,14 @@ Ejemplos hoja caduca. Almendro, cerezo, nogal, ciruelo,…
 
 Limpiar fuentes y balsas así no se pierde el agua labrar en luna vieja aguanta más tiempo la sazón. y también la siembra de patatas
 
-## ANIMALES DE CARGA
+## Animales de carga
 
 De una yegua y un burro nace un matxo o una mula,  
 (somerins) híbridos  
 De una burra y un caballo nace también mula o mulo  
 (enatos) hibridos.
 
-## ANIMALES REPRODUCTORES
+## Animales reproductores
 
 Yegua y caballo una yeguada para mantener la raza.  
 Burro y burra mantener la raza.

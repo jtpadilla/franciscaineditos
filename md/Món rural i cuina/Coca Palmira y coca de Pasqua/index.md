@@ -6,7 +6,7 @@ notas: "Dos recetas: la coca de Palmira y la coca de Pasqua de Treme que hacía 
 
 # Coca Palmira y coca de Pasqua
 
-## COCA PALMIRA
+## Coca Palmira
 
 Por cada k. de harina 50 gr. de levadura.  
 Un vaso de aceite de girasol  
@@ -16,7 +16,7 @@ Harina la que admita, dejar reposar más de una hora y poner el relleno que se q
 
 También se puede poner anis en grano remojado con agua, un huevo batido encima, almendras, piñones, nueces y azúcar, la masa que este fina.
 
-## COCA DE PASQUA DE TREME que hacia la tia Josefina
+## Coca de Pasqua de Treme que hacia la tia Josefina
 
 EJEMPLO:  
 Dos huevos en un vaso.  

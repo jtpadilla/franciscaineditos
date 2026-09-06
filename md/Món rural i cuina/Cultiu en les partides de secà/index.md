@@ -6,8 +6,6 @@ notas: "Apunts breus sobre els cultius de secà i de reg de Castelló (garrofa, 
 
 # Cultiu en les partides de secà
 
-Cultiu en les partides de secá
-
 La garrofa. D’origen del Nord d’Àfrica o d’Asia Menor, reb el nom de “Kharub”. En el llibre d´Peites de 1398 ja es conten 602 fanecades de cultiu. La màxima producció en el s. XIX. i s. XX. Segons dades de la Càmara Sindical Agraria en 1974, encara se cultivaven 1760 fanecades, uns 254.000 K.
 
 L’Ametlla. És d’origen Asiatic Central i la van portar els àrabs.

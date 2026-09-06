@@ -16,7 +16,7 @@ A la cansalada s’ha de llevar la cona.
 
 La carn i cansalada per ha picar-la te que estar freda, i alternar les dos coses i així es mescla millor.
 
-## BLANQUETS
+## Blanquets
 
 Ingredients.  
 Magre de porc 30 %  
@@ -32,7 +32,7 @@ Pastar tots els ingredients fins aconseguir l’homogeneïtat de la pasta.
 
 Embotir en budell de porc i bullir a menys de 90 g 45- 60 minuts.
 
-## LLONGANISSES
+## Llonganisses
 
 Ingredients:  
 60 % de magre de poc.  
@@ -40,13 +40,13 @@ Ingredients:
 Especies sal, pebre, blanc y un punt de canella s’agrada.  
 Budell de porc gros, o de corder més finet.
 
-## TARMENA, MARINETA
+## Tarmena, Marineta
 
 S’elabora principalment amb cansalada de la papada de porc, la pasta és més fina que cap altre embotit.
 
 Les especies son sal, pebre roig dolç, y alls matxucat al gust. Mesclar l’especies amb un poquet de moscatell.
 
-## SOBRASSADA
+## Sobrassada
 
 Ingredients:  
 Magre de porc 40%  
@@ -56,7 +56,7 @@ Especies: sal, pebre roig, pebre negre, i clau, tot diluït amb brandi o bé mos
 
 Budell de porc d’intestí gros.
 
-## CHORIÇOS
+## Choriços
 
 50% magre de porc.  
 50% cansalada de panxeta o papada.
@@ -65,7 +65,7 @@ Pebre roig, pebre blanc i all matxucat al morter. Diluir amb brandi o vi.
 
 Budell de porc.
 
-## ALTRA FORMULA DEL LLIBRE DE LA GENERALITAT DE EMBUTITS ARTESANS. xorisos
+## Altra formula del llibre de la Generalitat de embutits artesans (xorisos)
 
 Condiments: Sal, pebre roig, orenga, alls, clau, canella, nou mosacada, i i brandi.
 

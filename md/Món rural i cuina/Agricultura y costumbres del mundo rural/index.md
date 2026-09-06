@@ -8,7 +8,7 @@ notas: "Su trabajo más extenso: la agricultura y los oficios del término de Ca
 
 ![](img/image1.jpeg)
 
-## 1. AGRICULTURA
+## 1. Agricultura
 
 Las condiciones de trabajo del campo y mundo rural están condicionadas por la climatología, la geografía, y su entorno vital. No es lo mismo un trabajador del campo de Castellón que en cualquier comarca del interior.
 
@@ -16,7 +16,7 @@ En zonas llanas de la Plana se utilizaban como animales de tiro la yegua o «àc
 
 El ritmo de trabajo, siempre es continuo, en todo tipo de cultivos se necesitan varias fases de trabajo, antes de recoger una cosecha del producto que sea, necesita diferentes cuidados. El campesino o labrador nunca termina, cada cultivo, es de una época diferente del año y su cuidado también. Una *fanecada* valenciana equivale a 831’0964m2, doce *fanecadas* son una hectárea o 10.000m2, un *quartó* equivale a nueve hanegadas.
 
-## 2. LAS PARTIDAS DE CASTELLÓN
+## 2. Las partidas de Castellón
 
 Diferentes partidas componen todo el conjunto del término de Castellón, su suelo y subsuelo determinan su uso para la agricultura de diferentes clases, o bien para el consumo del hombre y animales. Son tierras de:
 
@@ -102,7 +102,7 @@ Diferentes partidas componen todo el conjunto del término de Castellón, su sue
 
 En la partida de La Plana se encuentra la Basílica de la Vérge de LLedó, Durante las fiestas de La Magdalena y en las de la Virgen en el mes de Mayo, la persona que mueve la imagen y la pone en la peana es el labrador que ese año es *Perot de Granyana*. Honor que recae en un labrador que tenga tierras en la partida de La Plana o colindantes; Rafalafena, Taxida, Entrilles, Ramell y Fileta
 
-## 3. SISTEMA DE RIEGO
+## 3. Sistema de riego
 
 Los árabes fueron los que con gran pericia, en la provincia de Castellón utilizaron el riego por medo de acequias. Cuando Jaime I reconquista esta tierra, divide el agua del rio Mijares por su parte mas baja entre Burriana, Villareal, Almazora y Castellón, creando esta partición muchos problemas y rivalidad entre los cuatro pueblos. Fue el infante Pedro, hijo de Jaime II y de su esposa Blanca d’Anjou, quien el 20 de marzo de 1347 ciento cuatro años despues de la concesión de nuestra Carta Puebla, promulga la célebre Sentencia Arbitral que aún perdura con pequeñas modificaciones, que divide el agua del rio en 60 partes o filas, de las cuales catorce partes y media pertenecen a Castellón.
 
@@ -114,7 +114,7 @@ El encargado de vigilar su mantenimiento era un vecino de una de las alquerías 
 
 También era un lugar de recreo. En las fiestas de Agosto, ponían toldos sujetos entre dos árboles para hacer sombra, muchos eran vecinos de las alquerías lindantes de Almazora.
 
-## 4. CAMINO CAMINÁS Y DONACIÓ
+## 4. Camino Caminás y Donació
 
 El Caminàs o camino grande corre paralelo al mar, viene de tiempo inmemorial, como vía transitada antes de la dominación romana y de la construcción de la vía Augusta, recorría desde Villareal hacia Borriol y Tarragona de S a N como lo demuestra los diversos objetos encontrados en diversas excavaciones. Esta vía, está trazada en las cotas más altas y cruza las tierras más firmes.
 
@@ -132,7 +132,7 @@ A partir del camino Donació y Donacioneta a 2,50 km de la ciudad empieza la tie
 
 ![](img/image2.jpeg)
 
-## 5. ERMITAS EN LAS PARTIDAS DE CASTELLÓN
+## 5. Ermitas en las partidas de Castellón
 
 Las ermitas repartidas por las diferentes partidas de Castellón, cerradas al culto salvo en días de su fiesta, están construidas fuera del casco urbano en lugares simbólicos o estratégicos de reducidas dimensiones. En caso de que esta sea de mayores proporciones o de interés histórico se denomina ermitorio.
 
@@ -154,7 +154,7 @@ Sant Francés de la Font se encuentra en la partida de Cap. Su fiesta tiene luga
 
 También tuvieron sus fiestas propias las Ermitas del Salvador construida en 1782 en la partida de Benadressa, junto a la Rambla de la Viuda y la Ermita de la Virgen del Carmen construida en 1948 en la partida de l’Estepar, junto al Camí dels Palos. En esta ermita se celebra su fiesta el día 16 de julio o domingo inmediato posterior.
 
-## 6. EL CÁÑAMO
+## 6. El cáñamo
 
 Texto escrito por Cornelia Milhaji
 
@@ -258,7 +258,7 @@ Actualmente dado la decadencia del oficio, en el que trabajan escasos números d
 
 Enajenado dicho Huerto, desaparecerá el oficio de sogueros casi por completo en Castellón, cuyo Gremio tantísima importancia alcanzó en tiempos pretéritos. Recientemente antes de la última reforma urbana, en este recinto se levantó un monumento que recordaba al menadoret, el niño que ayudaba al filaor. En 1999 se reformó la plaza, se construyó un aparcamiento en el subsuelo y se instaló una escultura que recuerda el trabajo del cáñamo, que tantos años ocupó este espacio.
 
-## 7. EL NARANJO
+## 7. El naranjo
 
 Texto escrito por Tomas Sanmillan
 
@@ -552,7 +552,7 @@ Compra del producto
 
 La compra de la naranja a los propietarios de los huertos por parte de los comerciantes de los almacenes se realizaban, por medio de la figura del “corredor” persona que conocía generalmente a todos los dueños de los huertos de las partidas existentes en el pueblo y por supuesto sus domicilios; generalmente se presentaban en el domicilio del propietario a media-tarde noche para entablar conversaciones sobre la compra de la naranja y hacer el trato palabra que se denominaba “aferrar el preu” que consistía el cerrar el trato que podía ser “ a ull “ trato que tenía su truco dando un tira y afloja entre el corredor y el propietario porque cada uno tiraba para su arrimo, uno decía que tenía tantas arrobas y el otro que tenía menos hasta que llegaban al final del trato conviniendo las arrobas; lo bueno para el dueño del huerto era que se cobraba al contado. La otra era convenir el precio se vendían generalmente a tantos duros la arroba (la arroba valenciana son 12,78 kg
 
-## 8. EL ARROZ
+## 8. El arroz
 
 El arroz es un cereal que se siembra con agua, crece con aguas, se recolecta con agua y se cocina con agua.
 
@@ -616,7 +616,7 @@ Ahora todo esto un recuerdo, pero con mucha historia que no se debe olvidar.
 
 Durante la Guerra de Cuba finales del s. XIX los oficiales se dieron cuenta que los soldados de cuota que procedían de la zona de arrozales valencianas eran más inmunes a las enfermedades relacionadas con las zonas pantanosas como la fiebre amarilla, el paludismo y la disentería.
 
-## 9. EL ALGARROBO
+## 9. El algarrobo
 
 El origen del algarrobo es dudoso. Ciertos autores lo sitúan en el Norte de África, otros que proceden de Asia Menor. El aprovechamiento de los frutos se remonta a tiempos antiguos. Herodoto lo menciona como cultivado en Siria Jana y Rodas. Sin duda es un árbol de origen mediterráneo, en la Edad Media se extiende por este mar, difundiendo su nombre. “Kharub”.
 
@@ -684,7 +684,7 @@ El refranero popular dice: mal año de maíz, buen año de algarrobas.
 
 Y «guanyar-se les garrofes», quiere decir; ganarse la vida.
 
-## 10. LAS CAÑAS
+## 10. Las cañas
 
 Por todo el término de Castellón abunda la caña vulgar, en los cañaverales bordeando caminos, acequias, barrancos, y marcando lindes de muchas fincas o huertas, no se hicieron plantaciones regulares pero siempre fueron aprovechadas por los labradores. Tiene muchas aplicaciones relacionadas con diferentes cultivos y usos domésticos.
 
@@ -704,25 +704,25 @@ Con un trozo de caña se construye el mango de una zambomba. También perforando
 
 Actualmente lo más importante es el simbolismo que representa nuestro popular *rollo i canya* conocido por músicos y cantado por todos en nuestras fiestas. La caña es uno de nuestros símbolo, que repetimos una y otra vez en la Romeria apoyándonos en ella y en la processó de les canyes. Su nombre científico es *Arundo Donax*.
 
-## 11. LOS HERBEROS
+## 11. Los herberos
 
 ![](img/image11.jpeg)
 
 El cultivo que se practicó en Castellón, para después su venta en el mercado local fue la alfalfa, que se vendía mayoritariamente en verde para alimentar los animales de labor, casi siempre eran los labradores los que lo colectan y almacenan. Los *herberos* muy de mañana segaban la alfalfa con una hoz o *corbella,* hacían manojos o garbas, y con sus propios carros lo repartían a domicilio. La que sobraba lo apilaban en la plaza conocida como de la Herba junto al mercado Central y se vendía a su clientela habitual. A partir de principios de 1930 se trasladó su venta a la Plaza de Clavé, o Descarregador.
 
-## 12. LA SEDA
+## 12. La seda
 
 ![](img/image12.jpeg)
 
 También se intentó durante un tiempo el cultivo de moreras, pues con sus hojas alimentaban a los gusanos de seda, lo que dio lugar a una industria de hilaturas de seda, toda aquella producción se vendía a los tejedores valencianos. La época de mayor auge fue entre los siglos XVII Y XVIII.
 
-## 13. CAÑA DE AZÚCAR
+## 13. Caña de azúcar
 
 ![](img/image13.jpeg)
 
 Más tarde se introdujo el cultivo de la caña de azúcar o ”*canyamel*” como producto industrializable para obtener azúcar, pero por cuestiones climáticas y a pesar de tener un Ingenio al estilo americano, junto donde está ubicada la estación transformadora de electricidad de Hidrola en la carretera del Grao, la empresa fracasó y se cerró la industria.
 
-## 14. EL ALGODÓN
+## 14. El algodón
 
 En la partida de Entrilles en la parte alta junto a Taxida, Manuel Peris Escolar en los años 194… hasta principios de 1960 tenía cultivadas tres hanegadas de algodón (*Gossypium herbaceum*).
 
@@ -732,7 +732,7 @@ El clima era el adecuado, una temperatura no inferior a 14 ºC -20ºC para madur
 
 También tengo noticias que entre el camino la Molinera y camino Donación la familia Arrufat tenían 5 hanegadas de algodón, en el mismo lugar que anteriormente había naranjos que arrancaron probablemente debido a las heladas de 1946 cuyas temperatura bajo hasta los seis y siete grados bajo cero helando cosechas y los naranjos. Una de sus hijas me ha comentada que ella y sus hermanos en el año 1951 también ayudabas a ratos cogiendo las flores de algodón que ponían en sacos. Poco a poco dejo de cultivarse por su poca rentabilidad.
 
-## 15. EL HERRERO
+## 15. El herrero
 
 Un Herrero o Manya necesita sus manos, su fuerza y su habilidad para solucionar problemas relacionados con el hierro, y sus utensilios son; la Fragua, con el fuelle, el yunque, el martillo, las tenazas y alguna herramienta más. A fuerza de golpear en el yunque con el típico martillo en forma de bola o de cuña a un trozo de hierro que sujeta con unas tenazas, lo moldeaba a su antojo, pero para eso debe estar al rojo vivo por los brasas, que con el fuelle aviva en la fragua quemando carbón. Lo mismo arreglaba una herramienta agrícola rota, que hacia una reja u otros utensilios
 
@@ -844,7 +844,7 @@ Hoy, para ver trabajar un herrero tiene que ser en los lugares donde hay equinos
 
 ![](img/image16.jpeg)
 
-## 16. EL FAIXERO
+## 16. El faixero
 
 La comarca dels Ports es una tierra abrupta, con clima frio. En documentos fechados en 1817 ya se citan varias familias de tejedores. Desde principio del s.XX se incorporan las fabricas textiles de fajas y alforjas, que exportan por toda España sus productos, y una manera de hacerlo era por medio de hombres llamados” *Faixeros*“. Estos hombres recorrían toda España, cada uno tenía su itinerario que los demás respetaban, salían del pueblo primero con mulos andando, después en bicicleta, el género lo mandaban por ferrocarril a diferentes lugares de su recorrido, y cuando les hacia falta genero repostaban Su época de trabajo era desde finales de Agosto cuando los cereales ya se han recolectado hasta Navidad, en que todos regresaban a su casa para empezar otra vez el trabajo agrícola, esta era una manera de compaginar las tareas del campo. Las mujeres más jóvenes iban a trabajar a las fábricas y en casi todas las casas del pueblo había un obrador donde se tejía de forma manual todo el proceso.
 
@@ -872,7 +872,7 @@ También en la Plaza de la Pescadería nº 7 había hasta hace poco un estableci
 
 El último Faixero ambulante que he conocido, era de Cinctorres, vivía en Castellón a partir de 1952, vendía su mercancía en todos los mercados semanales de los pueblos de alrededor, y también en el mercado del lunes hasta su jubilación, se llamaba Agustín Martí Troncho.
 
-## 17. ALIMENTACIÓN
+## 17. Alimentación
 
 Una de los trabajos más elementales para la subsistencia es la alimentación que se obtiene mezclando lo que nos da la tierra y el mar.
 
@@ -890,7 +890,7 @@ Las recetas de cocina más elaboradas solo se consumían en días señalados Fie
 
 El turrón de *guirlatxe* y *Pilotes de Nadal* para estas fechas, en cuaresma el bacalao era el rey, la tortilla con habas para almorzar en la Magdalena, cacahuetes, altramuces, la longaniza de Pascua etc… En las Fiestas de Agosto no podía faltar la paella con pato, y sin olvidar la *rua o bocadillo* con la que crecimos muchos de nosotros, que se comía en casa y en la calle con los amigos mientras se descansaba del juego.
 
-## 18. BIBLIOGRAFIA
+## 18. Bibliografia
 
 Francés Camus, Josep Miquel. Les ermites del Caminàs. Ayuntamiento de Castellón. Castellón 1989.
 

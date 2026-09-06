@@ -6,7 +6,7 @@ notas: "Receta de coquetes con confitura de calabaza, con diez fotos del proceso
 
 # Coquetes y confitura
 
-## INGREDIENTES
+## Ingredientes
 
 Un cuarto de litro de aguardiente con la mezcla que ponen en el pueblo.
 
@@ -27,7 +27,7 @@ De cada parte de masa en forma de bola que se aplana sale una coqueta, según el
 
 ![](img/image2.jpg)
 
-## CONFITURA
+## Confitura
 
 Calabaza pelada y partida a trozos. Picada y escurrirla un tiempo con peso encima. Según su peso se cuece con la misma cantidad de dulce, mitad miel y mitad azúcar. Cocerla, revolviendo sin parar hasta que espese y se caramelice.
 
