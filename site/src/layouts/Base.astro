@@ -58,7 +58,7 @@ const ogAlt = lang === 'ca' ? 'Una boda a Cinctorres cap a 1940, davant de la ca
   <footer class="peu"><div class="cap">
     <p class="avis-peu">{T.peu[lang]} <a href={SITE.repositori}>{T.repositori[lang]}</a>.</p>
     <p class="lbl">{T.altresLlocs[lang]}</p>
-    <ul>{GERMANS.map((g) => <li><a href={g.url}>{g.nom}</a> <span>— {g.desc[lang]}</span></li>)}</ul>
+    <ul>{GERMANS.map((g) => <li><a href={g.url[lang]}>{g.nom}</a> <span>— {g.desc[lang]}</span></li>)}</ul>
   </div></footer>
   <dialog class="visor" aria-label="Imatge ampliada">
     <figure style="margin:0"><img alt="" /><figcaption></figcaption></figure>

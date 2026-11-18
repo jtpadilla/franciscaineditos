@@ -91,12 +91,17 @@ export const T = {
   repositori: { ca: 'Repositori', es: 'Repositorio' },
 };
 
+// Los otros sitios de la familia. `url` por idioma: la portada y Rambla Celumbres tienen el valenciano
+// bajo /ca/ y el castellano en la raíz; los demás tienen un solo idioma.
+const tots = (u: string) => ({ ca: u, es: u });
 export const GERMANS = [
-  { nom: 'Francisca Julián Querol', url: 'https://franciscajulianquerol.es/', desc: { ca: 'l’índex de tots els llocs', es: 'el índice de todos los sitios' } },
-  { nom: 'Les meues coses', url: 'https://jtpadilla.github.io/lesmeuescoses/', desc: { ca: 'el blog, 2010–2026', es: 'el blog, 2010–2026' } },
-  { nom: 'Masos de Morella', url: 'https://jtpadilla.github.io/masosdemorella/', desc: { ca: 'el llibre dels Llivis', es: 'el libro dels Llivis' } },
-  { nom: 'Rambla Celumbres', url: 'https://ramblacelumbres.org/', desc: { ca: 'la biodiversitat de la rambla', es: 'la biodiversidad de la rambla' } },
-  { nom: 'Sant Joans', url: 'https://jtpadilla.github.io/santjoans/', desc: { ca: 'el paviment ceràmic de la casa', es: 'el pavimento cerámico de la casa' } },
+  { nom: 'Francisca Julián Querol', url: { ca: 'https://franciscajulianquerol.es/ca/', es: 'https://franciscajulianquerol.es/' }, desc: { ca: 'l’índex de tots els llocs', es: 'el índice de todos los sitios' } },
+  { nom: 'Charcutería Padilla', url: tots('https://jtpadilla.github.io/charcuteriapadilla/'), desc: { ca: 'les receptes de Juan Padilla Agut', es: 'las recetas de Juan Padilla Agut' } },
+  { nom: 'Les meues coses', url: tots('https://jtpadilla.github.io/lesmeuescoses/'), desc: { ca: 'el blog, 2010–2026', es: 'el blog, 2010–2026' } },
+  { nom: 'Masos de Morella', url: tots('https://jtpadilla.github.io/masosdemorella/'), desc: { ca: 'el llibre dels Llivis', es: 'el libro dels Llivis' } },
+  { nom: 'Paviment ceràmic de la casa Santjoans', url: tots('https://jtpadilla.github.io/santjoanslibro/'), desc: { ca: 'el llibre de l’estudi, 2010', es: 'el libro del estudio, 2010' } },
+  { nom: 'Rambla Celumbres', url: { ca: 'https://ramblacelumbres.org/ca/', es: 'https://ramblacelumbres.org/' }, desc: { ca: 'la biodiversitat de la rambla', es: 'la biodiversidad de la rambla' } },
+  { nom: 'Sant Joans', url: tots('https://santjoans.es/'), desc: { ca: 'el visor del paviment ceràmic de la casa', es: 'el visor del pavimento cerámico de la casa' } },
 ];
 
 export const url = (lang: Lang, ruta = '') => `${BASE}/${lang === 'es' ? 'es/' : ''}${ruta ? ruta.replace(/^\/|\/$/g, '') + '/' : ''}`;
